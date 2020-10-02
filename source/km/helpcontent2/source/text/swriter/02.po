@@ -1,21 +1,19 @@
-#. extracted from helpcontent2/source/text/swriter/02
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
-"POT-Creation-Date: 2020-09-28 11:22+0200\n"
-"PO-Revision-Date: 2017-11-22 14:55+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
-"Language-Team: Khmer <support@khmeros.info>\n"
+"POT-Creation-Date: 2020-03-10 13:36+0100\n"
+"PO-Revision-Date: 2020-09-13 22:31+0700\n"
+"Last-Translator: Koompi Apps Localization\n"
 "Language: km\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Accelerator-Marker: ~\n"
-"X-Generator: LibreOffice\n"
-"X-Language: km-KH\n"
-"X-POOTLE-MTIME: 1511362526.000000\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-POOTLE-MTIME: 1535975854.000000\n"
+"Language-Team: KOOMPI Apps Localization\n"
 
 #. SGjBV
 #: 02110000.xhp
@@ -78,7 +76,7 @@ msgctxt ""
 "par_id3147549\n"
 "help.text"
 msgid "<link href=\"text/shared/01/06050000.xhp\" name=\"Bullets and Numbering\">Bullets and Numbering</link>"
-msgstr "<link href=\"text/shared/01/06050000.xhp\" name=\"Numbering/Bullets\">ចំណុច និង លេខរៀង</link>"
+msgstr "<link href=\"text/shared/01/06050000.xhp\" name=\"Bullets and Numbering\"> ចំណុចនិងលេខ </link>"
 
 #. fvgps
 #: 03210000.xhp
@@ -114,7 +112,7 @@ msgctxt ""
 "par_id3145244\n"
 "help.text"
 msgid "<image src=\"cmd/sc_chainframes.png\" id=\"img_id3148771\" width=\"1cm\" height=\"1cm\"><alt id=\"alt_id3148771\">Icon Link Frames</alt></image>"
-msgstr ""
+msgstr "<image src=\"cmd/sc_chainframes.png\" id=\"img_id3148771\" width=\"1cm\" height=\"1cm\"><alt id=\"alt_id3148771\"> រូបតំណាងតំណភ្ជាប់ស៊ុម </alt></image>"
 
 #. kcF9p
 #: 03210000.xhp
@@ -321,7 +319,7 @@ msgctxt ""
 "par_id3155896\n"
 "help.text"
 msgid "<image src=\"cmd/sc_tablemodefix.png\" id=\"img_id3155903\" width=\"1cm\" height=\"1cm\"><alt id=\"alt_id3155903\">Icon Table: Fixed</alt></image>"
-msgstr ""
+msgstr "<image src=\"cmd/sc_tablemodefix.png\" id=\"img_id3155903\" width=\"1cm\" height=\"1cm\"><alt id=\"alt_id3155903\"> រូបតំណាងតារាង: ថេរ </alt></image>"
 
 #. aRzgG
 #: 04220000.xhp
@@ -366,7 +364,7 @@ msgctxt ""
 "par_id3145087\n"
 "help.text"
 msgid "<image src=\"cmd/sc_tablemodefixprop.png\" id=\"img_id3156378\" width=\"1cm\" height=\"1cm\"><alt id=\"alt_id3156378\">Icon Table: Fixed, Proportional</alt></image>"
-msgstr ""
+msgstr "<image src=\"cmd/sc_tablemodefixprop.png\" id=\"img_id3156378\" width=\"1cm\" height=\"1cm\"><alt id=\"alt_id3156378\"> រូបតំណាងតារាង: ថេរសមាមាត្រ </alt></image>"
 
 #. nSBPn
 #: 04230000.xhp
@@ -411,7 +409,7 @@ msgctxt ""
 "par_id3145415\n"
 "help.text"
 msgid "<image src=\"cmd/sc_tablemodevariable.png\" id=\"img_id3156375\" width=\"1cm\" height=\"1cm\"><alt id=\"alt_id3156375\">Icon Table: Variable</alt></image>"
-msgstr ""
+msgstr "<image src=\"cmd/sc_tablemodevariable.png\" id=\"img_id3156375\" width=\"1cm\" height=\"1cm\"><alt id=\"alt_id3156375\"> រូបតំណាងតារាង៖ អថេរ </alt></image>"
 
 #. 6EZas
 #: 04240000.xhp
@@ -519,7 +517,7 @@ msgctxt ""
 "par_id3151177\n"
 "help.text"
 msgid "<image src=\"cmd/sc_removebullets.png\" id=\"img_id3145083\" width=\"1cm\" height=\"1cm\"><alt id=\"alt_id3145083\">Icon Numbering Off</alt></image>"
-msgstr ""
+msgstr "<image src=\"cmd/sc_removebullets.png\" id=\"img_id3145083\" width=\"1cm\" height=\"1cm\"><alt id=\"alt_id3145083\"> រូបតំណាងលេខរៀងបានបិទ </alt></image>"
 
 #. tfm6a
 #: 06040000.xhp
@@ -699,7 +697,7 @@ msgctxt ""
 "par_id3145083\n"
 "help.text"
 msgid "<image src=\"cmd/sc_moveupsubitems.png\" id=\"img_id3156375\" width=\"1cm\" height=\"1cm\"><alt id=\"alt_id3156375\">Icon Move Up with Subpoints</alt></image>"
-msgstr ""
+msgstr "<image src=\"cmd/sc_moveupsubitems.png\" id=\"img_id3156375\" width=\"1cm\" height=\"1cm\"><alt id=\"alt_id3156375\"> រូបតំណាងផ្លាស់ទីឡើងលើជាមួយចំណុចរង </alt></image>"
 
 #. QBCGp
 #: 06120000.xhp
@@ -744,7 +742,7 @@ msgctxt ""
 "par_id3145086\n"
 "help.text"
 msgid "<image src=\"cmd/sc_movedownsubitems.png\" id=\"img_id3156377\" width=\"1cm\" height=\"1cm\"><alt id=\"alt_id3156377\">Icon Move Down with Subpoints</alt></image>"
-msgstr ""
+msgstr "<image src=\"cmd/sc_movedownsubitems.png\" id=\"img_id3156377\" width=\"1cm\" height=\"1cm\"><alt id=\"alt_id3156377\"> រូបតំណាងផ្លាស់ទីចុះក្រោមជាមួយចំណុចរង </alt></image>"
 
 #. XsMtS
 #: 06130000.xhp
@@ -789,7 +787,7 @@ msgctxt ""
 "par_id3145082\n"
 "help.text"
 msgid "<image src=\"cmd/sc_numberingstart.png\" id=\"img_id3145089\" width=\"1cm\" height=\"1cm\"><alt id=\"alt_id3145089\">Icon Restart Numbering</alt></image>"
-msgstr ""
+msgstr "<image src=\"cmd/sc_numberingstart.png\" id=\"img_id3145089\" width=\"1cm\" height=\"1cm\"><alt id=\"alt_id3145089\"> រូបតំណាងចាប់ផ្តើមលេខរៀងឡើងវិញ </alt></image>"
 
 #. dPfnv
 #: 06140000.xhp
@@ -816,7 +814,7 @@ msgctxt ""
 "hd_id3145241\n"
 "help.text"
 msgid "Page Number"
-msgstr ""
+msgstr "លេខ​ទំព័រ"
 
 #. JTxYv
 #: 08010000.xhp
@@ -825,7 +823,7 @@ msgctxt ""
 "par_id3151184\n"
 "help.text"
 msgid "<ahelp hid=\".uno:StatePageNumber\">The current page number is displayed in this field of the status bar. A click opens \"Go to Page\", with which you can navigate in the document. A right-click shows all bookmarks in the document. Click a bookmark to position the text cursor at the bookmark location.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".uno:StatePageNumber\"> លេខទំព័របច្ចុប្បន្នត្រូវបានបង្ហាញនៅក្នុងប្រអប់នៃស្ថានភាពនេះ។ ការចុចចុចបើក \"ទៅកាន់ទំព័រ \" ដែលអ្នកអាចរុករកក្នុងឯកសារ។ ការចុចកណ្តុរស្តាំបង្ហាញកន្លែងចំណាំទាំងអស់នៅក្នុងឯកសារ។ ចុចកន្លែងចំណាំដើម្បីដាក់ទស្សន៍ទ្រនិចអត្ថបទត្រង់ទីតាំងចំណាំ។ </ahelp>"
 
 #. BinAk
 #: 08010000.xhp
@@ -942,7 +940,7 @@ msgctxt ""
 "par_id3154572\n"
 "help.text"
 msgid "<image src=\"cmd/sc_zoomin.png\" id=\"img_id3155895\" width=\"1cm\" height=\"1cm\"><alt id=\"alt_id3155895\">Icon Zoom In</alt></image>"
-msgstr ""
+msgstr "<image src=\"cmd/sc_zoomin.png\" id=\"img_id3155895\" width=\"1cm\" height=\"1cm\"><alt id=\"alt_id3155895\"> រូបតំណាងពង្រីកចូល </alt></image>"
 
 #. pBveG
 #: 10010000.xhp
@@ -1023,7 +1021,7 @@ msgctxt ""
 "par_id3145244\n"
 "help.text"
 msgid "<ahelp hid=\"HID_PVIEW_ZOOM_LB\">Determines the zoom level of the print preview.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"HID_PVIEW_ZOOM_LB\"> កំណត់កម្រិតពង្រីកនៃការមើលព្រីន។ </ahelp>"
 
 #. KSNCT
 #: 10050000.xhp
@@ -1032,7 +1030,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Two Pages Preview"
-msgstr ""
+msgstr "ការមើលទំព័រពីរជាមុន"
 
 #. 2Fm6C
 #: 10050000.xhp
@@ -1041,7 +1039,7 @@ msgctxt ""
 "hd_id3145822\n"
 "help.text"
 msgid "<link href=\"text/swriter/02/10050000.xhp\" name=\"Two Pages Preview\">Two Pages Preview</link>"
-msgstr ""
+msgstr "<link href=\"text/swriter/02/10050000.xhp\" name=\"Two Pages Preview\"> ការមើលទំព័រពីរជាមុន </link>"
 
 #. JbPBQ
 #: 10050000.xhp
@@ -1050,7 +1048,7 @@ msgctxt ""
 "par_id3154504\n"
 "help.text"
 msgid "<ahelp hid=\".uno:ShowTwoPages\" visibility=\"visible\">Displays two pages in the Print Preview window.</ahelp> Uneven numbers will always appear on the right side, even numbers on the left."
-msgstr ""
+msgstr "<ahelp hid=\".uno:ShowTwoPages\" visibility=\"visible\"> បង្ហាញទំព័រចំនួនពីរនៅក្នុងបង្អួចមើលការបោះពុម្ព។ </ahelp> លេខមិនស្មើគ្នានឹងលេចឡើងនៅផ្នែកខាងស្តាំសូម្បីតែលេខនៅខាងឆ្វេង។"
 
 #. 5xzpi
 #: 10050000.xhp
@@ -1059,7 +1057,7 @@ msgctxt ""
 "par_id3149292\n"
 "help.text"
 msgid "<image src=\"cmd/sc_showtwopages.png\" id=\"img_id3151170\" width=\"1cm\" height=\"1cm\"><alt id=\"alt_id3151170\">Icon Two Pages Preview</alt></image>"
-msgstr ""
+msgstr "<image src=\"cmd/sc_showtwopages.png\" id=\"img_id3151170\" width=\"1cm\" height=\"1cm\"><alt id=\"alt_id3151170\"> រូបតំណាងទំព័រពីរមើលជាមុន </alt></image>"
 
 #. tb5KW
 #: 10050000.xhp
@@ -1068,7 +1066,7 @@ msgctxt ""
 "par_id3151168\n"
 "help.text"
 msgid "Two Pages Preview"
-msgstr ""
+msgstr "ការមើលទំព័រពីរជាមុន"
 
 #. exrVU
 #: 10070000.xhp
@@ -1077,7 +1075,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Multiple Pages Preview"
-msgstr ""
+msgstr "ការមើលទំព័រជាច្រើន"
 
 #. NhuBC
 #: 10070000.xhp
@@ -1104,7 +1102,7 @@ msgctxt ""
 "par_id3149805\n"
 "help.text"
 msgid "Multiple Pages Preview"
-msgstr ""
+msgstr "ការមើលទំព័រជាច្រើន"
 
 #. PnAup
 #: 10070000.xhp
@@ -1113,7 +1111,7 @@ msgctxt ""
 "par_id3154573\n"
 "help.text"
 msgid "After clicking the <emph>Multiple Pages Preview</emph> icon, the<emph> Multiple pages</emph> dialog opens. Use the two spin buttons to set the number of pages to be displayed."
-msgstr ""
+msgstr "បន្ទាប់ពីចុចប៊ូតុង <emph> ការមើលទំព័រជាច្រើន </emph> រូបតំណាង <emph> ទំព័រច្រើន </emph> ប្រអប់បើក។ ប្រើប៊ូតុងបង្កើនបន្ថយពីរដើម្បីកំណត់ចំនួនទំព័រដែលត្រូវបង្ហាញ។"
 
 #. F9TJ2
 #: 10070000.xhp
@@ -1158,7 +1156,7 @@ msgctxt ""
 "par_id3149822\n"
 "help.text"
 msgid "The settings you choose in the dialog can also be set using the mouse: Click the arrow next to the <emph>Multiple Pages Preview</emph> icon. Now move the mouse over the desired number of rows and columns."
-msgstr ""
+msgstr "ការកំណត់ដែលអ្នកជ្រើសរើសក្នុងប្រអប់ក៏អាចត្រូវបានកំណត់ដោយប្រើកណ្តុរ៖ ចុចព្រួញនៅជាប់ <emph> ការមើលទំព័រជាច្រើន </emph> រូបតំណាង។ ឥឡូវផ្លាស់ទីកណ្តុរលើចំនួនជួរដេកនិងជួរឈរដែលចង់បាន។"
 
 #. fn4C8
 #: 10080000.xhp
@@ -1167,7 +1165,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Book preview"
-msgstr "ទិដ្ឋភាព​សៀវភៅ"
+msgstr "ទិដ្ឋភាព​សៀវភ"
 
 #. q8XNf
 #: 10080000.xhp
@@ -1194,7 +1192,7 @@ msgctxt ""
 "par_idN1054C\n"
 "help.text"
 msgid "<ahelp hid=\".\">Select to display the first page on the right side in the print preview.</ahelp> If not selected, the first page is displayed on the left side of the preview."
-msgstr ""
+msgstr "<ahelp hid=\".\"> ជ្រើសដើម្បីបង្ហាញទំព័រដំបូងនៅផ្នែកខាងស្តាំក្នុងការមើលព្រីន។ </ahelp> ប្រសិនបើមិនបានជ្រើសរើសទំព័រដំបូងត្រូវបានបង្ហាញនៅផ្នែកខាងឆ្វេងនៃការមើលជាមុន។"
 
 #. hDfSR
 #: 10080000.xhp
@@ -1212,7 +1210,7 @@ msgctxt ""
 "par_idN10614\n"
 "help.text"
 msgid "Book Preview"
-msgstr "ទិដ្ឋភាព​សៀវភៅ"
+msgstr "ទិដ្ឋភាព​សៀវភ"
 
 #. EyfbL
 #: 10090000.xhp
@@ -1257,7 +1255,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Cell Reference"
-msgstr "សេចក្តី​យោង​ក្រឡា"
+msgstr "សេចក្តី​យោង​ក្រឡ"
 
 #. XPfpr
 #: 14010000.xhp
@@ -1286,14 +1284,14 @@ msgctxt ""
 msgid "Formula"
 msgstr "រូបមន្ត"
 
-#. utFBz
+#. vYCuk
 #: 14020000.xhp
 msgctxt ""
 "14020000.xhp\n"
 "bm_id3149687\n"
 "help.text"
-msgid "<bookmark_value>formulas; in text documents</bookmark_value><bookmark_value>operators; in table formulas</bookmark_value><bookmark_value>statistical functions in tables</bookmark_value><bookmark_value>mathematical functions in tables</bookmark_value><bookmark_value>trigonometric functions in tables</bookmark_value><bookmark_value>pages;number of pages in table formulas</bookmark_value><bookmark_value>variables;document properties in table formulas</bookmark_value><bookmark_value>arithmetical operators in formulas</bookmark_value>"
-msgstr ""
+msgid "<bookmark_value>operators; in formulas</bookmark_value><bookmark_value>statistical functions</bookmark_value><bookmark_value>trigonometric functions</bookmark_value><bookmark_value>pages;number of</bookmark_value><bookmark_value>variables;document properties</bookmark_value><bookmark_value>arithmetical operators in formulas</bookmark_value>"
+msgstr "<bookmark_value>ប្រមាណវិធី; ក្នុង​រូបមន្ត</bookmark_value><bookmark_value>អនុគមន៍​ស្ថិតិ</bookmark_value><bookmark_value>អនុគមន៍​ត្រីកោណមាត្រ\\</bookmark_value><bookmark_value>ទំព័រ;លេខ​នៃ</bookmark_value><bookmark_value>អថេរ;លក្ខណៈសម្បត្តិ​ឯកសារ</bookmark_value><bookmark_value>ប្រមាណវិធីនព្វន្ត​នៅ​ក្នុង​រូបមន្ត</bookmark_value>"
 
 #. piUZw
 #: 14020000.xhp
@@ -1311,7 +1309,7 @@ msgctxt ""
 "par_id3143270\n"
 "help.text"
 msgid "<ahelp hid=\".\">Opens a submenu, from which you can insert a formula into the cell of a table.</ahelp> Place the cursor in a cell in the table or at the position in the document where you want the result to appear. Click the<emph> Formula </emph>icon and choose the desired formula from the submenu."
-msgstr ""
+msgstr "<ahelp hid=\".\"> បើកម៉ឺនុយរងដែលអ្នកអាចបញ្ចូលរូបមន្តទៅក្នុងក្រឡារបស់តារាង។ </ahelp> ដាក់ទស្សន៍ទ្រនិចក្នុងក្រឡាក្នុងតារាងឬនៅទីតាំងក្នុងឯកសារដែលអ្នកចង់ ឲ្យ លទ្ធផលបង្ហាញ។ ចុចលើប៊ូតុង <emph> រូបមន្ត </emph> រូបតំណាងហើយជ្រើសរើសរូបមន្តដែលចង់បានពីម៉ឺនុយរង។"
 
 #. 5x7iX
 #: 14020000.xhp
@@ -1322,32 +1320,14 @@ msgctxt ""
 msgid "The formula appears in the input line. To specify a range of cells in a table, select the desired cells with the mouse. The corresponding cell references also appear in the input line. Enter additional parameters, as necessary, and click <emph>Apply</emph> to confirm your entry. You can also enter the formula directly if you know the appropriate syntax. This is necessary, for example, in the <link href=\"text/swriter/01/04090000.xhp\" name=\"Insert Fields\"><emph>Insert Fields</emph></link> and <emph>Edit Fields</emph> dialogs."
 msgstr "រូបមន្ត​លេចឡើង​ក្នុង​បន្ទាត់​បញ្ចូល ។ ដើម្បី​បញ្ជាក់​​ជួរ​ក្រឡា​ក្នុង​តារាង​មួយ ជ្រើស​ក្រឡា​ដែល​ចង់​បាន​ដោយ​ប្រើ​កណ្តុរ ។ សេចក្តី​យោង​ក្រឡា​ដែល​ទាក់ទង ក៏​លេចឡើង​ផង​ដែរ​ក្នុង​បន្ទាត់​បញ្ចូល ។ បើ​ចាំបាច់ បញ្ចូល​ប៉ារ៉ាម៉ែត្រ​បន្ថែម និង​​ ចុច <emph>អនុវត្ត</emph> ដើម្បី​អះអាង​ការ​បញ្ចូល​របស់​អ្នក ។ អ្នក​ក៏​អាច​បញ្ចូល​រូបមន្ត​ដោយ​ផ្ទាល់ ប្រសិន​បើ​អ្នក​ដឹង​​វាក្យ​សម្ពន្ធ​បាន​ត្រឹមត្រូវ ។ នេះ​ជា​ការ​ចាំបាច់ ឧទាហរណ៍ ក្នុង​ប្រអប់ <link href=\"text/swriter/01/04090000.xhp\" name=\"Insert Fields\"><emph>បញ្ចូល​វាល​</emph></link> និង <emph>កែសម្រួលវាល</emph> ។"
 
-#. fdG9Y
-#: 14020000.xhp
-msgctxt ""
-"14020000.xhp\n"
-"par_id621599564033048\n"
-"help.text"
-msgid "With the cursor in a table, press <keycode>F2</keycode>"
-msgstr ""
-
-#. NdBeD
-#: 14020000.xhp
-msgctxt ""
-"14020000.xhp\n"
-"par_id101599562003431\n"
-"help.text"
-msgid "In the Table toolbar, press the <emph>Formula</emph> icon."
-msgstr ""
-
-#. cgzyx
+#. hEuvw
 #: 14020000.xhp
 msgctxt ""
 "14020000.xhp\n"
 "par_id3155142\n"
 "help.text"
-msgid "<image id=\"img_id3155148\" src=\"sw/res/sc20556.png\" width=\"1cm\" height=\"1cm\"><alt id=\"alt_id3155148\">Formula icon in Table toolbar</alt></image>"
-msgstr ""
+msgid "<image id=\"img_id3155148\" src=\"sw/res/sc20556.png\" width=\"0.222inch\" height=\"0.222inch\"><alt id=\"alt_id3155148\">Icon</alt></image>"
+msgstr "<image id=\"img_id3155148\" src=\"sw/res/sc20556.png\" width=\"0.222inch\" height=\"0.222inch\"><alt id=\"alt_id3155148\"> រូបតំណាង </alt></image>"
 
 #. DbZyc
 #: 14020000.xhp
@@ -1375,33 +1355,6 @@ msgctxt ""
 "help.text"
 msgid "Basic Calculation Functions"
 msgstr "អនុគមន៍​គណនា​មូលដ្ឋាន"
-
-#. E8BRA
-#: 14020000.xhp
-msgctxt ""
-"14020000.xhp\n"
-"par_id221599495805480\n"
-"help.text"
-msgid "Operation"
-msgstr ""
-
-#. 7KcQ9
-#: 14020000.xhp
-msgctxt ""
-"14020000.xhp\n"
-"par_id641599495805481\n"
-"help.text"
-msgid "Name"
-msgstr ""
-
-#. QywKU
-#: 14020000.xhp
-msgctxt ""
-"14020000.xhp\n"
-"par_id121599495851064\n"
-"help.text"
-msgid "Example"
-msgstr ""
 
 #. 6VYWD
 #: 14020000.xhp
@@ -1538,33 +1491,6 @@ msgctxt ""
 msgid "Basic Functions in the Submenu"
 msgstr "\"អនុគមន៍​មូលដ្ឋាន\" ក្នុង​ម៉ឺនុយ​រង"
 
-#. xt4uW
-#: 14020000.xhp
-msgctxt ""
-"14020000.xhp\n"
-"par_id121599495989098\n"
-"help.text"
-msgid "Function"
-msgstr ""
-
-#. T7Ybo
-#: 14020000.xhp
-msgctxt ""
-"14020000.xhp\n"
-"par_id901599495989100\n"
-"help.text"
-msgid "Name"
-msgstr ""
-
-#. 2fE5r
-#: 14020000.xhp
-msgctxt ""
-"14020000.xhp\n"
-"par_id501599496006870\n"
-"help.text"
-msgid "Example"
-msgstr ""
-
 #. KwSwL
 #: 14020000.xhp
 msgctxt ""
@@ -1574,6 +1500,15 @@ msgctxt ""
 msgid "Sum"
 msgstr "បូក"
 
+#. 4zUcf
+#: 14020000.xhp
+msgctxt ""
+"14020000.xhp\n"
+"par_id3155312\n"
+"help.text"
+msgid "SUM"
+msgstr "បូក"
+
 #. QD5ax
 #: 14020000.xhp
 msgctxt ""
@@ -1581,7 +1516,7 @@ msgctxt ""
 "par_id3155335\n"
 "help.text"
 msgid "<ahelp hid=\"modules/swriter/ui/inputwinmenu/sum\">Calculates the sum of the selected cells.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"modules/swriter/ui/inputwinmenu/sum\"> គណនាផលបូកនៃក្រឡាដែលបានជ្រើស។ </ahelp>"
 
 #. 6AdeA
 #: 14020000.xhp
@@ -1601,6 +1536,15 @@ msgctxt ""
 msgid "Round"
 msgstr "បង្គ្រប់"
 
+#. gm4AZ
+#: 14020000.xhp
+msgctxt ""
+"14020000.xhp\n"
+"par_id3145598\n"
+"help.text"
+msgid "ROUND"
+msgstr "ជុំ"
+
 #. 4a69n
 #: 14020000.xhp
 msgctxt ""
@@ -1608,7 +1552,7 @@ msgctxt ""
 "par_id3145621\n"
 "help.text"
 msgid "<ahelp hid=\"modules/swriter/ui/inputwinmenu/round\">Rounds a number to the specified decimal places.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"modules/swriter/ui/inputwinmenu/round\"> បង្គត់ចំនួនទៅខ្ទង់ទសភាគដែលបានបញ្ជាក់។ </ahelp>"
 
 #. jhoL9
 #: 14020000.xhp
@@ -1628,6 +1572,15 @@ msgctxt ""
 msgid "Percent"
 msgstr "ភាគរយ"
 
+#. iqydk
+#: 14020000.xhp
+msgctxt ""
+"14020000.xhp\n"
+"par_id3155930\n"
+"help.text"
+msgid "PHD"
+msgstr "PHD"
+
 #. Ni2B5
 #: 14020000.xhp
 msgctxt ""
@@ -1635,7 +1588,7 @@ msgctxt ""
 "par_id3155953\n"
 "help.text"
 msgid "<ahelp hid=\"modules/swriter/ui/inputwinmenu/phd\">Calculates a percentage</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"modules/swriter/ui/inputwinmenu/phd\"> គណនាភាគរយ </ahelp>"
 
 #. gefrq
 #: 14020000.xhp
@@ -1653,7 +1606,16 @@ msgctxt ""
 "par_id3153016\n"
 "help.text"
 msgid "Square Root"
-msgstr "ឫស​ការេ"
+msgstr "ឫស​ការ"
+
+#. c6nHv
+#: 14020000.xhp
+msgctxt ""
+"14020000.xhp\n"
+"par_id3153038\n"
+"help.text"
+msgid "SQRT"
+msgstr "SQRT"
 
 #. XCbNu
 #: 14020000.xhp
@@ -1662,7 +1624,7 @@ msgctxt ""
 "par_id3153062\n"
 "help.text"
 msgid "<ahelp hid=\"modules/swriter/ui/inputwinmenu/sqrt\">Calculates the square root.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"modules/swriter/ui/inputwinmenu/sqrt\"> គណនាឫសការ៉េ។ </ahelp>"
 
 #. zWVCq
 #: 14020000.xhp
@@ -1682,6 +1644,15 @@ msgctxt ""
 msgid "Power"
 msgstr "អានុភាព"
 
+#. cEryt
+#: 14020000.xhp
+msgctxt ""
+"14020000.xhp\n"
+"par_id3147124\n"
+"help.text"
+msgid "POW"
+msgstr "POW"
+
 #. wFRf4
 #: 14020000.xhp
 msgctxt ""
@@ -1689,7 +1660,7 @@ msgctxt ""
 "par_id3149768\n"
 "help.text"
 msgid "<ahelp hid=\"modules/swriter/ui/inputwinmenu/pow\">Calculates the power of a number.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"modules/swriter/ui/inputwinmenu/pow\"> គណនាថាមពលនៃលេខ។ </ahelp>"
 
 #. DyLAy
 #: 14020000.xhp
@@ -1716,34 +1687,7 @@ msgctxt ""
 "par_id3150244\n"
 "help.text"
 msgid "<ahelp hid=\".\">You can insert various operators in your formula.</ahelp> Choose from the following functions:"
-msgstr ""
-
-#. uCpNp
-#: 14020000.xhp
-msgctxt ""
-"14020000.xhp\n"
-"par_id61599496064739\n"
-"help.text"
-msgid "Operator"
-msgstr ""
-
-#. HCUeF
-#: 14020000.xhp
-msgctxt ""
-"14020000.xhp\n"
-"par_id611599496064740\n"
-"help.text"
-msgid "Name"
-msgstr ""
-
-#. CNZiw
-#: 14020000.xhp
-msgctxt ""
-"14020000.xhp\n"
-"par_id461599496082741\n"
-"help.text"
-msgid "Example"
-msgstr ""
+msgstr "<ahelp hid=\".\"> អ្នកអាចបញ្ចូលសញ្ញាប្រមាណវិធីផ្សេងៗគ្នានៅក្នុងរូបមន្តរបស់អ្នក។ </ahelp> ជ្រើសពីមុខងារដូចខាងក្រោមៈ"
 
 #. kN6pM
 #: 14020000.xhp
@@ -1770,7 +1714,7 @@ msgctxt ""
 "par_id3153099\n"
 "help.text"
 msgid "<ahelp hid=\"modules/swriter/ui/inputwinmenu/|\">Separates the elements in a list.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"modules/swriter/ui/inputwinmenu/|\"> បំបែកធាតុនៅក្នុងបញ្ជី។ </ahelp>"
 
 #. ufXPA
 #: 14020000.xhp
@@ -1788,7 +1732,7 @@ msgctxt ""
 "par_id3155830\n"
 "help.text"
 msgid "MIN 10|20|50|<C6>|<A2:B6>|20"
-msgstr "MIN 10|20|50|<C6>|<A2:B6>|20"
+msgstr "មីន ១០ | ២០ | ៥០ | <ស៊ី ៦> | <ក ២: ខ ៦> | ២០"
 
 #. Fob4h
 #: 14020000.xhp
@@ -1797,7 +1741,7 @@ msgctxt ""
 "par_id3147012\n"
 "help.text"
 msgid "Equal"
-msgstr "ស្មើ"
+msgstr "ស្ម"
 
 #. mVqP4
 #: 14020000.xhp
@@ -1815,7 +1759,7 @@ msgctxt ""
 "par_id3150936\n"
 "help.text"
 msgid "<ahelp hid=\"modules/swriter/ui/inputwinmenu/eq\">Checks if selected values are equal.</ahelp> If they are unequal, the result is zero, otherwise 1 (true) appears."
-msgstr ""
+msgstr "<ahelp hid=\"modules/swriter/ui/inputwinmenu/eq\"> ពិនិត្យប្រសិនបើតម្លៃដែលបានជ្រើសរើសស្មើគ្នា។ </ahelp> ប្រសិនបើពួកគេមិនស្មើគ្នាលទ្ធផលគឺសូន្យបើមិនដូច្នោះទេលេខ 1 (ពិត) លេចឡើង។"
 
 #. uiG9q
 #: 14020000.xhp
@@ -1833,7 +1777,7 @@ msgctxt ""
 "par_id3154370\n"
 "help.text"
 msgid "Not Equal"
-msgstr "មិន​ស្មើ"
+msgstr "មិន​ស្ម"
 
 #. jsDQ8
 #: 14020000.xhp
@@ -1851,7 +1795,7 @@ msgctxt ""
 "par_id3150526\n"
 "help.text"
 msgid "<ahelp hid=\"modules/swriter/ui/inputwinmenu/neq\">Tests for inequality between selected values.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"modules/swriter/ui/inputwinmenu/neq\"> សាកល្បងភាពមិនស្មើគ្នារវាងតម្លៃដែលបានជ្រើសរើស។ </ahelp>"
 
 #. CvHCo
 #: 14020000.xhp
@@ -1869,7 +1813,16 @@ msgctxt ""
 "par_id3147553\n"
 "help.text"
 msgid "Less than or Equal"
-msgstr "តូច​ជាង ឬ​ស្មើ"
+msgstr "តូច​ជាង ឬ​ស្ម"
+
+#. tJa3Z
+#: 14020000.xhp
+msgctxt ""
+"14020000.xhp\n"
+"par_id3153599\n"
+"help.text"
+msgid "LEQ"
+msgstr "LEQ"
 
 #. m6G89
 #: 14020000.xhp
@@ -1878,7 +1831,7 @@ msgctxt ""
 "par_id3153622\n"
 "help.text"
 msgid "<ahelp hid=\"modules/swriter/ui/inputwinmenu/leq\">Tests for values less than or equal to a specified value.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"modules/swriter/ui/inputwinmenu/leq\"> សាកល្បងតម្លៃតិចជាងឬស្មើនឹងតម្លៃដែលបានបញ្ជាក់។ </ahelp>"
 
 #. LK5oF
 #: 14020000.xhp
@@ -1896,7 +1849,16 @@ msgctxt ""
 "par_id3153729\n"
 "help.text"
 msgid "Greater than or Equal"
-msgstr "ធំ​ជាង ឬ​ស្មើ"
+msgstr "ធំ​ជាង ឬ​ស្ម"
+
+#. ZXFxt
+#: 14020000.xhp
+msgctxt ""
+"14020000.xhp\n"
+"par_id3153751\n"
+"help.text"
+msgid "GEQ"
+msgstr "ជីអេស"
 
 #. 88BXS
 #: 14020000.xhp
@@ -1905,7 +1867,7 @@ msgctxt ""
 "par_id3148876\n"
 "help.text"
 msgid "<ahelp hid=\"modules/swriter/ui/inputwinmenu/geq\">Tests for values greater than or equal to a specified value</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"modules/swriter/ui/inputwinmenu/geq\"> តេស្តរកតម្លៃធំជាងឬស្មើនឹងតម្លៃដែលបានបញ្ជាក់ </ahelp>"
 
 #. AUqyH
 #: 14020000.xhp
@@ -1925,6 +1887,15 @@ msgctxt ""
 msgid "Less"
 msgstr "តូច​ជាង"
 
+#. 4pUT2
+#: 14020000.xhp
+msgctxt ""
+"14020000.xhp\n"
+"par_id3150859\n"
+"help.text"
+msgid "L"
+msgstr "L"
+
 #. KuMFP
 #: 14020000.xhp
 msgctxt ""
@@ -1932,7 +1903,7 @@ msgctxt ""
 "par_id3155411\n"
 "help.text"
 msgid "<ahelp hid=\"modules/swriter/ui/inputwinmenu/l\">Tests for values less than a specified value</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"modules/swriter/ui/inputwinmenu/l\"> សាកល្បងតម្លៃទាបជាងតម្លៃដែលបានបញ្ជាក់ </ahelp>"
 
 #. LhvAi
 #: 14020000.xhp
@@ -1952,6 +1923,15 @@ msgctxt ""
 msgid "Greater"
 msgstr "ធំ​ជាង"
 
+#. FsDY9
+#: 14020000.xhp
+msgctxt ""
+"14020000.xhp\n"
+"par_id3150743\n"
+"help.text"
+msgid "G"
+msgstr "G"
+
 #. RDYj2
 #: 14020000.xhp
 msgctxt ""
@@ -1959,7 +1939,7 @@ msgctxt ""
 "par_id3147310\n"
 "help.text"
 msgid "<ahelp hid=\"modules/swriter/ui/inputwinmenu/g\">Tests for values greater than a specified value</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"modules/swriter/ui/inputwinmenu/g\"> តេស្តរកតម្លៃធំជាងតម្លៃដែលបានបញ្ជាក់ </ahelp>"
 
 #. zTrEM
 #: 14020000.xhp
@@ -1979,6 +1959,15 @@ msgctxt ""
 msgid "Boolean Or"
 msgstr "ប៊ូលីន Or"
 
+#. EySkK
+#: 14020000.xhp
+msgctxt ""
+"14020000.xhp\n"
+"par_id3148430\n"
+"help.text"
+msgid "OR"
+msgstr "ឬ"
+
 #. UfFLs
 #: 14020000.xhp
 msgctxt ""
@@ -1986,7 +1975,7 @@ msgctxt ""
 "par_id3150274\n"
 "help.text"
 msgid "<ahelp hid=\"modules/swriter/ui/inputwinmenu/or\">Tests for values matching the Boolean OR</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"modules/swriter/ui/inputwinmenu/or\"> សាកល្បងតម្លៃដែលត្រូវនឹងប៊ូលីន OR </ahelp>"
 
 #. wmnDC
 #: 14020000.xhp
@@ -2006,6 +1995,15 @@ msgctxt ""
 msgid "Boolean X Or"
 msgstr "ប៊ូលីន X Or"
 
+#. FAtfL
+#: 14020000.xhp
+msgctxt ""
+"14020000.xhp\n"
+"par_id3149457\n"
+"help.text"
+msgid "XOR"
+msgstr "XOR"
+
 #. vEKy7
 #: 14020000.xhp
 msgctxt ""
@@ -2013,7 +2011,7 @@ msgctxt ""
 "par_id3146980\n"
 "help.text"
 msgid "<ahelp hid=\"modules/swriter/ui/inputwinmenu/xor\">Tests for values matching the Boolean exclusive OR</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"modules/swriter/ui/inputwinmenu/xor\"> សាកល្បងតម្លៃដែលត្រូវនឹងប៊ូលីនផ្តាច់មុខ OR </ahelp>"
 
 #. N9cHQ
 #: 14020000.xhp
@@ -2033,6 +2031,15 @@ msgctxt ""
 msgid "Boolean And"
 msgstr "ប៊ូលីន And"
 
+#. gVGd8
+#: 14020000.xhp
+msgctxt ""
+"14020000.xhp\n"
+"par_id3152948\n"
+"help.text"
+msgid "AND"
+msgstr "និង"
+
 #. CPiHF
 #: 14020000.xhp
 msgctxt ""
@@ -2040,7 +2047,7 @@ msgctxt ""
 "par_id3153792\n"
 "help.text"
 msgid "<ahelp hid=\"modules/swriter/ui/inputwinmenu/and\">Tests for values matching the Boolean AND</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"modules/swriter/ui/inputwinmenu/and\"> សាកល្បងតម្លៃដែលត្រូវនឹងប៊ូលីន AND </ahelp>"
 
 #. DFCfW
 #: 14020000.xhp
@@ -2060,6 +2067,15 @@ msgctxt ""
 msgid "Boolean Not"
 msgstr "ប៊ូលីន Not"
 
+#. uBHtJ
+#: 14020000.xhp
+msgctxt ""
+"14020000.xhp\n"
+"par_id3153961\n"
+"help.text"
+msgid "NOT"
+msgstr "ទេ"
+
 #. i4SeE
 #: 14020000.xhp
 msgctxt ""
@@ -2067,7 +2083,7 @@ msgctxt ""
 "par_id3148633\n"
 "help.text"
 msgid "<ahelp hid=\"modules/swriter/ui/inputwinmenu/not\">Tests for values matching the Boolean NOT</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"modules/swriter/ui/inputwinmenu/not\"> សាកល្បងតម្លៃដែលត្រូវនឹងប៊ូលីន NOT </ahelp>"
 
 #. r4fRG
 #: 14020000.xhp
@@ -2094,34 +2110,7 @@ msgctxt ""
 "par_id3154263\n"
 "help.text"
 msgid "<ahelp hid=\".\">You can choose from the following statistical functions:</ahelp>"
-msgstr ""
-
-#. AeKzo
-#: 14020000.xhp
-msgctxt ""
-"14020000.xhp\n"
-"par_id541599496194035\n"
-"help.text"
-msgid "Function"
-msgstr ""
-
-#. fLyDG
-#: 14020000.xhp
-msgctxt ""
-"14020000.xhp\n"
-"par_id481599496194036\n"
-"help.text"
-msgid "Name"
-msgstr ""
-
-#. z9BBL
-#: 14020000.xhp
-msgctxt ""
-"14020000.xhp\n"
-"par_id331599524563749\n"
-"help.text"
-msgid "Example"
-msgstr ""
+msgstr "<ahelp hid=\".\"> អ្នកអាចជ្រើសរើសពីមុខងារស្ថិតិខាងក្រោម៖ </ahelp>"
 
 #. SimgP
 #: 14020000.xhp
@@ -2132,6 +2121,15 @@ msgctxt ""
 msgid "Mean"
 msgstr "មធ្យម"
 
+#. qpfti
+#: 14020000.xhp
+msgctxt ""
+"14020000.xhp\n"
+"par_id3154053\n"
+"help.text"
+msgid "MEAN"
+msgstr "មធ្យម"
+
 #. Gu59Y
 #: 14020000.xhp
 msgctxt ""
@@ -2139,7 +2137,7 @@ msgctxt ""
 "par_id3154076\n"
 "help.text"
 msgid "<ahelp hid=\"modules/swriter/ui/inputwinmenu/mean\">Calculates the arithmetic mean of the values in an area or a list.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"modules/swriter/ui/inputwinmenu/mean\"> គណនាមធ្យមនព្វន្ធនៃតម្លៃនៅក្នុងតំបន់ឬបញ្ជី។ </ahelp>"
 
 #. GjHGV
 #: 14020000.xhp
@@ -2157,7 +2155,16 @@ msgctxt ""
 "par_id3145652\n"
 "help.text"
 msgid "Minimum Value"
-msgstr "តម្លៃ​អប្បបរមា"
+msgstr "តម្លៃ​អប្បបរម"
+
+#. WjaSZ
+#: 14020000.xhp
+msgctxt ""
+"14020000.xhp\n"
+"par_id3155258\n"
+"help.text"
+msgid "MIN"
+msgstr "អប្ប."
 
 #. 9CKG8
 #: 14020000.xhp
@@ -2166,7 +2173,7 @@ msgctxt ""
 "par_id3155281\n"
 "help.text"
 msgid "<ahelp hid=\"modules/swriter/ui/inputwinmenu/min\">Calculates the minimum value in an area or a list.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"modules/swriter/ui/inputwinmenu/min\"> គណនាតម្លៃអប្បបរមានៅក្នុងតំបន់ឬបញ្ជី។ </ahelp>"
 
 #. F9J3k
 #: 14020000.xhp
@@ -2184,7 +2191,16 @@ msgctxt ""
 "par_id3153993\n"
 "help.text"
 msgid "Maximum Value"
-msgstr "តម្លៃ​អប្បបរមា"
+msgstr "តម្លៃ​អប្បបរម"
+
+#. QyhWp
+#: 14020000.xhp
+msgctxt ""
+"14020000.xhp\n"
+"par_id3154016\n"
+"help.text"
+msgid "MAX"
+msgstr "អតិ."
 
 #. mCGfj
 #: 14020000.xhp
@@ -2193,7 +2209,7 @@ msgctxt ""
 "par_id3154726\n"
 "help.text"
 msgid "<ahelp hid=\"modules/swriter/ui/inputwinmenu/max\">Calculates the maximum value in an area or a list.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"modules/swriter/ui/inputwinmenu/max\"> គណនាតម្លៃអតិបរមានៅក្នុងតំបន់ឬបញ្ជី។ </ahelp>"
 
 #. 3mb2K
 #: 14020000.xhp
@@ -2204,104 +2220,23 @@ msgctxt ""
 msgid "Example: MAX 10|30|20 displays 30.00"
 msgstr "ឧទាហរណ៍ ៖ MAX 10|30|20 បង្ហាញ 30.00"
 
-#. 76riF
-#: 14020000.xhp
-msgctxt ""
-"14020000.xhp\n"
-"par_id21599557699262\n"
-"help.text"
-msgid "Product"
-msgstr ""
-
-#. 5caRN
-#: 14020000.xhp
-msgctxt ""
-"14020000.xhp\n"
-"par_id671599563830630\n"
-"help.text"
-msgid "Calculates the product of the selected cells."
-msgstr ""
-
-#. bwMRb
-#: 14020000.xhp
-msgctxt ""
-"14020000.xhp\n"
-"par_id631599557734781\n"
-"help.text"
-msgid "Example: PRODUCT <A2:C2> displays the product of the values in cells A2 to C2"
-msgstr ""
-
-#. DXVgk
-#: 14020000.xhp
-msgctxt ""
-"14020000.xhp\n"
-"par_id31599557699262\n"
-"help.text"
-msgid "Count"
-msgstr ""
-
-#. 53YC3
-#: 14020000.xhp
-msgctxt ""
-"14020000.xhp\n"
-"par_id331599557734781\n"
-"help.text"
-msgid "Counts the number of non empty cells."
-msgstr ""
-
-#. zj2px
-#: 14020000.xhp
-msgctxt ""
-"14020000.xhp\n"
-"par_id141599563739504\n"
-"help.text"
-msgid "Example: COUNT <A2:C2> displays the number of non empty cells in A2 to C2."
-msgstr ""
-
-#. SJ9rR
+#. SGRGy
 #: 14020000.xhp
 msgctxt ""
 "14020000.xhp\n"
 "hd_id3153200\n"
 "help.text"
-msgid "Functions"
-msgstr ""
+msgid "Trigonometric Functions"
+msgstr "អនុគមន៍​ត្រីកោណ​មាត្រ"
 
-#. gRWF7
+#. DR74v
 #: 14020000.xhp
 msgctxt ""
 "14020000.xhp\n"
 "par_id3153226\n"
 "help.text"
-msgid "<ahelp hid=\".\">You can choose from the following  functions:</ahelp>"
-msgstr ""
-
-#. CYmFE
-#: 14020000.xhp
-msgctxt ""
-"14020000.xhp\n"
-"par_id341599524600306\n"
-"help.text"
-msgid "Function"
-msgstr ""
-
-#. zUhbC
-#: 14020000.xhp
-msgctxt ""
-"14020000.xhp\n"
-"par_id521599524600307\n"
-"help.text"
-msgid "Name"
-msgstr ""
-
-#. S6FE9
-#: 14020000.xhp
-msgctxt ""
-"14020000.xhp\n"
-"par_id831599524616362\n"
-"help.text"
-msgid "Example"
-msgstr ""
+msgid "<ahelp hid=\".\">You can choose from the following trigonometric functions:</ahelp>"
+msgstr "<ahelp hid=\".\"> អ្នកអាចជ្រើសរើសមុខងារត្រីកោណមាត្រដូចខាងក្រោមៈ </ahelp>"
 
 #. HmrvU
 #: 14020000.xhp
@@ -2312,6 +2247,15 @@ msgctxt ""
 msgid "Sine"
 msgstr "ស៊ីនុស"
 
+#. eSbMj
+#: 14020000.xhp
+msgctxt ""
+"14020000.xhp\n"
+"par_id3149507\n"
+"help.text"
+msgid "SIN"
+msgstr "Sin"
+
 #. PefeW
 #: 14020000.xhp
 msgctxt ""
@@ -2319,7 +2263,7 @@ msgctxt ""
 "par_id3149530\n"
 "help.text"
 msgid "<ahelp hid=\"modules/swriter/ui/inputwinmenu/sin\">Calculates the sine in radians</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"modules/swriter/ui/inputwinmenu/sin\"> គណនាស៊ីនុសជារ៉ាដ្យង់ </ahelp>"
 
 #. zAmxx
 #: 14020000.xhp
@@ -2339,6 +2283,15 @@ msgctxt ""
 msgid "Cosine"
 msgstr "កូស៊ីនុស"
 
+#. BAQ7F
+#: 14020000.xhp
+msgctxt ""
+"14020000.xhp\n"
+"par_id3154510\n"
+"help.text"
+msgid "COS"
+msgstr "Cos"
+
 #. xBop9
 #: 14020000.xhp
 msgctxt ""
@@ -2346,7 +2299,7 @@ msgctxt ""
 "par_id3154533\n"
 "help.text"
 msgid "<ahelp hid=\"modules/swriter/ui/inputwinmenu/cos\">Calculates the cosine in radians.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"modules/swriter/ui/inputwinmenu/cos\"> គណនាកូស៊ីនុសជារ៉ាដ្យង់។ </ahelp>"
 
 #. 6FAgD
 #: 14020000.xhp
@@ -2366,6 +2319,15 @@ msgctxt ""
 msgid "Tangent"
 msgstr "តង់សង់"
 
+#. aV8d5
+#: 14020000.xhp
+msgctxt ""
+"14020000.xhp\n"
+"par_id3151012\n"
+"help.text"
+msgid "TAN"
+msgstr "Tan"
+
 #. zaJcG
 #: 14020000.xhp
 msgctxt ""
@@ -2373,7 +2335,7 @@ msgctxt ""
 "par_id3149369\n"
 "help.text"
 msgid "<ahelp hid=\"modules/swriter/ui/inputwinmenu/tag\">Calculates the tangent in radians.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"modules/swriter/ui/inputwinmenu/tag\"> គណនាតង់ហ្សង់គិតជារ៉ាដ្យង់។ </ahelp>"
 
 #. 4UG3b
 #: 14020000.xhp
@@ -2393,6 +2355,15 @@ msgctxt ""
 msgid "Arc Sine"
 msgstr "អ័ក្ស​ស៊ីនុស"
 
+#. R6DwT
+#: 14020000.xhp
+msgctxt ""
+"14020000.xhp\n"
+"par_id3151055\n"
+"help.text"
+msgid "ASIN"
+msgstr "អ័ក្ស​ស៊ីនុស"
+
 #. CVzAA
 #: 14020000.xhp
 msgctxt ""
@@ -2400,7 +2371,7 @@ msgctxt ""
 "par_id3150565\n"
 "help.text"
 msgid "<ahelp hid=\"modules/swriter/ui/inputwinmenu/asin\">Calculates the arc sine in radians.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"modules/swriter/ui/inputwinmenu/asin\"> គណនាស៊ីនុសធ្នូជារ៉ាដ្យង់។ </ahelp>"
 
 #. qoLYg
 #: 14020000.xhp
@@ -2420,6 +2391,15 @@ msgctxt ""
 msgid "Arc Cosine"
 msgstr "អ័ក្ស​កូស៊ីនុស"
 
+#. 7QBGb
+#: 14020000.xhp
+msgctxt ""
+"14020000.xhp\n"
+"par_id3149728\n"
+"help.text"
+msgid "ACOS"
+msgstr "ACOS"
+
 #. ZRyBG
 #: 14020000.xhp
 msgctxt ""
@@ -2427,7 +2407,7 @@ msgctxt ""
 "par_id3149750\n"
 "help.text"
 msgid "<ahelp hid=\"modules/swriter/ui/inputwinmenu/acos\">Calculates the arc cosine in radians.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"modules/swriter/ui/inputwinmenu/acos\"> គណនាអ័ក្សកូស៊ីនុសជារ៉ាដ្យង់។ </ahelp>"
 
 #. LnLqq
 #: 14020000.xhp
@@ -2447,6 +2427,15 @@ msgctxt ""
 msgid "Arc Tangent"
 msgstr "អ័ក្ស​តង់សង់"
 
+#. jWGhA
+#: 14020000.xhp
+msgctxt ""
+"14020000.xhp\n"
+"par_id3147057\n"
+"help.text"
+msgid "ATAN"
+msgstr "អាធីន"
+
 #. aEs7N
 #: 14020000.xhp
 msgctxt ""
@@ -2454,7 +2443,7 @@ msgctxt ""
 "par_id3147080\n"
 "help.text"
 msgid "<ahelp hid=\"modules/swriter/ui/inputwinmenu/atan\">Calculates the arc tangent in radians.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"modules/swriter/ui/inputwinmenu/atan\"> គណនាអ័ក្សតង់ហ្សង់ជារ៉ាដ្យង់។ </ahelp>"
 
 #. bssFz
 #: 14020000.xhp
@@ -2464,60 +2453,6 @@ msgctxt ""
 "help.text"
 msgid "Example: ATAN 1"
 msgstr "ឧទាហរណ៍ ៖ ATAN 1"
-
-#. bsPu3
-#: 14020000.xhp
-msgctxt ""
-"14020000.xhp\n"
-"par_id591599557967519\n"
-"help.text"
-msgid "Absolute value"
-msgstr ""
-
-#. 2tt8G
-#: 14020000.xhp
-msgctxt ""
-"14020000.xhp\n"
-"par_id211593557987787\n"
-"help.text"
-msgid "Returns the absolute value of the number."
-msgstr ""
-
-#. jYyUX
-#: 14020000.xhp
-msgctxt ""
-"14020000.xhp\n"
-"par_id301599563956612\n"
-"help.text"
-msgid "Example: ABS -34 returns 34"
-msgstr ""
-
-#. zEe8j
-#: 14020000.xhp
-msgctxt ""
-"14020000.xhp\n"
-"par_id591599557963519\n"
-"help.text"
-msgid "Sign"
-msgstr ""
-
-#. 8Y984
-#: 14020000.xhp
-msgctxt ""
-"14020000.xhp\n"
-"par_id211599557987787\n"
-"help.text"
-msgid "Returns the algebraic sign of the number."
-msgstr ""
-
-#. wDJs9
-#: 14020000.xhp
-msgctxt ""
-"14020000.xhp\n"
-"par_id941599563922458\n"
-"help.text"
-msgid "Example: SIGN -23 returns -1"
-msgstr ""
 
 #. sHz7K
 #: 14020000.xhp
@@ -2537,23 +2472,14 @@ msgctxt ""
 msgid "The following document properties are also found under <emph>File - Properties - Statistics</emph>."
 msgstr "លក្ខណសម្បត្តិ​ឯកសារ​ដូច​ខាង​ក្រោម ក៏​អាច​រក​ឃើញ​នៅ <emph>ឯកសារ - លក្ខណសម្បត្តិ - ស្ថិតិ</emph> ។"
 
-#. jxf6E
+#. iGhMX
 #: 14020000.xhp
 msgctxt ""
 "14020000.xhp\n"
-"par_id901599524662588\n"
+"par_id3157538\n"
 "help.text"
-msgid "Name"
-msgstr ""
-
-#. vmA7Y
-#: 14020000.xhp
-msgctxt ""
-"14020000.xhp\n"
-"par_id741599524662589\n"
-"help.text"
-msgid "Description"
-msgstr ""
+msgid "CHAR"
+msgstr "ត្រីប្រា"
 
 #. Mehmy
 #: 14020000.xhp
@@ -2564,6 +2490,15 @@ msgctxt ""
 msgid "Number of characters in the document"
 msgstr "ចំនួន​តួអក្សរ​ក្នុង​ឯកសារ"
 
+#. SgWXo
+#: 14020000.xhp
+msgctxt ""
+"14020000.xhp\n"
+"par_id3152982\n"
+"help.text"
+msgid "WORD"
+msgstr "ពាក្យ"
+
 #. knEJC
 #: 14020000.xhp
 msgctxt ""
@@ -2572,6 +2507,15 @@ msgctxt ""
 "help.text"
 msgid "Number of words in the document"
 msgstr "ចំនួន​ពាក្យ​ក្នុង​ឯកសារ"
+
+#. sxNfJ
+#: 14020000.xhp
+msgctxt ""
+"14020000.xhp\n"
+"par_id3152715\n"
+"help.text"
+msgid "PARA"
+msgstr "ប៉ារ៉ាsuriname. kgm"
 
 #. X5hJF
 #: 14020000.xhp
@@ -2582,6 +2526,15 @@ msgctxt ""
 msgid "Number of paragraphs in the document"
 msgstr "ចំនួន​កថាខណ្ឌ​ក្នុង​ឯកសារ"
 
+#. ZJA76
+#: 14020000.xhp
+msgctxt ""
+"14020000.xhp\n"
+"par_id3148453\n"
+"help.text"
+msgid "GRAPH"
+msgstr "ក្រាហ្វិក"
+
 #. t5nqK
 #: 14020000.xhp
 msgctxt ""
@@ -2590,6 +2543,15 @@ msgctxt ""
 "help.text"
 msgid "Number of graphics in the document"
 msgstr "ចំនួន​ក្រាហ្វិក​ក្នុង​ឯកសារ"
+
+#. 95TWA
+#: 14020000.xhp
+msgctxt ""
+"14020000.xhp\n"
+"par_id3151091\n"
+"help.text"
+msgid "TABLES"
+msgstr "តុ"
 
 #. Bdc8a
 #: 14020000.xhp
@@ -2600,6 +2562,15 @@ msgctxt ""
 msgid "Number of tables in the document"
 msgstr "ចំនួន​តារាង​ក្នុង​ឯកសារ"
 
+#. ksnxD
+#: 14020000.xhp
+msgctxt ""
+"14020000.xhp\n"
+"par_id3151198\n"
+"help.text"
+msgid "OLE"
+msgstr "OLE"
+
 #. zJGko
 #: 14020000.xhp
 msgctxt ""
@@ -2608,6 +2579,15 @@ msgctxt ""
 "help.text"
 msgid "Number of OLE objects in the document"
 msgstr "ចំនួន​វត្ថុ OLE ក្នុង​​ឯកសារ"
+
+#. vMmnr
+#: 14020000.xhp
+msgctxt ""
+"14020000.xhp\n"
+"par_id3146903\n"
+"help.text"
+msgid "PAGE"
+msgstr "ទំព័រ"
 
 #. QeCMR
 #: 14020000.xhp
@@ -2627,33 +2607,6 @@ msgctxt ""
 msgid "More Defined Values"
 msgstr "តម្លៃ​ដែល​បាន​កំណត់​ផ្សេង​ទៀត"
 
-#. TUJRH
-#: 14020000.xhp
-msgctxt ""
-"14020000.xhp\n"
-"par_id981599524696609\n"
-"help.text"
-msgid "Description"
-msgstr ""
-
-#. gnbPF
-#: 14020000.xhp
-msgctxt ""
-"14020000.xhp\n"
-"par_id101599524696610\n"
-"help.text"
-msgid "Name"
-msgstr ""
-
-#. FFwhP
-#: 14020000.xhp
-msgctxt ""
-"14020000.xhp\n"
-"par_id731599524730168\n"
-"help.text"
-msgid "Value"
-msgstr ""
-
 #. 7QQ8G
 #: 14020000.xhp
 msgctxt ""
@@ -2661,7 +2614,25 @@ msgctxt ""
 "par_id3153562\n"
 "help.text"
 msgid "PI"
-msgstr "PI"
+msgstr "SPI & # 160; ៖"
+
+#. RogDi
+#: 14020000.xhp
+msgctxt ""
+"14020000.xhp\n"
+"par_id3147343\n"
+"help.text"
+msgid "PI"
+msgstr "SPI & # 160; ៖"
+
+#. Cc3Ec
+#: 14020000.xhp
+msgctxt ""
+"14020000.xhp\n"
+"par_id3147366\n"
+"help.text"
+msgid "3.1415..."
+msgstr "៣.១៤១៥ …"
 
 #. SqL4F
 #: 14020000.xhp
@@ -2672,6 +2643,24 @@ msgctxt ""
 msgid "Euler's constant"
 msgstr "អថេរ Euler"
 
+#. 2mpxR
+#: 14020000.xhp
+msgctxt ""
+"14020000.xhp\n"
+"par_id3147462\n"
+"help.text"
+msgid "E"
+msgstr "ជ."
+
+#. 5EfZH
+#: 14020000.xhp
+msgctxt ""
+"14020000.xhp\n"
+"par_id3147485\n"
+"help.text"
+msgid "2.71828..."
+msgstr "២.៧១៨២៨ ..."
+
 #. GGtyF
 #: 14020000.xhp
 msgctxt ""
@@ -2680,6 +2669,15 @@ msgctxt ""
 "help.text"
 msgid "True"
 msgstr "ពិត"
+
+#. CDybB
+#: 14020000.xhp
+msgctxt ""
+"14020000.xhp\n"
+"par_id3145355\n"
+"help.text"
+msgid "TRUE"
+msgstr "ត្រឹមត្រូវ"
 
 #. db4a5
 #: 14020000.xhp
@@ -2698,6 +2696,24 @@ msgctxt ""
 "help.text"
 msgid "False"
 msgstr "មិន​ពិត"
+
+#. ynTVk
+#: 14020000.xhp
+msgctxt ""
+"14020000.xhp\n"
+"par_id3150385\n"
+"help.text"
+msgid "FALSE"
+msgstr "ខុស"
+
+#. xqFYa
+#: 14020000.xhp
+msgctxt ""
+"14020000.xhp\n"
+"par_id3149304\n"
+"help.text"
+msgid "0"
+msgstr "0"
 
 #. qx5iP
 #: 14030000.xhp
@@ -2724,7 +2740,7 @@ msgctxt ""
 "par_id3149602\n"
 "help.text"
 msgid "<ahelp hid=\".\">Clears the contents of the input line and closes the formula bar.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".\"> ជម្រះមាតិកានៃបន្ទាត់បញ្ចូលហើយបិទរបាររូបមន្ត។ </ahelp>"
 
 #. kp7Vc
 #: 14030000.xhp
@@ -2733,7 +2749,7 @@ msgctxt ""
 "par_id3149574\n"
 "help.text"
 msgid "<image id=\"img_id3149580\" src=\"sw/res/sc20557.png\" width=\"0.222inch\" height=\"0.222inch\"><alt id=\"alt_id3149580\">Icon</alt></image>"
-msgstr ""
+msgstr "<image id=\"img_id3149580\" src=\"sw/res/sc20557.png\" width=\"0.222inch\" height=\"0.222inch\"><alt id=\"alt_id3149580\"> រូបតំណាង </alt></image>"
 
 #. 8UEDX
 #: 14030000.xhp
@@ -2769,7 +2785,7 @@ msgctxt ""
 "par_id3147173\n"
 "help.text"
 msgid "<ahelp hid=\".\">Transfers the contents of the input line into your document and closes the formula bar. The contents of the input line are inserted at the cursor position in the document.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".\"> ផ្ទេរមាតិកានៃបន្ទាត់បញ្ចូលទៅក្នុងឯកសាររបស់អ្នកហើយបិទរបាររូបមន្ត។ មាតិកានៃបន្ទាត់បញ្ចូលត្រូវបានបញ្ចូលនៅទីតាំងទស្សន៍ទ្រនិចក្នុងឯកសារ។ </ahelp>"
 
 #. YsphR
 #: 14040000.xhp
@@ -2778,7 +2794,7 @@ msgctxt ""
 "par_id3149286\n"
 "help.text"
 msgid "<image src=\"svx/res/nu01.png\" id=\"img_id3149291\" width=\"1cm\" height=\"1cm\"><alt id=\"alt_id3149291\">Icon Apply</alt></image>"
-msgstr ""
+msgstr "<image src=\"svx/res/nu01.png\" id=\"img_id3149291\" width=\"1cm\" height=\"1cm\"><alt id=\"alt_id3149291\"> រូបតំណាងអនុវត្ត </alt></image>"
 
 #. nwkU8
 #: 14040000.xhp
@@ -2814,7 +2830,7 @@ msgctxt ""
 "par_id3154501\n"
 "help.text"
 msgid "<ahelp hid=\".\">Allows you to create a formula by typing it directly into the input line or by clicking the <emph>Formula</emph> icon to display the formulas in submenu.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".\"> អនុញ្ញាតឱ្យអ្នកបង្កើតរូបមន្តដោយវាយវាដោយផ្ទាល់ទៅក្នុងបណ្តាញបញ្ចូលឬដោយចុចលើប៊ូតុង <emph> រូបមន្ត </emph> រូបតំណាងដើម្បីបង្ហាញរូបមន្តក្នុងម៉ឺនុយរង។ </ahelp>"
 
 #. evDCZ
 #: 14050000.xhp
@@ -2886,7 +2902,7 @@ msgctxt ""
 "hd_id3150115\n"
 "help.text"
 msgid "<link href=\"text/swriter/01/04020000.xhp\" name=\"Insert Section\">Section</link>"
-msgstr "<link href=\"text/swriter/01/04020000.xhp\" name=\"Insert - Section\">បញ្ចូល - ភាគ</link>"
+msgstr "<link href=\"text/swriter/01/04020000.xhp\" name=\"Insert Section\">Section</link>"
 
 #. BvcDT
 #: 18010000.xhp
@@ -2985,7 +3001,7 @@ msgctxt ""
 "par_idN10759\n"
 "help.text"
 msgid "<link href=\"text/swriter/01/04090000.xhp\">Insert Fields</link>"
-msgstr "<link href=\"text/swriter/01/04090000.xhp\">Insert Fields</link>"
+msgstr "<link href=\"text/swriter/01/04090000.xhp\"> បញ្ចូលវាល </link>"
 
 #. A5HwP
 #: 18010000.xhp
@@ -3165,7 +3181,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Time"
-msgstr "ពេល​វេលា"
+msgstr "ពេល​វេល"
 
 #. yxN2Q
 #: 18030200.xhp
@@ -3219,7 +3235,7 @@ msgctxt ""
 "hd_id3147173\n"
 "help.text"
 msgid "<link href=\"text/swriter/02/18030300.xhp\" name=\"Page Number\">Page Number</link>"
-msgstr "<link href=\"text/swriter/02/18030300.xhp\" name=\"Page Numbers\">លេខ​ទំព័រ</link>"
+msgstr "<link href=\"text/swriter/02/18030300.xhp\" name=\"Page Number\">Page Number</link>"
 
 #. Eyxsj
 #: 18030300.xhp
@@ -3228,7 +3244,7 @@ msgctxt ""
 "par_id3150760\n"
 "help.text"
 msgid "<ahelp hid=\".\">Inserts the current page number as a field at the cursor position.</ahelp> The default setting is for it to use the <emph>Page Number</emph> character style."
-msgstr ""
+msgstr "<ahelp hid=\".\"> បញ្ចូលលេខទំព័របច្ចុប្បន្នជាវាលនៅទីតាំងទស្សន៍ទ្រនិច។ </ahelp> ការកំណត់លំនាំដើមគឺសម្រាប់ប្រើវា <emph> លេខ​ទំព័រ </emph> រចនាប័ទ្មតួអក្សរ។"
 
 #. mDJBW
 #: 18030300.xhp
@@ -3273,7 +3289,7 @@ msgctxt ""
 "par_id3149294\n"
 "help.text"
 msgid "If you wish to have the page number formatted with a different numbering style, choose <emph>Insert - Field - More Fields</emph> to insert the required field, and specify the settings in the <link href=\"text/swriter/01/04090000.xhp\" name=\"Field\"><emph>Field</emph></link> dialog. The format of the field inserted using the <emph>Page Number</emph> command can also be modified using the <link href=\"text/swriter/01/02140000.xhp\" name=\"Edit - Field\"><emph>Edit - Field</emph></link> command."
-msgstr ""
+msgstr "ប្រសិនបើអ្នកចង់អោយលេខទំព័រមានទ្រង់ទ្រាយតាមលេខរៀងខុសៗគ្នាសូមជ្រើសរើស <emph> បញ្ចូល - វាល - វាលបន្ថែម </emph> ដើម្បីបញ្ចូលវាលដែលត្រូវការហើយបញ្ជាក់ការកំណត់នៅក្នុងឯកសារ <link href=\"text/swriter/01/04090000.xhp\" name=\"Field\"><emph> វាល </emph></link> ប្រអប់។ ទ្រង់ទ្រាយវាលត្រូវបានបញ្ចូលដោយប្រើឯកសារ <emph> លេខ​ទំព័រ </emph> ពាក្យបញ្ជាក៏អាចត្រូវបានកែប្រែដោយប្រើឯកសារ <link href=\"text/swriter/01/02140000.xhp\" name=\"Edit - Field\"><emph> កែសម្រួល - វាល </emph></link> ពាក្យបញ្ជា។"
 
 #. GRfFZ
 #: 18030500.xhp
@@ -3363,7 +3379,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "First Author (field)"
-msgstr ""
+msgstr "អ្នកនិពន្ធដំបូង (វាល)"
 
 #. 7ACzA
 #: 18030700.xhp
@@ -3372,7 +3388,7 @@ msgctxt ""
 "hd_id3154505\n"
 "help.text"
 msgid "<link href=\"text/swriter/02/18030700.xhp\" name=\"Author\">First Author (field)</link>"
-msgstr ""
+msgstr "<link href=\"text/swriter/02/18030700.xhp\" name=\"Author\"> អ្នកនិពន្ធដំបូង (វាល) </link>"
 
 #. wAFbk
 #: 18030700.xhp
@@ -3381,7 +3397,7 @@ msgctxt ""
 "par_id3152896\n"
 "help.text"
 msgid "<ahelp hid=\".uno:InsertAuthorField\">Inserts the name of the person who created the document here as a field.</ahelp> The field applies the entry made under <switchinline select=\"sys\"><caseinline select=\"MAC\"><emph>%PRODUCTNAME - Preferences</emph></caseinline><defaultinline><emph>Tools - Options</emph></defaultinline></switchinline><emph> - </emph><link href=\"text/shared/optionen/01010100.xhp\" name=\"$[officename] - User data\"><emph>$[officename] - User data</emph></link>."
-msgstr ""
+msgstr "<ahelp hid=\".uno:InsertAuthorField\"> បញ្ចូលឈ្មោះអ្នកដែលបង្កើតឯកសារនៅទីនេះជាទីវាល។ </ahelp> វាលអនុវត្តធាតុដែលបានធ្វើនៅក្រោម <switchinline select=\"sys\"><caseinline select=\"MAC\"><emph> %PRODUCTNAME - ចំណូលចិត្ត </emph></caseinline><defaultinline><emph> ឧបករណ៍ - ជម្រើស </emph></defaultinline></switchinline><emph> - </emph><link href=\"text/shared/optionen/01010100.xhp\" name=\"$[officename] - User data\"><emph> $[officename] - ទិន្នន័យអ្នកប្រើប្រាស់ </emph></link> ។"
 
 #. xEPBR
 #: 18120000.xhp
@@ -3390,7 +3406,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Images and Charts"
-msgstr ""
+msgstr "រូបភាពនិងគំនូសតាង"
 
 #. WcvKF
 #: 18120000.xhp
@@ -3399,7 +3415,7 @@ msgctxt ""
 "hd_id3148568\n"
 "help.text"
 msgid "<link href=\"text/swriter/02/18120000.xhp\" name=\"Images and Charts\">Images and Charts</link>"
-msgstr "<link href=\"text/swriter/02/18120000.xhp\" name=\"Images On/Off\">បើក/បិទ រូបភាព</link>"
+msgstr "<link href=\"text/swriter/02/18120000.xhp\" name=\"Images and Charts\"> រូបភាពនិងគំនូសតាង </link>"
 
 #. JQmg6
 #: 18120000.xhp
@@ -3426,7 +3442,7 @@ msgctxt ""
 "par_id3151177\n"
 "help.text"
 msgid "<image id=\"img_id3156379\" src=\"cmd/sc_graphic.png\" width=\"1cm\" height=\"1cm\"><alt id=\"alt_id3156379\">Icon Images and Charts</alt></image>"
-msgstr ""
+msgstr "<image id=\"img_id3156379\" src=\"cmd/sc_graphic.png\" width=\"1cm\" height=\"1cm\"><alt id=\"alt_id3156379\"> រូបតំណាងរូបភាពនិងគំនូសតាង </alt></image>"
 
 #. P95p4
 #: 18120000.xhp
@@ -3435,7 +3451,7 @@ msgctxt ""
 "par_id3154107\n"
 "help.text"
 msgid "Images and Charts"
-msgstr ""
+msgstr "រូបភាពនិងគំនូសតាង"
 
 #. QCRVC
 #: 18130000.xhp
@@ -3444,7 +3460,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Direct Cursor Mode"
-msgstr ""
+msgstr "របៀបទស្សន៍ទ្រនិចផ្ទាល់"
 
 #. mt7Ns
 #: 18130000.xhp
@@ -3462,7 +3478,7 @@ msgctxt ""
 "hd_id3147167\n"
 "help.text"
 msgid "<link href=\"text/swriter/02/18130000.xhp\" name=\"Direct Cursor Mode\">Direct Cursor Mode</link>"
-msgstr "<link href=\"text/swriter/02/18130000.xhp\" name=\"Direct Cursor On/Off\">បិទ​/​បើក ទស្សន៍​ទ្រនិច​ផ្ទាល់</link>"
+msgstr "<link href=\"text/swriter/02/18130000.xhp\" name=\"Direct Cursor Mode\">Direct Cursor Mode</link>"
 
 #. JtTFV
 #: 18130000.xhp
@@ -3471,7 +3487,7 @@ msgctxt ""
 "par_id3152896\n"
 "help.text"
 msgid "<ahelp hid=\".uno:ShadowCursor\">Activates or deactivates the direct cursor.</ahelp> You can specify the behavior of the direct cursor by choosing <switchinline select=\"sys\"><caseinline select=\"MAC\"><emph>%PRODUCTNAME - Preferences</emph></caseinline><defaultinline><emph>Tools - Options</emph></defaultinline></switchinline><emph> - </emph><link href=\"text/shared/optionen/01040600.xhp\" name=\"Text Document - Formatting Aids\"><emph>%PRODUCTNAME Writer - Formatting Aids</emph></link>."
-msgstr ""
+msgstr "<ahelp hid=\".uno:ShadowCursor\"> ធ្វើឱ្យសកម្មឬអសកម្មទស្សន៍ទ្រនិចផ្ទាល់។ </ahelp> អ្នកអាចបញ្ជាក់ឥរិយាបថរបស់ទស្សន៍ទ្រនិចផ្ទាល់ដោយជ្រើសរើស <switchinline select=\"sys\"><caseinline select=\"MAC\"><emph> %PRODUCTNAME - ចំណូលចិត្ត </emph></caseinline><defaultinline><emph> ឧបករណ៍ - ជម្រើស </emph></defaultinline></switchinline><emph> - </emph><link href=\"text/shared/optionen/01040600.xhp\" name=\"Text Document - Formatting Aids\"><emph> អ្នកនិពន្ធ%PRODUCTNAME - ជំនួយទ្រង់ទ្រាយ </emph></link> ។"
 
 #. 4k7XD
 #: 18130000.xhp
@@ -3480,7 +3496,7 @@ msgctxt ""
 "par_id3151133\n"
 "help.text"
 msgid "On Tools bar, click"
-msgstr ""
+msgstr "នៅលើរបារឧបករណ៍ចុច"
 
 #. DPCTF
 #: 18130000.xhp
@@ -3489,7 +3505,7 @@ msgctxt ""
 "par_id3147508\n"
 "help.text"
 msgid "<image id=\"img_id3154840\" src=\"cmd/sc_shadowcursor.png\" width=\"1cm\" height=\"1cm\"><alt id=\"alt_id3154840\">Icon Toggle Direct Cursor Mode</alt></image>"
-msgstr ""
+msgstr "<image id=\"img_id3154840\" src=\"cmd/sc_shadowcursor.png\" width=\"1cm\" height=\"1cm\"><alt id=\"alt_id3154840\"> រូបតំណាងបិទបើករបៀបទស្សន៍ទ្រនិចផ្ទាល់ </alt></image>"
 
 #. yboK5
 #: 18130000.xhp
@@ -3498,7 +3514,7 @@ msgctxt ""
 "par_id3151310\n"
 "help.text"
 msgid "Toggle Direct Cursor Mode"
-msgstr ""
+msgstr "បិទបើករបៀបទស្សន៍ទ្រនិចផ្ទាល់"
 
 #. kCFZu
 #: 18130000.xhp
@@ -3543,7 +3559,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Insert Header"
-msgstr "បញ្ចូល​បឋមកថា"
+msgstr "បញ្ចូល​បឋមកថ"
 
 #. x8KnU
 #: 19010000.xhp
@@ -3570,7 +3586,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Insert Footer"
-msgstr "បញ្ចូល​បាតកថា"
+msgstr "បញ្ចូល​បាតកថ"
 
 #. EfFWA
 #: 19020000.xhp
@@ -3777,7 +3793,7 @@ msgctxt ""
 "par_id3149286\n"
 "help.text"
 msgid "<image src=\"cmd/sc_text_marquee.png\" id=\"img_id3149292\" width=\"1cm\" height=\"1cm\"><alt id=\"alt_id3149292\">Icon Text Animation</alt></image>"
-msgstr ""
+msgstr "<image src=\"cmd/sc_text_marquee.png\" id=\"img_id3149292\" width=\"1cm\" height=\"1cm\"><alt id=\"alt_id3149292\"> រូបតំណាងចលនាអត្ថបទ </alt></image>"
 
 #. Hp96F
 #: 19050000.xhp

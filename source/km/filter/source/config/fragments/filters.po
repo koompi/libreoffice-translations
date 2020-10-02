@@ -1,21 +1,21 @@
-#. extracted from filter/source/config/fragments/filters
 msgid ""
 msgstr ""
-"Project-Id-Version: filters\n"
-"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
-"POT-Creation-Date: 2020-04-27 15:54+0200\n"
-"PO-Revision-Date: 2018-07-01 22:56+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
-"Language-Team: Khmer <support@khmeros.info>\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/"
+"enter_bug.cgi?"
+"product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2020-03-10 13:36+0100\n"
+"PO-Revision-Date: 2020-09-04 22:50+0700\n"
+"Last-Translator: Koompi Apps Localization\n"
 "Language: km\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Accelerator-Marker: ~\n"
-"X-Generator: LibreOffice\n"
-"X-Language: km-KH\n"
-"X-POOTLE-MTIME: 1530485794.000000\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-POOTLE-MTIME: 1535975854.000000\n"
+"Language-Team: KOOMPI Apps Localization\n"
 
 #. FR4Ff
 #: ADO_rowset_XML.xcu
@@ -25,7 +25,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "ADO Rowset XML"
-msgstr ""
+msgstr "ADO ជួរដេក XML"
 
 #. bjvBT
 #: AbiWord.xcu
@@ -45,7 +45,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Apple Keynote"
-msgstr ""
+msgstr "សុន្ទរកថា Apple"
 
 #. 5bCwT
 #: AppleNumbers.xcu
@@ -55,7 +55,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Apple Numbers"
-msgstr ""
+msgstr "លេខ Apple"
 
 #. 7wGVb
 #: ApplePages.xcu
@@ -65,7 +65,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Apple Pages"
-msgstr ""
+msgstr "ទំព័រ Apple"
 
 #. nWjHd
 #: BMP___MS_Windows.xcu
@@ -85,7 +85,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "BroadBand eBook"
-msgstr "សៀវភៅ​អេឡិចត្រូនិក​ប្រដប៊ែន"
+msgstr "សៀវភៅ​អេឡិចត្រូនិក BroadBand"
 
 #. NYMWx
 #: CGM___Computer_Graphics_Metafile.xcu
@@ -99,14 +99,13 @@ msgstr "CGM - Computer Graphics Metafile"
 
 #. PEXwM
 #: ClarisWorks.xcu
-#, fuzzy
 msgctxt ""
 "ClarisWorks.xcu\n"
 "ClarisWorks\n"
 "UIName\n"
 "value.text"
 msgid "ClarisWorks/AppleWorks Text Document"
-msgstr "ឯកសារ ClarisWorks/AppleWorks"
+msgstr "ឯកសារ ClarisWorks/ដំណើរការApple"
 
 #. enPoE
 #: ClarisWorks_Calc.xcu
@@ -116,11 +115,10 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "ClarisWorks/AppleWorks Spreadsheet"
-msgstr ""
+msgstr "ClarisWorks/សៀវភៅបញ្ជី ដំណើរការApple"
 
 #. renzu
 #: ClarisWorks_Draw.xcu
-#, fuzzy
 msgctxt ""
 "ClarisWorks_Draw.xcu\n"
 "ClarisWorks_Draw\n"
@@ -137,7 +135,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "ClarisWorks/AppleWorks Presentation"
-msgstr ""
+msgstr "ClarisWorks/បទបង្ហាញ AppleWorks"
 
 #. JTAGb
 #: Claris_Resolve_Calc.xcu
@@ -157,7 +155,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Corel Draw"
-msgstr "Corel Draw"
+msgstr "ស្នូល កម្មវិធីគូរ"
 
 #. ZBGoe
 #: CorelPresentationExchange.xcu
@@ -167,7 +165,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Corel Presentation Exchange"
-msgstr "ការ​ផ្លាស់ប្ដូរ​បទ​បង្ហាញ Corel"
+msgstr "ការ​ផ្លាស់ប្ដូរ​បទ​បង្ហាញ ស្នូល"
 
 #. 7nYF8
 #: DIF.xcu
@@ -197,7 +195,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "DocBook"
-msgstr ""
+msgstr "សៀវភៅឯកសារ"
 
 #. yXBiX
 #: DosWord.xcu
@@ -207,7 +205,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Microsoft Word for DOS"
-msgstr ""
+msgstr "Microsoft Word សំរាប់ DOS"
 
 #. qVSqa
 #: EMF___MS_Windows_Metafile.xcu
@@ -237,7 +235,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "EPUB Document"
-msgstr ""
+msgstr "ឯកសារ EPUB"
 
 #. MPCRM
 #: FictionBook_2.xcu
@@ -247,7 +245,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "FictionBook 2.0"
-msgstr "FictionBook 2.0"
+msgstr "សៀវភៅប្រឌិត ២.0"
 
 #. 2ej7L
 #: FreehandDocument.xcu
@@ -257,7 +255,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Adobe/Macromedia Freehand"
-msgstr "Adobe/Macromedia Freehand"
+msgstr "Adobe/Macromedia សៀវភៅដៃ"
 
 #. iSFBM
 #: GIF___Graphics_Interchange.xcu
@@ -327,7 +325,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Lotus 1-2-3"
-msgstr "Lotus 1-2-3"
+msgstr "Lotus ១-២-៣"
 
 #. jaoLQ
 #: LotusWordPro.xcu
@@ -357,7 +355,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Microsoft Excel 2003 XML"
-msgstr "Microsoft Excel 2003 XML"
+msgstr "Microsoft Excel ២០០៣ XML"
 
 #. AGkVq
 #: MS_Excel_2003_XML_Orcus.xcu
@@ -367,7 +365,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Microsoft Excel 2003 XML"
-msgstr ""
+msgstr "Microsoft Excel ២០០៣ XML"
 
 #. CEFG2
 #: MS_Excel_4_0.xcu
@@ -377,7 +375,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Microsoft Excel 4.0"
-msgstr "Microsoft Excel 4.0"
+msgstr "Microsoft Excel ៤.0"
 
 #. e9XuE
 #: MS_Excel_4_0_Vorlage_Template.xcu
@@ -387,7 +385,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Microsoft Excel 4.0 Template"
-msgstr "ពុម្ព Microsoft Excel 4.0"
+msgstr "ពុម្ព Microsoft Excel ៤.0"
 
 #. eHaUs
 #: MS_Excel_5_0_95.xcu
@@ -397,7 +395,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Microsoft Excel 5.0"
-msgstr "Microsoft Excel 5.0"
+msgstr "Microsoft Excel ៥.0"
 
 #. jrJsh
 #: MS_Excel_5_0_95_Vorlage_Template.xcu
@@ -407,7 +405,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Microsoft Excel 5.0 Template"
-msgstr "ពុម្ព Microsoft Excel 5.0"
+msgstr "ពុម្ព Microsoft Excel ៥.0"
 
 #. DuC6b
 #: MS_Excel_95.xcu
@@ -417,7 +415,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Microsoft Excel 95"
-msgstr "Microsoft Excel 95"
+msgstr "Microsoft Excel ៩៥"
 
 #. kFEki
 #: MS_Excel_95_Vorlage_Template.xcu
@@ -427,7 +425,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Microsoft Excel 95 Template"
-msgstr "ពុម្ព Microsoft Excel 95"
+msgstr "ពុម្ព Microsoft Excel ៩៥"
 
 #. 6Azy5
 #: MS_Excel_97.xcu
@@ -437,7 +435,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Excel 97–2003"
-msgstr ""
+msgstr "Excel ៩៧–២០០៣"
 
 #. j6CcH
 #: MS_Excel_97_Vorlage_Template.xcu
@@ -447,7 +445,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Excel 97–2003 Template"
-msgstr ""
+msgstr "គំរូ Excel ៩៧–៩៧–២០០៣"
 
 #. yBQCh
 #: MS_Multiplan.xcu
@@ -457,7 +455,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Microsoft Multiplan"
-msgstr ""
+msgstr "ផែនការពហុ Microsoft"
 
 #. W6h9T
 #: MS_PowerPoint_97.xcu
@@ -467,7 +465,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "PowerPoint 97–2003"
-msgstr ""
+msgstr "PowerPoint ៩៧–២០០៣"
 
 #. ViN3v
 #: MS_PowerPoint_97_AutoPlay.xcu
@@ -477,7 +475,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "PowerPoint 97–2003 AutoPlay"
-msgstr ""
+msgstr "PowerPoint ៩៧–២០០៣ AutoPlay"
 
 #. w6jpN
 #: MS_PowerPoint_97_Vorlage.xcu
@@ -487,18 +485,17 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "PowerPoint 97–2003 Template"
-msgstr ""
+msgstr "គំរូ PowerPoint ៩៧–២០០៣"
 
 #. FBCpY
 #: MS_WinWord_5.xcu
-#, fuzzy
 msgctxt ""
 "MS_WinWord_5.xcu\n"
 "MS WinWord 5\n"
 "UIName\n"
 "value.text"
 msgid "Microsoft WinWord 1/2/5"
-msgstr "Microsoft WinWord 5"
+msgstr "Microsoft WinWord ១/២/៥"
 
 #. JKsNh
 #: MS_WinWord_6_0.xcu
@@ -508,7 +505,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Microsoft Word 6.0"
-msgstr "Microsoft Word 6.0"
+msgstr "Microsoft Word ៦.០"
 
 #. Y6L7Q
 #: MS_Word_2003_XML.xcu
@@ -518,7 +515,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Word 2003 XML"
-msgstr ""
+msgstr "Word ២០០៣ XML"
 
 #. RQrx8
 #: MS_Word_2007_XML.xcu
@@ -528,7 +525,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Word 2007–365"
-msgstr ""
+msgstr "Word ២០០៧–៣៦៥"
 
 #. FTkiA
 #: MS_Word_2007_XML_Template.xcu
@@ -538,7 +535,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Word 2007–365 Template"
-msgstr ""
+msgstr "គំរូ  ២០០៧–៣៦៥"
 
 #. ja9Xs
 #: MS_Word_2007_XML_VBA.xcu
@@ -548,7 +545,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Word 2007–365 VBA"
-msgstr ""
+msgstr "Word ២០០៧–៣៦៥ VBA"
 
 #. arVLQ
 #: MS_Word_95.xcu
@@ -558,7 +555,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Microsoft Word 95"
-msgstr "Microsoft Word 95"
+msgstr "Microsoft Word ៩៥"
 
 #. FLJEr
 #: MS_Word_95_Vorlage.xcu
@@ -568,7 +565,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Microsoft Word 95 Template"
-msgstr "ពុម្ព Microsoft Word 95"
+msgstr "ពុម្ព Microsoft Word ៩៥"
 
 #. cii3o
 #: MS_Word_97.xcu
@@ -578,7 +575,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Word 97–2003"
-msgstr ""
+msgstr "Word ៩៧–២០០៣"
 
 #. 5dqtn
 #: MS_Word_97_Vorlage.xcu
@@ -588,7 +585,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Word 97–2003 Template"
-msgstr ""
+msgstr "គំរូ Word ៩៧–២០០៣"
 
 #. GnuAC
 #: MS_Works.xcu
@@ -612,7 +609,6 @@ msgstr "ឯកសារ Microsoft Works"
 
 #. G3mSJ
 #: MS_Write.xcu
-#, fuzzy
 msgctxt ""
 "MS_Write.xcu\n"
 "MS_Write\n"
@@ -629,7 +625,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Legacy Mac Bitmap"
-msgstr ""
+msgstr "Legacy Mac រូបភាព"
 
 #. txqv8
 #: MWAW_Database.xcu
@@ -639,7 +635,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Legacy Mac Database"
-msgstr ""
+msgstr "Legacy Mac ទិន្នន័យ"
 
 #. WBq6L
 #: MWAW_Drawing.xcu
@@ -649,7 +645,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Legacy Mac Drawing"
-msgstr ""
+msgstr "Legacy Mac គូរ"
 
 #. YeAy9
 #: MWAW_Presentation.xcu
@@ -659,7 +655,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Legacy Mac Presentation"
-msgstr ""
+msgstr "Legacy Mac បទបង្ហាញ"
 
 #. 3WycC
 #: MWAW_Spreadsheet.xcu
@@ -669,7 +665,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Legacy Mac Spreadsheet"
-msgstr ""
+msgstr "Legacy Mac សៀវភៅបញ្ជី"
 
 #. qBeco
 #: MWAW_Text_Document.xcu
@@ -679,7 +675,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Legacy Mac Text Document"
-msgstr ""
+msgstr "Legacy Mac ឯកសារអត្ថបទ"
 
 #. ZUJ6t
 #: MacWrite.xcu
@@ -689,7 +685,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "MacWrite Document"
-msgstr "ឯកសារ MacWrite"
+msgstr "MacWrite ឯកសារ"
 
 #. FLgfD
 #: Mac_Word.xcu
@@ -699,29 +695,27 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Microsoft Word for Mac (v1 - v5)"
-msgstr "Microsoft Word សម្រាប់ Mac (v1 - v5)"
+msgstr "Microsoft Word សម្រាប់ Mac (v១ - v៥)"
 
 #. BgFoG
 #: Mac_Works.xcu
-#, fuzzy
 msgctxt ""
 "Mac_Works.xcu\n"
 "Mac_Works\n"
 "UIName\n"
 "value.text"
 msgid "Microsoft Works for Mac Text Document (v1 - v4)"
-msgstr "Microsoft Works សម្រាប់​ឯកសារ Mac (v1 - v4)"
+msgstr "Microsoft Works សម្រាប់​ឯកសារ Mac (v១ - v៤)"
 
 #. YvCSo
 #: Mac_Works_Calc.xcu
-#, fuzzy
 msgctxt ""
 "Mac_Works_Calc.xcu\n"
 "Mac_Works_Calc\n"
 "UIName\n"
 "value.text"
 msgid "Microsoft Works for Mac Spreadsheet (v1 - v4)"
-msgstr "Microsoft Works សម្រាប់​ឯកសារ Mac (v1 - v4)"
+msgstr "Microsoft Works សម្រាប់​ឯកសារ Mac (v១ - v៤)"
 
 #. LqFFg
 #: Mariner_Write.xcu
@@ -731,18 +725,17 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Mariner Write Mac Classic v1.6 - v3.5"
-msgstr "Mariner Write Mac Classic v1.6 - v3.5"
+msgstr "Mariner Write Mac Classic v១.៦ - v៣.៥"
 
 #. XKVa4
 #: MathML_XML__Math_.xcu
-#, fuzzy
 msgctxt ""
 "MathML_XML__Math_.xcu\n"
 "MathML XML (Math)\n"
 "UIName\n"
 "value.text"
 msgid "MathML 2.0"
-msgstr "MathML 1.01"
+msgstr "MathML ១.០១"
 
 #. xfm5A
 #: MathType_3_x.xcu
@@ -752,7 +745,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "MathType3.x"
-msgstr "MathType3.x"
+msgstr "MathType ៣.x"
 
 #. ErPnz
 #: ODG_FlatXML.xcu
@@ -762,7 +755,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Flat XML ODF Drawing"
-msgstr ""
+msgstr "Flat XML ODF គូរ"
 
 #. rAqWH
 #: ODP_FlatXML.xcu
@@ -772,7 +765,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Flat XML ODF Presentation"
-msgstr ""
+msgstr "Flat XML ODF បទបង្ហាញ"
 
 #. 6CWDA
 #: ODS_FlatXML.xcu
@@ -782,7 +775,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Flat XML ODF Spreadsheet"
-msgstr ""
+msgstr "Flat XML ODF  សៀវភៅបញ្ជី"
 
 #. En7QP
 #: ODT_FlatXML.xcu
@@ -792,7 +785,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Flat XML ODF Text Document"
-msgstr ""
+msgstr "Flat XML ODF ឯកសារអត្ថបទ"
 
 #. jysqT
 #: OOXML_Text.xcu
@@ -802,7 +795,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Office Open XML Text (Transitional)"
-msgstr ""
+msgstr "Office Open XML Text (ដំណើរផ្លាស់ប្តូរ)"
 
 #. Ymern
 #: OOXML_Text_Template.xcu
@@ -812,7 +805,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Office Open XML Text Template (Transitional)"
-msgstr ""
+msgstr "គំរូ Office Open XML Text (បណ្តោះអាសន្ន)"
 
 #. B4Xqe
 #: PBM___Portable_Bitmap.xcu
@@ -892,7 +885,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Adobe PageMaker"
-msgstr ""
+msgstr "Adobe PageMaker"
 
 #. KTSQB
 #: PalmDoc.xcu
@@ -902,11 +895,10 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "PalmDoc eBook"
-msgstr "PalmDoc eBook"
+msgstr "សៀវភៅអេឡិចត្រូនិច PalmDoc"
 
 #. SkskA
 #: Palm_Text_Document.xcu
-#, fuzzy
 msgctxt ""
 "Palm_Text_Document.xcu\n"
 "Palm_Text_Document\n"
@@ -923,7 +915,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Plucker eBook"
-msgstr "Plucker eBook"
+msgstr "សៀវភៅអេឡិចត្រូនិច Plucker"
 
 #. YffjT
 #: PowerPoint3.xcu
@@ -933,7 +925,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Microsoft PowerPoint 1-4 and 95's"
-msgstr ""
+msgstr "Microsoft PowerPoint ១-៤ and ៩៥'s"
 
 #. qrRDz
 #: PublisherDocument.xcu
@@ -943,7 +935,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Microsoft Publisher 98-2010"
-msgstr "Microsoft Publisher 98-2010"
+msgstr "Microsoft Publisher ៩៨-២០១០"
 
 #. ikBfY
 #: QPro.xcu
@@ -953,7 +945,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Quattro Pro 6.0"
-msgstr "Quattro Pro 6.0"
+msgstr "Quattro Pro ៦.0"
 
 #. TGH7V
 #: QXPDocument.xcu
@@ -963,7 +955,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "QuarkXPress"
-msgstr ""
+msgstr "QuarkXPress"
 
 #. FpfDN
 #: RAS___Sun_Rasterfile.xcu
@@ -983,7 +975,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Rich Text"
-msgstr "អត្ថបទ​សម្បូរ​បែប"
+msgstr "អត្ថបទ​ Rich"
 
 #. JDULv
 #: Rich_Text_Format__StarCalc_.xcu
@@ -993,7 +985,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Rich Text Format (Calc)"
-msgstr "ទ្រង់ទ្រាយ​អត្ថបទ​សម្បូរ​បែប (Calc)"
+msgstr "ទ្រង់ទ្រាយ​អត្ថបទ​ Rich (Calc)"
 
 #. KbNXG
 #: SVG___Scalable_Vector_Graphics.xcu
@@ -1013,7 +1005,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "SVG - Scalable Vector Graphics Draw"
-msgstr ""
+msgstr "SVG - Scalable Vector Graphics Draw"
 
 #. VjB4m
 #: SVM___StarView_Metafile.xcu
@@ -1063,7 +1055,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Legacy StarOffice Drawing"
-msgstr ""
+msgstr "Legacy StarOffice គូរ"
 
 #. AA8DU
 #: StarOffice_Presentation.xcu
@@ -1073,7 +1065,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Legacy StarOffice Presentation"
-msgstr ""
+msgstr "Legacy StarOffice បទបង្ហាញ"
 
 #. wU9ui
 #: StarOffice_Spreadsheet.xcu
@@ -1083,7 +1075,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Legacy StarOffice Spreadsheet"
-msgstr ""
+msgstr "Legacy StarOffice សៀវភៅបញ្ជី"
 
 #. eLzL6
 #: StarOffice_Writer.xcu
@@ -1093,7 +1085,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Legacy StarOffice Text Document"
-msgstr ""
+msgstr "Legacy StarOffice ឯកសារអត្ថបទ"
 
 #. GitUg
 #: StarOffice_XML__Base_.xcu
@@ -1113,7 +1105,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "OpenOffice.org 1.0 Spreadsheet"
-msgstr "OpenOffice.org 1.0 សៀវភៅ​បញ្ជី"
+msgstr "OpenOffice.org ១.0 សៀវភៅ​បញ្ជី"
 
 #. ybPJp
 #: StarOffice_XML__Chart_.xcu
@@ -1123,7 +1115,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "OpenOffice.org 1.0 Chart"
-msgstr "OpenOffice.org 1.0 គំនូសតាង"
+msgstr "OpenOffice.org ១.0 គំនូសតាង"
 
 #. wnAXQ
 #: StarOffice_XML__Draw_.xcu
@@ -1133,7 +1125,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "OpenOffice.org 1.0 Drawing"
-msgstr "OpenOffice.org 1.0 គំនូរ"
+msgstr "OpenOffice.org ១.0 គូរ"
 
 #. rGSr3
 #: StarOffice_XML__Impress_.xcu
@@ -1143,7 +1135,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "OpenOffice.org 1.0 Presentation"
-msgstr "OpenOffice.org 1.0 ការ​បង្ហាញ"
+msgstr "OpenOffice.org ១.0 ការ​បង្ហាញ"
 
 #. QCoxC
 #: StarOffice_XML__Math_.xcu
@@ -1153,7 +1145,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "OpenOffice.org 1.0 Formula"
-msgstr "OpenOffice.org 1.0 រូបមន្ត"
+msgstr "OpenOffice.org ១.0 រូបមន្ត"
 
 #. 4Lr4M
 #: StarOffice_XML__Writer_.xcu
@@ -1163,7 +1155,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "OpenOffice.org 1.0 Text Document"
-msgstr "OpenOffice.org 1.0 ឯកសារ​អត្ថបទ"
+msgstr "OpenOffice.org ១.0 ឯកសារ​អត្ថបទ"
 
 #. WDxtc
 #: T602Document.xcu
@@ -1213,7 +1205,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Text (Writer/Web)"
-msgstr "អត្ថបទ (Writer/Web)"
+msgstr "អត្ថបទ (កម្មវិធីសរសេរ/គេហទំព័រ)"
 
 #. EEBpB
 #: Text___txt___csv__StarCalc_.xcu
@@ -1243,7 +1235,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Text - Choose Encoding (Master Document)"
-msgstr "ជ្រើស​ការ​អ៊ិនកូដ​អត្ថបទ (Master Document)"
+msgstr "អត្ថបទ​ - ជ្រើស​ការ​អ៊ិនកូដ​ (ឯកសារមេ)"
 
 #. FyvJV
 #: Text__encoded___StarWriter_Web_.xcu
@@ -1253,7 +1245,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Text - Choose Encoding (Writer/Web)"
-msgstr "ជ្រើស​ការ​អ៊ិនគ្រីប​អត្ថបទ (Writer/Web)"
+msgstr "ជ្រើស​ការ​អ៊ិនគ្រីប​អត្ថបទ (កម្មវិធីសរសេរ / គេហទំព័រ)"
 
 #. mDoGT
 #: UOF_presentation.xcu
@@ -1293,7 +1285,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Microsoft Visio 2000-2013"
-msgstr "Microsoft Visio 2000-2013"
+msgstr "Microsoft Visio ២០០០-២០១៣"
 
 #. zUxn7
 #: WMF___MS_Windows_Metafile.xcu
@@ -1307,14 +1299,13 @@ msgstr "WMF - Windows Metafile"
 
 #. G6mAM
 #: WPS_Lotus_Calc.xcu
-#, fuzzy
 msgctxt ""
 "WPS_Lotus_Calc.xcu\n"
 "WPS_Lotus_Calc\n"
 "UIName\n"
 "value.text"
 msgid "Lotus Document"
-msgstr "ផ្ទុក​ឯកសារ"
+msgstr "ផ្ទុក​ ឯកសារ"
 
 #. aWnQ9
 #: WPS_QPro_Calc.xcu
@@ -1324,7 +1315,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "QuattroPro Document"
-msgstr ""
+msgstr "ឯកសារ QuattroPro"
 
 #. 98S59
 #: WordPerfect.xcu
@@ -1384,7 +1375,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Zoner Callisto/Draw"
-msgstr ""
+msgstr "Zoner កាលីស្តូ / កម្មវិធីគូរ"
 
 #. 5CaBn
 #: calc8.xcu
@@ -1414,7 +1405,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Gnumeric Spreadsheet"
-msgstr ""
+msgstr "សៀវភៅបញ្ជី Gnumeric"
 
 #. HWKsT
 #: calc_HTML_WebQuery.xcu
@@ -1424,7 +1415,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Web Page Query (Calc)"
-msgstr "Web Page Query (Calc)"
+msgstr "សំណួរគេហទំព័រ (កម្មវិធីគណនា)"
 
 #. 3jBQz
 #: calc_MS_Excel_2007_Binary.xcu
@@ -1434,7 +1425,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Microsoft Excel 2007 Binary"
-msgstr "ប្រព័ន្ធ​គោល​ពីរ Microsoft Excel 2007"
+msgstr "ប្រព័ន្ធ​គោល​ពីរ Microsoft Excel ២០០៧"
 
 #. Vpueh
 #: calc_MS_Excel_2007_VBA_XML.xcu
@@ -1444,7 +1435,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Excel 2007–365 (macro-enabled)"
-msgstr ""
+msgstr "Excel ២០០៧–៣៦៥ (អាចដំណើរការម៉ាក្រូ)"
 
 #. oSgEe
 #: calc_MS_Excel_2007_XML.xcu
@@ -1454,7 +1445,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Excel 2007–365"
-msgstr ""
+msgstr "Excel ២០០៧–៣៦៥"
 
 #. fiFPw
 #: calc_MS_Excel_2007_XML_Template.xcu
@@ -1464,7 +1455,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Excel 2007–365 Template"
-msgstr ""
+msgstr "គំរូ Excel ២០០៧–៣៦៥"
 
 #. 6V2uj
 #: calc_OOXML.xcu
@@ -1494,7 +1485,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "OpenOffice.org 1.0 Spreadsheet Template"
-msgstr "ពុម្ព​សៀវភៅ​បញ្ជី OpenOffice.org 1.0"
+msgstr "ពុម្ព​សៀវភៅ​បញ្ជី OpenOffice.org ១.0"
 
 #. 5qdNy
 #: calc_jpg_Export.xcu
@@ -1534,7 +1525,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "SVG - Scalable Vector Graphics"
-msgstr ""
+msgstr "SVG - Scalable Vector Graphics"
 
 #. ASgi2
 #: chart8.xcu
@@ -1564,7 +1555,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "ODF Drawing"
-msgstr "គំនូរ ODF"
+msgstr "ការគូរ ODF"
 
 #. JzyXZ
 #: draw8_template.xcu
@@ -1574,7 +1565,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "ODF Drawing Template"
-msgstr "ពុម្ព​គំនូរ ODF"
+msgstr "ពុម្ព​ការគូរ ODF"
 
 #. C8ABS
 #: draw_PCD_Photo_CD_Base.xcu
@@ -1584,7 +1575,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "PCD - Kodak Photo CD (768x512)"
-msgstr "PCD - Kodak Photo CD (768x512)"
+msgstr "PCD - Kodak Photo CD (៧៦៨x៥១២)"
 
 #. bTGGv
 #: draw_PCD_Photo_CD_Base16.xcu
@@ -1594,7 +1585,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "PCD - Kodak Photo CD (192x128)"
-msgstr "PCD - Kodak Photo CD (192x128)"
+msgstr "PCD - Kodak Photo CD (១៩២x១២៨)"
 
 #. WkqKk
 #: draw_PCD_Photo_CD_Base4.xcu
@@ -1604,7 +1595,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "PCD - Kodak Photo CD (384x256)"
-msgstr "PCD - Kodak Photo CD (384x256)"
+msgstr "PCD - Kodak Photo CD (៤៨៤x២៥៦)"
 
 #. XqdTg
 #: draw_StarOffice_XML_Draw_Template.xcu
@@ -1614,7 +1605,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "OpenOffice.org 1.0 Drawing Template"
-msgstr "ពុម្ព​គំនូរ OpenOffice.org 1.0"
+msgstr "ពុម្ព​ការគូរ OpenOffice.org ១.0"
 
 #. m4Wdq
 #: draw_bmp_Export.xcu
@@ -1664,7 +1655,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "HTML Document (Draw)"
-msgstr "ឯកសារ HTML (Draw)"
+msgstr "ឯកសារ HTML (កម្មវិធគូរ)"
 
 #. wQMFz
 #: draw_jpg_Export.xcu
@@ -1744,7 +1735,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "ODF Drawing (Impress)"
-msgstr "គំនូរ ODF (Impress)"
+msgstr "ការគូរ ODF (Impress)"
 
 #. yYDVB
 #: impress8_template.xcu
@@ -1764,7 +1755,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "PowerPoint 2007–365"
-msgstr ""
+msgstr "PowerPoint ២០០៧–៣៦៥"
 
 #. HfPRk
 #: impress_MS_PowerPoint_2007_XML_AutoPlay.xcu
@@ -1774,7 +1765,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "PowerPoint 2007–365 AutoPlay"
-msgstr ""
+msgstr "PowerPoint ២០០៧–៣៦៥ AutoPlay"
 
 #. uGCji
 #: impress_MS_PowerPoint_2007_XML_Template.xcu
@@ -1784,7 +1775,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "PowerPoint 2007–365 Template"
-msgstr ""
+msgstr "គំរូ PowerPoint ២០០៧–៣៦៥"
 
 #. PAsvD
 #: impress_MS_PowerPoint_2007_XML_VBA.xcu
@@ -1794,7 +1785,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "PowerPoint 2007–365 VBA"
-msgstr ""
+msgstr "PowerPoint ២០០៧–៣៦៥VBA"
 
 #. 68fuR
 #: impress_OOXML.xcu
@@ -1814,7 +1805,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Office Open XML Presentation AutoPlay"
-msgstr "Office Open XML Presentation AutoPlay"
+msgstr "Office Open XML បទ​បង្ហាញ AutoPlay"
 
 #. vcvUA
 #: impress_OOXML_Template.xcu
@@ -1834,7 +1825,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "OpenOffice.org 1.0 Drawing (Impress)"
-msgstr "OpenOffice.org 1.0 Drawing (Impress)"
+msgstr "OpenOffice.org ១.0 គូរ (Impress)"
 
 #. oviUa
 #: impress_StarOffice_XML_Impress_Template.xcu
@@ -1844,7 +1835,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "OpenOffice.org 1.0 Presentation Template"
-msgstr "OpenOffice.org 1.0 Presentation Template"
+msgstr "OpenOffice.org ១.0 គំរូបទបង្ហាញ"
 
 #. ptcbj
 #: impress_bmp_Export.xcu
@@ -2014,7 +2005,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Hangul WP 97"
-msgstr "Hangul WP 97"
+msgstr "Hangul WP ៩៧"
 
 #. xxieP
 #: writer_StarOffice_XML_Writer_Template.xcu
@@ -2024,7 +2015,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "OpenOffice.org 1.0 Text Document Template"
-msgstr "ពុម្ព​ឯកសារ​អត្ថបទ OpenOffice.org 1.0"
+msgstr "ពុម្ព​ឯកសារ​អត្ថបទ OpenOffice.org ១.0"
 
 #. vu9L5
 #: writer_globaldocument_StarOffice_XML_Writer.xcu
@@ -2034,17 +2025,18 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "OpenOffice.org 1.0 Text Document"
-msgstr "ឯកសារ​អត្ថបទ OpenOffice.org 1.0"
+msgstr "ឯកសារ​អត្ថបទ OpenOffice.org ១.0"
 
 #. ngztG
 #: writer_globaldocument_StarOffice_XML_Writer_GlobalDocument.xcu
 msgctxt ""
-"writer_globaldocument_StarOffice_XML_Writer_GlobalDocument.xcu\n"
+"writer_globaldocument_StarOffice_XML_Writer_GlobalDocument."
+"xcu\n"
 "writer_globaldocument_StarOffice_XML_Writer_GlobalDocument\n"
 "UIName\n"
 "value.text"
 msgid "OpenOffice.org 1.0 Master Document"
-msgstr "ឯកសារ​មេ OpenOffice.org 1.0"
+msgstr "ឯកសារ​មេ OpenOffice.org ១.0"
 
 #. AnZbG
 #: writer_globaldocument_pdf_Export.xcu
@@ -2074,7 +2066,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Writer Layout XML"
-msgstr "Writer Layout XML"
+msgstr "ប្លង់សរសេរ XML"
 
 #. wADhK
 #: writer_pdf_Export.xcu
@@ -2104,7 +2096,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "SVG - Scalable Vector Graphics"
-msgstr ""
+msgstr "SVG - Scalable Vector Graphics"
 
 #. Xu2fw
 #: writer_web_HTML_help.xcu
@@ -2124,7 +2116,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "OpenOffice.org 1.0 Text Document (Writer/Web)"
-msgstr "ឯកសារ​អត្ថបទ OpenOffice.org 1.0 (Writer/Web)"
+msgstr "ឯកសារ​អត្ថបទ OpenOffice.org ១.0 (Writer/Web)"
 
 #. kp5x8
 #: writer_web_StarOffice_XML_Writer_Web_Template.xcu
@@ -2134,7 +2126,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "OpenOffice.org 1.0 HTML Template"
-msgstr "ពុម្ព OpenOffice.org 1.0 HTML"
+msgstr "ពុម្ព OpenOffice.org ១.0 HTML"
 
 #. DQZCK
 #: writer_web_jpg_Export.xcu
@@ -2184,18 +2176,17 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "HTML (Writer/Global)"
-msgstr "HTML (Writer/Global)"
+msgstr "HTML (អ្នកសរសេរ /សកល)"
 
 #. UqpiB
 #: writerglobal8_template.xcu
-#, fuzzy
 msgctxt ""
 "writerglobal8_template.xcu\n"
 "writerglobal8_template\n"
 "UIName\n"
 "value.text"
 msgid "ODF Master Document Template"
-msgstr "ពុម្ព​ឯកសារ​អត្ថបទ ODF"
+msgstr "ពុម្ព​ឯកសារ​អត្ថបទមេ ODF"
 
 #. RbTUd
 #: writerglobal8_writer.xcu
@@ -2215,7 +2206,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Text (Writer/Web)"
-msgstr "អត្ថបទ (Writer/Web)"
+msgstr "អត្ថបទ (កម្មវិធីសរសេរ/ គេហទំព័រ)"
 
 #. C2WrF
 #: writerweb8_writer_template.xcu

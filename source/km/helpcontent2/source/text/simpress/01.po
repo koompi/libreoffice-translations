@@ -1,21 +1,19 @@
-#. extracted from helpcontent2/source/text/simpress/01
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
-"POT-Creation-Date: 2020-07-21 11:19+0200\n"
-"PO-Revision-Date: 2019-08-09 08:20+0000\n"
-"Last-Translator: serval2412 <serval2412@yahoo.fr>\n"
-"Language-Team: Khmer <support@khmeros.info>\n"
+"POT-Creation-Date: 2020-03-10 13:36+0100\n"
+"PO-Revision-Date: 2020-09-14 11:44+0700\n"
+"Last-Translator: Koompi Apps Localization\n"
 "Language: km\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Accelerator-Marker: ~\n"
-"X-Generator: LibreOffice\n"
-"X-Language: km-KH\n"
-"X-POOTLE-MTIME: 1565338818.000000\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-POOTLE-MTIME: 1535975854.000000\n"
+"Language-Team: KOOMPI Apps Localization\n"
 
 #. mu9aV
 #: 01170000.xhp
@@ -33,7 +31,7 @@ msgctxt ""
 "bm_id3153728\n"
 "help.text"
 msgid "<bookmark_value>Presentation HTML export</bookmark_value> <bookmark_value>Drawing HTML export</bookmark_value><bookmark_value>exporting;to HTML format</bookmark_value>"
-msgstr ""
+msgstr "ការនាំចេញ HTML ការធ្វើបទបង្ហាញ </bookmark_value> ការនាំចេញ HTML </bookmark_value> ការនាំចេញជាទ្រង់ទ្រាយ HTML ទៅជាទ្រង់ទ្រាយ HTML ។"
 
 #. y8AoW
 #: 01170000.xhp
@@ -42,7 +40,7 @@ msgctxt ""
 "hd_id3153728\n"
 "help.text"
 msgid "<link href=\"text/simpress/01/01170000.xhp\" name=\"Export\">Export</link>"
-msgstr ""
+msgstr "<link href=\"text/simpress/01/01170000.xhp\" name=\"Export\">Export</link>"
 
 #. KTVcm
 #: 01170000.xhp
@@ -69,7 +67,7 @@ msgctxt ""
 "par_id3155961\n"
 "help.text"
 msgid "<link href=\"text/shared/autopi/01110000.xhp\" name=\"HTML Document\">HTML Document</link>, <link href=\"text/shared/00/00000200.xhp\" name=\"Image Options\">JPEG, SVM/WMF/PICT/MET, BMP, GIF, EPS, PNG, PBM, PPM, PGM</link>."
-msgstr ""
+msgstr "<link href=\"text/shared/autopi/01110000.xhp\" name=\"HTML Document\">HTML Document</link>, <link href=\"text/shared/00/00000200.xhp\" name=\"Image Options\">JPEG, SVM/WMF/PICT/MET, BMP, GIF, EPS, PNG, PBM, PPM, PGM</link>."
 
 #. oyYNp
 #: 01170000.xhp
@@ -114,7 +112,7 @@ msgctxt ""
 "bm_id3154011\n"
 "help.text"
 msgid "<bookmark_value>slides; formatting</bookmark_value>        <bookmark_value>formatting;slides</bookmark_value>"
-msgstr ""
+msgstr "<bookmark_value>slides; formatting</bookmark_value>        <bookmark_value>formatting;slides</bookmark_value>"
 
 #. GV9zC
 #: 01180001.xhp
@@ -456,7 +454,7 @@ msgctxt ""
 "par_id3149379\n"
 "help.text"
 msgid "<ahelp hid=\"modules/simpress/ui/navigatorpanel/NavigatorPanel\">Opens the Navigator, where you can quickly jump to other slides or move between open files.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"modules/simpress/ui/navigatorpanel/NavigatorPanel\">បើកកម្មវិធីរុករកដែលអ្នកអាចលោតទៅស្លាយផ្សេងទៀតឬផ្លាស់ទីយ៉ាងលឿនរវាងឯកសារបើក។</ahelp>"
 
 #. pMcDi
 #: 02110000.xhp
@@ -501,7 +499,7 @@ msgctxt ""
 "par_id3148729\n"
 "help.text"
 msgid "<image id=\"img_id3153034\" src=\"sd/res/nv02.png\" width=\"0.222inch\" height=\"0.222inch\"><alt id=\"alt_id3153034\">Icon</alt></image>"
-msgstr ""
+msgstr "<image id=\"img_id3153034\" src=\"sd/res/nv02.png\" width=\"0.222inch\" height=\"0.222inch\"><alt id=\"alt_id3153034\">Icon</alt></image>"
 
 #. q8uQj
 #: 02110000.xhp
@@ -519,7 +517,7 @@ msgctxt ""
 "hd_id3152999\n"
 "help.text"
 msgid "First <switchinline select=\"appl\"><caseinline select=\"IMPRESS\">Slide</caseinline><defaultinline>Page</defaultinline></switchinline>"
-msgstr ""
+msgstr "First <switchinline select=\"appl\"><caseinline select=\"IMPRESS\">Slide</caseinline><defaultinline>Page</defaultinline></switchinline>"
 
 #. XGo6A
 #: 02110000.xhp
@@ -528,7 +526,7 @@ msgctxt ""
 "par_id3153564\n"
 "help.text"
 msgid "<ahelp hid=\"modules/simpress/ui/navigatorpanel/first\">Jumps to the first <switchinline select=\"appl\"><caseinline select=\"IMPRESS\">slide</caseinline><defaultinline>page</defaultinline></switchinline>.</ahelp>"
-msgstr ""
+msgstr "<ahelp hide=\"modules / simpress / ui / navigatorpanel / first\"> លោតទៅ <switchinline select=\"appl\"><caseinline select=\"IMPRESS\">ស្លាយ </caseinline> <defaultinline> ទំព័រ</defaultinline></switchinline>.</ahelp>"
 
 #. EcZAg
 #: 02110000.xhp
@@ -537,7 +535,7 @@ msgctxt ""
 "par_id3155925\n"
 "help.text"
 msgid "<image id=\"img_id3155931\" src=\"cmd/sc_firstrecord.png\" width=\"0.222inch\" height=\"0.222inch\"><alt id=\"alt_id3155931\">Icon First Slide</alt></image>"
-msgstr ""
+msgstr "<image id=\"img_id3155931\" src=\"cmd/sc_firstrecord.png\" width=\"0.222inch\" height=\"0.222inch\"><alt id=\"alt_id3155931\">ស្លាយរូបតំណាងដំបូង</alt></image>"
 
 #. MPHRK
 #: 02110000.xhp
@@ -546,7 +544,7 @@ msgctxt ""
 "par_id3145246\n"
 "help.text"
 msgid "First <switchinline select=\"appl\"><caseinline select=\"IMPRESS\">Slide</caseinline><defaultinline>Page</defaultinline></switchinline>"
-msgstr ""
+msgstr "<ahelp hide=\"modules / simpress / ui / navigatorpanel / first\"> លោតទៅ <switchinline select=\"appl\"><caseinline select=\"IMPRESS\">ស្លាយ </caseinline> <defaultinline> ទំព័រ</defaultinline></switchinline>.</ahelp>"
 
 #. 8Hda2
 #: 02110000.xhp
@@ -555,7 +553,7 @@ msgctxt ""
 "hd_id3156061\n"
 "help.text"
 msgid "Previous <switchinline select=\"appl\"><caseinline select=\"IMPRESS\">Slide</caseinline><defaultinline>Page</defaultinline></switchinline>"
-msgstr ""
+msgstr "ពីមុន <switchinline select=\"appl\"><caseinline select=\"IMPRESS\">ស្លាយ</caseinline><defaultinline>ទំព័រ</defaultinline></switchinline>"
 
 #. EzsXF
 #: 02110000.xhp
@@ -564,7 +562,7 @@ msgctxt ""
 "par_id3148768\n"
 "help.text"
 msgid "<ahelp hid=\"modules/simpress/ui/navigatorpanel/previous\">Moves back one <switchinline select=\"appl\"><caseinline select=\"IMPRESS\">slide</caseinline><defaultinline>page</defaultinline></switchinline>.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"modules/simpress/ui/navigatorpanel/previous\">ខិតត្រឡប់ទៅវិញមួយ <switchinline select=\"appl\"><caseinline select=\"IMPRESS\">ស្លាយ</caseinline><defaultinline>ទំព័រ</defaultinline></switchinline>.</ahelp>"
 
 #. fkXpB
 #: 02110000.xhp
@@ -573,7 +571,7 @@ msgctxt ""
 "par_id3153045\n"
 "help.text"
 msgid "<image id=\"img_id3157976\" src=\"cmd/sc_prevrecord.png\" width=\"0.222inch\" height=\"0.222inch\"><alt id=\"alt_id3157976\">Icon Previous Slide</alt></image>"
-msgstr ""
+msgstr "<image id=\"img_id3157976\" src=\"cmd/sc_prevrecord.png\" width=\"0.222inch\" height=\"0.222inch\"><alt id=\"alt_id3157976\">រូបតំណាងស្លាយពីមុន</alt></image>"
 
 #. yuS3R
 #: 02110000.xhp
@@ -582,7 +580,7 @@ msgctxt ""
 "par_id3150473\n"
 "help.text"
 msgid "Previous <switchinline select=\"appl\"><caseinline select=\"IMPRESS\">Slide</caseinline><defaultinline>Page</defaultinline></switchinline>"
-msgstr ""
+msgstr "ពីមុន <switchinline select=\"appl\"><caseinline select=\"IMPRESS\">ស្លាយ</caseinline><defaultinline>ទំព័រ</defaultinline></switchinline>"
 
 #. ArMiT
 #: 02110000.xhp
@@ -591,7 +589,7 @@ msgctxt ""
 "hd_id3155369\n"
 "help.text"
 msgid "Next <switchinline select=\"appl\"><caseinline select=\"IMPRESS\">Slide</caseinline><defaultinline>Page</defaultinline></switchinline>"
-msgstr ""
+msgstr "ពីមុន <switchinline select=\"appl\"><caseinline select=\"IMPRESS\">ស្លាយ</caseinline><defaultinline>ទំព័រ</defaultinline></switchinline>"
 
 #. ZMEvk
 #: 02110000.xhp
@@ -600,7 +598,7 @@ msgctxt ""
 "par_id3153920\n"
 "help.text"
 msgid "<ahelp hid=\"modules/simpress/ui/navigatorpanel/next\">Move forward one <switchinline select=\"appl\"><caseinline select=\"IMPRESS\">slide</caseinline><defaultinline>page</defaultinline></switchinline>.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"modules/simpress/ui/navigatorpanel/next\">ខិតត្រឡប់ទៅមុខមួយ <switchinline select=\"appl\"><caseinline select=\"IMPRESS\">ស្លាយ</caseinline><defaultinline>ទំព័រ</defaultinline></switchinline>.</ahelp>"
 
 #. PAhBu
 #: 02110000.xhp
@@ -609,7 +607,7 @@ msgctxt ""
 "par_id3083279\n"
 "help.text"
 msgid "<image id=\"img_id3083286\" src=\"cmd/sc_nextrecord.png\" width=\"0.222inch\" height=\"0.222inch\"><alt id=\"alt_id3083286\">Icon Next Slide</alt></image>"
-msgstr ""
+msgstr "<image id=\"img_id3083286\" src=\"cmd/sc_nextrecord.png\" width=\"0.222inch\" height=\"0.222inch\"><alt id=\"alt_id3083286\">រូបតំណាងស្លាយបន្ទាប់</alt></image>"
 
 #. auJUM
 #: 02110000.xhp
@@ -618,7 +616,7 @@ msgctxt ""
 "par_id3149454\n"
 "help.text"
 msgid "Next <switchinline select=\"appl\"><caseinline select=\"IMPRESS\">Slide</caseinline><defaultinline>Page</defaultinline></switchinline>"
-msgstr ""
+msgstr "ពីមុន <switchinline select=\"appl\"><caseinline select=\"IMPRESS\">ស្លាយ</caseinline><defaultinline>ទំព័រ</defaultinline></switchinline>"
 
 #. yA7AU
 #: 02110000.xhp
@@ -627,7 +625,7 @@ msgctxt ""
 "hd_id3150762\n"
 "help.text"
 msgid "Last <switchinline select=\"appl\"><caseinline select=\"IMPRESS\">Slide</caseinline><defaultinline>Page</defaultinline></switchinline>"
-msgstr ""
+msgstr "ពីមុន <switchinline select=\"appl\"><caseinline select=\"IMPRESS\">ស្លាយ</caseinline><defaultinline>ទំព័រ</defaultinline></switchinline>"
 
 #. qxd3Z
 #: 02110000.xhp
@@ -636,7 +634,7 @@ msgctxt ""
 "par_id3147564\n"
 "help.text"
 msgid "<ahelp hid=\"modules/simpress/ui/navigatorpanel/last\">Jumps to the last <switchinline select=\"appl\"><caseinline select=\"IMPRESS\">slide</caseinline><defaultinline>page</defaultinline></switchinline>.</ahelp>"
-msgstr ""
+msgstr "<ahelp hide=\"modules / simpress / ui / navigatorpanel / first\"> លោតទៅ <switchinline select=\"appl\"><caseinline select=\"IMPRESS\">ស្លាយ </caseinline> <defaultinline> ទំព័រ</defaultinline></switchinline>.</ahelp>"
 
 #. FD8jY
 #: 02110000.xhp
@@ -645,7 +643,7 @@ msgctxt ""
 "par_id3151183\n"
 "help.text"
 msgid "<image id=\"img_id3156315\" src=\"cmd/sc_lastrecord.png\" width=\"0.222inch\" height=\"0.222inch\"><alt id=\"alt_id3156315\">Icon Last Record</alt></image>"
-msgstr ""
+msgstr "<image id=\"img_id3156315\" src=\"cmd/sc_lastrecord.png\" width=\"0.222inch\" height=\"0.222inch\"><alt id=\"alt_id3156315\">រូបតំណាងកំណត់ត្រាចុងក្រោយ</alt></image>"
 
 #. gBkye
 #: 02110000.xhp
@@ -654,7 +652,7 @@ msgctxt ""
 "par_id3154055\n"
 "help.text"
 msgid "Last <switchinline select=\"appl\"><caseinline select=\"IMPRESS\">Slide</caseinline><defaultinline>Page</defaultinline></switchinline>"
-msgstr ""
+msgstr "ពីមុន <switchinline select=\"appl\"><caseinline select=\"IMPRESS\">ស្លាយ</caseinline><defaultinline>ទំព័រ</defaultinline></switchinline>"
 
 #. qy3c4
 #: 02110000.xhp
@@ -672,7 +670,7 @@ msgctxt ""
 "par_id3150264\n"
 "help.text"
 msgid "<ahelp hid=\"modules/simpress/ui/navigatorpanel/dragmode\">Drag and drop slides and named objects into the active slide.</ahelp> You can only insert slides and named objects from a saved file. You can only insert named objects as copies."
-msgstr ""
+msgstr "<ahelp hide = \"modules / simpress / ui / navigatorpanel / dragmode\"> អូសនិងទម្លាក់ស្លាយនិងដាក់ឈ្មោះវត្ថុទៅក្នុងស្លាយសកម្ម។ អ្នកអាចបញ្ចូលតែវត្ថុដែលមានឈ្មោះជាច្បាប់ចម្លងប៉ុណ្ណោះ។"
 
 #. Eshi3
 #: 02110000.xhp
@@ -681,7 +679,7 @@ msgctxt ""
 "par_id3149757\n"
 "help.text"
 msgid "<image id=\"img_id3147254\" src=\"sw/res/sc20238.png\" width=\"0.222inch\" height=\"0.222inch\"><alt id=\"alt_id3147254\">Icon</alt></image>"
-msgstr ""
+msgstr "<image id=\"img_id3147254\" src=\"sw/res/sc20238.png\" width=\"0.222inch\" height=\"0.222inch\"><alt id=\"alt_id3147254\">រូបតំណាង</alt></image>"
 
 #. PAuZn
 #: 02110000.xhp
@@ -717,7 +715,7 @@ msgctxt ""
 "par_id3147513\n"
 "help.text"
 msgid "<image id=\"img_id3154258\" src=\"sw/res/sc20239.png\" width=\"0.222inch\" height=\"0.222inch\"><alt id=\"alt_id3154258\">Icon</alt></image>"
-msgstr ""
+msgstr "<image id=\"img_id3154258\" src=\"sw/res/sc20239.png\" width=\"0.222inch\" height=\"0.222inch\"><alt id=\"alt_id3154258\">រូបតំណាង</alt></image>"
 
 #. PrM3m
 #: 02110000.xhp
@@ -816,7 +814,7 @@ msgctxt ""
 "par_id3154599\n"
 "help.text"
 msgid "<ahelp hid=\"modules/simpress/ui/navigatorpanel/tree\">Lists available slides. Double-click a slide to make it the active slide.</ahelp>"
-msgstr ""
+msgstr "<ahelp hide = \"modules / simpress / ui / navigatorpanel / tree\" រាយបញ្ជីស្លាយដែលមាន។ ចុចទ្វេដងលើស្លាយដើម្បីឱ្យវាក្លាយជាស្លាយសកម្ម។ </ahelp>"
 
 #. GDZEM
 #: 02110000.xhp
@@ -834,7 +832,7 @@ msgctxt ""
 "par_id3150631\n"
 "help.text"
 msgid "<ahelp hid=\"modules/simpress/ui/navigatorpanel/documents\">Lists available $[officename] files.</ahelp> Select a file to display the contents you can insert."
-msgstr ""
+msgstr "<ahelp hide = \"modules / simpress / ui / navigatorpanel / documents\"> មានបញ្ជីឯកសារ $[officename] ដែលមាន។ </ahelp> ជ្រើសឯកសារដើម្បីបង្ហាញមាតិកាដែលអ្នកអាចបញ្ចូល។"
 
 #. YLmGD
 #: 02120000.xhp
@@ -1509,7 +1507,7 @@ msgctxt ""
 "hd_id3154018\n"
 "help.text"
 msgid "<link href=\"text/simpress/01/new_slide.xhp\" name=\"Slide\">Slide</link>"
-msgstr ""
+msgstr "<link href=\"text/simpress/01/new_slide.xhp\" name=\"Slide\">ស្លាយ</link>"
 
 #. Ag9V3
 #: 03070000.xhp
@@ -1527,7 +1525,7 @@ msgctxt ""
 "hd_id3155960\n"
 "help.text"
 msgid "<link href=\"text/simpress/01/05120000.xhp\" name=\"Change Slide Master\">Change Slide Master</link>"
-msgstr ""
+msgstr "<link href=\"text/simpress/01/05120000.xhp\" name=\"Change Slide Master\">ផ្លាស់ប្តូរស្លាយមេ</link>"
 
 #. UCxrT
 #: 03080000.xhp
@@ -1581,7 +1579,7 @@ msgctxt ""
 "par_id9628894\n"
 "help.text"
 msgid "<ahelp hid=\".\" visibility=\"hidden\">When enabled, the current slide shows the background of the master slide.</ahelp>"
-msgstr ""
+msgstr "<ahelp បានលាក់ = \"។ \" ភាពមើលឃើញ = \"លាក់\"> នៅពេលបើកដំណើរការស្លាយបច្ចុប្បន្នបង្ហាញផ្ទៃខាងក្រោយនៃស្លាយមេ។ </ahelp>"
 
 #. EFGy7
 #: 03080000.xhp
@@ -1590,7 +1588,7 @@ msgctxt ""
 "par_id7587206\n"
 "help.text"
 msgid "<ahelp hid=\".\" visibility=\"hidden\">When enabled, the current slide shows the objects of the master slide.</ahelp>"
-msgstr ""
+msgstr "<ahelp បានលាក់ = \"។ \" ភាពមើលឃើញ = \"លាក់\"> នៅពេលបើកដំណើរការស្លាយបច្ចុប្បន្នបង្ហាញវត្ថុនៃស្លាយមេ។ </ahelp>"
 
 #. z7z7h
 #: 03080000.xhp
@@ -1599,7 +1597,7 @@ msgctxt ""
 "par_id3257545\n"
 "help.text"
 msgid "<ahelp hid=\".\" visibility=\"hidden\">Opens a file dialog to select a picture. The picture will be scaled and inserted on the background of the current master slide.</ahelp>"
-msgstr ""
+msgstr "<ahelp បានលាក់ = \"។ \" ភាពមើលឃើញ = \"លាក់\"> បើកប្រអប់ឯកសារដើម្បីជ្រើសរើសរូបភាព។ រូបភាពនឹងត្រូវបានធ្វើមាត្រដ្ឋាននិងបញ្ចូលនៅលើផ្ទៃខាងក្រោយនៃស្លាយមេបច្ចុប្បន្ន"
 
 #. RhRBB
 #: 03090000.xhp
@@ -1608,7 +1606,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Outline View"
-msgstr ""
+msgstr "ទិដ្ឋភាពគ្រោង"
 
 #. RtUFC
 #: 03090000.xhp
@@ -1680,7 +1678,7 @@ msgctxt ""
 "par_id3154492\n"
 "help.text"
 msgid "<ahelp hid=\"HID_SD_BTN_SLIDE\">Displays miniature versions of the slides so they can easily be rearranged.</ahelp>"
-msgstr ""
+msgstr "<ahelp hide = \"HID_SD_BTN_SLIDE\"> បង្ហាញស្លាយខ្នាតតូចនៃស្លាយដូច្នេះពួកវាអាចត្រូវបានរៀបចំឡើងវិញយ៉ាងងាយស្រួល។ </ahelp>"
 
 #. nhPuP
 #: 03110000.xhp
@@ -1689,7 +1687,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Notes View"
-msgstr ""
+msgstr "ទិដ្ឋភាពចំណាំ"
 
 #. ruveH
 #: 03110000.xhp
@@ -1743,7 +1741,7 @@ msgctxt ""
 "par_id3154684\n"
 "help.text"
 msgid "<variable id=\"handout_text\"><ahelp hid=\"HID_SD_BTN_HANDOUT\">Switches to the handout page view, where you can scale several slides to fit on one printed page.</ahelp></variable>"
-msgstr ""
+msgstr "<variable id = \"handout_text\"> <ahelp hide = \"HID_SD_BTN_HANDOUT\"> ប្តូរទៅមើលទំព័រប្លង់ចែកវិញដែលអ្នកអាចកំណត់ស្លាយជាច្រើនដើម្បីឱ្យសមនឹងទំព័រដែលបានបោះពុម្ព។ </ahelp> </variable>"
 
 #. f9HJW
 #: 03120000.xhp
@@ -1752,7 +1750,7 @@ msgctxt ""
 "par_id110120150547279702\n"
 "help.text"
 msgid "To modify the number of slides you can print on a page, open the <emph>Properties</emph> sidebar deck and double-click a layout on the <emph>Layout</emph> content panel."
-msgstr ""
+msgstr "ដើម្បីកែប្រែចំនួនស្លាយដែលអ្នកអាចព្រីននៅលើទំព័រមួយសូមបើកផ្ទាំងចំហៀងលក្ខណៈសម្បត្តិនិងចុចទ្វេដងលើប្លង់នៅលើផ្ទាំងមាតិកា <emph> ប្លង់ </emph> ។"
 
 #. Tbjmu
 #: 03130000.xhp
@@ -1779,7 +1777,7 @@ msgctxt ""
 "par_id3154016\n"
 "help.text"
 msgid "<variable id=\"bldpra\"><ahelp hid=\".\">Starts your slide show.</ahelp></variable>"
-msgstr ""
+msgstr "<variable id=\"bldpra\"><ahelp hid=\".\">ចាប់ផ្តើមបញ្ចាំងស្លាយ.</ahelp></variable>"
 
 #. D7jc6
 #: 03130000.xhp
@@ -1878,7 +1876,7 @@ msgctxt ""
 "par_id3150011\n"
 "help.text"
 msgid "<ahelp hid=\".\">Switches to one of several master views, where you can add elements that you want to appear on all of the slides in your show.</ahelp>"
-msgstr ""
+msgstr "<ahelp hide = \"។ \"> ប្តូរទៅទស្សនៈមេមួយចំនួនដែលអ្នកអាចបន្ថែមធាតុដែលអ្នកចង់បង្ហាញនៅលើស្លាយទាំងអស់នៅក្នុងកម្មវិធីរបស់អ្នក។ </ahelp>"
 
 #. h4RwT
 #: 03150100.xhp
@@ -1887,7 +1885,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Master Slide"
-msgstr ""
+msgstr "ស្លាយមេ"
 
 #. bbaVv
 #: 03150100.xhp
@@ -1896,7 +1894,7 @@ msgctxt ""
 "bm_id3154013\n"
 "help.text"
 msgid "<bookmark_value>normal view; backgrounds</bookmark_value>  <bookmark_value>backgrounds; normal view</bookmark_value>  <bookmark_value>views;master slide view</bookmark_value>  <bookmark_value>master slide view</bookmark_value>"
-msgstr ""
+msgstr "<bookmark_value>normal view; backgrounds</bookmark_value>  <bookmark_value>backgrounds; normal view</bookmark_value>  <bookmark_value>views;master slide view</bookmark_value>  <bookmark_value>master slide view</bookmark_value>"
 
 #. D8RE5
 #: 03150100.xhp
@@ -1905,7 +1903,7 @@ msgctxt ""
 "hd_id3154013\n"
 "help.text"
 msgid "<link href=\"text/simpress/01/03150100.xhp\" name=\"Master Slide\">Master Slide</link>"
-msgstr ""
+msgstr "<link href=\"text/simpress/01/03150100.xhp\" name=\"ស្លាយមេ\">ស្លាយមេ</link>"
 
 #. yuN3X
 #: 03150100.xhp
@@ -1914,7 +1912,7 @@ msgctxt ""
 "par_id3151075\n"
 "help.text"
 msgid "<ahelp hid=\".\">Switches to master slide view, where you can add elements that you want to appear on all of the slides that use the same master slide.</ahelp>"
-msgstr ""
+msgstr "<ahelp hide = \"។ \"> ប្តូរទៅទិដ្ឋភាពស្លាយមេដែលអ្នកអាចបន្ថែមធាតុដែលអ្នកចង់បង្ហាញលើស្លាយទាំងអស់ដែលប្រើស្លាយមេដូចគ្នា។ </ahelp>"
 
 #. 9gFTW
 #: 03150100.xhp
@@ -1923,7 +1921,7 @@ msgctxt ""
 "par_id4941557\n"
 "help.text"
 msgid "<ahelp hid=\".\" visibility=\"hidden\">Inserts a new master slide into the document. Double-click the new master slide on the Slides pane to apply it to all slides.</ahelp>"
-msgstr ""
+msgstr "<ahelp បានលាក់ = \"។ \" ភាពមើលឃើញ = \"លាក់\"> បញ្ចូលស្លាយមេថ្មីទៅក្នុងឯកសារ។ ចុចទ្វេដងលើស្លាយមេថ្មីនៅលើផ្ទាំងស្លាយដើម្បីអនុវត្តវាលើស្លាយទាំងអស់។ </ahelp>"
 
 #. QwNyk
 #: 03150100.xhp
@@ -1932,7 +1930,7 @@ msgctxt ""
 "par_id9961851\n"
 "help.text"
 msgid "<ahelp hid=\".\" visibility=\"hidden\">Select a master slide and click this icon to remove the master slide from the document.</ahelp>"
-msgstr ""
+msgstr "<ahelp បានលាក់ = \"។ \" ភាពមើលឃើញ = \"លាក់\"> ជ្រើសស្លាយមេហើយចុចរូបតំណាងនេះដើម្បីលុបស្លាយមេចេញពីឯកសារ"
 
 #. erQ56
 #: 03150100.xhp
@@ -1941,7 +1939,7 @@ msgctxt ""
 "par_id4526200\n"
 "help.text"
 msgid "<ahelp hid=\".\" visibility=\"hidden\">Select a master slide and click this icon to rename the master slide.</ahelp>"
-msgstr ""
+msgstr "<ahelp បានលាក់ = \"។ \" ភាពមើលឃើញ = \"លាក់\"> ជ្រើសស្លាយមេហើយចុចរូបតំណាងនេះដើម្បីប្តូរឈ្មោះស្លាយមេ។ </ahelp>"
 
 #. rUYFb
 #: 03150100.xhp
@@ -1950,7 +1948,7 @@ msgctxt ""
 "par_id8036133\n"
 "help.text"
 msgid "<ahelp hid=\".\" visibility=\"hidden\">Closes the master slide view.</ahelp>"
-msgstr ""
+msgstr "<ahelp បានលាក់ = \".\" ភាពមើលឃើញ = \"លាក់\"> បិទទិដ្ឋភាពស្លាយមេ។</ahelp>"
 
 #. gEyC8
 #: 03150300.xhp
@@ -1959,7 +1957,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Master Notes"
-msgstr ""
+msgstr "Master Notes"
 
 #. M5hFB
 #: 03150300.xhp
@@ -1977,7 +1975,7 @@ msgctxt ""
 "hd_id3153144\n"
 "help.text"
 msgid "<link href=\"text/simpress/01/03150300.xhp\" name=\"Master Notes\">Master Notes</link>"
-msgstr ""
+msgstr "<link href=\"text/simpress/01/03150300.xhp\" name=\"Master Notes\">Master Notes </link>"
 
 #. QUxqM
 #: 03150300.xhp
@@ -1986,7 +1984,7 @@ msgctxt ""
 "par_id3154491\n"
 "help.text"
 msgid "<ahelp hid=\".\">Displays the master notes, where you can set the default formatting for notes.</ahelp>"
-msgstr ""
+msgstr "<ahelp hide = \". \"> បង្ហាញកំណត់ត្រាមេដែលអ្នកអាចកំណត់ទ្រង់ទ្រាយលំនាំដើមសម្រាប់កំណត់ចំណាំ។</ahelp>"
 
 #. FjtAU
 #: 03151000.xhp
@@ -2004,7 +2002,7 @@ msgctxt ""
 "bm_id4083986\n"
 "help.text"
 msgid "<bookmark_value>headers and footers;master slides layouts</bookmark_value>  <bookmark_value>master slides layouts with headers and footers</bookmark_value>"
-msgstr ""
+msgstr "<bookmark_value>headers and footers;master slides layouts</bookmark_value>  <bookmark_value>master slides layouts with headers and footers</bookmark_value>"
 
 #. W4r4L
 #: 03151000.xhp
@@ -2022,7 +2020,7 @@ msgctxt ""
 "par_idN1057D\n"
 "help.text"
 msgid "<ahelp hid=\".\">Add header, footer, date, and slide number placeholders to the master slide.</ahelp>"
-msgstr ""
+msgstr "<ahelp hide = \"។ \"> បន្ថែមបឋមកថាបាតកថាកាលបរិច្ឆេទនិងកន្លែងដាក់លេខស្លាយទៅស្លាយមេ។</ahelp>"
 
 #. 9sGbo
 #: 03151100.xhp
@@ -2031,7 +2029,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Master Slide Layout"
-msgstr ""
+msgstr "ប្លង់ស្លាយមេ"
 
 #. 9DE2m
 #: 03151100.xhp
@@ -2040,7 +2038,7 @@ msgctxt ""
 "par_idN10537\n"
 "help.text"
 msgid "<link href=\"text/simpress/01/03151100.xhp\">Master Slide Layout</link>"
-msgstr ""
+msgstr "<link href=\"text/simpress/01/03150100.xhp\" name=\"ស្លាយមេ\">ស្លាយមេ</link>"
 
 #. BFiHw
 #: 03151100.xhp
@@ -2049,7 +2047,7 @@ msgctxt ""
 "par_idN1053B\n"
 "help.text"
 msgid "<ahelp hid=\"modules/simpress/ui/masterlayoutdlg/MasterLayoutDialog\">Adds or removes header, footer, date, and slide number placeholders to the layout of the master slide.</ahelp>"
-msgstr ""
+msgstr "<ahelp hide = \"modules / simpress / ui / masterlayoutdlg / MasterLayoutDialog\"> បន្ថែមឬយកបឋមកថាបាតកថាកាលបរិច្ឆេទនិងកន្លែងដាក់លេខស្លាយទៅប្លង់ស្លាយមេ។ </ahelp>"
 
 #. hzr7L
 #: 03151100.xhp
@@ -2076,7 +2074,7 @@ msgctxt ""
 "par_idN1055A\n"
 "help.text"
 msgid "<ahelp hid=\"modules/simpress/ui/masterlayoutdlg/header\">Adds a header placeholder to the master slide for notes.</ahelp>"
-msgstr ""
+msgstr "<ahelp hide = \"modules / simpress / ui / masterlayoutdlg / header\"> បន្ថែមកន្លែងដាក់បឋមកថាទៅស្លាយមេសម្រាប់កំណត់ចំណាំ។ </ahelp>"
 
 #. PmBBD
 #: 03151100.xhp
@@ -2094,7 +2092,7 @@ msgctxt ""
 "par_idN10575\n"
 "help.text"
 msgid "<ahelp hid=\"modules/simpress/ui/masterlayoutdlg/datetime\">Adds a date/time placeholder to the master slide.</ahelp>"
-msgstr ""
+msgstr "<ahelp hide = \"modules / simpress / ui / masterlayoutdlg / header\"> បន្ថែមកន្លែងដាក់បឋមកថាទៅស្លាយមេសម្រាប់កំណត់ចំណាំ។ </ahelp>"
 
 #. UTCgn
 #: 03151100.xhp
@@ -2112,7 +2110,7 @@ msgctxt ""
 "par_idN10590\n"
 "help.text"
 msgid "<ahelp hid=\"modules/simpress/ui/masterlayoutdlg/footer\">Adds a footer placeholder to the master slide.</ahelp>"
-msgstr ""
+msgstr "<ahelp hide = \"modules / simpress / ui / masterlayoutdlg / footer\"> បន្ថែមកន្លែងដាក់បាតកថាទៅស្លាយមេ។ </ahelp>"
 
 #. BEzcG
 #: 03151100.xhp
@@ -2130,7 +2128,7 @@ msgctxt ""
 "par_idN105AB\n"
 "help.text"
 msgid "<ahelp hid=\"modules/simpress/ui/masterlayoutdlg/pagenumber\">Adds a slide number placeholder to the master slide.</ahelp>"
-msgstr ""
+msgstr "<ahelp hide = \"modules / simpress / ui / masterlayoutdlg / pagenumber\"> បន្ថែមកន្លែងដាក់លេខស្លាយទៅស្លាយមេ។ </ahelp>"
 
 #. Khx7L
 #: 03151200.xhp
@@ -2139,7 +2137,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Master Notes Layout"
-msgstr ""
+msgstr "ទ្រង់ទ្រាយប្លង់ស្លាយមេ"
 
 #. CZPoq
 #: 03151200.xhp
@@ -2148,7 +2146,7 @@ msgctxt ""
 "par_idN10527\n"
 "help.text"
 msgid "<link href=\"text/simpress/01/03151200.xhp\">Master Notes Layout</link>"
-msgstr ""
+msgstr "<link href=\"text/simpress/01/03150300.xhp\" name=\"Master Notes\">Master Notes </link>"
 
 #. 5xuE5
 #: 03151200.xhp
@@ -2157,7 +2155,7 @@ msgctxt ""
 "par_idN1052B\n"
 "help.text"
 msgid "<ahelp hid=\"SID_MASTER_LAYOUTS_NOTES\">Add header, footer, date, and slide number to the master notes.</ahelp>"
-msgstr ""
+msgstr "<ahelp hide = \"SID_MASTER_LAYOUTS_NOTES\"> បន្ថែមបឋមកថាបាតកថាកាលបរិច្ឆេទនិងលេខស្លាយទៅកំណត់ចំណាំមេ។ </ahelp>"
 
 #. 86iBU
 #: 03152000.xhp
@@ -2193,7 +2191,7 @@ msgctxt ""
 "par_idN1054E\n"
 "help.text"
 msgid "<ahelp hid=\"modules/simpress/ui/headerfooterdialog/HeaderFooterDialog\">Adds or changes text in placeholders at the top and the bottom of slides and master slides.</ahelp>"
-msgstr ""
+msgstr "<ahelp hide = \"modules / simpress / ui / headerfooterdialog / HeaderFooterDialog\"> បន្ថែមឬផ្លាស់ប្តូរអត្ថបទក្នុងកន្លែងដាក់នៅខាងលើនិងខាងក្រោមស្លាយនិងស្លាយមេ។ </ahelp>"
 
 #. DZHmF
 #: 03152000.xhp
@@ -2436,7 +2434,7 @@ msgctxt ""
 "par_idN107DC\n"
 "help.text"
 msgid "<ahelp hid=\"modules/simpress/ui/headerfooterdialog/apply_all\">Applies the settings to all the slides in your presentation, including the corresponding master slides.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"modules/simpress/ui/headerfooterdialog/apply_all\"> អនុវត្តការកំណត់ចំពោះស្លាយទាំងអស់ក្នុងបទបង្ហាញរបស់អ្នករួមទាំងស្លាយមេដែលត្រូវគ្នា។ </ahelp>"
 
 #. wQmSk
 #: 03152000.xhp
@@ -2508,7 +2506,7 @@ msgctxt ""
 "par_id3154757\n"
 "help.text"
 msgid "<ahelp hid=\".\">Shows slides in color.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".\">បញ្ជាក់​ពណ៌​ផ្ទៃខាង​ក្រោយ​ សម្រាប់​វត្ថុ​បញ្ជា​បច្ចុប្បន្ន ។</ahelp>"
 
 #. uGGAY
 #: 03180000.xhp
@@ -2526,7 +2524,7 @@ msgctxt ""
 "par_id3150200\n"
 "help.text"
 msgid "<ahelp hid=\".\">Shows slides in shades of black and white.</ahelp>"
-msgstr ""
+msgstr "<ahelp hide = \"។ \">បង្ហាញស្លាយជាពណ៌សខ្មៅ។  </ahelp>"
 
 #. zGeFH
 #: 03180000.xhp
@@ -2544,7 +2542,7 @@ msgctxt ""
 "par_id3150207\n"
 "help.text"
 msgid "<ahelp hid=\".\">Shows slides in pure black or white without shading.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".\"> បង្ហាញស្លាយជាពណ៌ខ្មៅឬសសុទ្ធដោយមិនដាក់ស្រមោល។ </ahelp>"
 
 #. MuqA4
 #: 04030000.xhp
@@ -2571,7 +2569,7 @@ msgctxt ""
 "hd_id3145800\n"
 "help.text"
 msgid "<link href=\"text/simpress/01/04030000.xhp\" name=\"Snap Point/Line\">Snap Point/Line</link>"
-msgstr ""
+msgstr "<link href=\"text/simpress/01/04030000.xhp\" name=\"Snap Point/Line\">ចំណុច / បន្ទាត់ខ្ទាស់</link>"
 
 #. YTzoX
 #: 04030000.xhp
@@ -2616,7 +2614,7 @@ msgctxt ""
 "par_id083120160555409190\n"
 "help.text"
 msgid "<image id=\"img_id083120160554511738\" src=\"media/screenshots/modules/sdraw/ui/dlgsnap/SnapObjectDialog.png\" width=\"3.0728in\" height=\"2.6354in\"><alt id=\"alt_id083120160554511738\">Snap points dialog</alt></image>"
-msgstr ""
+msgstr "<image id=\"img_id083120160554511738\" src=\"media/screenshots/modules/sdraw/ui/dlgsnap/SnapObjectDialog.png\" width=\"3.0728in\" height=\"2.6354in\"><alt id=\"alt_id083120160554511738\">ប្រអប់ចំណុចខ្ទាស់</alt></image>"
 
 #. RVAJU
 #: 04030000.xhp
@@ -2949,7 +2947,7 @@ msgctxt ""
 "hd_id3146976\n"
 "help.text"
 msgid "<variable id=\"insertobjectfromfile\"><link href=\"text/simpress/01/04110100.xhp\" name=\"Insert page\">Insert <switchinline select=\"appl\"><caseinline select=\"IMPRESS\">Slide</caseinline><defaultinline>Page</defaultinline></switchinline>/Objects from File</link></variable>"
-msgstr ""
+msgstr "<variable id=\"insertobjectfromfile\"><link href=\"text/simpress/01/04110100.xhp\" name=\"Insert page\">បញ្ចូល <switchinline select=\"appl\"><caseinline select=\"IMPRESS\">ស្លាយ</caseinline><defaultinline>ទំព័រ</defaultinline></switchinline>/វត្ថុពីឯកសារ</link></variable>"
 
 #. zCX2g
 #: 04110100.xhp
@@ -2976,7 +2974,7 @@ msgctxt ""
 "par_id3150749\n"
 "help.text"
 msgid "Click the plus sign next to the file name and select the elements you want to insert. Hold down <switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline> to add to or Shift to expand your selection."
-msgstr ""
+msgstr "ចុចលើសញ្ញាបូកនៅជាប់នឹងឈ្មោះឯកសារហើយជ្រើសរើសធាតុដែលអ្នកចង់បញ្ចូល។ សង្កត់ <switchinline select = \"sys\"> <caseinline select = \"MAC\">Command </caseinline> <defaultinline> Ctrl </defaultinline> </switchinline> ដើម្បីបន្ថែមឬប្តូរដើម្បីពង្រីកជម្រើសរបស់អ្នក។"
 
 #. wJrC2
 #: 04110100.xhp
@@ -3075,7 +3073,7 @@ msgctxt ""
 "par_id3149018\n"
 "help.text"
 msgid "The inserted text uses the default text formatting of the active slide. If you want, you can drag a text box in your slide, and then insert the text. The box automatically extends downwards for longer text passages."
-msgstr ""
+msgstr "អត្ថបទដែលបានបញ្ចូលប្រើការធ្វើទ្រង់ទ្រាយអត្ថបទលំនាំដើមរបស់ស្លាយសកម្ម។ ប្រសិនបើអ្នកចង់បានអ្នកអាចអូសប្រអប់អត្ថបទនៅក្នុងស្លាយរបស់អ្នកហើយបន្ទាប់មកបញ្ចូលអត្ថបទ។ ប្រអប់ពង្រីកចុះក្រោមដោយស្វ័យប្រវត្តិសម្រាប់អត្ថបទដែលវែងជាងនេះ។"
 
 #. zJb7d
 #: 04110200.xhp
@@ -3462,7 +3460,7 @@ msgctxt ""
 "par_id3145799\n"
 "help.text"
 msgid "<ahelp hid=\".\">Inserts the page number into the current slide or page.</ahelp> If you want to add a page number to every slide, choose View - Master<switchinline select=\"appl\"><caseinline select=\"IMPRESS\"> Slide</caseinline></switchinline> and insert the page number field. To change the number format, choose <switchinline select=\"appl\"><caseinline select=\"IMPRESS\"><emph>Slide</emph></caseinline><caseinline select=\"DRAW\"><emph>Page</emph></caseinline></switchinline><emph> - Properties - Page</emph> tab and then select a format from the list in the <emph>Layout Settings</emph> area."
-msgstr ""
+msgstr "<ahelp hid = \"។ \"> បញ្ចូលលេខទំព័រចូលទៅក្នុងស្លាយឬទំព័របច្ចុប្បន្ន។ = \"IMPRESS\"> ស្លាយអិនធឺណេត> </switchinline> និងបញ្ចូលវាលលេខទំព័រ។ ដើម្បីផ្លាស់ប្តូរទ្រង់ទ្រាយលេខសូមជ្រើសរើស <switchinline select = \"appl\"> <caseinline select = \"IMPRESS\"> <emph> ស្លាយ </emph> </caseinline> <caseinline ជ្រើស = \"DRAW\"> <emph> ទំព័រ </ emph > </caseinline> </switchinline> <emph> - លក្ខណសម្បត្តិ - ថេបទំព័រ </emph> ហើយបន្ទាប់មកជ្រើសទ្រង់ទ្រាយពីបញ្ជីនៅក្នុងតំបន់ <emph> ការកំណត់ប្លង់ </emph> ។"
 
 #. 572UM
 #: 04990600.xhp
@@ -3581,6 +3579,15 @@ msgctxt ""
 msgid "On the Table Bar, click <emph>Table Properties</emph>."
 msgstr "នៅលើ​របារ​តារាង ចុច <emph>លក្ខណសម្បត្តិ​តារាង</emph> ។"
 
+#. 2uf2C
+#: 05090000m.xhp
+msgctxt ""
+"05090000m.xhp\n"
+"hd_id3146119\n"
+"help.text"
+msgid "<link href=\"text/shared/01/05020100.xhp\" name=\"Font\">Font</link>"
+msgstr "<link href=\"text/shared/01/05020100.xhp\" name=\"Font\">ពុម្ព​អក្សរ</link>"
+
 #. fcvcu
 #: 05100000.xhp
 msgctxt ""
@@ -3588,7 +3595,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Styles"
-msgstr ""
+msgstr "រចនាបទ"
 
 #. JTAGQ
 #: 05100000.xhp
@@ -3597,7 +3604,7 @@ msgctxt ""
 "bm_id3156024\n"
 "help.text"
 msgid "<bookmark_value>Styles window; graphics documents</bookmark_value>  <bookmark_value>fill format mode; styles</bookmark_value>"
-msgstr ""
+msgstr "<bookmark_value>Styles window; graphics documents</bookmark_value>  <bookmark_value>fill format mode; styles</bookmark_value>"
 
 #. vEkLA
 #: 05100000.xhp
@@ -3606,7 +3613,7 @@ msgctxt ""
 "hd_id3156024\n"
 "help.text"
 msgid "<link href=\"text/simpress/01/05100000.xhp\" name=\"Styles\">Styles</link>"
-msgstr ""
+msgstr "<link href=\"text/simpress/01/05100000.xhp\" name=\"Styles\">រចនាបទ</link>"
 
 #. ULKew
 #: 05100000.xhp
@@ -3615,7 +3622,7 @@ msgctxt ""
 "par_id3150398\n"
 "help.text"
 msgid "Opens the Styles deck of the Sidebar, which lists the available graphic and presentation styles for applying and editing."
-msgstr ""
+msgstr "បើកផ្ទាំងរចនាប័ទ្មនៃរបារចំហៀងដែលរាយរចនាប័ទ្មក្រាហ្វិកនិងបទបង្ហាញដែលមានសម្រាប់អនុវត្តនិងកែសម្រួល។"
 
 #. CFqVN
 #: 05100000.xhp
@@ -3624,7 +3631,7 @@ msgctxt ""
 "par_id3150439\n"
 "help.text"
 msgid "The Styles window in <item type=\"productname\">%PRODUCTNAME</item> Impress behaves differently than in other <item type=\"productname\">%PRODUCTNAME</item> programs. For example, you can create, edit and apply <emph>Graphic Styles</emph>, but you can only edit <emph>Presentation Styles</emph>."
-msgstr ""
+msgstr "បង្អួចស្តាយក្នុង <ធាតុប្រភេទ = \"ឈ្មោះផលិតផល\">%PRODUCTNAME </item> ចំណាប់អារម្មណ៍គួរមានឥរិយាបទខុសពីកម្មវិធី <ប្រភេទ = \"ឈ្មោះផលិតផល\"> កម្មវិធី%PRODUCTNAME </item> ។ ឧទាហរណ៍អ្នកអាចបង្កើតកែសម្រួលនិងអនុវត្ត <emph> រចនាប័ទ្មក្រាហ្វិក </emph> ប៉ុន្តែអ្នកអាចកែសម្រួលបានតែ <emph> រចនាប័ទ្មបទបង្ហាញ </emph> ប៉ុណ្ណោះ។"
 
 #. BeLXe
 #: 05100000.xhp
@@ -3633,7 +3640,7 @@ msgctxt ""
 "par_id3146121\n"
 "help.text"
 msgid "When you edit a style, the changes are automatically applied to all of the elements formatted with this style in your document. If you want to ensure that the styles on a specific slide are not updated, create a new <link href=\"text/simpress/guide/masterpage.xhp\" name=\"master slide\">master slide</link> for the slide."
-msgstr ""
+msgstr "នៅពេលអ្នកកែសម្រួលរចនាប័ទ្មការផ្លាស់ប្តូរត្រូវបានអនុវត្តដោយស្វ័យប្រវត្តិចំពោះធាតុទាំងអស់ដែលបានធ្វើទ្រង់ទ្រាយជាមួយរចនាប័ទ្មនេះនៅក្នុងឯកសាររបស់អ្នក។ ប្រសិនបើអ្នកចង់ធានាថារចនាប័ទ្មនៅលើស្លាយជាក់លាក់មិនត្រូវបានធ្វើឱ្យទាន់សម័យសូមបង្កើត <link href = \"text / simpress / guide / masterpage.xhp\" ឈ្មោះ = \"ស្លាយមេ\"> ស្លាយមេ </link> សម្រាប់ស្លាយ ។"
 
 #. JDFdX
 #: 05100000.xhp
@@ -3660,7 +3667,7 @@ msgctxt ""
 "par_id3154253\n"
 "help.text"
 msgid "<image id=\"img_id3156382\" src=\"cmd/sc_presentation.png\" width=\"1cm\" height=\"1cm\"><alt id=\"alt_id3156382\">Icon Presentation Styles</alt></image>"
-msgstr ""
+msgstr "<image id=\"img_id3156382\" src=\"cmd/sc_presentation.png\" width=\"1cm\" height=\"1cm\"><alt id=\"alt_id3156382\">រចនាបទរូបតំណាងបង្ហាញជា</alt></image>"
 
 #. FX2fC
 #: 05100000.xhp
@@ -3696,7 +3703,7 @@ msgctxt ""
 "par_id3145587\n"
 "help.text"
 msgid "<image id=\"img_id3150370\" src=\"cmd/sc_objectcatalog.png\" width=\"1cm\" height=\"1cm\"><alt id=\"alt_id3150370\">Icon Graphic Styles</alt></image>"
-msgstr ""
+msgstr "<image id=\"img_id3150370\" src=\"cmd/sc_objectcatalog.png\" width=\"1cm\" height=\"1cm\"><alt id=\"alt_id3150370\">រចនាបទរូបតំណាងក្រាហិក</alt></image>"
 
 #. CVtXt
 #: 05100000.xhp
@@ -3723,7 +3730,7 @@ msgctxt ""
 "par_id3149944\n"
 "help.text"
 msgid "<ahelp hid=\"SFX2_HID_TEMPLDLG_WATERCAN\">Applies the selected style to an object on your slide. Click the paint bucket icon and then click an object in your slide to apply the style. Click the paint bucket icon again to exit this mode.</ahelp>"
-msgstr ""
+msgstr "<ahelp hide = \"SFX2_HID_TEMPLDLG_WATERCAN\"> អនុវត្តរចនាប័ទ្មដែលបានជ្រើសទៅវត្ថុលើស្លាយរបស់អ្នក។ ចុចរូបតំណាងដាក់ធុងថ្នាំលាបហើយបន្ទាប់មកចុចវត្ថុនៅក្នុងស្លាយរបស់អ្នកដើម្បីអនុវត្តរចនាប័ទ្ម។ ចុចរូបតំណាងដាក់ធុងថ្នាំលាបម្តងទៀតដើម្បីចេញពីរបៀបនេះ"
 
 #. uFKrE
 #: 05100000.xhp
@@ -3732,7 +3739,7 @@ msgctxt ""
 "par_id3156020\n"
 "help.text"
 msgid "<image id=\"img_id3153246\" src=\"cmd/sc_fillstyle.png\" width=\"1cm\" height=\"1cm\"><alt id=\"alt_id3153246\">Icon Fill format mode</alt></image>"
-msgstr ""
+msgstr "<image id=\"img_id3153246\" src=\"cmd/sc_fillstyle.png\" width=\"1cm\" height=\"1cm\"><alt id=\"alt_id3153246\">រូបតំណាងរបៀបបំពេញទ្រង់ទ្រាយ</alt></image>"
 
 #. Nafq7
 #: 05100000.xhp
@@ -3759,7 +3766,7 @@ msgctxt ""
 "par_id3153009\n"
 "help.text"
 msgid "<ahelp hid=\"SFX2_HID_TEMPLDLG_NEWBYEXAMPLE\"><link href=\"text/shared/01/05140100.xhp\" name=\"Creates a new style\">Creates a new style</link> using the format attributes of a selected object.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"SFX2_HID_TEMPLDLG_NEWBYEXAMPLE\"><link href=\"text/shared/01/05140100.xhp\" name=\"Creates a new style\">បង្កើតស្ទីលថ្មី </link> ដោយប្រើគុណលក្ខណៈទ្រង់ទ្រាយនៃវត្ថុដែលបានជ្រើសរើស។</ahelp>"
 
 #. Pgf2Q
 #: 05100000.xhp
@@ -3768,7 +3775,7 @@ msgctxt ""
 "par_id3147297\n"
 "help.text"
 msgid "<image id=\"img_id3151390\" src=\"cmd/sc_stylenewbyexample.png\" width=\"1cm\" height=\"1cm\"><alt id=\"alt_id3151390\">Icon New Style from selection</alt></image>"
-msgstr ""
+msgstr "<image id=\"img_id3151390\" src=\"cmd/sc_stylenewbyexample.png\" width=\"1cm\" height=\"1cm\"><alt id=\"alt_id3151390\">រូបតំណាងរចនាប័ទ្មថ្មីពីជម្រើស</alt></image>"
 
 #. xeuEr
 #: 05100000.xhp
@@ -3795,7 +3802,7 @@ msgctxt ""
 "par_id3150653\n"
 "help.text"
 msgid "<ahelp hid=\"SFX2_HID_TEMPLDLG_UPDATEBYEXAMPLE\">Updates the Style selected in the Styles window with the current formatting of the selected object.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"SFX2_HID_TEMPLDLG_UPDATEBYEXAMPLE\">ធ្វើបច្ចុប្បន្នភាពរចនាប័ទ្មដែលបានជ្រើសក្នុងបង្អួចរចនាប័ទ្មជាមួយទ្រង់ទ្រាយបច្ចុប្បន្ននៃវត្ថុដែលបានជ្រើស។</ahelp>"
 
 #. niAJk
 #: 05100000.xhp
@@ -3804,7 +3811,7 @@ msgctxt ""
 "par_id3149888\n"
 "help.text"
 msgid "<image id=\"img_id3146878\" src=\"cmd/sc_styleupdatebyexample.png\" width=\"1cm\" height=\"1cm\"><alt id=\"alt_id3146878\">Icon Update Style</alt></image>"
-msgstr ""
+msgstr "<image id=\"img_id3146878\" src=\"cmd/sc_styleupdatebyexample.png\" width=\"1cm\" height=\"1cm\"><alt id=\"alt_id3146878\">បតំណាងធ្វើឱ្យទាន់សម័យរចនាប័ទ្ម</alt></image>"
 
 #. FuMK5
 #: 05100000.xhp
@@ -3831,7 +3838,7 @@ msgctxt ""
 "par_id3145590\n"
 "help.text"
 msgid "<ahelp hid=\"SFX2_HID_TEMPLATE_FMT\">Create, edit, apply and manage styles.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"SFX2_HID_TEMPLATE_FMT\">បង្កើតកែសម្រួលអនុវត្តនិងគ្រប់គ្រងស្ទីល។</ahelp>"
 
 #. HxDEb
 #: 05110500m.xhp
@@ -3894,7 +3901,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Change Slide Master"
-msgstr ""
+msgstr "ផ្លាស់ប្តូរមេស្លាយ"
 
 #. Jg7LJ
 #: 05120000.xhp
@@ -3903,7 +3910,7 @@ msgctxt ""
 "hd_id3154253\n"
 "help.text"
 msgid "<link href=\"text/simpress/01/05120000.xhp\" name=\"Change Slide Master\">Change Slide Master</link>"
-msgstr ""
+msgstr "<link href=\"text/simpress/01/05120000.xhp\" name=\"Change Slide Master\">ផ្លាស់ប្តូរមេស្លាយ</link>"
 
 #. Bi55Y
 #: 05120000.xhp
@@ -3912,7 +3919,7 @@ msgctxt ""
 "par_id3148485\n"
 "help.text"
 msgid "<variable id=\"seitenvorlagetext\"><ahelp hid=\".uno:PresentationLayout\">Displays the <emph>Available Master Slides</emph> dialog, where you can select a layout scheme for the current slide. Any objects in the slide design are inserted behind objects in the current slide.</ahelp></variable>"
-msgstr ""
+msgstr "<អថេរ id = \"seitenvorlagetext\"> <ahelp hid = \"។ uno: PresentationLayout\"> បង្ហាញប្រអប់ <emph> ស្លាយមេដែលមាន </emph> ដែលអ្នកអាចជ្រើសរើសគ្រោងប្លង់សម្រាប់ស្លាយបច្ចុប្បន្ន។ វត្ថុណាមួយនៅក្នុងការរចនាស្លាយត្រូវបានបញ្ចូលនៅពីក្រោយវត្ថុនៅក្នុងស្លាយបច្ចុប្បន្ន"
 
 #. nywQP
 #: 05120000.xhp
@@ -3984,7 +3991,7 @@ msgctxt ""
 "par_id3156020\n"
 "help.text"
 msgid "<ahelp hid=\"modules/simpress/ui/slidedesigndialog/load\">Displays the <link href=\"text/simpress/01/05120100.xhp\" name=\"Load Master Slide\"><emph>Load Master Slide</emph></link> dialog, where you can select additional slide designs.</ahelp>"
-msgstr ""
+msgstr "<ahelp hide = \"modules / simpress / ui / slidedesigndialog / load\"> បង្ហាញ <link href = \"text / simpress / 01 / 05120100.xhp\" ឈ្មោះ = \"រុញស្លាយមេ\"> <emph> ផ្ទុកស្លាយមេ </ emph ប្រអប់ </link> ដែលអ្នកអាចជ្រើសរើសការរចនាស្លាយបន្ថែម។ </ahelp>"
 
 #. sQnAB
 #: 05120100.xhp
@@ -3993,7 +4000,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Load Master Slide"
-msgstr ""
+msgstr "ផ្ទុកស្លាយមេ"
 
 #. cVSPz
 #: 05120100.xhp
@@ -4002,7 +4009,7 @@ msgctxt ""
 "hd_id3153728\n"
 "help.text"
 msgid "Load Master Slide"
-msgstr ""
+msgstr "ផ្ទុកស្លាយមេ"
 
 #. DB49E
 #: 05120100.xhp
@@ -4164,7 +4171,7 @@ msgctxt ""
 "bm_id3154754\n"
 "help.text"
 msgid "<bookmark_value>changing; slide layouts</bookmark_value>      <bookmark_value>slide layouts</bookmark_value>"
-msgstr ""
+msgstr "<bookmark_value>changing; slide layouts</bookmark_value>      <bookmark_value>slide layouts</bookmark_value>"
 
 #. REe2P
 #: 05130000.xhp
@@ -4182,7 +4189,7 @@ msgctxt ""
 "par_id3149126\n"
 "help.text"
 msgid "<variable id=\"seite\"><ahelp hid=\".uno:ModifyPage\">Opens a submenu with slide layouts.</ahelp>    </variable>"
-msgstr ""
+msgstr "<variable id=\"seite\"><ahelp hid=\".uno:ModifyPage\">បើកម៉ឺនុយរងដែលមានប្លង់ស្លាយ។</ahelp>    </variable>"
 
 #. CFkTY
 #: 05130000.xhp
@@ -4191,7 +4198,7 @@ msgctxt ""
 "par_id31469757\n"
 "help.text"
 msgid "<switchinline select=\"appl\">        <caseinline select=\"IMPRESS\">The icon in the Presentation toolbar opens a submenu. Select the slide layout for the slide.</caseinline>      </switchinline>"
-msgstr ""
+msgstr "<switchinline select=\"appl\">        <caseinline select=\"IMPRESS\">រូបតំណាងនៅក្នុងរបារឧបករណ៍បទបង្ហាញបើកម៉ឺនុយរង។ ជ្រើសប្លង់ស្លាយសម្រាប់ស្លាយ។</caseinline>      </switchinline>"
 
 #. sSqMV
 #: 05150000.xhp
@@ -4245,7 +4252,7 @@ msgctxt ""
 "par_id3154658\n"
 "help.text"
 msgid "A Dimension Line is always inserted on the <link href=\"text/sdraw/guide/layer_tipps.xhp\" name=\"layer\">layer</link> called <emph>Dimension Lines</emph>. If you set that layer to invisible, you will not see any Dimension Line in your drawing."
-msgstr ""
+msgstr "បន្ទាត់វិមាត្រតែងតែត្រូវបានបញ្ចូលនៅលើ <link href = \"text / sdraw / guide / layer_tipps.xhp\" ឈ្មោះ = \"ស្រទាប់\"> ស្រទាប់ </link> ហៅថា <emph> បន្ទាត់វិមាត្រ </emph> ។ ប្រសិនបើអ្នកកំណត់ស្រទាប់នោះទៅជាមើលមិនឃើញអ្នកនឹងមិនឃើញមានវិមាត្រណាមួយនៅក្នុងគំនូររបស់អ្នកឡើយ។"
 
 #. hZjxh
 #: 05150000.xhp
@@ -4542,7 +4549,7 @@ msgctxt ""
 "par_id3149209\n"
 "help.text"
 msgid "<variable id=\"verbindertext\"><ahelp hid=\".\">Sets the properties of a connector.</ahelp></variable>"
-msgstr ""
+msgstr "<variable id=\"verbindertext\"><ahelp hid=\".\">កំណត់លក្ខណៈសម្បត្តិរបស់ឧបករណ៍ភ្ជាប់។</ahelp></variable>"
 
 #. G9rWD
 #: 05170000.xhp
@@ -4857,7 +4864,7 @@ msgctxt ""
 "par_id3149121\n"
 "help.text"
 msgid "Select the object(s) that you want to move behind another object. Right-click and choose <emph>Arrange - Behind Object</emph>, and then click an object in your slide."
-msgstr ""
+msgstr "ជ្រើសវត្ថុដែលអ្នកចង់ផ្លាស់ទីនៅពីក្រោយវត្ថុផ្សេងទៀត។ ចុចកណ្តុរស្តាំហើយជ្រើសរើស <emph> រៀបចំ - នៅពីក្រោយវត្ថុ </emph> ហើយបន្ទាប់មកចុចលើវត្ថុមួយនៅក្នុងស្លាយរបស់អ្នក។"
 
 #. ogPb2
 #: 05250600.xhp
@@ -4974,7 +4981,7 @@ msgctxt ""
 "par_id3154011\n"
 "help.text"
 msgid "<ahelp hid=\".\">Defines the special effect that plays when you display a slide during a slide show.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".\">កំណត់បែបផែនពិសេសដែលលេងនៅពេលអ្នកបង្ហាញស្លាយកំឡុងពេលបញ្ចាំងស្លាយ</ahelp>"
 
 #. X9Xj8
 #: 06040000.xhp
@@ -4983,7 +4990,7 @@ msgctxt ""
 "par_id3154704\n"
 "help.text"
 msgid "To apply the same transition effect to more than one slide, switch to the <link href=\"text/simpress/01/03100000.xhp\" name=\"Slide View\">Slide Sorter</link>, select the slides, and then choose <emph>Slide - Slide Transition</emph>."
-msgstr ""
+msgstr "ដើម្បីអនុវត្តបែបផែនដំណើរផ្លាស់ប្តូរតែមួយទៅស្លាយច្រើនជាងមួយប្តូរទៅ <link href = \"text / simpress / 01 / 03100000.xhp\" ឈ្មោះ = \"មើលស្លាយ\"> ឧបករណ៍រុញស្លាយ </link> ជ្រើសស្លាយហើយបន្ទាប់មក ជ្រើស <emph> ស្លាយ - ដំណើរផ្លាស់ប្តូរស្លាយ។"
 
 #. JBML3
 #: 06040000.xhp
@@ -4992,7 +4999,7 @@ msgctxt ""
 "hd_id3149257\n"
 "help.text"
 msgid "Slide Transition"
-msgstr ""
+msgstr "ដំណើរផ្លាស់ប្តូរស្លាយ"
 
 #. HrPzS
 #: 06040000.xhp
@@ -5001,7 +5008,7 @@ msgctxt ""
 "par_id3145790\n"
 "help.text"
 msgid "<ahelp hid=\".\">Select the slide transition you want to use for the selected slides.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".\">ជ្រើសដំណើរផ្លាស់ប្តូរស្លាយដែលអ្នកចង់ប្រើសម្រាប់ស្លាយដែលបានជ្រើស។</ahelp>"
 
 #. HoVnR
 #: 06040000.xhp
@@ -5010,7 +5017,7 @@ msgctxt ""
 "par_idN106A5\n"
 "help.text"
 msgid "Variant"
-msgstr ""
+msgstr "វ៉ារ្យ៉ង់ ។"
 
 #. Th4iT
 #: 06040000.xhp
@@ -5019,7 +5026,7 @@ msgctxt ""
 "par_idN106AB\n"
 "help.text"
 msgid "<ahelp hid=\".\">Select a variation of the transition.</ahelp> This list is only available for certain transitions."
-msgstr ""
+msgstr "<ahelp hide = \"។ \"> ជ្រើសរើសបំរែបំរួលនៃការផ្លាស់ប្តូរ។ </ahelp> បញ្ជីនេះមានសំរាប់តែដំណើរផ្លាស់ប្តូរជាក់លាក់ប៉ុណ្ណោះ។"
 
 #. CHxNQ
 #: 06040000.xhp
@@ -5028,7 +5035,7 @@ msgctxt ""
 "hd_id3159207\n"
 "help.text"
 msgid "Duration"
-msgstr ""
+msgstr "រយៈពេល"
 
 #. 5wtVy
 #: 06040000.xhp
@@ -5037,7 +5044,7 @@ msgctxt ""
 "par_id3149048\n"
 "help.text"
 msgid "<ahelp hid=\".\">Sets the duration of the slide transition.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".\">កំណត់រយៈពេលនៃការផ្លាស់ប្តូរស្លាយ។</ahelp>"
 
 #. HQo3X
 #: 06040000.xhp
@@ -5055,7 +5062,7 @@ msgctxt ""
 "par_id3153212\n"
 "help.text"
 msgid "<ahelp hid=\".\">Lists sounds that can played during the slide transition.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".\">រាយសំឡេងដែលអាចលេងបានក្នុងអំឡុងពេលផ្លាស់ប្តូរស្លាយ។.</ahelp>"
 
 #. Z8PjX
 #: 06040000.xhp
@@ -5136,7 +5143,7 @@ msgctxt ""
 "par_idN1073B\n"
 "help.text"
 msgid "Apply Transition to All Slides"
-msgstr ""
+msgstr "អនុវត្តការផ្លាស់ប្តូរទៅស្លាយទាំងអស់"
 
 #. dvTvz
 #: 06040000.xhp
@@ -5208,7 +5215,7 @@ msgctxt ""
 "par_id3150012\n"
 "help.text"
 msgid "<variable id=\"animtext\"><ahelp hid=\".uno:AnimationObjects\">Creates a custom animation on the current slide.</ahelp> You can only use existing objects to create an animation.</variable>"
-msgstr ""
+msgstr "<អថេរ id = \"គំនូរជីវចល\"> <ahelp hide = \"។ uno: គំនូរជីវចល\"> បង្កើតគំនូរជីវចលផ្ទាល់ខ្លួននៅលើស្លាយបច្ចុប្បន្ន។ </ahelp> អ្នកអាចប្រើតែវត្ថុដែលមានស្រាប់ដើម្បីបង្កើតចលនា។"
 
 #. 3UFtA
 #: 06050000.xhp
@@ -5244,7 +5251,7 @@ msgctxt ""
 "par_id3147344\n"
 "help.text"
 msgid "<ahelp hid=\"modules/simpress/ui/dockinganimation/first\">Jumps to the first image in the animation sequence.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"modules/simpress/ui/dockinganimation/first\">លោតទៅរូបភាពដំបូងនៅក្នុងលំដាប់ចលនា។</ahelp>"
 
 #. mnyNH
 #: 06050000.xhp
@@ -5271,7 +5278,7 @@ msgctxt ""
 "par_id3145386\n"
 "help.text"
 msgid "<ahelp hid=\"modules/simpress/ui/dockinganimation/prev\">Plays the animation backwards.</ahelp>"
-msgstr ""
+msgstr "<ahelp hide = \"modules / simpress / ui / dockinganimation / prev\"> លេងចលនាថយក្រោយ។ </ahelp>"
 
 #. x88a8
 #: 06050000.xhp
@@ -5298,7 +5305,7 @@ msgctxt ""
 "par_id3150210\n"
 "help.text"
 msgid "<ahelp hid=\"modules/simpress/ui/dockinganimation/stop\">Stops playing the animation.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"modules/simpress/ui/dockinganimation/stop\">ឈប់លេងគំនូរជីវចល។</ahelp>"
 
 #. mFanZ
 #: 06050000.xhp
@@ -5325,7 +5332,7 @@ msgctxt ""
 "par_id3147297\n"
 "help.text"
 msgid "<ahelp hid=\"modules/simpress/ui/dockinganimation/next\">Plays the animation.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"modules/simpress/ui/dockinganimation/stop\">លេងគំនូរជីវចល។</ahelp>"
 
 #. WtyHY
 #: 06050000.xhp
@@ -5352,7 +5359,7 @@ msgctxt ""
 "par_id3154675\n"
 "help.text"
 msgid "<ahelp hid=\"modules/simpress/ui/dockinganimation/last\">Jumps to the last image in the animation sequence.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"modules/simpress/ui/dockinganimation/first\">លោតទៅរូបភាពដំបូងនៅក្នុងលំដាប់ចលនា។</ahelp>"
 
 #. oUaQ6
 #: 06050000.xhp
@@ -5388,7 +5395,7 @@ msgctxt ""
 "par_id3150008\n"
 "help.text"
 msgid "<ahelp hid=\"modules/simpress/ui/dockinganimation/numbitmap\">Indicates the position of the current image in the animation sequence.</ahelp> If you want to view another image, enter its number or click the up and down arrows."
-msgstr ""
+msgstr "<ahelp hid=\"modules/simpress/ui/dockinganimation/numbitmap\">ចង្អុលបង្ហាញទីតាំងរបស់រូបភាពបច្ចុប្បន្ននៅក្នុងលំដាប់ចលនា។</ahelp> ប្រសិនបើអ្នកចង់មើលរូបភាពផ្សេងទៀតបញ្ចូលលេខរបស់វាឬចុចព្រួញឡើងលើនិងចុះក្រោម។"
 
 #. GR7LJ
 #: 06050000.xhp
@@ -5406,7 +5413,7 @@ msgctxt ""
 "par_id3150337\n"
 "help.text"
 msgid "<ahelp hid=\"modules/simpress/ui/dockinganimation/duration\">Enter the number of seconds to display the current image. This option is only available if you select the <emph>Bitmap object</emph> option in the <emph>Animation group</emph> field.</ahelp>"
-msgstr ""
+msgstr "<ahelp hide = \"modules / simpress / ui / dockinganimation / duration\"> បញ្ចូលចំនួនវិនាទីដើម្បីបង្ហាញរូបភាពបច្ចុប្បន្ន។ ជម្រើសនេះអាចប្រើបានលុះត្រាតែអ្នកជ្រើសរើសជំរើស <emph> វត្ថុរូបភាពតូចតាច </emph> នៅក្នុងផ្នែក <emph> ក្រុមគំនូរជីវចល </emph> ។ </ahelp>"
 
 #. zSvoP
 #: 06050000.xhp
@@ -5424,7 +5431,7 @@ msgctxt ""
 "par_id3154326\n"
 "help.text"
 msgid "<ahelp hid=\"modules/simpress/ui/dockinganimation/loopcount\">Sets the number of times that the animation is played.</ahelp> If you want the animation to play continuously, choose <emph>Max</emph>."
-msgstr ""
+msgstr "<ahelp hid=\"modules/simpress/ui/dockinganimation/loopcount\">កំណត់ចំនួនដងដែលគំនូរជីវចលត្រូវបានចាក់។ </ahelp> ប្រសិនបើអ្នកចង់ឱ្យចលនាលេងបន្តសូមជ្រើសរើស <emph>Max</emph>."
 
 #. 5tLwB
 #: 06050000.xhp
@@ -5460,7 +5467,7 @@ msgctxt ""
 "par_id3157974\n"
 "help.text"
 msgid "<ahelp hid=\"modules/simpress/ui/dockinganimation/getone\">Adds selected object(s) as a single image.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"modules/simpress/ui/dockinganimation/getone\">បន្ថែមវត្ថុដែលបានជ្រើសជារូបភាពតែមួយ។</ahelp>"
 
 #. UFDVG
 #: 06050000.xhp
@@ -5496,7 +5503,7 @@ msgctxt ""
 "par_id3147533\n"
 "help.text"
 msgid "<ahelp hid=\"modules/simpress/ui/dockinganimation/getall\">Adds an image for each selected object.</ahelp> If you select a grouped object, an image is created for each object in the group."
-msgstr ""
+msgstr "<ahelp hid=\"modules/simpress/ui/dockinganimation/getall\">បន្ថែមរូបភាពសម្រាប់វត្ថុដែលបានជ្រើសរើសនីមួយៗ។ </ahelp> ប្រសិនបើអ្នកជ្រើសរើសវត្ថុដាក់ជាក្រុមរូបភាពនឹងត្រូវបានបង្កើតឡើងសម្រាប់វត្ថុនីមួយៗនៅក្នុងក្រុម។"
 
 #. irD4H
 #: 06050000.xhp
@@ -5541,7 +5548,7 @@ msgctxt ""
 "par_id3149710\n"
 "help.text"
 msgid "<ahelp hid=\"modules/simpress/ui/dockinganimation/delone\">Deletes current image from the animation sequence.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"modules/simpress/ui/dockinganimation/delone\">លុបរូបភាពបច្ចុប្បន្នចេញពីលំដាប់ចលនា។</ahelp>"
 
 #. Ad6qs
 #: 06050000.xhp
@@ -5577,7 +5584,7 @@ msgctxt ""
 "par_id3150765\n"
 "help.text"
 msgid "<ahelp hid=\"modules/simpress/ui/dockinganimation/delall\">Deletes all of the images in the animation.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"modules/simpress/ui/dockinganimation/delall\">លុបរូបភាពទាំងអស់ក្នុងចលនា។</ahelp>"
 
 #. putMD
 #: 06050000.xhp
@@ -5649,7 +5656,7 @@ msgctxt ""
 "par_id3151170\n"
 "help.text"
 msgid "<ahelp hid=\"modules/simpress/ui/dockinganimation/group\">Assembles images into a single object so that they can be moved as a group. You can still edit individual objects by double-clicking the group in the slide.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"modules/simpress/ui/dockinganimation/group\">ប្រមូលផ្តុំរូបភាពទៅក្នុងវត្ថុតែមួយដូច្នេះពួកគេអាចត្រូវបានផ្លាស់ទីជាក្រុម។ អ្នកនៅតែអាចកែសម្រួលវត្ថុនីមួយៗដោយចុចទ្វេដងលើក្រុមក្នុងស្លាយ។.</ahelp>"
 
 #. hVKDE
 #: 06050000.xhp
@@ -5667,7 +5674,7 @@ msgctxt ""
 "par_id3155329\n"
 "help.text"
 msgid "<ahelp hid=\"modules/simpress/ui/dockinganimation/bitmap\">Combines images into a single image.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"modules/simpress/ui/dockinganimation/bitmap\">ផ្សំរូបភាពជារូបភាពតែមួយ។</ahelp>"
 
 #. nRTHE
 #: 06050000.xhp
@@ -5685,7 +5692,7 @@ msgctxt ""
 "par_id3148834\n"
 "help.text"
 msgid "<ahelp hid=\"modules/simpress/ui/dockinganimation/alignment\">Aligns the images in your animation.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"modules/simpress/ui/dockinganimation/alignment\">តម្រឹមរូបភាពក្នុងចលនារបស់អ្នក។</ahelp>"
 
 #. Jo4Tn
 #: 06050000.xhp
@@ -5703,7 +5710,7 @@ msgctxt ""
 "par_id3154294\n"
 "help.text"
 msgid "<ahelp hid=\"modules/simpress/ui/dockinganimation/create\">Inserts the animation into the current slide.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"modules/simpress/ui/dockinganimation/create\">បញ្ចូលចលនាទៅក្នុងស្លាយបច្ចុប្បន្ន។</ahelp>"
 
 #. EDVCD
 #: 06060000.xhp
@@ -5712,7 +5719,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Animation Pane"
-msgstr ""
+msgstr "ផ្ទាំងគំនូរជីវចល"
 
 #. kgazC
 #: 06060000.xhp
@@ -5730,7 +5737,7 @@ msgctxt ""
 "hd_id3148837\n"
 "help.text"
 msgid "<link href=\"text/simpress/01/06060000.xhp\" name=\"Effects\">Animation Pane</link>"
-msgstr ""
+msgstr "<link href=\"text/simpress/01/06060000.xhp\" name=\"Effects\">ផ្ទាំងគំនូរជីវចល</link>"
 
 #. K9GqD
 #: 06060000.xhp
@@ -5739,7 +5746,7 @@ msgctxt ""
 "par_id3144773\n"
 "help.text"
 msgid "<variable id=\"effekttext\"><ahelp hid=\".\">Assigns effects to selected objects.</ahelp></variable>"
-msgstr ""
+msgstr "<variable id=\"effekttext\"><ahelp hid=\".\">ផ្តល់ផលប៉ះពាល់ទៅវត្ថុដែលបានជ្រើសរើស។</ahelp></variable>"
 
 #. 6h7uj
 #: 06060000.xhp
@@ -5784,7 +5791,7 @@ msgctxt ""
 "par_idN1079F\n"
 "help.text"
 msgid "Each list entry consists of the following two rows:"
-msgstr ""
+msgstr "ការបញ្ចូលបញ្ជីនីមួយៗមានពីរជួរខាងក្រោម៖"
 
 #. BWFaB
 #: 06060000.xhp
@@ -5793,7 +5800,7 @@ msgctxt ""
 "par_idN107B5\n"
 "help.text"
 msgid "The first row of the entry shows a mouse icon if the animation is started by a mouse click, and a clock if the animation starts after the previous animation ends. The name of the shape for the animation effect or the first characters of the animated text."
-msgstr ""
+msgstr "ជួរទីមួយនៃធាតុបង្ហាញរូបតំណាងកណ្តុរប្រសិនបើចលនាត្រូវបានចាប់ផ្តើមដោយការចុចកណ្តុរហើយនាឡិកាប្រសិនបើចលនាចាប់ផ្តើមបន្ទាប់ពីចលនាមុនបញ្ចប់។ ឈ្មោះនៃរូបរាងសម្រាប់បែបផែនជីវចលឬតួអក្សរដំបូងនៃអត្ថបទដែលមានចលនា។"
 
 #. 6yLkG
 #: 06060000.xhp
@@ -5802,7 +5809,7 @@ msgctxt ""
 "par_idN107B1\n"
 "help.text"
 msgid "In the second row an icon shows the animation effect, followed by the category and the name of the effect."
-msgstr ""
+msgstr "នៅជួរទីពីររូបតំណាងបង្ហាញបែបផែនជីវចលអមដោយប្រភេទនិងឈ្មោះនៃបែបផែន។"
 
 #. CtbxD
 #: 06060000.xhp
@@ -5820,7 +5827,7 @@ msgctxt ""
 "par_idN107BC\n"
 "help.text"
 msgid "<ahelp hid=\".\">Adds another animation effect for the selected object on the slide.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".\">បន្ថែមបែបផែនចលនាមួយទៀតសម្រាប់វត្ថុដែលបានជ្រើសរើសនៅលើស្លាយ។</ahelp>"
 
 #. bGved
 #: 06060000.xhp
@@ -5865,7 +5872,7 @@ msgctxt ""
 "par_idN107F0\n"
 "help.text"
 msgid "Category"
-msgstr ""
+msgstr "ប្រភេទ"
 
 #. kGugf
 #: 06060000.xhp
@@ -5874,7 +5881,7 @@ msgctxt ""
 "par_idN107EF\n"
 "help.text"
 msgid "<ahelp hid=\".\">Select an animation effect category.</ahelp> The following categories are available:"
-msgstr ""
+msgstr "<ahelp hide = \"។ \"> ជ្រើសរើសប្រភេទបែបផែនជីវចល។ </ahelp> ប្រភេទមាន៖"
 
 #. zwSGz
 #: 06060000.xhp
@@ -5883,7 +5890,7 @@ msgctxt ""
 "par_idN10571\n"
 "help.text"
 msgid "<emph>Entrance:</emph> Select an entrance effect from the list of effects."
-msgstr ""
+msgstr "<emph> ច្រកចូល៖ </emph> ជ្រើសបែបផែនចូលពីបញ្ជីផលប៉ះពាល់។"
 
 #. SPBRU
 #: 06060000.xhp
@@ -5892,7 +5899,7 @@ msgctxt ""
 "par_idN10578\n"
 "help.text"
 msgid "<emph>Emphasis:</emph> Select an emphasis effect from the list of effects."
-msgstr ""
+msgstr "<emph>Emphasis:</emph> ជ្រើសរើសបែបផែនសង្កត់ធ្ងន់ពីបញ្ជីផលប៉ះពាល់។"
 
 #. 6Sbzp
 #: 06060000.xhp
@@ -5901,7 +5908,7 @@ msgctxt ""
 "par_idN1057F\n"
 "help.text"
 msgid "<emph>Exit:</emph> Select an exiting effect from the list of effects."
-msgstr ""
+msgstr "<emph>Emphasis:</emph> ជ្រើសរើសបែបផែនសង្កត់ធ្ងន់ពីបញ្ជីផលប៉ះពាល់។"
 
 #. atFDS
 #: 06060000.xhp
@@ -5910,7 +5917,7 @@ msgctxt ""
 "par_idN10586\n"
 "help.text"
 msgid "<emph>Motion Paths:</emph> Select a motion path effect from the list of effects."
-msgstr ""
+msgstr "<emph>Motion Paths:</emph> ជ្រើសបែបផែនផ្លូវចលនាពីបញ្ជីផលប៉ះពាល់។"
 
 #. tpyCu
 #: 06060000.xhp
@@ -5919,7 +5926,7 @@ msgctxt ""
 "par_idN107F1\n"
 "help.text"
 msgid "Effect"
-msgstr ""
+msgstr "ផលប៉ះពាល់"
 
 #. 4RUc4
 #: 06060000.xhp
@@ -5928,7 +5935,7 @@ msgctxt ""
 "par_idN107F2\n"
 "help.text"
 msgid "<ahelp hid=\".\">Select an animation effect.</ahelp>"
-msgstr ""
+msgstr "<ahelp hide = \"។ \"> ជ្រើសរើសប្រភេទបែបផែនជីវចល។ </ahelp> ប្រភេទមាន៖"
 
 #. XJQYY
 #: 06060000.xhp
@@ -5946,7 +5953,7 @@ msgctxt ""
 "par_idN107ED\n"
 "help.text"
 msgid "<ahelp hid=\".\">Displays when the selected animation effect should be started.</ahelp> The following start options are available:"
-msgstr ""
+msgstr "<ahelp hide = \"។ \"> បង្ហាញនៅពេលចាប់ផ្តើមបែបផែនជីវចលដែលបានជ្រើសរើសគួរ។ </ahelp> ជម្រើសចាប់ផ្តើមដូចខាងក្រោមៈ"
 
 #. kGJXU
 #: 06060000.xhp
@@ -6000,7 +6007,7 @@ msgctxt ""
 "par_idN10820\n"
 "help.text"
 msgid "Duration"
-msgstr ""
+msgstr "រយៈពេល"
 
 #. ZJRFq
 #: 06060000.xhp
@@ -6009,7 +6016,7 @@ msgctxt ""
 "par_idN10824\n"
 "help.text"
 msgid "<ahelp hid=\".\">Specifies the duration of the selected animation effect.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".\">លេង​បែបផែន​ចលនា​ដែល​បាន​ជ្រើស ក្នុង​ការ​មើល​ជា​មុន ។</ahelp>"
 
 #. QBPjF
 #: 06060000.xhp
@@ -6018,7 +6025,7 @@ msgctxt ""
 "par_idN10835\n"
 "help.text"
 msgid "Delay"
-msgstr ""
+msgstr "ការ​ពន្យា​ពេល​"
 
 #. vWx8r
 #: 06060000.xhp
@@ -6027,7 +6034,7 @@ msgctxt ""
 "par_idN10839\n"
 "help.text"
 msgid "<ahelp hid=\".\">The animation starts delayed by this amount of time.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".\">ចលនាចាប់ផ្តើមពន្យាពេលដោយចំនួនពេលវេលានេះ។</ahelp>"
 
 #. A6Tgq
 #: 06060000.xhp
@@ -6090,7 +6097,7 @@ msgctxt ""
 "hd_id3153246\n"
 "help.text"
 msgid "<link href=\"text/simpress/01/06070000.xhp\" name=\"Interaction\">Interaction</link>"
-msgstr ""
+msgstr "<link href=\"text/simpress/01/06070000.xhp\" name=\"Interaction\">Interaction</link>"
 
 #. fFHEt
 #: 06070000.xhp
@@ -6360,7 +6367,7 @@ msgctxt ""
 "hd_id3148776\n"
 "help.text"
 msgid "Play audio"
-msgstr ""
+msgstr "ចាក់សម្លេង"
 
 #. hEYa4
 #: 06070000.xhp
@@ -6369,7 +6376,7 @@ msgctxt ""
 "par_id3155816\n"
 "help.text"
 msgid "Plays an audio file."
-msgstr ""
+msgstr "ចាក់ឯកសារអូឌីយ៉ូ។"
 
 #. vNRJ3
 #: 06070000.xhp
@@ -6378,7 +6385,7 @@ msgctxt ""
 "hd_id3147539\n"
 "help.text"
 msgid "Audio"
-msgstr ""
+msgstr "សម្លេង"
 
 #. hGUzQ
 #: 06070000.xhp
@@ -6387,7 +6394,7 @@ msgctxt ""
 "par_id3150467\n"
 "help.text"
 msgid "Define the location of the audio file."
-msgstr ""
+msgstr "កំណត់​ទីតាំង​នៃ​ឯកសារ​គោល​ដៅ ។"
 
 #. 9NfHE
 #: 06070000.xhp
@@ -6396,7 +6403,7 @@ msgctxt ""
 "hd_id3154869\n"
 "help.text"
 msgid "Audio"
-msgstr ""
+msgstr "សម្លេង"
 
 #. m9sJB
 #: 06070000.xhp
@@ -6405,7 +6412,7 @@ msgctxt ""
 "par_id3155986\n"
 "help.text"
 msgid "<ahelp hid=\"modules/simpress/ui/interactionpage/sound\">Enter a path to the audio file you want to open, or click <emph>Browse </emph>to locate the file.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"modules/simpress/ui/interactionpage/document\">បញ្ចូល​ផ្លូវ​មួយ​ទៅ​ឲ្យ​ឯកសារ​ ដែល​អ្នក​ចង់​​​បើក​ ឬ​​ចុច​ <emph>រក​មើល​ </emph>​ដើម្បីរក​ឃើញ​ទីតាំង​ឯកសារ​ ។</ahelp>"
 
 #. qpDXG
 #: 06070000.xhp
@@ -6423,7 +6430,7 @@ msgctxt ""
 "par_id3147171\n"
 "help.text"
 msgid "Locate the audio file you want to play."
-msgstr ""
+msgstr "រកទីតាំងឯកសារសម្លេងដែលអ្នកចង់លេង។"
 
 #. 6wbBA
 #: 06070000.xhp
@@ -6432,7 +6439,7 @@ msgctxt ""
 "par_id3156318\n"
 "help.text"
 msgid "If you did not install audio files with $[officename], you can run the $[officename] Setup program again and select <emph>Modify</emph>."
-msgstr ""
+msgstr "ប្រសិនបើអ្នកមិនបានដំឡើងឯកសារអូឌីយ៉ូជាមួយ $[officename] អ្នកអាចដំណើរការកម្មវិធីដំឡើង $[officename] ម្តងទៀតហើយជ្រើសរើស <emph> កែប្រែ </emph> ។"
 
 #. 8239E
 #: 06070000.xhp
@@ -6450,7 +6457,7 @@ msgctxt ""
 "par_id3145202\n"
 "help.text"
 msgid "Plays the selected audio file."
-msgstr ""
+msgstr "ចាក់ឯកសារអូឌីយ៉ូ។"
 
 #. g8pJT
 #: 06070000.xhp
@@ -6648,7 +6655,7 @@ msgctxt ""
 "bm_id3153818\n"
 "help.text"
 msgid "<bookmark_value>presentations; settings for</bookmark_value>  <bookmark_value>slide shows; settings for</bookmark_value>  <bookmark_value>presentations; window / full screen</bookmark_value>  <bookmark_value>multiple displays</bookmark_value>"
-msgstr ""
+msgstr "បទបង្ហាញ <bookmark_value>; ការកំណត់សម្រាប់ការបញ្ចាំងស្លាយសៀវភៅ; ការកំណត់សម្រាប់បទបង្ហាញ; បង្អួច / ពេញអេក្រង់សៀវភៅបង្ហាញច្រើនបង្ហាញ"
 
 #. KBJev
 #: 06080000.xhp
@@ -6747,7 +6754,7 @@ msgctxt ""
 "hd_id3150653\n"
 "help.text"
 msgid "Presentation Mode"
-msgstr ""
+msgstr "ការ​បង្ហាញ"
 
 #. zmuAH
 #: 06080000.xhp
@@ -6765,7 +6772,7 @@ msgctxt ""
 "hd_id3150482\n"
 "help.text"
 msgid "Full screen"
-msgstr ""
+msgstr "បង្ហាញ​​ពេញ​​អេក្រង់ ។"
 
 #. KE3kd
 #: 06080000.xhp
@@ -6783,7 +6790,7 @@ msgctxt ""
 "hd_id3153034\n"
 "help.text"
 msgid "In a window"
-msgstr ""
+msgstr "In a window"
 
 #. hVbaV
 #: 06080000.xhp
@@ -6801,7 +6808,7 @@ msgctxt ""
 "hd_id3145593\n"
 "help.text"
 msgid "Loop and repeat after"
-msgstr ""
+msgstr "រង្វិលជុំហើយធ្វើម្តងទៀតបន្ទាប់ពី"
 
 #. CVq2y
 #: 06080000.xhp
@@ -6918,7 +6925,7 @@ msgctxt ""
 "par_id3150475\n"
 "help.text"
 msgid "Anything you write with the pen will appear in your slides after exiting the slideshow. The properties of the pen can be changed by choosing the <emph>Pen Width</emph> or <emph>Change pen Color</emph> command in the context menu of the running slide show."
-msgstr ""
+msgstr "អ្វីដែលអ្នកសរសេរជាមួយប៊ិចនឹងបង្ហាញនៅក្នុងស្លាយរបស់អ្នកបន្ទាប់ពីចាកចេញពីការបញ្ចាំងស្លាយ។ លក្ខណសម្បត្តិរបស់ប៊ិចអាចត្រូវបានផ្លាស់ប្តូរដោយការជ្រើសរើស <ប៊្រីក> ប៊ិចទទឹងឬ <emph> ប្តូរប៊ិចពណ៌ </emph> ពាក្យបញ្ជានៅក្នុងម៉ឺនុយបរិបទនៃការបញ្ចាំងស្លាយដែលកំពុងដំណើរការ។"
 
 #. LGpvd
 #: 06080000.xhp
@@ -6981,7 +6988,7 @@ msgctxt ""
 "hd_id6086611\n"
 "help.text"
 msgid "Multiple Displays"
-msgstr ""
+msgstr "បង្ហាញច្រើន"
 
 #. CyE4H
 #: 06080000.xhp
@@ -6990,7 +6997,7 @@ msgctxt ""
 "par_id5446943\n"
 "help.text"
 msgid "By default the primary display is used for slide show mode. If the current desktop is displayed on more than one display, you can select which display to use for full screen slide show mode. If the current desktop spans only one display, or if the multi display feature is not supported on the current system, you cannot select another display."
-msgstr ""
+msgstr "តាមលំនាំដើមការបង្ហាញបឋមត្រូវបានប្រើសម្រាប់របៀបបញ្ចាំងស្លាយ។ ប្រសិនបើផ្ទៃតុបច្ចុប្បន្នត្រូវបានបង្ហាញលើអេក្រង់ច្រើនជាងមួយអ្នកអាចជ្រើសរើសការបង្ហាញណាមួយដែលត្រូវប្រើសម្រាប់របៀបបញ្ចាំងស្លាយពេញអេក្រង់។ ប្រសិនបើផ្ទៃតុបច្ចុប្បន្នលាតសន្ធឹងលើអេក្រង់តែមួយប៉ុណ្ណោះឬប្រសិនបើលក្ខណៈពិសេសនៃការបង្ហាញច្រើនមិនត្រូវបានគាំទ្រនៅលើប្រព័ន្ធបច្ចុប្បន្នអ្នកមិនអាចជ្រើសរើសការបង្ហាញផ្សេងទៀតបានទេ។"
 
 #. 3nodF
 #: 06080000.xhp
@@ -6999,7 +7006,7 @@ msgctxt ""
 "hd_id4962309\n"
 "help.text"
 msgid "Presentation display"
-msgstr ""
+msgstr "ការ​បង្ហាញ"
 
 #. tQFsf
 #: 06080000.xhp
@@ -7008,7 +7015,7 @@ msgctxt ""
 "par_id5168919\n"
 "help.text"
 msgid "<ahelp hid=\".\">Select a display to use for full screen slide show mode.</ahelp>"
-msgstr ""
+msgstr "<ahelp hide = \"។ \"> ជ្រើសបង្ហាញដើម្បីប្រើសម្រាប់របៀបបញ្ចាំងស្លាយពេញអេក្រង់។ </ahelp>"
 
 #. uiCco
 #: 06080000.xhp
@@ -7017,7 +7024,7 @@ msgctxt ""
 "par_id4846339\n"
 "help.text"
 msgid "If the system allows the user to span a window over all available displays, you can also select \"All displays\". In this case the presentation is spanned over all available displays."
-msgstr ""
+msgstr "ប្រសិនបើប្រព័ន្ធអនុញ្ញាតឱ្យអ្នកប្រើពង្រីកបង្អួចលើការបង្ហាញដែលមានទាំងអស់អ្នកក៏អាចជ្រើសរើស \"ការបង្ហាញទាំងអស់\" ។ ក្នុងករណីនេះបទបង្ហាញត្រូវបានលាតត្រដាងលើការបង្ហាញដែលមានទាំងអស់។"
 
 #. Zy6y4
 #: 06080000.xhp
@@ -7602,7 +7609,7 @@ msgctxt ""
 "par_id3149127\n"
 "help.text"
 msgid "If you select two or more objects and convert them to 3D, the result is a 3D group that acts as a single object. You can edit the individual objects in the group by choosing <switchinline select=\"appl\"><caseinline select=\"DRAW\"><emph>Shape - Group - Enter Group</emph></caseinline><defaultinline><emph>Format - Group - Enter Group</emph></defaultinline></switchinline>. Choose <switchinline select=\"appl\"><caseinline select=\"DRAW\"><emph>Shape - Group - Exit Group</emph></caseinline><defaultinline><emph>Format - Group - Exit Group</emph></defaultinline></switchinline> when you are finished."
-msgstr ""
+msgstr "ប្រសិនបើអ្នកជ្រើសរើសវត្ថុពីរឬច្រើនហើយប្តូរវាទៅជា 3D លទ្ធផលគឺជាក្រុម 3D ដែលដើរតួជាវត្ថុតែមួយ។ អ្នកអាចកែសម្រួលវត្ថុនីមួយៗនៅក្នុងក្រុមដោយជ្រើសរើស <switchinline select = \"appl\"> <caseinline select = \"DRAW\"> <emph> រាង - ក្រុម - បញ្ចូលក្រុម </emph> </caseinline> <defaultinline> <emph> ទ្រង់ទ្រាយ - ក្រុម - បញ្ចូលក្រុម </emph> </defaultinline> </switchinline> ។ ជ្រើសរើស <switchinline select = \"appl\"> <caseinline select = \"DRAW\"> <emph> រាង - ក្រុម - ចេញក្រុម </emph> </caseinline> <defaultinline> <emph> ទ្រង់ទ្រាយ - ក្រុម - ក្រុមចេញ </emph> </defaultinline> </switchinline> ពេលអ្នកបញ្ចប់។"
 
 #. S7yqE
 #: 13050300.xhp
@@ -8214,7 +8221,7 @@ msgctxt ""
 "par_id2195196\n"
 "help.text"
 msgid "<ahelp hid=\"SD_HID_SD_CUSTOMANIMATIONPANE_PRESETPROPERTYBOX\">Specifies the direction for the effect.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"SD_HID_SD_CUSTOMANIMATIONPANE_PRESETPROPERTYBOX\">បញ្ជាក់ទិសដៅសម្រាប់ប្រសិទ្ធិភាព។ </</ahelp>"
 
 #. nGqPz
 #: effectoptionseffect.xhp
@@ -8286,7 +8293,7 @@ msgctxt ""
 "par_idN10712\n"
 "help.text"
 msgid "<ahelp hid=\"modules/simpress/ui/customanimationeffecttab/sound_list\">Select a sound from the Gallery or select one of the special entries.</ahelp>"
-msgstr ""
+msgstr "<ahelp hide = \"modules / simpress / ui / customanimationeffecttab / sound_list\"> ជ្រើសរើសសំឡេងពីវិចិត្រសាលឬជ្រើសរើសធាតុពិសេសណាមួយ។ </ahelp>"
 
 #. FFkgd
 #: effectoptionseffect.xhp
@@ -8349,7 +8356,7 @@ msgctxt ""
 "par_idN10737\n"
 "help.text"
 msgid "<ahelp hid=\"modules/simpress/ui/customanimationeffecttab/aeffect_list\">Select a color to be shown after the animation ends, or select another after-effect from the list</ahelp>:"
-msgstr ""
+msgstr "<ahelp hid=\"modules/simpress/ui/customanimationeffecttab/aeffect_list\">ជ្រើសរើសពណ៌ដែលត្រូវបង្ហាញបន្ទាប់ពីចលនាបញ្ចប់ឬជ្រើសរើសបែបផែនបន្ទាប់ពីបញ្ជី/ahelp>:"
 
 #. PNjG3
 #: effectoptionseffect.xhp
@@ -8403,7 +8410,7 @@ msgctxt ""
 "par_idN1087B\n"
 "help.text"
 msgid "<ahelp hid=\"modules/simpress/ui/customanimationeffecttab/dim_color_list\">Select the dim color.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"modules/simpress/ui/customanimationeffecttab/dim_color_list\">ជ្រើសរើសពណ៌ស្រអាប់។</ahelp>"
 
 #. CND2D
 #: effectoptionseffect.xhp
@@ -8421,7 +8428,7 @@ msgctxt ""
 "par_idN1075C\n"
 "help.text"
 msgid "<ahelp hid=\"modules/simpress/ui/customanimationeffecttab/text_animation_list\">Select the animation mode for the text of the current shape</ahelp>:"
-msgstr ""
+msgstr "<ahelp hid=\"modules/simpress/ui/customanimationeffecttab/text_animation_list\">ជ្រើសរបៀបចលនាសម្រាប់អត្ថបទនៃរាងបច្ចុប្បន្ន </ahelp>:"
 
 #. ZpbAD
 #: effectoptionseffect.xhp
@@ -8466,7 +8473,7 @@ msgctxt ""
 "par_idN1077A\n"
 "help.text"
 msgid "<ahelp hid=\"modules/simpress/ui/customanimationeffecttab/text_delay\">Specifies the percentage of delay between animations of words or letters.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"modules/simpress/ui/customanimationeffecttab/text_delay\">បញ្ជាក់ភាគរយនៃការពន្យាពេលរវាងចលនានៃពាក្យឬអក្សរ។</ahelp>"
 
 #. CGmcC
 #: effectoptionstext.xhp
@@ -8511,7 +8518,7 @@ msgctxt ""
 "par_idN105E1\n"
 "help.text"
 msgid "<ahelp hid=\"modules/simpress/ui/customanimationtexttab/group_text_list\">Specifies how multiple paragraphs are animated</ahelp>:"
-msgstr ""
+msgstr "<ahelp hid=\"modules/simpress/ui/customanimationtexttab/group_text_list\">បញ្ជាក់ពីចំនួនកថាខណ្ឌដែលមានចលនា </ahelp>:"
 
 #. kZkbo
 #: effectoptionstext.xhp
@@ -8556,7 +8563,7 @@ msgctxt ""
 "par_idN105FF\n"
 "help.text"
 msgid "<ahelp hid=\"modules/simpress/ui/customanimationtexttab/auto_after\">If \"Group text - By 1st level paragraphs\" is selected, the paragraphs are animated one after the other.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"modules/simpress/ui/customanimationtexttab/auto_after\">If  បញ្ជាក់អំពីចំនួនកថាខណ្ឌដែលមានចលនា\"</ahelp>"
 
 #. UEFbz
 #: effectoptionstext.xhp
@@ -8565,7 +8572,7 @@ msgctxt ""
 "par_idN1067F\n"
 "help.text"
 msgid "<ahelp hid=\"modules/simpress/ui/customanimationtexttab/auto_after_value\">Enter an additional delay in seconds to animate subsequent paragraphs.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"modules/simpress/ui/customanimationtexttab/auto_after_value\">បញ្ចូលការពន្យាពេលបន្ថែមក្នុងរយៈពេលប៉ុន្មានវិនាទីដើម្បីបង្កកថាខណ្ឌបន្ត។.</ahelp>"
 
 #. UzHBn
 #: effectoptionstext.xhp
@@ -8583,7 +8590,7 @@ msgctxt ""
 "par_idN10606\n"
 "help.text"
 msgid "<ahelp hid=\"modules/simpress/ui/customanimationtexttab/animate_shape\">Deselect this box to animate only the text, not the shape.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"modules/simpress/ui/customanimationtexttab/animate_shape\">ដោះជម្រើសប្រអប់នេះដើម្បីឱ្យមានចលនាអត្ថបទតែប៉ុណ្ណោះមិនមែនរូបរាងទេ.</ahelp>"
 
 #. e6SkU
 #: effectoptionstext.xhp
@@ -8601,7 +8608,7 @@ msgctxt ""
 "par_idN1060D\n"
 "help.text"
 msgid "<ahelp hid=\"modules/simpress/ui/customanimationtexttab/reverse_order\">Animates the paragraphs in reverse order.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"modules/simpress/ui/customanimationtexttab/reverse_order\">ធ្វើឱ្យកថាខណ្ឌមានចលនាក្នុងលំដាប់បញ្ច្រាស។</ahelp>"
 
 #. xysAz
 #: effectoptionstiming.xhp
@@ -8647,6 +8654,9 @@ msgctxt ""
 "help.text"
 msgid "<ahelp hid=\"modules/simpress/ui/customanimationtimingtab/start_list\">Displays the start property of the selected animation effect.</ahelp> The following start properties are available:"
 msgstr ""
+"បង្ហាញលក្ខណៈសម្បត្តិចាប់ផ្តើមនៃបែបផែនជីវចលដែលបានជ្រើសរើស។\n"
+"\n"
+"bangheanh lokkhan sambotte"
 
 #. NCFZF
 #: effectoptionstiming.xhp
@@ -8691,7 +8701,7 @@ msgctxt ""
 "par_idN10693\n"
 "help.text"
 msgid "<ahelp hid=\"modules/simpress/ui/customanimationtimingtab/delay_value\">Specifies an additional delay of n seconds until the effect starts.</ahelp>"
-msgstr ""
+msgstr "<ahelp hide = \"modules / simpress / ui / customanimationtimingtab / delay_value\"> បញ្ជាក់ការពន្យារពេលបន្ថែម n វិនាទីរហូតដល់លទ្ធផលចាប់ផ្តើម។ </ahelp>"
 
 #. JnBWW
 #: effectoptionstiming.xhp
@@ -8700,7 +8710,7 @@ msgctxt ""
 "par_idN10587\n"
 "help.text"
 msgid "Duration"
-msgstr ""
+msgstr "Duration"
 
 #. G68yF
 #: effectoptionstiming.xhp
@@ -8709,7 +8719,7 @@ msgctxt ""
 "par_idN106A0\n"
 "help.text"
 msgid "<ahelp hid=\"modules/simpress/ui/customanimationtimingtab/anim_duration\">Specifies the duration of the effect.</ahelp>"
-msgstr ""
+msgstr "<ahelp hide = \"modules / simpress / ui / customanimationtimingtab / anim_duration\"> បញ្ជាក់ថិរវេលានៃផលប៉ះពាល់។ </ahelp>effect.</ahelp>"
 
 #. z5pbS
 #: effectoptionstiming.xhp
@@ -8727,7 +8737,7 @@ msgctxt ""
 "par_idN106AD\n"
 "help.text"
 msgid "<ahelp hid=\"modules/simpress/ui/customanimationtimingtab/repeat_list\">Specifies whether and how to repeat the current effect.</ahelp> Enter the number of repeats, or select from the list:"
-msgstr ""
+msgstr "<ahelp hide = \"modules / simpress / ui / customanimationtimingtab / repeat_list\"> បញ្ជាក់ថាតើនិងរបៀបធ្វើបែបផែនបច្ចុប្បន្នឡើងវិញ។ </ahelp> បញ្ចូលចំនួនពាក្យដដែលៗឬជ្រើសពីបញ្ជី៖"
 
 #. FUkEu
 #: effectoptionstiming.xhp
@@ -8772,7 +8782,7 @@ msgctxt ""
 "par_idN106D1\n"
 "help.text"
 msgid "<ahelp hid=\"modules/simpress/ui/customanimationtimingtab/rewind\">Specifies whether to let the animated shape return to its starting state after the animation ends.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"modules/simpress/ui/customanimationtimingtab/rewind\">បញ្ជាក់ថាតើត្រូវអនុញ្ញាតឱ្យរូបរាងដែលមានចលនាត្រឡប់ទៅសភាពដើមវិញដែរឬទេបន្ទាប់ពីបញ្ចប់ចលនា។</ahelp>"
 
 #. aQxyr
 #: effectoptionstiming.xhp
@@ -8790,7 +8800,7 @@ msgctxt ""
 "par_idN106DE\n"
 "help.text"
 msgid "<ahelp hid=\"modules/simpress/ui/customanimationtimingtab/rb_click_sequence\">Specifies whether to let the animation start in the normal click sequence.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"modules/simpress/ui/customanimationtimingtab/rb_click_sequence\">បញ្ជាក់ថាតើត្រូវអនុញ្ញាតឱ្យចលនាចាប់ផ្តើមនៅក្នុងលំដាប់ចុចធម្មតាដែរឬទេ។</ahelp>"
 
 #. jiaoo
 #: effectoptionstiming.xhp
@@ -8808,7 +8818,7 @@ msgctxt ""
 "par_idN106EB\n"
 "help.text"
 msgid "<ahelp hid=\"modules/simpress/ui/customanimationtimingtab/rb_interactive\">Specifies whether to let the animation start when a specified shape is clicked.</ahelp>"
-msgstr ""
+msgstr "_<ahelp hide = \"modules / simpress / ui / customanimationtimingtab / rb_interactive\"> បញ្ជាក់ថាតើត្រូវអនុញ្ញាតឱ្យចលនាចាប់ផ្តើមនៅពេលមានរូបរាងជាក់លាក់ណាមួយត្រូវបានចុច។ </ahelp>"
 
 #. FFtjk
 #: effectoptionstiming.xhp
@@ -8817,7 +8827,7 @@ msgctxt ""
 "par_idN107C5\n"
 "help.text"
 msgid "<ahelp hid=\"modules/simpress/ui/customanimationtimingtab/trigger_list\">Select the shape by its name from the list box.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"modules/simpress/ui/customanimationtimingtab/trigger_list\">ជ្រើសរាងតាមឈ្មោះរបស់វាពីប្រអប់បញ្ជី។</ahelp>"
 
 #. VC67q
 #: new_slide.xhp
@@ -8826,7 +8836,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "New Slide"
-msgstr ""
+msgstr "ស្លាយថ្មី"
 
 #. QKGaG
 #: new_slide.xhp
@@ -8835,7 +8845,7 @@ msgctxt ""
 "bm_id3159155\n"
 "help.text"
 msgid "<bookmark_value>inserting; slides</bookmark_value><bookmark_value>slides; inserting</bookmark_value>"
-msgstr ""
+msgstr "<bookmark_value>ការ​បញ្ចូល; ជួរឈរ</bookmark_value><bookmark_value>ជួរឈរ; ការ​បញ្ចូល</bookmark_value>"
 
 #. oC2ny
 #: new_slide.xhp
@@ -8844,7 +8854,7 @@ msgctxt ""
 "hd_id3159155\n"
 "help.text"
 msgid "<link href=\"text/simpress/01/new_slide.xhp\" name=\"New Slide\">New Slide</link>"
-msgstr ""
+msgstr "<link href=\"text/simpress/01/new_slide.xhp\" name=\"Slide\">ស្លាយ</link>"
 
 #. qSLDT
 #: new_slide.xhp
@@ -8853,7 +8863,7 @@ msgctxt ""
 "par_id3146119\n"
 "help.text"
 msgid "<variable id=\"seitetext\"><ahelp hid=\".uno:InsertPage\">Inserts a slide after the currently selected slide.</ahelp></variable>"
-msgstr ""
+msgstr "<variable id=\"seitetext\"><ahelp hid=\".uno:InsertPage\">បញ្ចូលស្លាយបន្ទាប់ពីស្លាយដែលបានជ្រើសបច្ចុប្បន្ន។</ahelp></variable>"
 
 #. WurKv
 #: remoteconnections.xhp
@@ -8862,7 +8872,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Impress Remote Connections"
-msgstr ""
+msgstr "ការតភ្ជាប់"
 
 #. abuD8
 #: remoteconnections.xhp
@@ -8871,7 +8881,7 @@ msgctxt ""
 "bm_id181535058686707\n"
 "help.text"
 msgid "<bookmark_value>Impress Remote;remote connection dialog</bookmark_value><bookmark_value>presentation;remote control connections</bookmark_value>"
-msgstr ""
+msgstr "<bookmark_value>Impress Remote;remote connection dialog</bookmark_value><bookmark_value>presentation;remote control connections</bookmark_value>"
 
 #. xAEGK
 #: remoteconnections.xhp
@@ -8880,7 +8890,7 @@ msgctxt ""
 "hd_id671535054437336\n"
 "help.text"
 msgid "<link href=\"text/simpress/01/remoteconnections.xhp\" name=\"remotedialog\">Remote Connections</link>"
-msgstr ""
+msgstr "<link href=\"text/simpress/01/remoteconnections.xhp\" name=\"remotedialog\">ការតភ្ជាប់ពីចម្ងាយ</link>"
 
 #. xGGek
 #: remoteconnections.xhp
@@ -8889,7 +8899,7 @@ msgctxt ""
 "par_id371535054437338\n"
 "help.text"
 msgid "<variable id=\"remotedialog1\"><ahelp hid=\".\">List all <link href=\"text/simpress/guide/impress_remote.xhp\" name=\"impressremote\"><emph>Impress Remote</emph></link> available connections.</ahelp></variable>"
-msgstr ""
+msgstr "<variable id=\"remotedialog1\"><ahelp hid=\".\">List all <link href=\"text/simpress/guide/impress_remote.xhp\" name=\"impressremote\"><emph>Impress Remote</emph></link> available connections.</ahelp></variable>"
 
 #. xLNXR
 #: remoteconnections.xhp
@@ -8898,7 +8908,7 @@ msgctxt ""
 "par_id591535055142846\n"
 "help.text"
 msgid "Initially, mark the <emph>Enable remote control</emph> checkbox in <switchinline select=\"sys\">            <caseinline select=\"MAC\"><emph>%PRODUCTNAME – Preferences</emph></caseinline>            <defaultinline><emph>Tools – Options</emph></defaultinline>            </switchinline><emph> – %PRODUCTNAME Impress – General</emph>."
-msgstr ""
+msgstr "Initially, mark the <emph>Enable remote control</emph> checkbox in <switchinline select=\"sys\">            <caseinline select=\"MAC\"><emph>%PRODUCTNAME – Preferences</emph></caseinline>            <defaultinline><emph>Tools – Options</emph></defaultinline>            </switchinline><emph> – %PRODUCTNAME Impress – General</emph>."
 
 #. Q329K
 #: remoteconnections.xhp
@@ -8907,7 +8917,7 @@ msgctxt ""
 "par_id21535055203545\n"
 "help.text"
 msgid "Select menu <item type=\"menuitem\">Slide Show - Impress Remote</item>."
-msgstr ""
+msgstr "Select menu <item type=\"menuitem\">បញ្ចាំងស្លាយ - ចំណាប់អារម្មណ៍ពីចម្ងាយ</item>."
 
 #. 4FDSC
 #: remoteconnections.xhp
@@ -8916,7 +8926,7 @@ msgctxt ""
 "hd_id391535056397562\n"
 "help.text"
 msgid "Remote connection setup"
-msgstr ""
+msgstr "ការរៀបចំការតភ្ជាប់ពីចម្ងាយ"
 
 #. FrUAb
 #: remoteconnections.xhp
@@ -8925,7 +8935,7 @@ msgctxt ""
 "par_id61535056384621\n"
 "help.text"
 msgid "To activate the remote connection:"
-msgstr ""
+msgstr "ដើម្បីធ្វើឱ្យការតភ្ជាប់ពីចម្ងាយសកម្ម:"
 
 #. ZiSHg
 #: remoteconnections.xhp
@@ -8934,7 +8944,7 @@ msgctxt ""
 "par_id291535056498637\n"
 "help.text"
 msgid "Open the <emph>Impress Remote</emph> application in the mobile device."
-msgstr ""
+msgstr "បើកកម្មវិធី <emph> Impress Remote </emph> នៅក្នុងឧបករណ៍ចល័ត។"
 
 #. ALBCG
 #: remoteconnections.xhp
@@ -8943,7 +8953,7 @@ msgctxt ""
 "par_id331535056422980\n"
 "help.text"
 msgid "Open the <emph>Remote Connection</emph> dialog,"
-msgstr ""
+msgstr "បើកកម្មវិធី <emph> Impress Remote </emph> នៅក្នុងឧបករណ៍ចល័ត។"
 
 #. PzHDR
 #: remoteconnections.xhp
@@ -8952,7 +8962,7 @@ msgctxt ""
 "par_id581535056432208\n"
 "help.text"
 msgid "Select the device in the list,"
-msgstr ""
+msgstr "ជ្រើសរើសឧបករណ៍នៅក្នុងបញ្ជី,"
 
 #. XAbDh
 #: remoteconnections.xhp
@@ -8961,7 +8971,7 @@ msgctxt ""
 "par_id271535056452591\n"
 "help.text"
 msgid "Enter the PIN number displayed by the device and press <emph>Connect</emph> to authorize a connection."
-msgstr ""
+msgstr "បញ្ចូលលេខកូដ PIN ដែលបង្ហាញដោយឧបករណ៍ហើយចុច <ភ្ជាប់ហ្វីតភ្ជាប់ </emph> ដើម្បីផ្តល់សិទ្ធិភ្ជាប់។"
 
 #. UsXSB
 #: remoteconnections.xhp
@@ -8970,7 +8980,7 @@ msgctxt ""
 "par_id111535056600848\n"
 "help.text"
 msgid "The device and the computer are now connected, the current presentation enters in Presentation Mode immediately, controlled by the mobile device."
-msgstr ""
+msgstr "ឧបករណ៍និងកុំព្យួទ័រត្រូវបានភ្ជាប់ហើយបទបង្ហាញបច្ចុប្បន្នចូលក្នុងរបៀបបទបង្ហាញភ្លាមៗដែលគ្រប់គ្រងដោយឧបករណ៍ចល័ត។"
 
 #. tX852
 #: remoteconnections.xhp
@@ -8979,7 +8989,7 @@ msgctxt ""
 "hd_id331535057240065\n"
 "help.text"
 msgid "To disconnect from a mobile device"
-msgstr ""
+msgstr "ដើម្បីផ្តាច់ចេញពីឧបករណ៍ចល័ត"
 
 #. LTPcU
 #: remoteconnections.xhp
@@ -8988,7 +8998,7 @@ msgctxt ""
 "par_id581535056968655\n"
 "help.text"
 msgid "Open the <emph>Remote Connection</emph> dialog,"
-msgstr ""
+msgstr "បើកកម្មវិធី <emph> Impress Remote </emph> នៅក្នុងឧបករណ៍ចល័ត។"
 
 #. Stb7U
 #: remoteconnections.xhp
@@ -8997,7 +9007,7 @@ msgctxt ""
 "par_id231535057021070\n"
 "help.text"
 msgid "Select the device in the list,"
-msgstr ""
+msgstr "ជ្រើសរើសឧបករណ៍នៅក្នុងបញ្ជី,"
 
 #. g7ghk
 #: remoteconnections.xhp
@@ -9006,7 +9016,7 @@ msgctxt ""
 "par_id541535057041285\n"
 "help.text"
 msgid "Click <emph>Remove Client Authorization</emph>."
-msgstr ""
+msgstr "ចុច <emph>លុប</emph> ដើម្បី​យក​ចំណុច​ឈប់​ចេញ​ពី​កម្មវិធី ។"
 
 #. 7oZpm
 #: slide_properties.xhp
@@ -9015,7 +9025,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Slide"
-msgstr ""
+msgstr "ស្លាយ"
 
 #. baLrD
 #: slide_properties.xhp
@@ -9024,7 +9034,7 @@ msgctxt ""
 "hd_id3149379\n"
 "help.text"
 msgid "Slide"
-msgstr ""
+msgstr "ស្លាយ"
 
 #. YMWN6
 #: slide_properties.xhp
@@ -9033,7 +9043,7 @@ msgctxt ""
 "par_id3150717\n"
 "help.text"
 msgid "<variable id=\"seiteeintext\"><ahelp hid=\".uno:SlideSetup\" visibility=\"visible\">Sets slide orientation, slide margins, background and other layout options.</ahelp></variable>"
-msgstr ""
+msgstr "<variable id=\"seiteeintext\"><ahelp hid=\".uno:SlideSetup\" visibility=\"visible\">កំណត់ទិសស្លាយរឹមស្លាយផ្ទៃខាងក្រោយនិងជម្រើសប្លង់ផ្សេងទៀត។</ahelp></variable>"
 
 #. uQ6mh
 #: slide_properties.xhp
@@ -9042,7 +9052,7 @@ msgctxt ""
 "par_id3145587\n"
 "help.text"
 msgid "To change the background of all of the slides in the active file, select a background, click <emph>OK</emph> and click <emph>Yes</emph> in the <emph>Page Setup</emph> dialog."
-msgstr ""
+msgstr "ដើម្បីផ្លាស់ប្តូរផ្ទៃខាងក្រោយនៃស្លាយទាំងអស់នៅក្នុងឯកសារសកម្មជ្រើសផ្ទៃខាងក្រោយចុច <យល់ព្រម >ememem ហើយចុច <emph> បាទ </emph> នៅក្នុងប្រអប់ <ទំព័របង្កើតទំព័រ </emph> ។"
 
 #. dEUQv
 #: slidesorter.xhp

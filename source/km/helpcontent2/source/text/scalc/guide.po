@@ -1,21 +1,19 @@
-#. extracted from helpcontent2/source/text/scalc/guide
 msgid ""
 msgstr ""
-"Project-Id-Version: guide\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
-"POT-Creation-Date: 2020-07-21 11:19+0200\n"
-"PO-Revision-Date: 2018-11-14 12:03+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
-"Language-Team: Khmer <support@khmeros.info>\n"
+"POT-Creation-Date: 2020-03-10 13:36+0100\n"
+"PO-Revision-Date: 2020-09-03 09:55+0700\n"
+"Last-Translator: Koompi Apps Localization\n"
 "Language: km\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Accelerator-Marker: ~\n"
-"X-Generator: LibreOffice\n"
-"X-Language: km-KH\n"
-"X-POOTLE-MTIME: 1542197008.000000\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-POOTLE-MTIME: 1535975854.000000\n"
+"Language-Team: KOOMPI Apps Localization\n"
 
 #. NXy6S
 #: address_auto.xhp
@@ -60,7 +58,7 @@ msgctxt ""
 "par_id3156283\n"
 "help.text"
 msgid "<image id=\"img_id3154942\" src=\"media/helpimg/names_as_addressing.png\" width=\"5.408cm\" height=\"2.212cm\" localize=\"true\"><alt id=\"alt_id3154942\">Example spreadsheet</alt></image>"
-msgstr "<image id=\"img_id3154942\" src=\"media/helpimg/names_as_addressing.png\" width=\"2.1291in\" height=\"0.8709in\" localize=\"true\"><alt id=\"alt_id3154942\">សៀវភៅ​បញ្ជី​គំរូ</alt></image>"
+msgstr "<image id=\"img_id3154942\" src=\"media/helpimg/names_as_addressing.png\" width=\"5.408cm\" height=\"2.212cm\" localize=\"true\"><alt id=\"alt_id3154942\">Example spreadsheet</alt></image>"
 
 #. SFAp5
 #: address_auto.xhp
@@ -78,7 +76,7 @@ msgctxt ""
 "par_id3155443\n"
 "help.text"
 msgid "This function is active by default. To turn this function off, choose <switchinline select=\"sys\"><caseinline select=\"MAC\"><emph>%PRODUCTNAME - Preferences</emph></caseinline><defaultinline><emph>Tools - Options</emph></defaultinline></switchinline><emph> - %PRODUCTNAME Calc - Calculate</emph> and clear the <emph>Automatically find column and row labels</emph> check box."
-msgstr "អនុគមន៍​នេះ​សកម្ម​ដោយ​លំនាំដើម ។ ដើម្បី​បិទ​អនុគមន៍​នេះ ជ្រើស <emph><switchinline select=\"sys\"><caseinline select=\"MAC\">%PRODUCTNAME - ចំណូល​ចិត្ត​</caseinline><defaultinline>ឧបករណ៍ - ជម្រើស</defaultinline></switchinline> - %PRODUCTNAME Calc - គណនា</emph> ហើយ​ដោះធីក <emph>រក​ស្លាកជួរដេក និង​ជួរឈរ​ដោយ​ស្វ័យ​ប្រវត្តិ</emph> ។"
+msgstr "This function is active by default. To turn this function off, choose <switchinline select=\"sys\"><caseinline select=\"MAC\"><emph>%PRODUCTNAME - Preferences</emph></caseinline><defaultinline><emph>Tools - Options</emph></defaultinline></switchinline><emph> - %PRODUCTNAME Calc - Calculate</emph> and clear the <emph>Automatically find column and row labels</emph> check box."
 
 #. ADRpB
 #: address_auto.xhp
@@ -87,7 +85,7 @@ msgctxt ""
 "par_id3149210\n"
 "help.text"
 msgid "If you want a name to be automatically recognized by Calc, the name must start with a letter and be composed of alphanumeric characters. If you enter the name in the formula yourself, enclose the name in single quotation marks ('). If a single quotation mark appears in a name, you must enter a backslash in front of the quotation mark, for example, <item type=\"literal\">'Harry\\'s Bar'</item>."
-msgstr ""
+msgstr "ប្រសិនបើអ្នកចង់អោយឈ្មោះមួយត្រូវបានទទួលស្គាល់ដោយ Calc ដោយស្វ័យប្រវត្តិនោះឈ្មោះត្រូវតែចាប់ផ្តើមដោយអក្សរហើយត្រូវបានផ្សំដោយអក្សរក្រមលេខ។ ប្រសិនបើអ្នកបញ្ចូលឈ្មោះក្នុងរូបមន្តដោយខ្លួនឯងដាក់ឈ្មោះក្នុងសញ្ញាសម្រង់តែមួយ (&#39;) ។ ប្រសិនបើសញ្ញាសម្រង់ទោលលេចឡើងក្នុងឈ្មោះអ្នកត្រូវតែបញ្ចូលសញ្ញា (-) នៅពីមុខសញ្ញាសម្រង់ឧទាហរណ៍ <item type=\"literal\"> បារ &#39;Harry \\&#39; </item> ។"
 
 #. EXFye
 #: auto_off.xhp
@@ -105,7 +103,7 @@ msgctxt ""
 "bm_id3149456\n"
 "help.text"
 msgid "<bookmark_value>deactivating; automatic changes</bookmark_value>  <bookmark_value>tables; deactivating automatic changes in</bookmark_value>  <bookmark_value>AutoInput function on/off</bookmark_value>  <bookmark_value>text in cells;AutoInput function</bookmark_value>  <bookmark_value>cells; AutoInput function of text</bookmark_value>  <bookmark_value>input support in spreadsheets</bookmark_value>  <bookmark_value>changing; input in cells</bookmark_value>  <bookmark_value>AutoCorrect function;cell contents</bookmark_value>  <bookmark_value>cell input;AutoInput function</bookmark_value>  <bookmark_value>lowercase letters;AutoInput function (in cells)</bookmark_value>  <bookmark_value>capital letters;AutoInput function (in cells)</bookmark_value>  <bookmark_value>date formats;avoiding conversion to</bookmark_value>  <bookmark_value>number completion on/off</bookmark_value>  <bookmark_value>text completion on/off</bookmark_value>  <bookmark_value>word completion on/off</bookmark_value>"
-msgstr ""
+msgstr "<bookmark_value> ធ្វើឱ្យអសកម្ម ការផ្លាស់ប្តូរដោយស្វ័យប្រវត្តិ </bookmark_value><bookmark_value> តុ; អសកម្មការផ្លាស់ប្តូរដោយស្វ័យប្រវត្តិនៅក្នុង </bookmark_value><bookmark_value> បិទ / បើកមុខងារបញ្ចូលស្វ័យប្រវត្តិ </bookmark_value><bookmark_value> អត្ថបទក្នុងក្រឡាមុខងារបញ្ចូលស្វ័យប្រវត្តិ </bookmark_value><bookmark_value> កោសិកា; មុខងារបញ្ចូលស្វ័យប្រវត្តិនៃអត្ថបទ </bookmark_value><bookmark_value> បញ្ចូលការគាំទ្រក្នុងសៀវភៅបញ្ជី </bookmark_value><bookmark_value> ការផ្លាស់ប្តូរ; បញ្ចូលក្នុងកោសិកា </bookmark_value><bookmark_value> មុខងារកែស្វ័យប្រវត្តិមាតិកាក្រឡា </bookmark_value><bookmark_value> បញ្ចូលក្រឡា; មុខងារបញ្ចូលស្វ័យប្រវត្តិ </bookmark_value><bookmark_value> អក្សរតូចមុខងារបញ្ចូលស្វ័យប្រវត្តិ (ក្នុងក្រឡា) </bookmark_value><bookmark_value> អក្សរធំមុខងារបញ្ចូលស្វ័យប្រវត្តិ (ក្នុងក្រឡា) </bookmark_value><bookmark_value> ទ្រង់ទ្រាយកាលបរិច្ឆេទជៀសវាងការប្តូរទៅ </bookmark_value><bookmark_value> បិទ / បើកចំនួនលេខ </bookmark_value><bookmark_value> បិទ / បើកបញ្ចប់អត្ថបទ </bookmark_value><bookmark_value> បើក / បិទពាក្យ </bookmark_value>"
 
 #. xyLjr
 #: auto_off.xhp
@@ -114,7 +112,7 @@ msgctxt ""
 "hd_id3149456\n"
 "help.text"
 msgid "<variable id=\"auto_off\"><link href=\"text/scalc/guide/auto_off.xhp\" name=\"Deactivating Automatic Changes\">Deactivating Automatic Changes</link> </variable>"
-msgstr ""
+msgstr "<variable id=\"auto_off\"><link href=\"text/scalc/guide/auto_off.xhp\" name=\"Deactivating Automatic Changes\"> ធ្វើឱ្យការផ្លាស់ប្តូរស្វ័យប្រវត្តិអសកម្ម </link></variable>"
 
 #. 4h6m4
 #: auto_off.xhp
@@ -123,7 +121,7 @@ msgctxt ""
 "par_id3156442\n"
 "help.text"
 msgid "By default, $[officename] automatically corrects many common typing errors and applies formatting while you type. You can immediately undo any automatic changes with <switchinline select=\"sys\"><caseinline select=\"MAC\">Command </caseinline><defaultinline>Ctrl</defaultinline></switchinline>+Z."
-msgstr ""
+msgstr "តាមលំនាំដើម $[officename] កែកំហុសវាយអក្សរទូទៅជាច្រើនដោយស្វ័យប្រវត្តិហើយអនុវត្តទ្រង់ទ្រាយពេលអ្នកវាយ។ អ្នកអាចមិនធ្វើវិញនូវការផ្លាស់ប្តូរដោយស្វ័យប្រវត្តិណាមួយភ្លាមៗ <switchinline select=\"sys\"><caseinline select=\"MAC\"> ពាក្យបញ្ជា </caseinline><defaultinline> បញ្ជា (Ctrl) </defaultinline></switchinline> + Z ។"
 
 #. EnE7s
 #: auto_off.xhp
@@ -159,7 +157,7 @@ msgctxt ""
 "par_id3153878\n"
 "help.text"
 msgid "To turn the AutoInput on and off, set or remove the check mark in front of <link href=\"text/scalc/01/06130000.xhp\" name=\"Tools - AutoInput\"><emph>Tools - AutoInput</emph></link>."
-msgstr ""
+msgstr "ដើម្បីបើកនិងបិទការបញ្ចូលស្វ័យប្រវត្តិកំណត់ឬយកសញ្ញាធីកនៅពីមុខ <link href=\"text/scalc/01/06130000.xhp\" name=\"Tools - AutoInput\"><emph> ឧបករណ៍ - បញ្ចូលស្វ័យប្រវត្តិកម្ម </emph></link> ។"
 
 #. 8G5gv
 #: auto_off.xhp
@@ -249,7 +247,7 @@ msgctxt ""
 "par_id3152992\n"
 "help.text"
 msgid "<link href=\"text/scalc/01/06130000.xhp\" name=\"Tools - AutoInput\">Tools - AutoInput</link>"
-msgstr ""
+msgstr "<link href=\"text/scalc/01/06130000.xhp\" name=\"Tools - AutoInput\"> ឧបករណ៍ - បញ្ចូលស្វ័យប្រវត្តិកម្ម </link>"
 
 #. h5BG2
 #: auto_off.xhp
@@ -348,7 +346,7 @@ msgctxt ""
 "par_id3153714\n"
 "help.text"
 msgid "To display all records again, select the <emph>all</emph> entry in the AutoFilter combo box. If you choose <emph>Standard</emph>, the <item type=\"menuitem\">Standard Filter</item> dialog appears, allowing you to set up a standard filter. Choose \"Top 10\" to display the highest 10 values only."
-msgstr ""
+msgstr "ដើម្បីបង្ហាញកំណត់ត្រាទាំងអស់ម្តងទៀតសូមជ្រើសរើសយកឯកសារ <emph> ទាំងអស់ </emph> ការបញ្ចូលក្នុងប្រអប់បន្សំស្វ័យប្រវត្តិកម្ម។ ប្រសិនបើអ្នកជ្រើសរើស <emph> ស្តង់ដារ </emph> , នេះ <item type=\"menuitem\"> តម្រងស្តង់ដារ </item> ប្រអប់លេចឡើងដែលអនុញ្ញាតឱ្យអ្នកតំឡើងតម្រងស្តង់ដារ។ ជ្រើសរើស \"កំពូលទាំង ១០\"; ដើម្បីបង្ហាញតម្លៃខ្ពស់បំផុត ១០ ។"
 
 #. x9jTE
 #: autofilter.xhp
@@ -393,7 +391,7 @@ msgctxt ""
 "par_id3154484\n"
 "help.text"
 msgid "<link href=\"text/scalc/01/04060106.xhp\" name=\"SUBTOTAL\">SUBTOTAL</link>"
-msgstr "<link href=\"text/scalc/01/04060106.xhp\" name=\"SUBTOTAL\">SUBTOTAL</link>"
+msgstr "<link href=\"text/scalc/01/04060106.xhp\" name=\"SUBTOTAL\"> រង </link>"
 
 #. XAtNE
 #: autoformat.xhp
@@ -456,7 +454,7 @@ msgctxt ""
 "par_idN106D5\n"
 "help.text"
 msgid "Choose <item type=\"menuitem\">Format - AutoFormat Styles</item>."
-msgstr ""
+msgstr "ជ្រើសរើស <item type=\"menuitem\"> ទ្រង់ទ្រាយ - រចនាប័ទ្មទ្រង់ទ្រាយស្វ័យប្រវត្តិ </item> ។"
 
 #. YT4xh
 #: autoformat.xhp
@@ -465,7 +463,7 @@ msgctxt ""
 "par_id3151242\n"
 "help.text"
 msgid "Select which properties to include in an AutoFormat."
-msgstr ""
+msgstr "ជ្រើសរើសលក្ខណសម្បត្តិណាមួយដែលត្រូវដាក់បញ្ចូលក្នុង AutoFormat ។"
 
 #. dhKwA
 #: autoformat.xhp
@@ -501,7 +499,7 @@ msgctxt ""
 "par_id3155379\n"
 "help.text"
 msgid "To Define an AutoFormat for Spreadsheets or Ranges"
-msgstr ""
+msgstr "ដើម្បីកំណត់ទ្រង់ទ្រាយស្វ័យប្រវត្តិសម្រាប់សៀវភៅបញ្ជីឬជួរ"
 
 #. kMXDR
 #: autoformat.xhp
@@ -510,7 +508,7 @@ msgctxt ""
 "par_id3148868\n"
 "help.text"
 msgid "You can define a new AutoFormat that is available to all spreadsheets and ranges."
-msgstr ""
+msgstr "អ្នកអាចកំណត់ទ្រង់ទ្រាយស្វ័យប្រវត្តិថ្មីដែលមានសម្រាប់សៀវភៅបញ្ជីនិងជួរទាំងអស់។"
 
 #. LBQQi
 #: autoformat.xhp
@@ -519,7 +517,7 @@ msgctxt ""
 "par_id3152985\n"
 "help.text"
 msgid "Format a sheet or range."
-msgstr ""
+msgstr "ធ្វើទ្រង់ទ្រាយសន្លឹកឬជួរ។"
 
 #. JVW7G
 #: autoformat.xhp
@@ -528,7 +526,7 @@ msgctxt ""
 "par_id3145384\n"
 "help.text"
 msgid "Choose <item type=\"menuitem\">Edit - Select All</item> or select the formatted range."
-msgstr ""
+msgstr "ជ្រើសរើស <item type=\"menuitem\"> កែសម្រួល - ជ្រើសរើសទាំងអស់ </item> ឬជ្រើសជួរដែលមានទ្រង់ទ្រាយ។"
 
 #. VuwGM
 #: autoformat.xhp
@@ -537,7 +535,7 @@ msgctxt ""
 "par_id3153815\n"
 "help.text"
 msgid "Choose <item type=\"menuitem\">Format - AutoFormat Styles</item>."
-msgstr ""
+msgstr "ជ្រើសរើស <item type=\"menuitem\"> ទ្រង់ទ្រាយ - រចនាប័ទ្មទ្រង់ទ្រាយស្វ័យប្រវត្តិ </item> ។"
 
 #. CzaoG
 #: autoformat.xhp
@@ -573,7 +571,7 @@ msgctxt ""
 "par_id3159203\n"
 "help.text"
 msgid "<link href=\"text/scalc/01/05110000.xhp\" name=\"Format - AutoFormat\">Format - AutoFormat Styles</link>"
-msgstr ""
+msgstr "<link href=\"text/scalc/01/05110000.xhp\" name=\"Format - AutoFormat\"> ទ្រង់ទ្រាយ - រចនាប័ទ្មទ្រង់ទ្រាយស្វ័យប្រវត្តិ </link>"
 
 #. ZSCL9
 #: background.xhp
@@ -584,23 +582,23 @@ msgctxt ""
 msgid "Defining Background Colors or Background Graphics"
 msgstr "កំណត់​ពណ៌​ផ្ទៃ​ខាង​ក្រោយ ឬ​ក្រាហ្វិក​ផ្ទៃ​ខាង​ក្រោយ"
 
-#. PE8wQ
+#. g2JnS
 #: background.xhp
 msgctxt ""
 "background.xhp\n"
 "bm_id3149346\n"
 "help.text"
-msgid "<bookmark_value>spreadsheets; backgrounds</bookmark_value><bookmark_value>backgrounds;cell ranges</bookmark_value><bookmark_value>tables; backgrounds</bookmark_value><bookmark_value>cells; backgrounds</bookmark_value><bookmark_value>rows, see also cells</bookmark_value><bookmark_value>columns, see also cells</bookmark_value>"
-msgstr ""
+msgid "<bookmark_value>spreadsheets; backgrounds</bookmark_value>      <bookmark_value>backgrounds;cell ranges</bookmark_value>      <bookmark_value>tables; backgrounds</bookmark_value>      <bookmark_value>cells; backgrounds</bookmark_value>      <bookmark_value>rows, see also cells</bookmark_value>      <bookmark_value>columns, see also cells</bookmark_value>"
+msgstr "<bookmark_value>សៀវភៅ​បញ្ជី; ផ្ទៃ​ខាងក្រោយ</bookmark_value>      <bookmark_value>ផ្ទៃ​ខាងក្រោយ;ជួរក្រឡា</bookmark_value>      <bookmark_value>តារាង; ផ្ទៃខាងក្រោយ</bookmark_value>      <bookmark_value>ក្រឡា; ផ្ទៃខាងក្រោយ</bookmark_value>      <bookmark_value>ជួរដេក, មើល​ក្រឡា​ផង</bookmark_value>      <bookmark_value>ជួរឈរ, មើល​ក្រឡា​ផង</bookmark_value>"
 
-#. tMFWU
+#. CqqcG
 #: background.xhp
 msgctxt ""
 "background.xhp\n"
 "hd_id3149346\n"
 "help.text"
-msgid "<variable id=\"background\"><link href=\"text/scalc/guide/background.xhp\" name=\"Defining Background Colors or Background Graphics\">Defining Background Colors or Background Graphics</link>            </variable>"
-msgstr ""
+msgid "<variable id=\"background\"><link href=\"text/scalc/guide/background.xhp\" name=\"Defining Background Colors or Background Graphics\">Defining Background Colors or Background Graphics</link></variable>"
+msgstr "<variable id=\"background\"><link href=\"text/scalc/guide/background.xhp\" name=\"Defining Background Colors or Background Graphics\">កំណត់​ពណ៌​ផ្ទៃ​ខាងក្រោយ ឬ​ក្រាហ្វិក​ផ្ទៃ​ខាងក្រោយ</link></variable>"
 
 #. gwwiM
 #: background.xhp
@@ -627,7 +625,7 @@ msgctxt ""
 "par_id3155429\n"
 "help.text"
 msgid "Select the cells."
-msgstr "ជ្រើស​ក្រឡា"
+msgstr "ជ្រើស​ក្រឡ"
 
 #. N2G5z
 #: background.xhp
@@ -654,7 +652,7 @@ msgctxt ""
 "hd_id3146974\n"
 "help.text"
 msgid "Graphics in the Background of Cells"
-msgstr "ក្រាហ្វិក​នៅ​ក្នុង​ផ្ទៃ​ខាង​ក្រោយ​របស់ក្រឡា"
+msgstr "ក្រាហ្វិក​នៅ​ក្នុង​ផ្ទៃ​ខាង​ក្រោយ​របស់ក្រឡ"
 
 #. faXAJ
 #: background.xhp
@@ -674,14 +672,14 @@ msgctxt ""
 msgid "Select the graphic and click <emph>Open</emph>."
 msgstr "ជ្រើស​ក្រាហ្វិក និង​ចុច <emph>បើក</emph> ។"
 
-#. 2BGVn
+#. SDYSQ
 #: background.xhp
 msgctxt ""
 "background.xhp\n"
 "par_id3153575\n"
 "help.text"
-msgid "The graphic is inserted anchored to the current cell. You can move and scale the graphic as you want. In your context menu you can use the <menuitem>Arrange - To Background</menuitem> command to place this in the background. To select a graphic that has been placed in the background, use the <link href=\"text/scalc/01/02110000.xhp\" name=\"Navigator\">Navigator</link>."
-msgstr ""
+msgid "The graphic is inserted anchored to the current cell. You can move and scale the graphic as you want. In your context menu you can use the <emph>Arrange - To Background</emph> command to place this in the background. To select a graphic that has been placed in the background, use the <switchinline select=\"appl\"><caseinline select=\"CALC\"><link href=\"text/scalc/01/02110000.xhp\" name=\"Navigator\">Navigator</link></caseinline><defaultinline>Navigator</defaultinline></switchinline>."
+msgstr "ក្រាហ្វិក​ត្រូវ​បាន​បញ្ចូល​ដោយ​បានបោះយុថ្កា​ទៅ​ក្រឡា​បច្ចុប្បន្ន ។ អ្នក​អាច​ផ្លាស់ទី និង​ធ្វើមាត្រដ្ឋាន​ក្រាហ្វិក​តាម​ដែល​អ្នក​ចង់ ។ នៅ​ក្នុង​ម៉ឺនុយ​របរិបទ​របស់​អ្នក អ្នក​អាច​ប្រើ​ពាក្យ​បញ្ជា <emph>រៀបចំ - ទៅ​ផ្ទៃ​ខាងក្រោយ</emph> ដើម្បី​ដាក់​វា​នៅ​ក្នុង​ផ្ទៃ​ខាងក្រោយ ។ ដើម្បី​ជ្រើស​ក្រាហ្វិក​ដែល​ត្រូវ​បានដាក់​នៅ​ក្នុង​ផ្ទៃ​ខាងក្រោយ ប្រើ <switchinline select=\"appl\"><caseinline select=\"CALC\"><link href=\"text/scalc/01/02110000.xhp\" name=\"Navigator\">Navigator</link></caseinline><defaultinline>កម្មវិធីរុករក</defaultinline></switchinline> ។"
 
 #. vTxFX
 #: background.xhp
@@ -692,14 +690,14 @@ msgctxt ""
 msgid "<link href=\"text/shared/guide/background.xhp\">Watermarks</link>"
 msgstr "<link href=\"text/shared/guide/background.xhp\">ព្រាលៗ</link>"
 
-#. R8Ctk
+#. jQFQC
 #: background.xhp
 msgctxt ""
 "background.xhp\n"
 "par_id3156180\n"
 "help.text"
-msgid "<link href=\"text/shared/01/05210100.xhp\" name=\"Background tab page\"><emph>Background</emph> tab page</link>"
-msgstr ""
+msgid "<link href=\"text/shared/01/05030600.xhp\" name=\"Background tab page\"><emph>Background</emph> tab page</link>"
+msgstr "<link href=\"text/shared/01/05030600.xhp\" name=\"Background tab page\"><emph>ទំព័រ​ផ្ទាំង​ផ្ទៃ​ខាង​ក្រោយ</emph></link>"
 
 #. owozX
 #: background.xhp
@@ -717,7 +715,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "User Defined Borders in Cells"
-msgstr "អ្នក​ប្រើ​បានកំណត់​ស៊ុម​នៅក្នុង​ក្រឡា"
+msgstr "អ្នក​ប្រើ​បានកំណត់​ស៊ុម​នៅក្នុង​ក្រឡ"
 
 #. GxTZ8
 #: borders.xhp
@@ -798,7 +796,7 @@ msgctxt ""
 "hd_id4454481\n"
 "help.text"
 msgid "Selection of cells"
-msgstr "ជម្រើស​ក្រឡា"
+msgstr "ជម្រើស​ក្រឡ"
 
 #. 3xGCg
 #: borders.xhp
@@ -834,7 +832,7 @@ msgctxt ""
 "par_id807824\n"
 "help.text"
 msgid "One cell"
-msgstr "មួយ​ក្រឡា"
+msgstr "មួយ​ក្រឡ"
 
 #. 6a7qm
 #: borders.xhp
@@ -888,7 +886,7 @@ msgctxt ""
 "par_id466322\n"
 "help.text"
 msgid "Cells in a block of 2x2 or more"
-msgstr "ក្រឡា​ដែល​ស្ថិតនៅក្នុង​ប្លុក 2x2 ឬ​ច្រើន​ជាងនេះ"
+msgstr "ក្រឡា​ដែល​ស្ថិតនៅក្នុង​ប្លុក 2x2 ឬ​ច្រើន​ជាងន"
 
 #. GC7h8
 #: borders.xhp
@@ -1023,7 +1021,7 @@ msgctxt ""
 "hd_id3593554\n"
 "help.text"
 msgid "User Defined Settings"
-msgstr "ការកំណត់​ដែល​បានកំណត់​ដោយ​អ្នកប្រើ"
+msgstr "ការកំណត់​ដែល​បានកំណត់​ដោយ​អ្នកប្រ"
 
 #. VWqSq
 #: borders.xhp
@@ -1077,7 +1075,7 @@ msgctxt ""
 "par_id3978087\n"
 "help.text"
 msgid "A black line"
-msgstr "បន្ទាត់​ពណ៌ខ្មៅ"
+msgstr "បន្ទាត់​ពណ៌ខ្ម"
 
 #. 6L2yn
 #: borders.xhp
@@ -1104,7 +1102,7 @@ msgctxt ""
 "par_id1209143\n"
 "help.text"
 msgid "A gray line"
-msgstr "បន្ទាត់​ពណ៌​ប្រផេះ"
+msgstr "បន្ទាត់​ពណ៌​ប្រផ"
 
 #. EMt2z
 #: borders.xhp
@@ -1248,7 +1246,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Calculating With Dates and Times"
-msgstr "ការ​គណនា​ជាមួយ​កាល​បរិច្ឆេទ និង​ពេល​វេលា"
+msgstr "ការ​គណនា​ជាមួយ​កាល​បរិច្ឆេទ និង​ពេល​វេល"
 
 #. U4Xij
 #: calc_date.xhp
@@ -1302,7 +1300,7 @@ msgctxt ""
 "par_id3149020\n"
 "help.text"
 msgid "After pressing the Enter key you will see the result in date format. Since the result should show the difference between two dates as a number of days, you must format cell A3 as a number."
-msgstr "បន្ទាប់​ពី​ចុច​គ្រាប់​ចុច <item type=\"keycode\">បញ្ចូល</item> អ្នក​នឹង​ឃើញ​លទ្ធផល​ជា​ទ្រង់ទ្រាយ​កាល​បរិច្ឆេទ ។ ដោយ​ហេតុ​ថា លទ្ធផល​គួរ​បង្ហាញ​ផលដក​រវាង​កាលបរិច្ឆេទ ២ ជា​ចំនួន​នៃ​ថ្ងៃ អ្នក​ត្រូវ​ធ្វើ​ទ្រង់​ទ្រាយ​ក្រឡា A3 ជា​ចំនួន​មួយ​ ។"
+msgstr "After pressing the Enter key you will see the result in date format. Since the result should show the difference between two dates as a number of days, you must format cell A3 as a number."
 
 #. hSnJ9
 #: calc_date.xhp
@@ -1338,7 +1336,7 @@ msgctxt ""
 "par_id3150304\n"
 "help.text"
 msgid "Experiment with some additional formulas: in A4 enter =A3*24 to calculate the hours, in A5 enter =A4*60 for the minutes, and in A6 enter =A5*60 for seconds. Press the Enter key after each formula."
-msgstr "ធ្វើ​ពិសោធន៍​រូបមន្ត​ខ្លះៗ ៖ ក្នុង A4 បញ្ចូល =A3*24 ដើម្បី​គណនា​ម៉ោង ក្នុង A5 បញ្ចូល =A4*60 ដើម្បី​គណនា​នាទី និង​ក្នុង​ A6 បញ្ចូល =A5*60 ដើម្បី​គណនា​វិនាទី ។ ចុច​គ្រាប់ចុច <item type=\"keycode\">បញ្ចូល (Enter) </item> បន្ទាប់ពី​រូបមន្ត​នីមួយៗ ។"
+msgstr "Experiment with some additional formulas: in A4 enter =A3*24 to calculate the hours, in A5 enter =A4*60 for the minutes, and in A6 enter =A5*60 for seconds. Press the Enter key after each formula."
 
 #. 6WaJq
 #: calc_date.xhp
@@ -1347,7 +1345,7 @@ msgctxt ""
 "par_id3149207\n"
 "help.text"
 msgid "The time since your date of birth will be calculated and displayed in the various units. The values are calculated as of the exact moment when you entered the last formula and pressed the Enter key. This value is not automatically updated, although \"Now\" continuously changes. In the <emph>Data</emph> menu, the menu item <emph>Calculate - AutoCalculate</emph> is normally active; however, automatic calculation does not apply to the function NOW. This ensures that your computer is not solely occupied with updating the sheet."
-msgstr ""
+msgstr "ពេលវេលាចាប់តាំងពីថ្ងៃខែឆ្នាំកំណើតរបស់អ្នកនឹងត្រូវបានគណនានិងបង្ហាញនៅក្នុងគ្រឿងផ្សេងៗ។ តម្លៃត្រូវបានគណនាគិតដល់ពេលដែលអ្នកបញ្ចូលរូបមន្តចុងក្រោយហើយចុចគ្រាប់ចុចបញ្ចូល (Enter) ។ តម្លៃនេះមិនត្រូវបានធ្វើបច្ចុប្បន្នភាពដោយស្វ័យប្រវត្តិទេទោះបីជា \"ឥឡូ\"; ផ្លាស់ប្តូរជាបន្តបន្ទាប់ក៏ដោយ។ ក្នុង <emph> ទិន្នន័យ </emph> ម៉ឺនុយ, ធាតុម៉ឺនុយ <emph> គណនា - គណនាស្វ័យប្រវត្តិ </emph> សកម្មជាធម្មតា; ទោះយ៉ាងណាការគណនាដោយស្វ័យប្រវត្តិមិនអនុវត្តចំពោះមុខងារឥឡូវនេះទេ។ នេះធានាថាកុំព្យូទ័ររបស់អ្នកមិនត្រូវបានកាន់កាប់ដោយការធ្វើបច្ចុប្បន្នភាពសន្លឹកទេ។"
 
 #. 8FWEV
 #: calc_series.xhp
@@ -1464,7 +1462,7 @@ msgctxt ""
 "par_id3154490\n"
 "help.text"
 msgid "If you select two or more adjacent cells that contain different numbers, and drag, the remaining cells are filled with the arithmetic pattern that is recognized in the numbers. The AutoFill function also recognizes customized lists that are defined under <switchinline select=\"sys\"><caseinline select=\"MAC\"><item type=\"menuitem\">%PRODUCTNAME - Preferences</item></caseinline><defaultinline><item type=\"menuitem\">Tools - Options</item></defaultinline></switchinline><item type=\"menuitem\"> - %PRODUCTNAME Calc - Sort Lists</item>."
-msgstr "ប្រសិនបើ​អ្នក​ជ្រើស​ក្រឡា​នៅ​ជាប់​គ្នា​ពីរ ឬ​ច្រើន​ដែលមាន​លេខ​ផ្សេងៗ​គ្នា ហើយ​អូស ក្រឡា​ដែលនៅ​សល់​ត្រូវ​បាន​បំពេញ​ដោយ​លំនាំ​គណិត​ដែល​ត្រូវបានទទួល​ស្គាល់​នៅក្នុង​លេខ ។ មុខងារ​បំពេញ​ដោយ​ស្វ័យ​ប្រវត្តិ ក៏​ស្គាល់​បញ្ជី​ដែលបាន​ធ្វើ​ផ្ទាល់ខ្លួន​​ដែល​បាន​កំណត់នៅ​ក្រោម <item type=\"menuitem\"><switchinline select=\"sys\"><caseinline select=\"MAC\">%PRODUCTNAME - ចំណូល​ចិត្ត</caseinline><defaultinline>ឧបករណ៍ - ជម្រើស</defaultinline></switchinline> - %PRODUCTNAME Calc - បញ្ជី​តម្រៀប</item> ។"
+msgstr "If you select two or more adjacent cells that contain different numbers, and drag, the remaining cells are filled with the arithmetic pattern that is recognized in the numbers. The AutoFill function also recognizes customized lists that are defined under <switchinline select=\"sys\"><caseinline select=\"MAC\"><item type=\"menuitem\">%PRODUCTNAME - Preferences</item></caseinline><defaultinline><item type=\"menuitem\">Tools - Options</item></defaultinline></switchinline><item type=\"menuitem\"> - %PRODUCTNAME Calc - Sort Lists</item>."
 
 #. eEAcg
 #: calc_series.xhp
@@ -1554,7 +1552,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Calculating Time Differences"
-msgstr "ការ​គណនា​ភាព​ខុស​គ្នា​នៃ​ពេល​វេលា"
+msgstr "ការ​គណនា​ភាព​ខុស​គ្នា​នៃ​ពេល​វេល"
 
 #. XRebj
 #: calc_timevalues.xhp
@@ -1590,7 +1588,7 @@ msgctxt ""
 "par_id3159153\n"
 "help.text"
 msgid "=(B2<A2)+B2-A2"
-msgstr "=(B2<A2)+B2-A2"
+msgstr "= (B2 <A2) + B2-A2"
 
 #. LHdND
 #: calc_timevalues.xhp
@@ -1743,7 +1741,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Entering Values"
-msgstr "ការ​បញ្ចូល​តម្លៃ"
+msgstr "ការ​បញ្ចូល​តម្ល"
 
 #. 2aSdr
 #: cell_enter.xhp
@@ -1779,7 +1777,7 @@ msgctxt ""
 "hd_id5621509\n"
 "help.text"
 msgid "To Enter Values Into a Range of Cells Manually"
-msgstr "ដើម្បី​បញ្ចូល​តម្លៃ​ក្នុងជួរក្រឡា​ដោយ​ដៃ"
+msgstr "ដើម្បី​បញ្ចូល​តម្លៃ​ក្នុងជួរក្រឡា​ដោយ​ដ"
 
 #. AADVT
 #: cell_enter.xhp
@@ -1833,7 +1831,7 @@ msgctxt ""
 "hd_id3583788\n"
 "help.text"
 msgid "Area Selection"
-msgstr "ការ​ជ្រើស​ផ្ទៃ"
+msgstr "ការ​ជ្រើស​ផ្ទ"
 
 #. CB8nY
 #: cell_enter.xhp
@@ -2031,7 +2029,7 @@ msgctxt ""
 "par_idN106C0\n"
 "help.text"
 msgid "To protect the cells from being changed / viewed / printed according to your settings in the <emph>Format - Cells</emph> dialog, choose <item type=\"menuitem\">Tools - Protect Sheet</item>."
-msgstr ""
+msgstr "ដើម្បីការពារកោសិកាពីការផ្លាស់ប្តូរ / មើល / បោះពុម្ពដោយយោងទៅតាមការកំណត់របស់អ្នកនៅក្នុងឯកសារ <emph> ទ្រង់ទ្រាយ - កោសិកា </emph> ប្រអប់, ជ្រើសរើស <item type=\"menuitem\"> ឧបករណ៍ - ការពារសន្លឹក </item> ។"
 
 #. doYSo
 #: cell_protect.xhp
@@ -2040,7 +2038,7 @@ msgctxt ""
 "par_idN106C7\n"
 "help.text"
 msgid "To protect the structure of the document, for example the count, <link href=\"text/scalc/guide/rename_table.xhp\">names</link>, and order of the sheets, from being changed, choose <item type=\"menuitem\">Tools - Protect Spreadsheet Structure</item>."
-msgstr ""
+msgstr "ដើម្បីការពាររចនាសម្ព័ន្ធឯកសារឧទាហរណ៍ការរាប់។ <link href=\"text/scalc/guide/rename_table.xhp\"> ឈ្មោះ </link> និងលំដាប់សន្លឹកពីការផ្លាស់ប្តូរជ្រើសរើស <item type=\"menuitem\"> ឧបករណ៍ - ការពាររចនាសម្ព័ន្ធសៀវភៅបញ្ជី </item> ។"
 
 #. R9bEQ
 #: cell_protect.xhp
@@ -2076,7 +2074,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Unprotecting Cells"
-msgstr "ការ​មិន​ការពារ​ក្រឡា"
+msgstr "ការ​មិន​ការពារ​ក្រឡ"
 
 #. byazz
 #: cell_unprotect.xhp
@@ -2112,7 +2110,7 @@ msgctxt ""
 "par_id3149656\n"
 "help.text"
 msgid "Select <emph>Tools - Protect Sheet</emph> or <emph>Tools - Protect Spreadsheet Structure</emph> to remove the check mark indicating the protected status."
-msgstr ""
+msgstr "ជ្រើសរើស <emph> ឧបករណ៍ - ការពារសន្លឹក </emph> ឬ <emph> ឧបករណ៍ - ការពាររចនាសម្ព័ន្ធសៀវភៅបញ្ជី </emph> ដើម្បីលុបសញ្ញាធីកដែលបង្ហាញពីស្ថានភាពការពារ។"
 
 #. 7ya2E
 #: cell_unprotect.xhp
@@ -2301,7 +2299,7 @@ msgctxt ""
 "par_id3154011\n"
 "help.text"
 msgid "To set the source range as the range, select the cells and choose <emph>Sheet - Named Ranges and Expressions - Define</emph>. Save the source document, and do not close it."
-msgstr ""
+msgstr "ដើម្បីកំណត់ជួរប្រភពជាជួរសូមជ្រើសរើសក្រឡានិងជ្រើសរើស <emph> សន្លឹក - ជួរឈ្មោះនិងកន្សោម - កំណត់ </emph> ។ រក្សាទុកឯកសារប្រភពហើយកុំបិទវា។"
 
 #. UMVry
 #: cellreference_dragdrop.xhp
@@ -2409,7 +2407,7 @@ msgctxt ""
 "hd_id7122409\n"
 "help.text"
 msgid "To Reference a Cell in the Same Document"
-msgstr "ដើម្បីយោង​ក្រឡា​ក្នុង​ឯកសារ​ដូច​គ្នា"
+msgstr "ដើម្បីយោង​ក្រឡា​ក្នុង​ឯកសារ​ដូច​គ្ន"
 
 #. EruAD
 #: cellreferences.xhp
@@ -2418,7 +2416,7 @@ msgctxt ""
 "par_id2078005\n"
 "help.text"
 msgid "Open a new, empty spreadsheet. By default, it has only a single sheet named Sheet1. Add a second sheet clicking on <emph>+</emph> button to the left of the sheet tab in the bottom (it will be named Sheet2 by default)."
-msgstr ""
+msgstr "បើកសៀវភៅបញ្ជីទទេថ្មី។ តាមលំនាំដើមវាមានតែសន្លឹកតែមួយប៉ុណ្ណោះដែលមានឈ្មោះថាសន្លឹក ១ ។ ចុចលើសន្លឹកទីពីរចុចលើ <emph> + </emph> ប៊ូតុងនៅខាងឆ្វេងផ្ទាំងសន្លឹកនៅខាងក្រោម (វានឹងមានឈ្មោះជាសន្លឹកទី ២ តាមលំនាំដើម) ។"
 
 #. paXnm
 #: cellreferences.xhp
@@ -2436,7 +2434,7 @@ msgctxt ""
 "par_id9064302\n"
 "help.text"
 msgid "<item type=\"literal\">=Sheet2.A1</item>"
-msgstr "<item type=\"literal\">=Sheet2.A1</item>"
+msgstr "<item type=\"literal\"> = សន្លឹក ២ .១ </item>"
 
 #. zwUqn
 #: cellreferences.xhp
@@ -2463,7 +2461,7 @@ msgctxt ""
 "par_id3147338\n"
 "help.text"
 msgid "When referencing a sheet with name containing spaces, use single quotes around the name: <item type=\"literal\">='Sheet with spaces in name'.A1</item>"
-msgstr ""
+msgstr "នៅពេលយោងសន្លឹកដែលមានឈ្មោះមានដកឃ្លាប្រើសញ្ញាសម្រង់តែមួយជុំវិញឈ្មោះ៖ <item type=\"literal\"> = &#39;សន្លឹកដែលមានដកឃ្លាក្នុងឈ្មោះ&#39;.A1 </item>"
 
 #. 7thQw
 #: cellreferences.xhp
@@ -2472,7 +2470,7 @@ msgctxt ""
 "par_id3147383\n"
 "help.text"
 msgid "The example uses Calc formula syntax. It is also possible to use Excel A1 or R1C1 formula syntax; this is configured on <link href=\"text/shared/optionen/01060900.xhp\">Formula options page</link>."
-msgstr ""
+msgstr "ឧទាហរណ៍ប្រើវាក្យសម្ព័ន្ធរូបមន្ត Calc ។ វាក៏អាចធ្វើទៅបានដើម្បីប្រើវាក្យសម្ពន្ធរូបមន្តអេអេសអេ ១ ឬរីអរស៊ី ១ ។ វាត្រូវបានតំឡើងនៅលើ <link href=\"text/shared/optionen/01060900.xhp\"> ទំព័រជម្រើសរូបមន្ត </link> ។"
 
 #. mK8vG
 #: cellreferences.xhp
@@ -2544,7 +2542,7 @@ msgctxt ""
 "par_id7099826\n"
 "help.text"
 msgid "If you drag the box in the lower right corner of the active cell to select a range of cells, $[officename] automatically inserts the corresponding references in the adjacent cells. As a result, the sheet name is preceded with a \"$\" sign to designate it as an <link href=\"text/scalc/guide/relativ_absolut_ref.xhp\">absolute reference</link>."
-msgstr ""
+msgstr "បើអ្នកអូសប្រអប់នៅជ្រុងខាងស្ដាំផ្នែកខាងក្រោមនៃក្រឡាសកម្មដើម្បីជ្រើសជួរក្រឡា $[officename] បញ្ចូលសេចក្តីយោងដែលត្រូវគ្នានៅក្នុងក្រឡាជាប់គ្នាដោយស្វ័យប្រវត្តិ។ ជាលទ្ធផលឈ្មោះសន្លឹកត្រូវបាននាំមុខដោយសញ្ញា \"$\"; ដើម្បីកំណត់វាជាអក្សរ <link href=\"text/scalc/guide/relativ_absolut_ref.xhp\"> សេចក្តីយោងដាច់ខាត </link> ។"
 
 #. hrgGP
 #: cellreferences.xhp
@@ -2607,7 +2605,7 @@ msgctxt ""
 "par_id3145384\n"
 "help.text"
 msgid "Choose <item type=\"menuitem\">Sheet - Link to External Data</item>. The <link href=\"text/scalc/01/04090000.xhp\" name=\"External Data\"><item type=\"menuitem\">External Data</item></link> dialog appears."
-msgstr ""
+msgstr "ជ្រើសរើស <item type=\"menuitem\"> សន្លឹក - ភ្ជាប់ទៅទិន្នន័យខាងក្រៅ </item> ។ នេះ <link href=\"text/scalc/01/04090000.xhp\" name=\"External Data\"><item type=\"menuitem\"> ទិន្នន័យខាងក្រៅ </item></link> ប្រអប់លេចឡើង។"
 
 #. EQzxX
 #: cellreferences_url.xhp
@@ -2733,7 +2731,7 @@ msgctxt ""
 "par_id3150767\n"
 "help.text"
 msgid "For the <item type=\"menuitem\">Find</item> term, enter: .<item type=\"literal\">*</item>"
-msgstr ""
+msgstr "សម្រាប់ <item type=\"menuitem\"> រក </item> ពាក្យ, បញ្ចូល: ។ <item type=\"literal\"> * </item>"
 
 #. EN8wF
 #: cellstyle_by_formula.xhp
@@ -2751,7 +2749,7 @@ msgctxt ""
 "par_id3153143\n"
 "help.text"
 msgid "Enter the following formula in the <item type=\"menuitem\">Replace</item> field: <item type=\"literal\">=&+STYLE(IF(CURRENT()>3;\"Red\";\"Green\"))</item>"
-msgstr ""
+msgstr "បញ្ចូលរូបមន្តខាងក្រោមនៅក្នុងឯកសារ <item type=\"menuitem\"> ជំនួស </item> វាល៖ <item type=\"literal\"> = & + STYLE (IF (CURRENT ()> 3; \"ក្រហម ; \"បៃតង\")) </item>"
 
 #. prHDb
 #: cellstyle_by_formula.xhp
@@ -2760,7 +2758,7 @@ msgctxt ""
 "par_id3146975\n"
 "help.text"
 msgid "The \"&\" symbol designates the current contents of the <emph>Find</emph> field. The line must begin with an equal sign, since it is a formula. It is assumed that the cell styles \"Red\" and \"Green\" already exist."
-msgstr ""
+msgstr "និមិត្តសញ្ញា \"& \" កំណត់មាតិកាបច្ចុប្បន្នរបស់ឯកសារ <emph> រក </emph> វាល។ បន្ទាត់ត្រូវតែចាប់ផ្តើមដោយសញ្ញាស្មើព្រោះវាជារូបមន្ត។ សន្មតថារចនាប័ទ្មក្រឡា \"ក្រហម\" និង \"បៃតង\" មានរួចហើយ។"
 
 #. 4AgNk
 #: cellstyle_by_formula.xhp
@@ -2949,7 +2947,7 @@ msgctxt ""
 "hd_id3149211\n"
 "help.text"
 msgid "Step 2: Define Cell Styles"
-msgstr "ជំហាន ២ ៖ កំណត់​រចនាប័ទ្ម​ក្រឡា"
+msgstr "ជំហាន ២ ៖ កំណត់​រចនាប័ទ្ម​ក្រឡ"
 
 #. sr6WY
 #: cellstyle_conditional.xhp
@@ -2958,7 +2956,7 @@ msgctxt ""
 "par_id3154659\n"
 "help.text"
 msgid "The next step is to apply a cell style to all values that represent above-average turnover, and one to those that are below the average. Ensure that the Styles window is visible before proceeding."
-msgstr ""
+msgstr "ជំហានបន្ទាប់គឺអនុវត្តរចនាប័ទ្មក្រឡាទៅតម្លៃទាំងអស់ដែលតំណាងឱ្យចំណូលមធ្យមខាងលើនិងមួយទៅតម្លៃដែលទាបជាងមធ្យម។ ធានាថាបង្អួចស្តាយអាចមើលឃើញមុនពេលដំណើរការ។"
 
 #. CVM3G
 #: cellstyle_conditional.xhp
@@ -2976,7 +2974,7 @@ msgctxt ""
 "par_id3155529\n"
 "help.text"
 msgid "In the <emph>Format Cells</emph> dialog on the <emph>Background</emph> tab, select a background color. Click <emph>OK</emph>."
-msgstr "ក្នុង​ប្រអប់ <emph>ទ្រង់ទ្រាយ​ក្រឡា</emph> លើ​ផ្ទាំង <emph>ផ្ទៃ​ខាង​ក្រោយ</emph> ជ្រើស​ពណ៌​ផ្ទៃ​ខាង​ក្រោយ ។​ ចុច \"យល់ព្រម\" ។"
+msgstr "In the <emph>Format Cells</emph> dialog on the <emph>Background</emph> tab, select a background color. Click <emph>OK</emph>."
 
 #. BMczi
 #: cellstyle_conditional.xhp
@@ -2985,7 +2983,7 @@ msgctxt ""
 "par_id3154484\n"
 "help.text"
 msgid "In the Styles window, click the <emph>New Style from Selection</emph> icon. Enter the name of the new style. For this example, name the style \"Above\"."
-msgstr ""
+msgstr "នៅក្នុងបង្អួចស្តាយចុចប៊ូតុង <emph> ស្តាយថ្មីពីការជ្រើសរើស </emph> រូបតំណាង។ បញ្ចូលឈ្មោះរចនាប័ទ្មថ្មី។ ឧទាហរណ៍ឧទាហរណ៍ដាក់ឈ្មោះ \"ខាងលើ\" ។"
 
 #. 4bRZa
 #: cellstyle_conditional.xhp
@@ -3048,7 +3046,7 @@ msgctxt ""
 "hd_id3149898\n"
 "help.text"
 msgid "Step 4: Apply Cell Styles"
-msgstr "ជំហាន ៤ ៖ អនុវត្ត​រចនាប័ទ្ម​ក្រឡា"
+msgstr "ជំហាន ៤ ៖ អនុវត្ត​រចនាប័ទ្ម​ក្រឡ"
 
 #. AA6JP
 #: cellstyle_conditional.xhp
@@ -3093,7 +3091,7 @@ msgctxt ""
 "hd_id3155761\n"
 "help.text"
 msgid "Step 5: Copy Cell Style"
-msgstr "ជំហាន ៥ ៖ ចម្លង​រចនាប័ទ្ម​ក្រឡា"
+msgstr "ជំហាន ៥ ៖ ចម្លង​រចនាប័ទ្ម​ក្រឡ"
 
 #. GBgrB
 #: cellstyle_conditional.xhp
@@ -3147,7 +3145,7 @@ msgctxt ""
 "par_id3166465\n"
 "help.text"
 msgid "In the <emph>Selection</emph> area, check only the <emph>Formats</emph> box. All other boxes must be unchecked. Click <emph>OK</emph>."
-msgstr "នៅ​ត្រង់ <emph>ជម្រើស</emph> ធីក​តែ​ប្រអប់ <emph>ទ្រង់ទ្រាយ</emph> ។ ប្រអប់​ផ្សេង​ទៀត​ទាំងអស់​ត្រូវ​តែ​មិន​គូស​ធីក ។ ចុច \"យល់ព្រម\" ។"
+msgstr "In the <emph>Selection</emph> area, check only the <emph>Formats</emph> box. All other boxes must be unchecked. Click <emph>OK</emph>."
 
 #. duFEp
 #: cellstyle_conditional.xhp
@@ -3210,7 +3208,7 @@ msgctxt ""
 "par_id3146969\n"
 "help.text"
 msgid "On the <emph>Numbers</emph> tab, select a number format and mark <emph>Negative numbers red</emph> check box. Click <emph>OK</emph>."
-msgstr "លើ​ផ្ទាំង <emph>លេខ</emph> ជ្រើស​ទ្រង់ទ្រាយ​លេខ និង​សម្គាល់​ប្រអប់​ធីក <emph>លេខ​អវិជ្ជមាន​ពណ៌​ក្រហម</emph> ។ ចុច \"យល់ព្រម\" ។"
+msgstr "On the <emph>Numbers</emph> tab, select a number format and mark <emph>Negative numbers red</emph> check box. Click <emph>OK</emph>."
 
 #. 23n86
 #: cellstyle_minusvalue.xhp
@@ -3264,7 +3262,7 @@ msgctxt ""
 "hd_id892056\n"
 "help.text"
 msgid "To Combine Cell Contents"
-msgstr "ដើម្បីផ្សំ​មាតិកា​ក្រឡា​ចូល​គ្នា"
+msgstr "ដើម្បីផ្សំ​មាតិកា​ក្រឡា​ចូល​គ្ន"
 
 #. 4tD6G
 #: consolidate.xhp
@@ -3525,7 +3523,7 @@ msgctxt ""
 "par_idN108A5\n"
 "help.text"
 msgid "If the CSV file has another extension, select the file, and then select \"Text CSV\" in the <emph>Filter</emph> box"
-msgstr ""
+msgstr "ប្រសិនបើឯកសារ CSV មានផ្នែកបន្ថែមផ្សេងទៀតសូមជ្រើសរើសឯកសារហើយបន្ទាប់មកជ្រើសរើស \"អត្ថបទ CSV\"; នៅក្នុងឯកសារ <emph> ត្រង </emph> ប្រអប់"
 
 #. FEBAD
 #: csv_files.xhp
@@ -3651,7 +3649,7 @@ msgctxt ""
 "par_idN1090D\n"
 "help.text"
 msgid "In the <emph>Filter</emph> box, select \"Text CSV\"."
-msgstr ""
+msgstr "ក្នុង <emph> ត្រង </emph> ប្រអប់, ជ្រើស \"អត្ថបទ CSV \" ។"
 
 #. 2JC8V
 #: csv_files.xhp
@@ -3804,7 +3802,7 @@ msgctxt ""
 "par_id3149255\n"
 "help.text"
 msgid "If the csv file contains formulas, but you want to import the results of those formulas, then choose <switchinline select=\"sys\"><caseinline select=\"MAC\"><emph>%PRODUCTNAME - Preferences</emph></caseinline><defaultinline><emph>Tools - Options</emph></defaultinline></switchinline><emph> - %PRODUCTNAME Calc - View</emph> and clear the <emph>Formulas</emph> check box."
-msgstr "ប្រសិនបើ​ឯកសារ csv មាន​រូបមន្ត ប៉ុន្តែ​អ្នក​ចង់​នាំចូល​លទ្ធផល​របស់​រូបមន្ត​ទាំង​នោះ បន្ទាប់​មក​ជ្រើស <emph><switchinline select=\"sys\"><caseinline select=\"MAC\">%PRODUCTNAME - ចំណូល​ចិត្ត</caseinline><defaultinline>ឧបករណ៍ - ជម្រើស</defaultinline></switchinline> - %PRODUCTNAME Calc - មើល</emph> ហើយ​ដោះធីក​ប្រអប់ <emph>រូបមន្ត</emph> ។"
+msgstr "If the csv file contains formulas, but you want to import the results of those formulas, then choose <switchinline select=\"sys\"><caseinline select=\"MAC\"><emph>%PRODUCTNAME - Preferences</emph></caseinline><defaultinline><emph>Tools - Options</emph></defaultinline></switchinline><emph> - %PRODUCTNAME Calc - View</emph> and clear the <emph>Formulas</emph> check box."
 
 #. JTAdg
 #: csv_formula.xhp
@@ -3840,7 +3838,7 @@ msgctxt ""
 "par_id3155111\n"
 "help.text"
 msgid "Choose <switchinline select=\"sys\"><caseinline select=\"MAC\"><emph>%PRODUCTNAME - Preferences</emph></caseinline><defaultinline><emph>Tools - Options</emph></defaultinline></switchinline><emph> - %PRODUCTNAME Calc - View</emph>."
-msgstr "ជ្រើស <emph><switchinline select=\"sys\"><caseinline select=\"MAC\">%PRODUCTNAME - ចំណូល​ចិត្ត</caseinline><defaultinline>ឧបករណ៍ - ជម្រើស</defaultinline></switchinline> - %PRODUCTNAME Calc - មើល</emph> ។"
+msgstr "Choose <switchinline select=\"sys\"><caseinline select=\"MAC\"><emph>%PRODUCTNAME - Preferences</emph></caseinline><defaultinline><emph>Tools - Options</emph></defaultinline></switchinline><emph> - %PRODUCTNAME Calc - View</emph>."
 
 #. 4oXKB
 #: csv_formula.xhp
@@ -3894,7 +3892,7 @@ msgctxt ""
 "par_id3152869\n"
 "help.text"
 msgid "From the <emph>Export of text files</emph> dialog that appears, select the character set and the field and text delimiters for the data to be exported, and confirm with <emph>OK</emph>."
-msgstr "ពី​ប្រអប់ <emph>នាំ​ចេញ​ឯកសារ​អត្ថបទ</emph> ដែល​លេច​ឡើង ជ្រើស​សំណុំ​តួ​អក្សរ និង​វាល​ និង​​អ្នក​កំណត់​ព្រំដែន​អត្ថបទ សម្រាប់​ទិន្នន័យ​ដែល​ត្រូវ​នាំ​ចូល និង​អះអាង​ដោយ​ចុច​យល់ព្រម ។"
+msgstr "From the <emph>Export of text files</emph> dialog that appears, select the character set and the field and text delimiters for the data to be exported, and confirm with <emph>OK</emph>."
 
 #. yPP3a
 #: csv_formula.xhp
@@ -3966,7 +3964,7 @@ msgctxt ""
 "par_id3153968\n"
 "help.text"
 msgid "In <item type=\"productname\">%PRODUCTNAME</item> Calc you can give numbers any currency format. When you click the <item type=\"menuitem\">Currency</item> icon <image id=\"img_id3150791\" src=\"cmd/sc_currencyfield.png\" width=\"0.1665in\" height=\"0.1665in\"><alt id=\"alt_id3150791\">Icon</alt></image> in the <item type=\"menuitem\">Formatting</item> bar to format a number, the cell is given the default currency format set under <switchinline select=\"sys\"><caseinline select=\"MAC\"><item type=\"menuitem\">%PRODUCTNAME - Preferences</item></caseinline><defaultinline><item type=\"menuitem\">Tools - Options</item></defaultinline></switchinline><item type=\"menuitem\"> - Language Settings - Languages</item>."
-msgstr "នៅ​ក្នុង <item type=\"productname\">%PRODUCTNAME</item> Calc អ្នក​អាច​ផ្ដល់​លេខ​ជា​ទ្រង់ទ្រាយ​រូបិយប័ណ្ណ​ណាមួយ ។ នៅពេល​អ្នក​ចុច​រូបតំណាង <item type=\"menuitem\">រូបិយប័ណ្ណ</item> <image id=\"img_id3150791\" src=\"cmd/sc_currencyfield.png\" width=\"0.1665in\" height=\"0.1665in\"><alt id=\"alt_id3150791\">រូបតំណាង</alt></image> នៅ​ក្នុង​របារ <item type=\"menuitem\">ទ្រង់ទ្រាយ</item> ដើម្បី​ធ្វើ​ទ្រង់ទ្រាយលេខ ក្រឡា​ត្រូវ​បានផ្ដល់​ជា​ទ្រង់ទ្រាយ​រូបិយប័ណ្ណ​លំនាំដើម ដែល​បាន​កំណត់ក្រោម <item type=\"menuitem\"><switchinline select=\"sys\"><caseinline select=\"MAC\">%PRODUCTNAME - ចំណូល​ចិត្ត</caseinline><defaultinline>ឧបករណ៍ - ជម្រើស</defaultinline></switchinline> - ការ​កំណត់​ភាសា - ភាសា</item> ។"
+msgstr "In <item type=\"productname\">%PRODUCTNAME</item> Calc you can give numbers any currency format. When you click the <item type=\"menuitem\">Currency</item> icon <image id=\"img_id3150791\" src=\"cmd/sc_currencyfield.png\" width=\"0.1665in\" height=\"0.1665in\"><alt id=\"alt_id3150791\">Icon</alt></image> in the <item type=\"menuitem\">Formatting</item> bar to format a number, the cell is given the default currency format set under <switchinline select=\"sys\"><caseinline select=\"MAC\"><item type=\"menuitem\">%PRODUCTNAME - Preferences</item></caseinline><defaultinline><item type=\"menuitem\">Tools - Options</item></defaultinline></switchinline><item type=\"menuitem\"> - Language Settings - Languages</item>."
 
 #. UWxwb
 #: currency_format.xhp
@@ -4001,8 +3999,8 @@ msgctxt ""
 "currency_format.xhp\n"
 "par_id3150749\n"
 "help.text"
-msgid "For example, if the language is set to \"Default\" and you are using a german locale setting, the currency format will be \"1.234,00 €\". A point is used before the thousand digits and a comma before the decimal places. If you now select the subordinate currency format \"$ English (US)\" from the <item type=\"menuitem\">Format</item> list box , you will get the following format: \"$ 1.234,00\". As you can see, the separators have remained the same. Only the currency symbol has been changed and converted, but the underlying format of the notation remains the same as in the locale setting."
-msgstr "ឧទាហរណ៍ ប្រសិនបើ​ភាសា​ត្រូវ​បានកំណត់​ទៅ \"លំនាំដើម\" ហើយ​អ្នក​កំពុង​ប្រើ​ការ​កំណត់​មូលដ្ឋាន​របស់​អាល្លឺម៉ង់ ទ្រង់ទ្រាយរូបិយប័ណ្ណ​នឹង​ជា \"1.234,00 €\" ។ ចំណុច(.) ត្រូ​វបានប្រើ​មុខ​តួលេខ​ខ្ទង់ពាន់ ហើយ​សញ្ញា(,) មុន​ខ្ទង់​ទសភាគ ។ ប្រសិនបើ​អ្នក​ជ្រើស​ទ្រង់ទ្រាយ​រូបិយប័ណ្ណ​បន្ទាប់បន្សំ \"$ អង់គ្លេស​ (អាមេរិក)\" ពី​ប្រអប់​បញ្ជី <item type=\"menuitem\">ទ្រង់ទ្រាយ</item> អ្នក​នឹង​ទទួលបានទ្រង់ទ្រាយ​ដូច​ខាង​ក្រោម ៖ \"$ 1.234,00\" ។ ដូចដែលអ្នក​ឃើញ​ហើយ សញ្ញា​បំបែក​នៅ​តែ​ដូច​គ្នា ។ មាន​តែ​និមិត្ត​សញ្ញា​រូបិយប័ណ្ណ​ត្រូវ​បានផ្លាស់ប្ដូរ និង​បម្លែង ប៉ុន្តែ​ខាង​ក្រោម​ទ្រង់ទ្រាយ​របស់​ចំណាំ​នៅ​តែ​ដូច​គ្នា​​ដូច​ក្នុង​កា​រកំណត់​មូលដ្ឋាន ។"
+msgid "For example, if the language is set to \"Default\" and you are using a german locale setting, the currency format will be \"1.234,00 €\". A point is used before the thousand digits and a comma before the decimal places. If you now select the subordinate currency format \"$English (US)\" from the <item type=\"menuitem\">Format</item> list box , you will get the following format: \"$1.234,00\". As you can see, the separators have remained the same. Only the currency symbol has been changed and converted, but the underlying format of the notation remains the same as in the locale setting."
+msgstr "ឧទាហរណ៍ ប្រសិនបើ​ភាសា​ត្រូវ​បានកំណត់​ទៅ \"លំនាំដើម\" ហើយ​អ្នក​កំពុង​ប្រើ​ការ​កំណត់​មូលដ្ឋាន​របស់​អាល្លឺម៉ង់ ទ្រង់ទ្រាយរូបិយប័ណ្ណ​នឹង​ជា \"1.234,00 €\" ។ ចំណុច(.) ត្រូ​វបានប្រើ​មុខ​តួលេខ​ខ្ទង់ពាន់ ហើយ​សញ្ញា(,) មុន​ខ្ទង់​ទសភាគ ។ ប្រសិនបើ​អ្នក​ជ្រើស​ទ្រង់ទ្រាយ​រូបិយប័ណ្ណ​បន្ទាប់បន្សំ \"$អង់គ្លេស​ (អាមេរិក)\" ពី​ប្រអប់​បញ្ជី <item type=\"menuitem\">ទ្រង់ទ្រាយ</item> អ្នក​នឹង​ទទួលបានទ្រង់ទ្រាយ​ដូច​ខាង​ក្រោម ៖ \"$1.234,00\" ។ ដូចដែលអ្នក​ឃើញ​ហើយ សញ្ញា​បំបែក​នៅ​តែ​ដូច​គ្នា ។ មាន​តែ​និមិត្ត​សញ្ញា​រូបិយប័ណ្ណ​ត្រូវ​បានផ្លាស់ប្ដូរ និង​បម្លែង ប៉ុន្តែ​ខាង​ក្រោម​ទ្រង់ទ្រាយ​របស់​ចំណាំ​នៅ​តែ​ដូច​គ្នា​​ដូច​ក្នុង​កា​រកំណត់​មូលដ្ឋាន ។"
 
 #. MNnnJ
 #: currency_format.xhp
@@ -4010,8 +4008,8 @@ msgctxt ""
 "currency_format.xhp\n"
 "par_id3145640\n"
 "help.text"
-msgid "If, under <item type=\"menuitem\">Language</item>, you convert the cells to \"English (US)\", the English-language locale setting is also transferred and the default currency format is now \"$ 1,234.00\"."
-msgstr "ប្រសិនបើ​នៅ​ក្រោម <item type=\"menuitem\">ភាសា</item> អ្នក​បម្លែង​ក្រឡា​ទៅ​ជា \"អង់គ្លេស (អាមេរិក)\" ការ​កំណត់មូលដ្ឋាន​ភាសា​អង់គ្លេស​ត្រូវ​បានផ្ទេរ​ ហើយ​ទ្រង់ទ្រាយ​រូបិយប័ណ្ណ​លំនាំដើម ឥឡូវ​គឺ\"$ 1,234.00\" ។"
+msgid "If, under <item type=\"menuitem\">Language</item>, you convert the cells to \"English (US)\", the English-language locale setting is also transferred and the default currency format is now \"$1,234.00\"."
+msgstr "ប្រសិនបើ​នៅ​ក្រោម <item type=\"menuitem\">ភាសា</item> អ្នក​បម្លែង​ក្រឡា​ទៅ​ជា \"អង់គ្លេស (អាមេរិក)\" ការ​កំណត់មូលដ្ឋាន​ភាសា​អង់គ្លេស​ត្រូវ​បានផ្ទេរ​ ហើយ​ទ្រង់ទ្រាយ​រូបិយប័ណ្ណ​លំនាំដើម ឥឡូវ​គឺ\"$1,234.00\" ។"
 
 #. CzbsK
 #: currency_format.xhp
@@ -4137,7 +4135,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Filtering Cell Ranges"
-msgstr "ការច្រោះ​ជួរ​ក្រឡា"
+msgstr "ការច្រោះ​ជួរ​ក្រឡ"
 
 #. DERXE
 #: database_filter.xhp
@@ -4173,7 +4171,7 @@ msgctxt ""
 "par_idN10682\n"
 "help.text"
 msgid "To Apply a Standard Filter to a Cell Range"
-msgstr "អនុវត្ត​តម្រង​ស្តង់ដារ​ទៅ​ជួរក្រឡា"
+msgstr "អនុវត្ត​តម្រង​ស្តង់ដារ​ទៅ​ជួរក្រឡ"
 
 #. SiEGx
 #: database_filter.xhp
@@ -4191,7 +4189,7 @@ msgctxt ""
 "par_idN10693\n"
 "help.text"
 msgid "Choose <item type=\"menuitem\">Data - More Filters - Standard Filter</item>."
-msgstr ""
+msgstr "ជ្រើសរើស <item type=\"menuitem\"> ទិន្នន័យ - តម្រងច្រើនទៀត - តម្រងស្តង់ដារ </item> ។"
 
 #. Hxxpj
 #: database_filter.xhp
@@ -4227,7 +4225,7 @@ msgctxt ""
 "par_id3153728\n"
 "help.text"
 msgid "To Apply an AutoFilter to a Cell Range"
-msgstr "អនុវត្ត​​តម្រង​ស្វ័យ​ប្រវត្តិ​ទៅ​ជួរក្រឡា"
+msgstr "អនុវត្ត​​តម្រង​ស្វ័យ​ប្រវត្តិ​ទៅ​ជួរក្រឡ"
 
 #. tqAMd
 #: database_filter.xhp
@@ -4254,7 +4252,7 @@ msgctxt ""
 "par_id3154944\n"
 "help.text"
 msgid "Choose <item type=\"menuitem\">Data - AutoFilter</item>."
-msgstr ""
+msgstr "ជ្រើសរើស <item type=\"menuitem\"> ទិន្នន័យ - តម្រងស្វ័យប្រវត្តិ </item> ។"
 
 #. 8jfFs
 #: database_filter.xhp
@@ -4299,7 +4297,7 @@ msgctxt ""
 "par_idN106E8\n"
 "help.text"
 msgid "To Remove a Filter From a Cell Range"
-msgstr "យក​តម្រង​ចេញពី​ជួរក្រឡា"
+msgstr "យក​តម្រង​ចេញពី​ជួរក្រឡ"
 
 #. 85fDm
 #: database_filter.xhp
@@ -4326,7 +4324,7 @@ msgctxt ""
 "par_id4525284\n"
 "help.text"
 msgid "<link href=\"https://wiki.documentfoundation.org/Documentation/How_Tos/Defining_a_Data_Range\" name=\"wiki.documentfoundation.org Defining a Data Range\">Wiki page about defining a data range</link>"
-msgstr ""
+msgstr "<link href=\"https://wiki.documentfoundation.org/Documentation/How_Tos/Defining_a_Data_Range\" name=\"wiki.documentfoundation.org Defining a Data Range\"> ទំព័រវីគីអំពីការកំណត់ជួរទិន្នន័យ </link>"
 
 #. ueLu8
 #: database_sort.xhp
@@ -4416,7 +4414,7 @@ msgctxt ""
 "par_id1846980\n"
 "help.text"
 msgid "<link href=\"https://wiki.documentfoundation.org/Documentation/How_Tos/Defining_a_Data_Range\" name=\"wiki.documentfoundation.org: Defining a Data Range\">Wiki page about defining a data range</link>"
-msgstr ""
+msgstr "<link href=\"https://wiki.documentfoundation.org/Documentation/How_Tos/Defining_a_Data_Range\" name=\"wiki.documentfoundation.org: Defining a Data Range\"> ទំព័រវីគីអំពីការកំណត់ជួរទិន្នន័យ </link>"
 
 #. zsSK8
 #: datapilot.xhp
@@ -4632,7 +4630,7 @@ msgctxt ""
 "par_id141525148751543\n"
 "help.text"
 msgid "If you delete a pivot table linked to a pivot chart, the pivot chart is also deleted. A dialog box opens to confirm the pivot chart deletion."
-msgstr ""
+msgstr "ប្រសិនបើអ្នកលុបតារាងអ្នកជំនួយការទិន្នន័យដែលភ្ជាប់ទៅនឹងតារាងអ្នកជំនួយការទិន្នន័យអ្នកជំនួយការទិន្នន័យត្រូវបានលុបចោលផងដែរ។ ប្រអប់មួយបើកដើម្បីបញ្ជាក់ពីការលុបតារាងអ្នកជំនួយការទិន្នន័យ។"
 
 #. 9Ft4E
 #: datapilot_edittable.xhp
@@ -5352,7 +5350,7 @@ msgctxt ""
 "par_id3156382\n"
 "help.text"
 msgid "To apply a custom cell style to a cell, you can open the Styles window and, in its lower list box, set the Custom Styles view. A list of the existing custom defined cell styles will be displayed. Double click a name from the Styles window to apply this style to the selected cells."
-msgstr ""
+msgstr "ដើម្បីអនុវត្តរចនាប័ទ្មក្រឡាផ្ទាល់ខ្លួនទៅក្រឡាអ្នកអាចបើកបង្អួចរចនាប័ទ្មហើយនៅក្នុងប្រអប់បញ្ជីខាងក្រោមកំណត់ទិដ្ឋភាពរចនាប័ទ្មផ្ទាល់ខ្លួន។ បញ្ជីនៃរចនាប័ទ្មក្រឡាដែលបានកំណត់ផ្ទាល់ខ្លួនដែលមានស្រាប់នឹងត្រូវបានបង្ហាញ។ ចុចទ្វេដងលើឈ្មោះពីបង្អួចស្តារដើម្បីអនុវត្តរចនាប័ទ្មនេះទៅក្រឡាដែលបានជ្រើស។"
 
 #. 6zVVD
 #: design.xhp
@@ -5379,7 +5377,7 @@ msgctxt ""
 "par_id3148488\n"
 "help.text"
 msgid "The <emph>Theme Selection</emph> dialog appears. This dialog lists the available themes for the whole spreadsheet and the Styles window lists the custom styles for specific cells."
-msgstr ""
+msgstr "នេះ <emph> ការជ្រើសរើសស្បែក </emph> ប្រអប់លេចឡើង។ ប្រអប់នេះរាយប្រធានបទដែលមានសម្រាប់សៀវភៅបញ្ជីទាំងមូលហើយបង្អួចស្តាយបង្ហាញបញ្ជីរចនាប័ទ្មផ្ទាល់ខ្លួនសម្រាប់ក្រឡាជាក់លាក់។"
 
 #. BgEap
 #: design.xhp
@@ -5433,7 +5431,7 @@ msgctxt ""
 "bm_id3149456\n"
 "help.text"
 msgid "<bookmark_value>copying;values, to multiple sheets</bookmark_value><bookmark_value>pasting;values in multiple sheets</bookmark_value><bookmark_value>data;inserting in multiple sheets</bookmark_value><bookmark_value>sheets; simultaneous multiple filling</bookmark_value>"
-msgstr ""
+msgstr "<bookmark_value> ចម្លងតម្លៃទៅសន្លឹកច្រើន </bookmark_value><bookmark_value> បិទភ្ជាប់តម្លៃក្នុងសន្លឹកច្រើន </bookmark_value><bookmark_value> ទិន្នន័យបញ្ចូលក្នុងសន្លឹកច្រើន </bookmark_value><bookmark_value> សន្លឹក; ការចាក់ច្រើនដំណាលគ្នា </bookmark_value>"
 
 #. TTfnY
 #: edit_multitables.xhp
@@ -5442,7 +5440,7 @@ msgctxt ""
 "hd_id3149456\n"
 "help.text"
 msgid "<variable id=\"edit_multitables\"><link href=\"text/scalc/guide/edit_multitables.xhp\" name=\"Copying to Multiple Sheets\">Copying to Multiple Sheets</link></variable>"
-msgstr ""
+msgstr "<variable id=\"edit_multitables\"><link href=\"text/scalc/guide/edit_multitables.xhp\" name=\"Copying to Multiple Sheets\"> ចម្លងទៅសន្លឹកច្រើន </link></variable>"
 
 #. 4sMCm
 #: edit_multitables.xhp
@@ -5460,7 +5458,7 @@ msgctxt ""
 "par_id3153768\n"
 "help.text"
 msgid "Select all desired sheets by holding down the <switchinline select=\"sys\"><caseinline select=\"MAC\"><emph>Command</emph></caseinline><defaultinline><emph>Ctrl</emph></defaultinline></switchinline> key and clicking the corresponding register tabs that are still gray at the bottom margin of the workspace. All selected register tabs are now white."
-msgstr ""
+msgstr "ជ្រើសរើសសន្លឹកដែលចង់បានទាំងអស់ដោយសង្កត់លើឯកសារ <switchinline select=\"sys\"><caseinline select=\"MAC\"><emph> ពាក្យបញ្ជា </emph></caseinline><defaultinline><emph> បញ្ជា (Ctrl) </emph></defaultinline></switchinline> ហើយចុចលើផ្ទាំងចុះឈ្មោះដែលត្រូវគ្នាដែលនៅតែមានពណ៌ប្រផេះនៅគែមខាងក្រោមនៃកន្លែងធ្វើការ។ ផ្ទាំងចុះឈ្មោះដែលបានជ្រើសរើសទាំងអស់ឥឡូវនេះមានពណ៌ស។"
 
 #. xSB4o
 #: edit_multitables.xhp
@@ -5469,7 +5467,7 @@ msgctxt ""
 "par_idN10614\n"
 "help.text"
 msgid "You can use <emph>Shift</emph>+<switchinline select=\"sys\"><caseinline select=\"MAC\"><emph>Command</emph></caseinline><defaultinline><emph>Ctrl</emph></defaultinline></switchinline>+<emph>Page Up</emph> or <emph>Page Down</emph> to select multiple sheets using the keyboard."
-msgstr ""
+msgstr "លោក​អ្នក​អាច​ប្រើ <emph> ប្តូរ </emph> + <switchinline select=\"sys\"><caseinline select=\"MAC\"><emph> ពាក្យបញ្ជា </emph></caseinline><defaultinline><emph> បញ្ជា (Ctrl) </emph></defaultinline></switchinline> + <emph> ទំព័រលើ </emph> ឬ <emph> ទំព័រក្រោម </emph> ដើម្បីជ្រើសរើសសន្លឹកច្រើនដោយប្រើក្តារចុច។"
 
 #. bwHKS
 #: edit_multitables.xhp
@@ -5478,7 +5476,7 @@ msgctxt ""
 "par_id3147435\n"
 "help.text"
 msgid "Now when you insert values, text or formulas into the active sheet, they will also appear in the identical positions in the other selected sheets. For example, data entered in cell \"A1\" of the active sheet is automatically entered into cell \"A1\" of any other selected sheet."
-msgstr ""
+msgstr "ឥឡូវនៅពេលអ្នកបញ្ចូលតម្លៃអត្ថបទឬរូបមន្តទៅក្នុងសន្លឹកសកម្មនោះពួកគេក៏នឹងបង្ហាញនៅក្នុងទីតាំងដែលដូចគ្នាបេះបិទនៅក្នុងសន្លឹកដែលបានជ្រើសរើសផ្សេងទៀត។ ឧទាហរណ៍ទិន្នន័យដែលបានបញ្ចូលក្នុងក្រឡា \"A1 \" នៃសន្លឹកសកម្មត្រូវបានបញ្ចូលដោយស្វ័យប្រវត្តិទៅក្នុងក្រឡា \"A1 \" នៃសន្លឹកដែលបានជ្រើសរើសផ្សេងទៀត។"
 
 #. ASuDk
 #: filters.xhp
@@ -5631,7 +5629,7 @@ msgctxt ""
 "hd_id2423780\n"
 "help.text"
 msgid "To find formulas or values"
-msgstr "រក​រូបមន្ត និង​តម្លៃ"
+msgstr "រក​រូបមន្ត និង​តម្ល"
 
 #. zstCf
 #: finding.xhp
@@ -5687,14 +5685,14 @@ msgctxt ""
 msgid "With \"Values\" you will find the results of the calculations."
 msgstr "ដោយប្រើ \"Values\" អ្នកនឹង​អាច​រកលទ្ធផល​នៃ​ការគណនា ។"
 
-#. FMaXJ
+#. xQ5ou
 #: finding.xhp
 msgctxt ""
 "finding.xhp\n"
 "par_id3163853\n"
 "help.text"
-msgid "Cell contents can be formatted in different ways. For example, a number can be formatted as a currency, to be displayed with a currency symbol. These symbols are included in searches when the Formatted Display search option is activated."
-msgstr ""
+msgid "Cell contents can be formatted in different ways. For example, a number can be formatted as a currency, to be displayed with a currency symbol. You see the currency symbol in the cell, but you cannot search for it."
+msgstr "មាតិកា​ក្រលា អាចត្រូវបាន​ធ្វើ​ទ្រង់ទ្រាយ​តាមវិធី​ផ្សេងគ្នា ។ ឧទាហរណ៍ ៖ លេខ អាចត្រូវបាន​ធ្វើ​ទ្រង់ទ្រាយ​ជា​រូបិយប័ណ្ណ ដើម្បី​បង្ហាញ​ជា​និមិត្តសញ្ញា​រូបិយប័ណ្ណ ។ អ្នក​អាចឃើញ​និមិត្ត​សញ្ញា​ជារូបិយប័ណ្ណ​នៅក្នុងក្រឡា ប៉ុន្តែ​អ្នក​មិនអាច​ស្វែងរក​វាបានទេ​។"
 
 #. Z4ABm
 #: finding.xhp
@@ -5721,7 +5719,7 @@ msgctxt ""
 "par_id6529740\n"
 "help.text"
 msgid "Enter the text to find in the <emph>Find</emph> text box."
-msgstr ""
+msgstr "បញ្ចូលអត្ថបទដើម្បីស្វែងរកនៅក្នុងឯកសារ <emph> រក </emph> ប្រអប់អត្ថបទ។"
 
 #. pMEpA
 #: finding.xhp
@@ -5757,7 +5755,7 @@ msgctxt ""
 "par_id631733\n"
 "help.text"
 msgid "By default, Calc searches the current sheet. Check the <emph>All sheets</emph> box to search through all sheets of the document."
-msgstr ""
+msgstr "តាមលំនាំដើម Calc ស្វែងរកសន្លឹកបច្ចុប្បន្ន។ ពិនិត្យឯកសារ <emph> សន្លឹកទាំងអស់ </emph> ប្រអប់ដើម្បីស្វែងរកតាមរយៈសន្លឹកទាំងអស់នៃឯកសារ។"
 
 #. ahmfD
 #: finding.xhp
@@ -5901,7 +5899,7 @@ msgctxt ""
 "par_id3154733\n"
 "help.text"
 msgid "You can assign a format to any group of cells by first selecting the cells (for multiple selection, hold down the <switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline> key when clicking), and then activating the <emph>Format Cells</emph> dialog in <item type=\"menuitem\">Format - Cells</item>. In this dialog, you can select attributes such as shadows and backgrounds."
-msgstr ""
+msgstr "អ្នកអាចកំណត់ទ្រង់ទ្រាយទៅក្រុមណាមួយនៃកោសិកាដោយជ្រើសរើសក្រឡាជាមុនសិន (សម្រាប់ជំរើសច្រើនសូមសង្កត់លើ) <switchinline select=\"sys\"><caseinline select=\"MAC\"> ពាក្យបញ្ជា </caseinline><defaultinline> បញ្ជា (Ctrl) </defaultinline></switchinline> ពេលចុច) ហើយបន្ទាប់មកធ្វើ ឲ្យ សកម្មប៊ូតុង <emph> ធ្វើទ្រង់ទ្រាយក្រឡា </emph> ប្រអប់ចូល <item type=\"menuitem\"> ទ្រង់ទ្រាយ - កោសិកា </item> ។ នៅក្នុងប្រអប់នេះអ្នកអាចជ្រើសរើសគុណលក្ខណៈដូចជាស្រមោលនិងផ្ទៃខាងក្រោយ។"
 
 #. G3rCM
 #: format_table.xhp
@@ -6027,7 +6025,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "User-defined Number Formats"
-msgstr "ទ្រង់ទ្រាយ​លេខ​ដែល​កំណត់​ដោយ​អ្នក​ប្រើ"
+msgstr "ទ្រង់ទ្រាយ​លេខ​ដែល​កំណត់​ដោយ​អ្នក​ប្រ"
 
 #. GcvLD
 #: format_value_userdef.xhp
@@ -6171,7 +6169,7 @@ msgctxt ""
 "par_id3147344\n"
 "help.text"
 msgid "10200000"
-msgstr "10200000"
+msgstr "១០២០០០០០"
 
 #. LXQ8t
 #: format_value_userdef.xhp
@@ -6207,7 +6205,7 @@ msgctxt ""
 "par_id3150369\n"
 "help.text"
 msgid "500000"
-msgstr "500000"
+msgstr "៥០០០០០"
 
 #. jKNEA
 #: format_value_userdef.xhp
@@ -6243,7 +6241,7 @@ msgctxt ""
 "par_id3155810\n"
 "help.text"
 msgid "100000000"
-msgstr "100000000"
+msgstr "១០០០០០០០០"
 
 #. PMVAd
 #: format_value_userdef.xhp
@@ -6549,7 +6547,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Displaying Formulas or Values"
-msgstr "ការ​បង្ហាញ​រូបមន្ត ឬ​តម្លៃ"
+msgstr "ការ​បង្ហាញ​រូបមន្ត ឬ​តម្ល"
 
 #. CSD33
 #: formula_value.xhp
@@ -6585,7 +6583,7 @@ msgctxt ""
 "par_id3151116\n"
 "help.text"
 msgid "Choose <switchinline select=\"sys\"><caseinline select=\"MAC\"><emph>%PRODUCTNAME - Preferences</emph></caseinline><defaultinline><emph>Tools - Options</emph></defaultinline></switchinline><emph> - %PRODUCTNAME Calc - View</emph>."
-msgstr "ជ្រើស <emph><switchinline select=\"sys\"><caseinline select=\"MAC\">%PRODUCTNAME - ចំណូល​ចិត្ត</caseinline><defaultinline>ឧបករណ៍ - ជម្រើស</defaultinline></switchinline> - %PRODUCTNAME Calc - មើល</emph> ។"
+msgstr "Choose <switchinline select=\"sys\"><caseinline select=\"MAC\"><emph>%PRODUCTNAME - Preferences</emph></caseinline><defaultinline><emph>Tools - Options</emph></defaultinline></switchinline><emph> - %PRODUCTNAME Calc - View</emph>."
 
 #. 6tdYB
 #: formula_value.xhp
@@ -6684,7 +6682,7 @@ msgctxt ""
 "par_id3154015\n"
 "help.text"
 msgid "=A1+10"
-msgstr "=A1+10"
+msgstr "= ក ១ + ១០"
 
 #. CBA6j
 #: formulas.xhp
@@ -6702,7 +6700,7 @@ msgctxt ""
 "par_id3145643\n"
 "help.text"
 msgid "=A1*16%"
-msgstr "=A1*16%"
+msgstr "= A1 * ១៦%"
 
 #. yHNCY
 #: formulas.xhp
@@ -6720,7 +6718,7 @@ msgctxt ""
 "par_id3146917\n"
 "help.text"
 msgid "=A1 * A2"
-msgstr "=A1 * A2"
+msgstr "= ក ១ * ក ២"
 
 #. ZbQoA
 #: formulas.xhp
@@ -6738,7 +6736,7 @@ msgctxt ""
 "par_id3154022\n"
 "help.text"
 msgid "=ROUND(A1;1)"
-msgstr "=ROUND(A1;1)"
+msgstr "= មូល (A1; 1)"
 
 #. nZmjz
 #: formulas.xhp
@@ -6756,7 +6754,7 @@ msgctxt ""
 "par_id3150209\n"
 "help.text"
 msgid "=EFFECTIVE(5%;12)"
-msgstr "=EFFECTIVE(5%;12)"
+msgstr "= ប្រសិទ្ធភាព (៥% ១២)"
 
 #. LFSAU
 #: formulas.xhp
@@ -6774,7 +6772,7 @@ msgctxt ""
 "par_id3146114\n"
 "help.text"
 msgid "=B8-SUM(B10:B14)"
-msgstr "=B8-SUM(B10:B14)"
+msgstr "= B8-SUM (B10: B14)"
 
 #. BwE2o
 #: formulas.xhp
@@ -6792,7 +6790,7 @@ msgctxt ""
 "par_id3152890\n"
 "help.text"
 msgid "=SUM(B8;SUM(B10:B14))"
-msgstr "=SUM(B8;SUM(B10:B14))"
+msgstr "= SUM (B8; SUM (B10: B14))"
 
 #. 7AGzG
 #: formulas.xhp
@@ -6954,7 +6952,7 @@ msgctxt ""
 "par_id3152596\n"
 "help.text"
 msgid "I = C * n* i"
-msgstr "I = C * n* i"
+msgstr "ខ្ញុំ = C * n * ខ្ញុំ"
 
 #. UBFDH
 #: goalseek.xhp
@@ -7206,7 +7204,7 @@ msgctxt ""
 "par_id3146119\n"
 "help.text"
 msgid "Enter the number as text. The easiest way is to enter the number starting with an apostrophe (for example, <item type=\"input\">'0987</item>). The apostrophe will not appear in the cell, and the number will be formatted as text. Because it is in text format, however, you cannot calculate with this number."
-msgstr "បញ្ចូល​លេខ​ជា​អត្ថបទ ។ មធ្យោបាយ​ងាយស្រួលបំផុត​គឺ​ត្រូវ​បញ្ចូល​លេខ​ដែល​ចាប់ផ្ដើម​ដោយ​សញ្ញា(') (ឧទាហរណ៍ <item type=\"input\">'0987</item>) ។ សញ្ញា(') នឹង​មិន​បង្ហាញ​នៅ​ក្នុ​ងក្រឡា​ទេ ហើយ​លេខ​នឹង​ត្រូវ​បាន​ធ្វើទ្រង់ទ្រាយ​ជា​អត្ថបទ ។ ពីព្រោះ​វា​ស្ថិត​នៅ​ក្នុង​ទ្រង់ទ្រាយ​អត្ថបទ ទោះ​ជា​យ៉ាង​ណា​ក៏​ដោយ អ្នក​មិន​អាច​គណនា​ជា​មួយ​លេខ​នេះ​បាន​ទេ"
+msgstr "បញ្ចូល​លេខ​ជា​អត្ថបទ ។ មធ្យោបាយ​ងាយស្រួលបំផុត​គឺ​ត្រូវ​បញ្ចូល​លេខ​ដែល​ចាប់ផ្ដើម​ដោយ​សញ្ញា(') (ឧទាហរណ៍ <item type=\"input\">'0987</item>) ។ សញ្ញា(') នឹង​មិន​បង្ហាញ​នៅ​ក្នុ​ងក្រឡា​ទេ ហើយ​លេខ​នឹង​ត្រូវ​បាន​ធ្វើទ្រង់ទ្រាយ​ជា​អត្ថបទ ។ ពីព្រោះ​វា​ស្ថិត​នៅ​ក្នុង​ទ្រង់ទ្រាយ​អត្ថបទ ទោះ​ជា​យ៉ាង​ណា​ក៏​ដោយ អ្នក​មិន​អាច​គណនា​ជា​មួយ​លេខ​នេះ​បាន​ទ"
 
 #. jQBnH
 #: integer_leading_zero.xhp
@@ -7251,7 +7249,7 @@ msgctxt ""
 "par_id3154510\n"
 "help.text"
 msgid "In the <emph>Find</emph> box, enter <item type=\"input\">^[0-9]</item>"
-msgstr ""
+msgstr "ក្នុង <emph> រក </emph> ប្រអប់, បញ្ចូល <item type=\"input\"> ^ [០-៩] </item>"
 
 #. 6gHkJ
 #: integer_leading_zero.xhp
@@ -7260,7 +7258,7 @@ msgctxt ""
 "par_id3155068\n"
 "help.text"
 msgid "In the <emph>Replace</emph> box, enter <item type=\"input\">&</item>"
-msgstr ""
+msgstr "ក្នុង <emph> ជំនួស </emph> ប្រអប់, បញ្ចូល <item type=\"input\"> & </item>"
 
 #. 2e4FS
 #: integer_leading_zero.xhp
@@ -7332,7 +7330,7 @@ msgctxt ""
 "hd_id3153360\n"
 "help.text"
 msgid "Cell Selection Mode"
-msgstr "របៀប​ជម្រើស​ក្រឡា"
+msgstr "របៀប​ជម្រើស​ក្រឡ"
 
 #. GhNyL
 #: keyboard.xhp
@@ -7557,7 +7555,7 @@ msgctxt ""
 "par_id3156286\n"
 "help.text"
 msgid "Choose <item type=\"menuitem\">View - Freeze Cells - Freeze Rows and Columns</item>."
-msgstr ""
+msgstr "ជ្រើសរើស <item type=\"menuitem\"> មើល - កោសិកាបង្កក - ជួរដេកបង្កកនិងជួរឈរ </item> ។"
 
 #. 3N5Vt
 #: line_fix.xhp
@@ -7566,7 +7564,7 @@ msgctxt ""
 "par_id3151073\n"
 "help.text"
 msgid "To deactivate, choose <item type=\"menuitem\">View - Freeze Cells - Freeze Rows and Columns</item> again."
-msgstr ""
+msgstr "ដើម្បីធ្វើឱ្យអសកម្មជ្រើស <item type=\"menuitem\"> មើល - កោសិកាបង្កក - ជួរដេកបង្កកនិងជួរឈរ </item> ម្តងទៀត។"
 
 #. U7GBK
 #: line_fix.xhp
@@ -7575,7 +7573,7 @@ msgctxt ""
 "par_id3155335\n"
 "help.text"
 msgid "If the area defined is to be scrollable, apply the <item type=\"menuitem\">View - Split Window</item> command."
-msgstr ""
+msgstr "ប្រសិនបើផ្ទៃដែលបានកំណត់គឺអាចរមូរបានសូមអនុវត្តឯកសារ <item type=\"menuitem\"> មើល - បំបែកបង្អួច </item> ពាក្យបញ្ជា។"
 
 #. izbC9
 #: line_fix.xhp
@@ -7584,7 +7582,7 @@ msgctxt ""
 "par_id3147345\n"
 "help.text"
 msgid "If you want to print a certain row on all pages of a document, choose <item type=\"menuitem\">Format - Print ranges - Edit</item>."
-msgstr "បើ​អ្នក​ចង់​បោះពុម្ព​ជួរ​ដេក​ជាក់លាក់​មួយ​លើ​ទំព័រ​ទាំងអស់​នៃ​ឯកសារ​មួយ ជ្រើស <emph>ទ្រង់ទ្រាយ - ជួរ​បោះពុម្ព - កែសម្រួល</emph> ។"
+msgstr "If you want to print a certain row on all pages of a document, choose <item type=\"menuitem\">Format - Print ranges - Edit</item>."
 
 #. jQLAq
 #: line_fix.xhp
@@ -7593,7 +7591,7 @@ msgctxt ""
 "par_id3147004\n"
 "help.text"
 msgid "<link href=\"text/scalc/01/07090000.xhp\" name=\"View - Freeze Cells - Freeze Rows and Columns\">View - Freeze Cells - Freeze Rows and Columns</link>"
-msgstr ""
+msgstr "<link href=\"text/scalc/01/07090000.xhp\" name=\"View - Freeze Cells - Freeze Rows and Columns\"> មើល - កោសិកាបង្កក - ជួរដេកបង្កកនិងជួរឈរ </link>"
 
 #. RbKLt
 #: line_fix.xhp
@@ -7602,7 +7600,7 @@ msgctxt ""
 "par_id3150088\n"
 "help.text"
 msgid "<link href=\"text/scalc/01/07080000.xhp\" name=\"View - Split\">View - Split Window</link>"
-msgstr "<link href=\"text/scalc/01/07080000.xhp\" name=\"Window - Split\">បង្អួច - ពុះ</link>"
+msgstr "<link href=\"text/scalc/01/07080000.xhp\" name=\"View - Split\">View - Split Window</link>"
 
 #. uaqGG
 #: line_fix.xhp
@@ -7647,7 +7645,7 @@ msgctxt ""
 "hd_id3145748\n"
 "help.text"
 msgid "Formatting Tables and Cells"
-msgstr "ការ​ធ្វើ​ទ្រង់ទ្រាយ​តារាង និង​ក្រឡា"
+msgstr "ការ​ធ្វើ​ទ្រង់ទ្រាយ​តារាង និង​ក្រឡ"
 
 #. wegGK
 #: main.xhp
@@ -8430,7 +8428,7 @@ msgctxt ""
 "par_id6478774\n"
 "help.text"
 msgid "<image id=\"img_id1621753\" src=\"media/helpimg/what-if.png\"><alt id=\"alt_id1621753\">what-if sheet area</alt></image>"
-msgstr ""
+msgstr "<image id=\"img_id1621753\" src=\"media/helpimg/what-if.png\"><alt id=\"alt_id1621753\"> តំបន់សន្លឹកអ្វី </alt></image>"
 
 #. KavvR
 #: multioperation.xhp
@@ -8745,7 +8743,7 @@ msgctxt ""
 "par_id05092009140203523\n"
 "help.text"
 msgid "<variable id=\"sheettabcolor\"><ahelp hid=\".\" visibility=\"hidden\">Opens a window where you can assign a color to the sheet tab.</ahelp></variable>"
-msgstr ""
+msgstr "<variable id=\"sheettabcolor\"><ahelp hid=\".\" visibility=\"hidden\"> បើកបង្អួចដែលអ្នកអាចកំណត់ពណ៌ទៅផ្ទាំងសន្លឹក។ </ahelp></variable>"
 
 #. eBdGF
 #: multitables.xhp
@@ -8871,7 +8869,7 @@ msgctxt ""
 "par_id3145750\n"
 "help.text"
 msgid "The comment is visible whenever the mouse pointer is over the cell."
-msgstr ""
+msgstr "មតិយោបល់អាចមើលឃើញនៅពេលដែលព្រួញកណ្តុរស្ថិតនៅលើក្រឡា។"
 
 #. C4Eo5
 #: note_insert.xhp
@@ -8916,7 +8914,7 @@ msgctxt ""
 "par_id3144764\n"
 "help.text"
 msgid "To show or hide the comment indicator, choose <switchinline select=\"sys\"><caseinline select=\"MAC\"><emph>%PRODUCTNAME - Preferences</emph></caseinline><defaultinline><emph>Tools - Options</emph></defaultinline></switchinline><emph> - %PRODUCTNAME Calc - View</emph> and mark or unmark the <emph>Comment indicator</emph> check box."
-msgstr "ដើម្បីបង្ហាញ​កម្មវិធីបង្ហាញ​មតិយោបល់ ជ្រើស <emph><switchinline select=\"sys\"><caseinline select=\"MAC\">%PRODUCTNAME - ចំណូល​ចិត្ត</caseinline><defaultinline>ឧបករណ៍ - ជម្រើស</defaultinline></switchinline> - %PRODUCTNAME Calc - មើល</emph> ហើយ​គូស​ធីក ឬ​ដោះធីក​ប្រអប់ <emph>កម្មវិធីបង្ហាញ​មតិយោបល់</emph> ។"
+msgstr "To show or hide the comment indicator, choose <switchinline select=\"sys\"><caseinline select=\"MAC\"><emph>%PRODUCTNAME - Preferences</emph></caseinline><defaultinline><emph>Tools - Options</emph></defaultinline></switchinline><emph> - %PRODUCTNAME Calc - View</emph> and mark or unmark the <emph>Comment indicator</emph> check box."
 
 #. TYg9E
 #: note_insert.xhp
@@ -8970,7 +8968,7 @@ msgctxt ""
 "par_id0908200901265127\n"
 "help.text"
 msgid "Defaults settings in Calc converts text inside cells to the respective numeric values if an unambiguous conversion is possible. If no conversion is possible, Calc returns a #VALUE! error."
-msgstr ""
+msgstr "ការកំណត់លំនាំដើមនៅក្នុង Calc បម្លែងអត្ថបទនៅខាងក្នុងក្រឡាទៅតម្លៃលេខរៀងៗខ្លួនប្រសិនបើការបម្លែងមិនច្បាស់អាចធ្វើទៅបាន។ ប្រសិនបើគ្មានការបំលែងទេគឺអាចធ្វើបាន, Calc ត្រឡប់ជា #VALUE! កំហុស។"
 
 #. yhhMM
 #: numbers_text.xhp
@@ -8979,7 +8977,7 @@ msgctxt ""
 "par_id0908200901265196\n"
 "help.text"
 msgid "<emph>Only integer numbers including exponent are converted</emph>, and ISO 8601 dates and times in their extended formats with separators. Anything else, like fractional numbers with decimal separators or dates other than ISO 8601, is not converted, as the text string would be locale dependent. Leading and trailing blanks are ignored."
-msgstr ""
+msgstr "<emph> មានតែលេខគត់រួមទាំងនិទស្សន្តត្រូវបានបម្លែង </emph> និងកាលបរិច្ឆេទនិងពេលវេលាអាយអេសអូ 8601 នៅក្នុងទ្រង់ទ្រាយបន្ថែមរបស់ពួកគេជាមួយឧបករណ៍បំបែក។ អ្វីផ្សេងទៀតដូចជាលេខប្រភាគដែលមានខ្ទង់ទសភាគឬកាលបរិច្ឆេទក្រៅពីអាយអេសអូ 8601 មិនត្រូវបានបំលែងទេដូចជាខ្សែអក្សរអត្ថបទនឹងត្រូវពឹងផ្អែកលើមូលដ្ឋាន។ ចន្លោះប្រហោងនាំមុខនិងក្រោយត្រូវបានមិនអើពើ។"
 
 #. KHDbE
 #: numbers_text.xhp
@@ -8997,7 +8995,7 @@ msgctxt ""
 "par_id0908200901265288\n"
 "help.text"
 msgid "CCYY-MM-DD"
-msgstr "CCYY-MM-DD"
+msgstr "ស៊ីស៊ី - យូ - ឌី។ ឌី"
 
 #. FpDBW
 #: numbers_text.xhp
@@ -9006,7 +9004,7 @@ msgctxt ""
 "par_id0908200901265267\n"
 "help.text"
 msgid "CCYY-MM-DDThh:mm"
-msgstr "CCYY-MM-DDThh:mm"
+msgstr "CCYY-MM-DDThh: ម"
 
 #. r9ueM
 #: numbers_text.xhp
@@ -9015,7 +9013,7 @@ msgctxt ""
 "par_id0908200901265248\n"
 "help.text"
 msgid "CCYY-MM-DDThh:mm:ss"
-msgstr "CCYY-MM-DDThh:mm:ss"
+msgstr "CCYY-MM-DDThh: mm: ss"
 
 #. 9nAGP
 #: numbers_text.xhp
@@ -9024,7 +9022,7 @@ msgctxt ""
 "par_id0908200901265374\n"
 "help.text"
 msgid "CCYY-MM-DDThh:mm:ss,s"
-msgstr "CCYY-MM-DDThh:mm:ss,s"
+msgstr "CCYY-MM-DDThh: mm: ss, s"
 
 #. GbRWC
 #: numbers_text.xhp
@@ -9033,7 +9031,7 @@ msgctxt ""
 "par_id0908200901265327\n"
 "help.text"
 msgid "CCYY-MM-DDThh:mm:ss.s"
-msgstr "CCYY-MM-DDThh:mm:ss.s"
+msgstr "CCYY-MM-DDThh: mm: ss.s"
 
 #. NAzAi
 #: numbers_text.xhp
@@ -9042,7 +9040,7 @@ msgctxt ""
 "par_id0908200901265399\n"
 "help.text"
 msgid "hh:mm"
-msgstr "hh:mm"
+msgstr "hh: mm"
 
 #. fHx5R
 #: numbers_text.xhp
@@ -9051,7 +9049,7 @@ msgctxt ""
 "par_id0908200901265347\n"
 "help.text"
 msgid "hh:mm:ss"
-msgstr "hh:mm:ss"
+msgstr "hh: mm: ss"
 
 #. NhLDG
 #: numbers_text.xhp
@@ -9060,7 +9058,7 @@ msgctxt ""
 "par_id0908200901265349\n"
 "help.text"
 msgid "hh:mm:ss,s"
-msgstr "hh:mm:ss,s"
+msgstr "hh: mm: ss, s"
 
 #. zQp4V
 #: numbers_text.xhp
@@ -9069,7 +9067,7 @@ msgctxt ""
 "par_id0908200901265342\n"
 "help.text"
 msgid "hh:mm:ss.s"
-msgstr "hh:mm:ss.s"
+msgstr "hh: mm: ss.s"
 
 #. 2frj9
 #: numbers_text.xhp
@@ -9105,7 +9103,7 @@ msgctxt ""
 "par_id761567607207916\n"
 "help.text"
 msgid "The conversion is done for single scalar values only, not within ranges."
-msgstr ""
+msgstr "ការបំលែងត្រូវបានធ្វើឡើងសម្រាប់តែតម្លៃក្រម៉ាតែមួយប៉ុណ្ណោះមិនមែននៅក្នុងជួរទេ។"
 
 #. C6ykS
 #: numbers_text.xhp
@@ -9114,7 +9112,7 @@ msgctxt ""
 "par_id0908200901265448\n"
 "help.text"
 msgid "The conversion is done for single scalar values, as in =A1+A2, or =\"1E2\"+1. Cell range arguments are not affected, so SUM(A1:A2) differs from A1+A2 if at least one of the two cells contain a convertible string."
-msgstr ""
+msgstr "ការបំលែងត្រូវបានធ្វើសំរាប់តំលៃជញ្ជីងតែមួយដូចជានៅក្នុង = A1 + A2, ឬ = \"1E2 \" + 1 ។ អាគុយម៉ង់ជួរក្រឡាមិនត្រូវបានប៉ះពាល់ដូច្នេះ SUM (A1: A2) ខុសគ្នាពី A1 + A2 ប្រសិនបើយ៉ាងហោចណាស់កោសិកាមួយក្នុងចំណោមកោសិកាទាំងពីរមានខ្សែអក្សរដែលអាចបំលែងបាន។"
 
 #. N4xE3
 #: numbers_text.xhp
@@ -9141,7 +9139,7 @@ msgctxt ""
 "par_id1005200903485359\n"
 "help.text"
 msgid "In A1 enter the text <literal>'1e2</literal> (which is converted to the number 100 internally)."
-msgstr ""
+msgstr "នៅក្នុង A1 បញ្ចូលអត្ថបទ <literal> &#39;1e2 </literal> (ដែលត្រូវបានប្តូរទៅលេខ ១០០ ផ្ទៃក្នុង) ។"
 
 #. CFpmx
 #: numbers_text.xhp
@@ -9150,7 +9148,7 @@ msgctxt ""
 "par_id1005200903485341\n"
 "help.text"
 msgid "In A2 enter <literal>=A1+1</literal> (which correctly results in 101)."
-msgstr ""
+msgstr "នៅក្នុង A2 បញ្ចូល <literal> = ក ១ + ១ </literal> (ដែលលទ្ធផលត្រឹមត្រូវ ១០១) ។"
 
 #. MLL7F
 #: numbers_text.xhp
@@ -9159,7 +9157,7 @@ msgctxt ""
 "par_id891567607263849\n"
 "help.text"
 msgid "The formula <literal>=SUM(A1:A2)</literal>, returns 101 instead of 201 because the conversion does not occur in a range, only for single scalar values. Here, '1e2 is treated as string which is ignored for the SUM function."
-msgstr ""
+msgstr "រូបមន្ត <literal> = SUM (A1: A2) </literal> , ត្រឡប់ ១០១ ជំនួសឆ្នាំ ២០១ ពីព្រោះការបំលែងមិនកើតឡើងក្នុងជួរទេគឺសំរាប់តែតំលៃជញ្ជីងតែមួយប៉ុណ្ណោះ។ នៅទីនេះ &#39;1e2 ត្រូវបានចាត់ទុកជាខ្សែអក្សរដែលមិនត្រូវបានអើពើសម្រាប់មុខងារ SUM ។"
 
 #. hoF73
 #: numbers_text.xhp
@@ -9168,7 +9166,7 @@ msgctxt ""
 "par_id611567607779380\n"
 "help.text"
 msgid "<literal>=SUM(\"1E2\";1)</literal> returns #VALUE! because SUM() and some others that iterate over number sequences explicitly check the argument type."
-msgstr ""
+msgstr "<literal> = SUM (\"១ អ៊ី ២ \"; ១) </literal> ត្រឡប់ #VALUE! ពីព្រោះ SUM () និងខ្លះទៀតថាវាលើសលេខលេខហើយពិនិត្យមើលប្រភេទអាគុយម៉ង់។"
 
 #. RNrFS
 #: numbers_text.xhp
@@ -9177,7 +9175,7 @@ msgctxt ""
 "hd_id871567772424915\n"
 "help.text"
 msgid "Changing the default text to number conversion settings"
-msgstr ""
+msgstr "ការផ្លាស់ប្តូរអត្ថបទលំនាំដើមទៅការកំណត់ការបម្លែងលេខ"
 
 #. FrQEr
 #: numbers_text.xhp
@@ -9186,7 +9184,7 @@ msgctxt ""
 "par_id111567772433803\n"
 "help.text"
 msgid "The text to number conversion can be customized in the <embedvar href=\"text/shared/optionen/detailedcalculation.xhp#detailed_heading\" markup=\"ignore\"/> option."
-msgstr ""
+msgstr "អត្ថបទទៅការបម្លែងលេខអាចត្រូវបានប្ដូរតាមបំណងនៅក្នុងឯកសារ <embedvar href=\"text/shared/optionen/detailedcalculation.xhp#detailed_heading\" markup=\"ignore\"/> ជម្រើស។"
 
 #. WE8wt
 #: numbers_text.xhp
@@ -9204,7 +9202,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Pivot Chart"
-msgstr ""
+msgstr "តារាងជំនួយការទិន្នន័យ"
 
 #. M55mf
 #: pivotchart.xhp
@@ -9213,7 +9211,7 @@ msgctxt ""
 "bm_id541525139738752\n"
 "help.text"
 msgid "<bookmark_value>chart;pivot chart</bookmark_value>        <bookmark_value>pivot table;pivot chart</bookmark_value>"
-msgstr ""
+msgstr "<bookmark_value> គំនូសតាង; តារាងជំនួយការទិន្នន័យ </bookmark_value><bookmark_value> តារាងអ្នកជំនួយការទិន្នន័យតារាងជំនួយការទិន្នន័យ </bookmark_value>"
 
 #. AEE5J
 #: pivotchart.xhp
@@ -9222,7 +9220,7 @@ msgctxt ""
 "hd_id141525139671420\n"
 "help.text"
 msgid "<variable id=\"pivotchart\"><link href=\"text/scalc/guide/pivotchart.xhp\" name=\"Pivot Chart\">Pivot Chart</link></variable>"
-msgstr ""
+msgstr "<variable id=\"pivotchart\"><link href=\"text/scalc/guide/pivotchart.xhp\" name=\"Pivot Chart\"> តារាងជំនួយការទិន្នន័យ </link></variable>"
 
 #. 7LinF
 #: pivotchart.xhp
@@ -9231,7 +9229,7 @@ msgctxt ""
 "par_id291525139878423\n"
 "help.text"
 msgid "A pivot chart is a chart with data range and data series of a <link href=\"text/scalc/guide/datapilot.xhp\" name=\"Pivot Table\">pivot table</link>."
-msgstr ""
+msgstr "តារាងអ្នកជំនួយការទិន្នន័យគឺជាតារាងដែលមានជួរទិន្នន័យនិងស៊េរីទិន្នន័យរបស់ a <link href=\"text/scalc/guide/datapilot.xhp\" name=\"Pivot Table\"> តារាង​អ្នក​ជំនួយ​ការ </link> ។"
 
 #. VMZRC
 #: pivotchart.xhp
@@ -9240,7 +9238,7 @@ msgctxt ""
 "par_id911525139890364\n"
 "help.text"
 msgid "Different from static sized tables, where the number of rows and columns are constant, pivot tables can have varying dimensions, depending on the pivot table settings and its data source contents."
-msgstr ""
+msgstr "ខុសគ្នាពីតារាងទំហំឋិតិវន្តដែលចំនួនជួរដេកនិងជួរឈរថេរតារាងអ្នកជំនួយការអាចមានវិមាត្រខុសៗគ្នាអាស្រ័យលើការកំណត់តារាងអ្នកជំនួយការទិន្នន័យនិងមាតិកាប្រភពទិន្នន័យ។"
 
 #. WFAoP
 #: pivotchart.xhp
@@ -9249,7 +9247,7 @@ msgctxt ""
 "par_id201525141351484\n"
 "help.text"
 msgid "Pivot charts track the changes in the data issued from a pivot table and adjust the data series and data range accordingly."
-msgstr ""
+msgstr "តារាងអ្នកជំនួយការទិន្នន័យតាមដានការផ្លាស់ប្តូរទិន្នន័យដែលចេញពីតារាងអ្នកជំនួយការទិន្នន័យនិងកែសម្រួលស៊េរីទិន្នន័យនិងជួរទិន្នន័យទៅតាមនោះ។"
 
 #. mZV4m
 #: pivotchart.xhp
@@ -9258,7 +9256,7 @@ msgctxt ""
 "par_id191525177790601\n"
 "help.text"
 msgid "<link href=\"https://tomazvajngerl.blogspot.com/2017/03/pivot-charts-in-libreoffice-part-1.html\" name=\"Tomaž Vajngerl blog\">Technical details on %PRODUCTNAME pivot chart implementation</link>."
-msgstr ""
+msgstr "<link href=\"https://tomazvajngerl.blogspot.com/2017/03/pivot-charts-in-libreoffice-part-1.html\" name=\"Tomaž Vajngerl blog\"> បច្ចេកទេសលម្អិតលើការអនុវត្តតារាងជំនួយគំរូ %PRODUCTNAME </link> ។"
 
 #. D4FkY
 #: pivotchart_create.xhp
@@ -9267,7 +9265,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Creating Pivot Charts"
-msgstr ""
+msgstr "ការបង្កើតគំនូសតាង Pivot"
 
 #. ycEFe
 #: pivotchart_create.xhp
@@ -9276,7 +9274,7 @@ msgctxt ""
 "bm_id531525141739769\n"
 "help.text"
 msgid "<bookmark_value>pivot chart;creating</bookmark_value>"
-msgstr ""
+msgstr "<bookmark_value> តារាងជំនួយការបង្កើត </bookmark_value>"
 
 #. LGXm7
 #: pivotchart_create.xhp
@@ -9285,7 +9283,7 @@ msgctxt ""
 "hd_id441525141699185\n"
 "help.text"
 msgid "<variable id=\"pivotchartcreate\"><link href=\"text/scalc/guide/pivotchart_create.xhp\" name=\"pivot chart create\">Creating Pivot Charts</link></variable>"
-msgstr ""
+msgstr "<variable id=\"pivotchartcreate\"><link href=\"text/scalc/guide/pivotchart_create.xhp\" name=\"pivot chart create\"> ការបង្កើតគំនូសតាង Pivot </link></variable>"
 
 #. UuRST
 #: pivotchart_create.xhp
@@ -9294,7 +9292,7 @@ msgctxt ""
 "par_id481525142550652\n"
 "help.text"
 msgid "To create a pivot chart proceed as below:"
-msgstr ""
+msgstr "ដើម្បីបង្កើតតារាងអ្នកជំនួយការបន្តដូចខាងក្រោម៖"
 
 #. EYcoc
 #: pivotchart_create.xhp
@@ -9303,7 +9301,7 @@ msgctxt ""
 "par_id761525140219212\n"
 "help.text"
 msgid "Click inside the pivot table that you want to present in your chart."
-msgstr ""
+msgstr "ចុចខាងក្នុងតារាងអ្នកជំនួយការទិន្នន័យដែលអ្នកចង់បង្ហាញក្នុងតារាងរបស់អ្នក។"
 
 #. VXkUm
 #: pivotchart_create.xhp
@@ -9312,7 +9310,7 @@ msgctxt ""
 "par_id351525140237521\n"
 "help.text"
 msgid "Choose <emph>Insert – Chart</emph> or click in the                <image id=\"img_id3157322\" src=\"cmd/sc_insertobjectchart.png\" width=\"0.2228in\" height=\"0.2228in\"><alt id=\"alt_id3159322\">Insert Chart Icon</alt></image> <emph>Insert Chart</emph> icon in the main toolbar."
-msgstr ""
+msgstr "ជ្រើសរើស <emph> បញ្ចូល - គំនូសតាង </emph> ឬចុចក្នុងឯកសារ <image id=\"img_id3157322\" src=\"cmd/sc_insertobjectchart.png\" width=\"0.2228in\" height=\"0.2228in\"><alt id=\"alt_id3159322\"> បញ្ចូលរូបតំណាងគំនូសតាង </alt></image><emph> បញ្ចូលគំនូសតាង </emph> រូបតំណាងនៅក្នុងរបាឧបករណ៍សំខាន់។"
 
 #. AE2L6
 #: pivotchart_create.xhp
@@ -9321,7 +9319,7 @@ msgctxt ""
 "par_id151525140367370\n"
 "help.text"
 msgid "%PRODUCTNAME Calc automatically detects the pivot table and opens the pivot chart wizard."
-msgstr ""
+msgstr "%PRODUCTNAME Calc រកឃើញតារាងអ្នកជំនួយការទិន្នន័យដោយស្វ័យប្រវត្តិហើយបើកអ្នកជំនួយការតារាងអ្នកជំនួយការទិន្នន័យ។"
 
 #. q3cHS
 #: pivotchart_create.xhp
@@ -9330,7 +9328,7 @@ msgctxt ""
 "par_id861525140391601\n"
 "help.text"
 msgid "Select the <link href=\"text/schart/01/wiz_chart_type.xhp\" name=\"Chart type\">Chart type</link> for the data in the chart wizard."
-msgstr ""
+msgstr "ជ្រើសយក <link href=\"text/schart/01/wiz_chart_type.xhp\" name=\"Chart type\"> ប្រភេទគំនូសតាង </link> សម្រាប់ទិន្នន័យក្នុងអ្នកជំនួយការគំនូសតាង។"
 
 #. DkotR
 #: pivotchart_create.xhp
@@ -9339,7 +9337,7 @@ msgctxt ""
 "par_id41525141917275\n"
 "help.text"
 msgid "The data range and the data series pages of the chart wizard are not enabled. They are controlled by the pivot table."
-msgstr ""
+msgstr "ជួរទិន្នន័យនិងទំព័រស៊េរីទិន្នន័យរបស់អ្នកជំនួយការគំនូសតាងមិនត្រូវបានអនុញ្ញាត។ ពួកវាត្រូវបានគ្រប់គ្រងដោយតារាងអ្នកជំនួយការទិន្នន័យ។"
 
 #. 6tkMF
 #: pivotchart_create.xhp
@@ -9348,7 +9346,7 @@ msgctxt ""
 "par_id511525140411625\n"
 "help.text"
 msgid "Select the <link href=\"text/schart/01/wiz_chart_elements.xhp\" name=\"Chart elements\">Chart Elements</link> of the pivot chart in the wizard."
-msgstr ""
+msgstr "ជ្រើសយក <link href=\"text/schart/01/wiz_chart_elements.xhp\" name=\"Chart elements\"> ធាតុគំនូសតាង </link> នៃតារាងជំនួយការទិន្នន័យនៅក្នុងអ្នកជំនួយការ។"
 
 #. DiBBF
 #: pivotchart_create.xhp
@@ -9357,7 +9355,7 @@ msgctxt ""
 "par_id1001525165156188\n"
 "help.text"
 msgid "Click <emph>OK</emph> to close the wizard and create the pivot chart."
-msgstr ""
+msgstr "ចុច <emph> យល់ព្រម </emph> ដើម្បីបិទអ្នកជំនួយការនិងបង្កើតតារាងអ្នកជំនួយការទិន្នន័យ។"
 
 #. gQpGG
 #: pivotchart_delete.xhp
@@ -9366,7 +9364,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Deleting Pivot Charts"
-msgstr ""
+msgstr "ការលុបតារាងអ្នកជំនួយការទិន្នន័យ"
 
 #. BEj4o
 #: pivotchart_delete.xhp
@@ -9375,7 +9373,7 @@ msgctxt ""
 "hd_id231525147891984\n"
 "help.text"
 msgid "<variable id=\"pivotchartdelete\"><link href=\"text/scalc/guide/pivotchart_delete.xhp\" name=\"Deleting a Pivot Chart\">Deleting a Pivot Chart</link></variable>"
-msgstr ""
+msgstr "<variable id=\"pivotchartdelete\"><link href=\"text/scalc/guide/pivotchart_delete.xhp\" name=\"Deleting a Pivot Chart\"> ការលុបតារាងអ្នកជំនួយការទិន្នន័យ </link></variable>"
 
 #. GRQDA
 #: pivotchart_delete.xhp
@@ -9384,7 +9382,7 @@ msgctxt ""
 "bm_id231525149357908\n"
 "help.text"
 msgid "<bookmark_value>pivot chart;deleting</bookmark_value>"
-msgstr ""
+msgstr "<bookmark_value> តារាងជំនួយការ; ការលុប </bookmark_value>"
 
 #. cJkJT
 #: pivotchart_delete.xhp
@@ -9393,7 +9391,7 @@ msgctxt ""
 "par_id141525147903623\n"
 "help.text"
 msgid "To delete a pivot chart, select the chart and press <emph>Del</emph>."
-msgstr ""
+msgstr "ដើម្បីលុបតារាងជំនួយការទិន្នន័យសូមជ្រើសរើសតារាងហើយចុច <emph> ដេល </emph> ។"
 
 #. DFffk
 #: pivotchart_delete.xhp
@@ -9402,7 +9400,7 @@ msgctxt ""
 "par_id431525148462157\n"
 "help.text"
 msgid "When deleting a pivot chart, the linked pivot table is not affected."
-msgstr ""
+msgstr "នៅពេលលុបតារាងអ្នកជំនួយការទិន្នន័យតារាងអ្នកជំនួយការទិន្នន័យដែលបានតភ្ជាប់មិនត្រូវបានប៉ះពាល់ទេ។"
 
 #. izc4D
 #: pivotchart_delete.xhp
@@ -9411,7 +9409,7 @@ msgctxt ""
 "par_id141525148751543\n"
 "help.text"
 msgid "If you delete a pivot table linked to a pivot chart, the pivot chart is also deleted. A dialog box opens to confirm the pivot chart deletion."
-msgstr ""
+msgstr "ប្រសិនបើអ្នកលុបតារាងអ្នកជំនួយការទិន្នន័យដែលភ្ជាប់ទៅនឹងតារាងអ្នកជំនួយការទិន្នន័យអ្នកជំនួយការទិន្នន័យត្រូវបានលុបចោលផងដែរ។ ប្រអប់មួយបើកដើម្បីបញ្ជាក់ពីការលុបតារាងអ្នកជំនួយការទិន្នន័យ។"
 
 #. KEqLt
 #: pivotchart_edit.xhp
@@ -9420,7 +9418,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Editing Pivot Charts"
-msgstr ""
+msgstr "ការកែសម្រួលគំនូសតាង Pivot"
 
 #. LsYBC
 #: pivotchart_edit.xhp
@@ -9429,7 +9427,7 @@ msgctxt ""
 "bm_id661525144028976\n"
 "help.text"
 msgid "<bookmark_value>pivot chart;editing</bookmark_value>"
-msgstr ""
+msgstr "<bookmark_value> តារាងជំនួយការកែប្រែការកែសម្រួល </bookmark_value>"
 
 #. fEdDB
 #: pivotchart_edit.xhp
@@ -9438,7 +9436,7 @@ msgctxt ""
 "hd_id271525144002806\n"
 "help.text"
 msgid "<variable id=\"pivotchartedit\"><link href=\"text/scalc/guide/pivotchart_edit.xhp\" name=\"Pivot Chart Editing\">Editing Pivot Charts</link></variable>"
-msgstr ""
+msgstr "<variable id=\"pivotchartedit\"><link href=\"text/scalc/guide/pivotchart_edit.xhp\" name=\"Pivot Chart Editing\"> ការកែសម្រួលគំនូសតាង Pivot </link></variable>"
 
 #. tyqEE
 #: pivotchart_edit.xhp
@@ -9447,7 +9445,7 @@ msgctxt ""
 "par_id971525144066574\n"
 "help.text"
 msgid "Edit a pivot chart in the same way as normal charts."
-msgstr ""
+msgstr "កែសម្រួលតារាងអ្នកជំនួយការតាមរបៀបដូចគ្នានឹងគំនូសតាងធម្មតា។"
 
 #. RtcFm
 #: pivotchart_edit.xhp
@@ -9456,7 +9454,7 @@ msgctxt ""
 "hd_id5631580\n"
 "help.text"
 msgid "To edit a pivot chart"
-msgstr ""
+msgstr "ដើម្បីកែសម្រួលតារាងអ្នកជំនួយការទិន្នន័យ"
 
 #. 4J9iC
 #: pivotchart_filter.xhp
@@ -9465,7 +9463,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Filtering Pivot Charts"
-msgstr ""
+msgstr "ច្រោះគំនូសតាង Pivot"
 
 #. 83phF
 #: pivotchart_filter.xhp
@@ -9474,7 +9472,7 @@ msgctxt ""
 "hd_id401525165755583\n"
 "help.text"
 msgid "<variable id=\"pivotchartfilter\"><link href=\"text/scalc/guide/pivotchart_filter.xhp\" name=\"Filtering Pivot Charts\">Filtering Pivot Charts</link></variable>"
-msgstr ""
+msgstr "<variable id=\"pivotchartfilter\"><link href=\"text/scalc/guide/pivotchart_filter.xhp\" name=\"Filtering Pivot Charts\"> ច្រោះគំនូសតាង Pivot </link></variable>"
 
 #. rByFE
 #: pivotchart_filter.xhp
@@ -9483,7 +9481,7 @@ msgctxt ""
 "par_id781525166702239\n"
 "help.text"
 msgid "Filters are used to remove unwanted data from the pivot chart. You can use filters in the pivot chart or in the corresponding <link href=\"text/scalc/guide/datapilot_filtertable.xhp\" name=\"Pivot table filtering\">pivot table</link>, since the resulting chart is exactly the same."
-msgstr ""
+msgstr "តម្រងត្រូវបានប្រើដើម្បីយកទិន្នន័យដែលមិនចង់បានចេញពីតារាងអ្នកជំនួយការទិន្នន័យ។ អ្នកអាចប្រើតម្រងនៅក្នុងតារាងអ្នកជំនួយការទិន្នន័យឬក្នុងប្រអប់ដែលត្រូវគ្នា <link href=\"text/scalc/guide/datapilot_filtertable.xhp\" name=\"Pivot table filtering\"> តារាង​អ្នក​ជំនួយ​ការ </link> ចាប់តាំងពីតារាងលទ្ធផលគឺដូចគ្នា។"
 
 #. n2tCy
 #: pivotchart_filter.xhp
@@ -9492,7 +9490,7 @@ msgctxt ""
 "hd_id201525166689277\n"
 "help.text"
 msgid "Pivot chart field buttons"
-msgstr ""
+msgstr "ប៊ូតុងវាលគំនូសតាងអ្នកជំនួយការ"
 
 #. h7jXH
 #: pivotchart_filter.xhp
@@ -9501,7 +9499,7 @@ msgctxt ""
 "par_id751525167435160\n"
 "help.text"
 msgid "Pivot chart buttons are unique to pivot charts, normal charts don't have them. The buttons shows the layout of the pivot table, which are the pivot table fields. If present, page fields are displayed in the top. Row fields are displayed on the bottom of the chart next to each other and the legend shows the buttons from column fields stacked."
-msgstr ""
+msgstr "ប៊ូតុងគំនូសតាងអ្នកជំនួយការមានលក្ខណៈប្លែកពីតារាងអ្នកជំនួយការគំនូសតាងធម្មតាមិនមានពួកវាទេ។ ប៊ូតុងបង្ហាញប្លង់នៃតារាងអ្នកជំនួយការដែលជាវាលតារាងអ្នកជំនួយការទិន្នន័យ។ បើបច្ចុប្បន្នវាលទំព័រត្រូវបានបង្ហាញនៅខាងលើ។ វាលជួរដេកត្រូវបានបង្ហាញនៅផ្នែកខាងក្រោមនៃគំនូសតាងនៅជាប់គ្នាហើយតាងបង្ហាញប៊ូតុងពីវាលជួរឈរដែលដាក់ជាជង់។"
 
 #. HiBfg
 #: pivotchart_filter.xhp
@@ -9510,7 +9508,7 @@ msgctxt ""
 "par_id681525167692377\n"
 "help.text"
 msgid "<image src=\"media/helpimg/sc_PivotChartButtons.png\" id=\"img_id801525167692378\" width=\"604px\" height=\"340px\"><alt id=\"alt_id881525167692378\">Pivot chart buttons</alt></image>"
-msgstr ""
+msgstr "<image src=\"media/helpimg/sc_PivotChartButtons.png\" id=\"img_id801525167692378\" width=\"604px\" height=\"340px\"><alt id=\"alt_id881525167692378\"> ប៊ូតុងតារាងអ្នកជំនួយការទិន្នន័យ </alt></image>"
 
 #. 6hniX
 #: pivotchart_filter.xhp
@@ -9519,7 +9517,7 @@ msgctxt ""
 "par_id851525167448337\n"
 "help.text"
 msgid "The buttons have a pop-up action attached to them. If there is some filtering applied, then the arrow turns blue (similar to the pivot table), so it is easier to see when a field has any filter applied."
-msgstr ""
+msgstr "ប៊ូតុងមានសកម្មភាពលេចឡើងដែលភ្ជាប់ជាមួយពួកគេ។ ប្រសិនបើមានការត្រងមួយចំនួនត្រូវបានអនុវត្តបន្ទាប់មកព្រួញប្រែទៅជាពណ៌ខៀវ (ស្រដៀងនឹងតារាងអ្នកជំនួយការ) ដូច្នេះវាងាយស្រួលក្នុងការមើលនៅពេលដែលវាលមានតម្រងណាមួយត្រូវបានអនុវត្ត។"
 
 #. BAYSV
 #: pivotchart_filter.xhp
@@ -9528,7 +9526,7 @@ msgctxt ""
 "par_id401525167457977\n"
 "help.text"
 msgid "Existing page fields shows what is filtered: when nothing is filtered \"- all -\" is shown, when some data is filtered, then \"- multiple -\" is shown and when only one value is not filtered, the value is shown."
-msgstr ""
+msgstr "វាលទំព័រដែលមានស្រាប់បង្ហាញអ្វីដែលត្រង: នៅពេលគ្មានអ្វីត្រូវបានត្រង \"- ទាំងអស់ - \" ត្រូវបានបង្ហាញនៅពេលទិន្នន័យមួយចំនួនត្រូវបានត្រងបន្ទាប់មក \"- ពហុ - \" ត្រូវបានបង្ហាញហើយនៅពេលដែលតម្លៃតែមួយមិនត្រូវបានត្រងតម្លៃគឺ បានបង្ហាញ។"
 
 #. Qprys
 #: pivotchart_update.xhp
@@ -9537,7 +9535,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Pivot Chart Update"
-msgstr ""
+msgstr "ការធ្វើបច្ចុប្បន្នភាពតារាងជំនួយការ"
 
 #. cUrFa
 #: pivotchart_update.xhp
@@ -9546,7 +9544,7 @@ msgctxt ""
 "bm_id801525146393791\n"
 "help.text"
 msgid "<bookmark_value>pivot chart;update</bookmark_value>"
-msgstr ""
+msgstr "<bookmark_value> តារាងជំនួយការ; ធ្វើបច្ចុប្បន្នភាព </bookmark_value>"
 
 #. uViPN
 #: pivotchart_update.xhp
@@ -9555,7 +9553,7 @@ msgctxt ""
 "hd_id281525146417678\n"
 "help.text"
 msgid "<variable id=\"pivotchartupdate\"><link href=\"text/scalc/guide/pivotchart_update.xhp\" name=\"Pivot Chart Update\">Updating Pivot Charts</link></variable>"
-msgstr ""
+msgstr "<variable id=\"pivotchartupdate\"><link href=\"text/scalc/guide/pivotchart_update.xhp\" name=\"Pivot Chart Update\"> ធ្វើបច្ចុប្បន្នភាពគំនូសតាង Pivot </link></variable>"
 
 #. JmbEt
 #: pivotchart_update.xhp
@@ -9564,7 +9562,7 @@ msgctxt ""
 "par_id831525146706944\n"
 "help.text"
 msgid "If the data of the source sheet has been changed, you must refresh the pivot table and the pivot chart is updated accordingly. To refresh the pivot table (and thus the pivot chart):"
-msgstr ""
+msgstr "ប្រសិនបើទិន្នន័យនៃសន្លឹកប្រភពត្រូវបានផ្លាស់ប្តូរអ្នកត្រូវតែធ្វើតារាងអ្នកជំនួយការទិន្នន័យឡើងវិញហើយតារាងអ្នកជំនួយការទិន្នន័យត្រូវបានធ្វើបច្ចុប្បន្នភាពស្របតាម។ ដើម្បីធ្វើឱ្យតារាងអ្នកជំនួយការទិន្នន័យស្រស់ (ហើយដូច្នេះតារាងជំនួយការទិន្នន័យ)៖"
 
 #. dDjSB
 #: pivotchart_update.xhp
@@ -9573,7 +9571,7 @@ msgctxt ""
 "par_id451525146722974\n"
 "help.text"
 msgid "Choose <emph>Data - Pivot Table - Refresh</emph>."
-msgstr ""
+msgstr "ជ្រើសរើស <emph> ទិន្នន័យ - តារាងជំនួយការទិន្នន័យ - ធ្វើឱ្យស្រស់ </emph> ។"
 
 #. Q3QuQ
 #: pivotchart_update.xhp
@@ -9582,7 +9580,7 @@ msgctxt ""
 "par_id331525146738273\n"
 "help.text"
 msgid "Choose <emph>Refresh...</emph> in the context menu of any cell in the pivot table."
-msgstr ""
+msgstr "ជ្រើសរើស <emph> ធ្វើ​ឱ្យ​ស្រស់... </emph> នៅក្នុងម៉ឺនុយបរិបទនៃក្រឡាណាមួយក្នុងតារាងអ្នកជំនួយការទិន្នន័យ។"
 
 #. wpTTH
 #: print_details.xhp
@@ -9744,7 +9742,7 @@ msgctxt ""
 "par_id3150345\n"
 "help.text"
 msgid "<link href=\"text/scalc/01/03100000.xhp\" name=\"View - Page Break\">View - Page Break</link>"
-msgstr "<link href=\"text/scalc/01/03100000.xhp\" name=\"View - Page Break Preview\">មើល - មើល​ការ​បំបែក​ទំព័រ​ជា​មុន</link>"
+msgstr "<link href=\"text/scalc/01/03100000.xhp\" name=\"View - Page Break\">View - Page Break</link>"
 
 #. AgAiH
 #: print_exact.xhp
@@ -9825,7 +9823,7 @@ msgctxt ""
 "par_id3151073\n"
 "help.text"
 msgid "<link href=\"text/scalc/01/03100000.xhp\" name=\"View - Page Break\">View - Page Break</link>"
-msgstr "<link href=\"text/scalc/01/03100000.xhp\" name=\"View - Page Break Preview\">មើល - មើល​ការ​បំបែក​ទំព័រ​ជា​មុន</link>"
+msgstr "<link href=\"text/scalc/01/03100000.xhp\" name=\"View - Page Break\">View - Page Break</link>"
 
 #. ruFna
 #: print_landscape.xhp
@@ -10005,7 +10003,7 @@ msgctxt ""
 "par_id3156019\n"
 "help.text"
 msgid "<link href=\"text/scalc/01/03100000.xhp\" name=\"View - Page Break\">View - Page Break</link>"
-msgstr "<link href=\"text/scalc/01/03100000.xhp\" name=\"View - Page Break Preview\">មើល - មើល​ការ​បំបែក​ទំព័រ​ជា​មុន</link>"
+msgstr "<link href=\"text/scalc/01/03100000.xhp\" name=\"View - Page Break\">View - Page Break</link>"
 
 #. vbjmr
 #: print_landscape.xhp
@@ -10059,7 +10057,7 @@ msgctxt ""
 "par_id3146975\n"
 "help.text"
 msgid "As an example, If you want to print the top two rows of the sheet as well as the first column (A) on all pages, do the following:"
-msgstr ""
+msgstr "ឧទាហរណ៍ប្រសិនបើអ្នកចង់បោះពុម្ពជួរដេកពីរជួរខាងលើនៃសន្លឹកក៏ដូចជាជួរឈរទីមួយ (ក) នៅលើទំព័រទាំងអស់សូមធ្វើដូចខាងក្រោម៖"
 
 #. SggEJ
 #: print_title_row.xhp
@@ -10482,7 +10480,7 @@ msgctxt ""
 "par_id3154943\n"
 "help.text"
 msgid "Absolute referencing is the opposite of relative addressing. A dollar sign is placed before each letter and number in an absolute reference, for example, $A$1:$B$2."
-msgstr ""
+msgstr "ការយោងដាច់ខាតគឺផ្ទុយពីអាសយដ្ឋានទាក់ទង។ សញ្ញាដុល្លារត្រូវបានដាក់នៅចំពោះមុខអក្សរនិងលេខនីមួយៗនៅក្នុងឯកសារយោងដាច់ខាតឧទាហរណ៍ $A $1: $B $2 ។"
 
 #. i9Afo
 #: relativ_absolut_ref.xhp
@@ -10491,7 +10489,7 @@ msgctxt ""
 "par_id3147338\n"
 "help.text"
 msgid "$[officename] can convert the current reference, in which the cursor is positioned in the input line, from relative to absolute and vice versa by pressing F4. If you start with a relative address such as A1, the first time you press this key combination, both row and column are set to absolute references ($A$1). The second time, only the row (A$1), and the third time, only the column ($A1). If you press the key combination once more, both column and row references are switched back to relative (A1)"
-msgstr ""
+msgstr "$[officename] អាចបំលែងសេចក្តីយោងបច្ចុប្បន្នដែលទស្សន៍ទ្រនិចត្រូវបានដាក់ក្នុងបន្ទាត់បញ្ចូលពីទំនាក់ទំនងទៅដាច់ខាតនិងផ្ទុយមកវិញដោយចុច F4 ។ ប្រសិនបើអ្នកចាប់ផ្តើមជាមួយអាសយដ្ឋានដែលទាក់ទងដូចជាអេ ១ ជាលើកទីមួយដែលអ្នកចុចបន្សំគ្រាប់ចុចនេះទាំងជួរដេកនិងជួរឈរត្រូវបានកំណត់ជាឯកសារយោងដាច់ខាត ($A $1) ។ លើកទី ២ មានតែជួរដេក (១ ដុល្លារ) និងលើកទី ៣ មានតែជួរឈរ ($A1) ប៉ុណ្ណោះ។ ប្រសិនបើអ្នកចុចបន្សំគ្រាប់ចុចម្តងទៀតទាំងឯកសារយោងជួរឈរនិងជួរដេកត្រូវបានប្តូរទៅទាក់ទង (A1)"
 
 #. MaL7p
 #: relativ_absolut_ref.xhp
@@ -10500,7 +10498,7 @@ msgctxt ""
 "par_id3153963\n"
 "help.text"
 msgid "$[officename] Calc shows the references to a formula. If, for example, you click the formula =SUM(A1:C5;D15:D24) in a cell, the two referenced areas in the sheet will be highlighted in color. For example, the formula component \"A1:C5\" may be in blue and the cell range in question bordered in the same shade of blue. The next formula component \"D15:D24\" can be marked in red in the same way."
-msgstr ""
+msgstr "$[officename] Calc បង្ហាញឯកសារយោងទៅរូបមន្ត។ ឧទាហរណ៍ប្រសិនបើអ្នកចុចលើរូបមន្ត = SUM (A1: C5; D15: D24) នៅក្នុងក្រឡានោះតំបន់យោងពីរនៅក្នុងសន្លឹកនឹងត្រូវបានបន្លិចជាពណ៌។ ឧទាហរណ៍សមាសធាតុរូបមន្ត \"A1: C5 \" អាចមានពណ៌ខៀវហើយជួរក្រឡាជាសំនួរមានព្រំប្រទល់ជាប់នឹងម្លប់ខៀវដូចគ្នា។ សមាសធាតុរូបមន្តបន្ទាប់ \"D15: D24 \" អាចត្រូវបានសម្គាល់ជាពណ៌ក្រហមតាមរបៀបដូចគ្នា។"
 
 #. 7hFuB
 #: relativ_absolut_ref.xhp
@@ -10581,7 +10579,7 @@ msgctxt ""
 "par_id701519308848244\n"
 "help.text"
 msgid "Setting sheet names is an important feature to produce readable and understandable spreadsheets documents. To rename a sheet in your document:"
-msgstr ""
+msgstr "ការកំណត់ឈ្មោះសន្លឹកគឺជាមុខងារសំខាន់ដើម្បីផលិតឯកសារសៀវភៅបញ្ជីដែលអាចអានបាននិងអាចយល់បាន។ ដើម្បីប្តូរឈ្មោះសន្លឹកនៅក្នុងឯកសាររបស់អ្នក៖"
 
 #. KR8Ag
 #: rename_table.xhp
@@ -10590,7 +10588,7 @@ msgctxt ""
 "par_id3155131\n"
 "help.text"
 msgid "Click on the sheet tab to select it."
-msgstr ""
+msgstr "ចុចលើផ្ទាំងសន្លឹកដើម្បីជ្រើសរើសវា។"
 
 #. FQiK8
 #: rename_table.xhp
@@ -10599,7 +10597,7 @@ msgctxt ""
 "par_id3146976\n"
 "help.text"
 msgid "Open the context menu of the sheet tab and choose the <emph>Rename Sheet</emph> command. A dialog box appears where you can enter a new name."
-msgstr ""
+msgstr "បើកម៉ឺនុយបរិបទនៃផ្ទាំងសន្លឹកហើយជ្រើសរើសយក <emph> ប្តូរឈ្មោះសន្លឹក </emph> ពាក្យបញ្ជា។ ប្រអប់មួយលេចឡើងដែលអ្នកអាចបញ្ចូលឈ្មោះថ្មី។"
 
 #. GtGtQ
 #: rename_table.xhp
@@ -10626,7 +10624,7 @@ msgctxt ""
 "par_id0909200810502833\n"
 "help.text"
 msgid "Sheet names can contain almost any character. Some naming restrictions apply, the following characters are not allowed in sheet names:"
-msgstr ""
+msgstr "ឈ្មោះសន្លឹកអាចមានតួអក្សរស្ទើរតែទាំងអស់។ ការដាក់កម្រិតលើការដាក់ឈ្មោះមួយចំនួនត្រូវបានអនុវត្តតួអក្សរខាងក្រោមមិនត្រូវបានអនុញ្ញាតជាឈ្មោះសន្លឹកទេ៖"
 
 #. vjFiR
 #: rename_table.xhp
@@ -10644,7 +10642,7 @@ msgctxt ""
 "par_id0909200810502897\n"
 "help.text"
 msgid "back slash \\"
-msgstr "back slash \\"
+msgstr "សញ្ញាទ្រេត \\"
 
 #. nzDQF
 #: rename_table.xhp
@@ -10707,7 +10705,7 @@ msgctxt ""
 "par_id090920081050307\n"
 "help.text"
 msgid "In cell references, a sheet name must be enclosed in single quotes ' when the name contains other characters than alphanumeric or underscore. A single quote contained within a name has to be escaped by doubling it (two single quotes)."
-msgstr ""
+msgstr "នៅក្នុងសេចក្ដីយោងក្រឡាឈ្មោះសន្លឹកត្រូវតែភ្ជាប់ក្នុងសញ្ញាសម្រង់មួយនៅពេលដែលឈ្មោះមានតួអក្សរផ្សេងក្រៅពីអក្សរក្រមលេខឬសញ្ញាគូសក្រោម។ សម្រង់តែមួយដែលមាននៅក្នុងឈ្មោះត្រូវតែត្រូវបានគេចចេញពីវាទ្វេដង (សញ្ញាសម្រង់ពីរ) ។"
 
 #. uPNL7
 #: rename_table.xhp
@@ -10716,7 +10714,7 @@ msgctxt ""
 "par_id321519307869857\n"
 "help.text"
 msgid "For example, you want to reference the cell A1 on a sheet with the following name:"
-msgstr ""
+msgstr "ឧទាហរណ៍អ្នកចង់យោងក្រឡា A1 នៅលើសន្លឹកដែលមានឈ្មោះដូចខាងក្រោម៖"
 
 #. 4DECe
 #: rename_table.xhp
@@ -10725,7 +10723,7 @@ msgctxt ""
 "par_id0909200810503071\n"
 "help.text"
 msgid "This year's sheet"
-msgstr "សន្លឹក​ឆ្នាំ​នេះ"
+msgstr "សន្លឹក​ឆ្នាំ​ន"
 
 #. c3VAE
 #: rename_table.xhp
@@ -10752,7 +10750,7 @@ msgctxt ""
 "par_id3155444\n"
 "help.text"
 msgid "The name of a sheet is independent of the name of the spreadsheet. You enter the spreadsheet name when you save it for the first time as a file."
-msgstr ""
+msgstr "ឈ្មោះសន្លឹកគឺឯករាជ្យនៃឈ្មោះសៀវភៅបញ្ជី។ អ្នកបញ្ចូលឈ្មោះសៀវភៅបញ្ជីនៅពេលអ្នករក្សាទុកវាជាលើកដំបូងជាឯកសារ។"
 
 #. FUXLc
 #: rename_table.xhp
@@ -10761,7 +10759,7 @@ msgctxt ""
 "par_id471519308256437\n"
 "help.text"
 msgid "The document can contain up to 10,000 individual sheets, which must have different names."
-msgstr ""
+msgstr "ឯកសារអាចមានសន្លឹកផ្ទាល់ខ្លួនរហូតដល់ ១០,០០០ សន្លឹកដែលត្រូវមានឈ្មោះផ្សេង។"
 
 #. vkB9b
 #: rename_table.xhp
@@ -10770,7 +10768,7 @@ msgctxt ""
 "par_id81519309108908\n"
 "help.text"
 msgid "You can set a prefix for the names of new sheets you create. See <link href=\"text/shared/optionen/01061000.xhp\" name=\"prefix names\">this page of Calc options.</link>"
-msgstr ""
+msgstr "អ្នកអាចកំណត់បុព្វបទសម្រាប់ឈ្មោះសន្លឹកថ្មីដែលអ្នកបង្កើត។ សូមមើល <link href=\"text/shared/optionen/01061000.xhp\" name=\"prefix names\"> ទំព័រនៃជំរើសរបស់ Calc ។ </link>"
 
 #. de9uD
 #: rename_table.xhp
@@ -10779,7 +10777,7 @@ msgctxt ""
 "par_id81519379108908\n"
 "help.text"
 msgid "<link href=\"text/shared/optionen/01061000.xhp\" name=\"prefix names\">New sheet names prefixing.</link>"
-msgstr ""
+msgstr "<link href=\"text/shared/optionen/01061000.xhp\" name=\"prefix names\"> ឈ្មោះសន្លឹកថ្មីដាក់បុព្វបទ។ </link>"
 
 #. bwZRy
 #: rounding_numbers.xhp
@@ -10860,7 +10858,7 @@ msgctxt ""
 "hd_id3155415\n"
 "help.text"
 msgid "To change this everywhere"
-msgstr "ដើម្បី​ផ្លាស់ប្ដូរ​កន្លែងផ្សេងៗ​នេះ"
+msgstr "ដើម្បី​ផ្លាស់ប្ដូរ​កន្លែងផ្សេងៗ​ន"
 
 #. iUWJZ
 #: rounding_numbers.xhp
@@ -10869,7 +10867,7 @@ msgctxt ""
 "par_id3150715\n"
 "help.text"
 msgid "Choose <switchinline select=\"sys\"><caseinline select=\"MAC\"><emph>%PRODUCTNAME - Preferences</emph></caseinline><defaultinline><emph>Tools - Options</emph></defaultinline></switchinline><emph> - %PRODUCTNAME Calc</emph>."
-msgstr "ជ្រើស <emph><switchinline select=\"sys\"><caseinline select=\"MAC\">%PRODUCTNAME - ចំណូល​ចិត្ត</caseinline><defaultinline>ឧបករណ៍ - ជម្រើស</defaultinline></switchinline> - %PRODUCTNAME Calc</emph> ។"
+msgstr "Choose <switchinline select=\"sys\"><caseinline select=\"MAC\"><emph>%PRODUCTNAME - Preferences</emph></caseinline><defaultinline><emph>Tools - Options</emph></defaultinline></switchinline><emph> - %PRODUCTNAME Calc</emph>."
 
 #. po5bu
 #: rounding_numbers.xhp
@@ -10896,7 +10894,7 @@ msgctxt ""
 "par_id3150045\n"
 "help.text"
 msgid "Choose <switchinline select=\"sys\"><caseinline select=\"MAC\"><emph>%PRODUCTNAME - Preferences</emph></caseinline><defaultinline><emph>Tools - Options</emph></defaultinline></switchinline><emph> - %PRODUCTNAME Calc</emph>."
-msgstr "ជ្រើស <emph><switchinline select=\"sys\"><caseinline select=\"MAC\">%PRODUCTNAME - ចំណូល​ចិត្ត</caseinline><defaultinline>ឧបករណ៍ - ជម្រើស</defaultinline></switchinline> - %PRODUCTNAME Calc</emph> ។"
+msgstr "Choose <switchinline select=\"sys\"><caseinline select=\"MAC\"><emph>%PRODUCTNAME - Preferences</emph></caseinline><defaultinline><emph>Tools - Options</emph></defaultinline></switchinline><emph> - %PRODUCTNAME Calc</emph>."
 
 #. fDDJv
 #: rounding_numbers.xhp
@@ -11130,7 +11128,7 @@ msgctxt ""
 "par_id3154020\n"
 "help.text"
 msgid "Select the cells that contain the values that will change between scenarios. To select multiple cells, hold down the <switchinline select=\"sys\"><caseinline select=\"MAC\"><item type=\"keycode\">Command</item></caseinline><defaultinline><item type=\"keycode\">Ctrl</item></defaultinline></switchinline> key as you click each cell."
-msgstr ""
+msgstr "ជ្រើសក្រឡាដែលមានតម្លៃដែលនឹងផ្លាស់ប្តូររវាងសេណារីយ៉ូ។ ដើម្បីជ្រើសក្រឡាច្រើនសង្កត់លើឯកសារ <switchinline select=\"sys\"><caseinline select=\"MAC\"><item type=\"keycode\"> ពាក្យបញ្ជា </item></caseinline><defaultinline><item type=\"keycode\"> បញ្ជា (Ctrl) </item></defaultinline></switchinline> ពេលអ្នកចុចលើក្រឡានីមួយៗ។"
 
 #. Jfmm4
 #: scenario.xhp
@@ -11184,7 +11182,7 @@ msgctxt ""
 "par_id3155764\n"
 "help.text"
 msgid "Click the <emph>Scenarios</emph> icon <image id=\"img_id7617114\" src=\"sc/res/na07.png\" width=\"0.222inch\" height=\"0.222inch\"><alt id=\"alt_id7617114\">Scenarios icon</alt></image> in the Navigator."
-msgstr ""
+msgstr "ចុចលើប៊ូតុង <emph> សាច់រឿង </emph> រូបតំណាង <image id=\"img_id7617114\" src=\"sc/res/na07.png\" width=\"0.222inch\" height=\"0.222inch\"><alt id=\"alt_id7617114\"> រូបតំណាងសាច់រឿង </alt></image> នៅក្នុងកម្មវិធីរុករក។"
 
 #. 86uVD
 #: scenario.xhp
@@ -11310,7 +11308,7 @@ msgctxt ""
 "par_id3152577\n"
 "help.text"
 msgid "The predefined series can be found under <switchinline select=\"sys\"><caseinline select=\"MAC\"><emph>%PRODUCTNAME - Preferences</emph></caseinline><defaultinline><emph>Tools - Options</emph></defaultinline></switchinline><emph> - %PRODUCTNAME Calc - Sort Lists</emph>. You can also create your own lists of text strings tailored to your needs, such as a list of your company's branch offices. When you use the information in these lists later (for example, as headings), just enter the first name in the list and expand the entry by dragging it with your mouse."
-msgstr "ស៊េរី​ដែលបានកំណត់​ជា​មុន​អាច​រកឃើញ​នៅ​ក្រោម <emph><switchinline select=\"sys\"><caseinline select=\"MAC\">%PRODUCTNAME - ចំណូល​ចិត្ត</caseinline><defaultinline>ឧបករណ៍ - ជម្រើស</defaultinline></switchinline> - %PRODUCTNAME Calc - ​បញ្ជី​តម្រៀប</emph> ។ អ្នក​ក៏​អាច​បង្កើត​បញ្ជី​ខ្សែអត្ថបទ​ផ្ទាល់​របស់​អ្នក​តាម​ដែល​ត្រូវកា​របាន​ផងដែរ ដូច​ជា បញ្ជី​ការិយាល័យ​សាខា​ក្រុមហ៊ុន​របស់​អ្នក ។ នៅពេល​អ្នកប្រើ​ព័ត៌មាន​នៅ​ក្នុង​បញ្ជី​ទាំង​នេះ​ពេលក្រោយ (ឧទាហរណ៍ ជា​ក្បាល) គ្រាន់តែ​បញ្ចូល​ឈ្មោះ​ដំបូង​នៅ​ក្នុង​បញ្ជី និង​ពង្រីក​ធាតុ​ដោយ​អូស​វា​ដោយ​ប្រើកណ្ដុរ​របស់​អ្នក ។"
+msgstr "The predefined series can be found under <switchinline select=\"sys\"><caseinline select=\"MAC\"><emph>%PRODUCTNAME - Preferences</emph></caseinline><defaultinline><emph>Tools - Options</emph></defaultinline></switchinline><emph> - %PRODUCTNAME Calc - Sort Lists</emph>. You can also create your own lists of text strings tailored to your needs, such as a list of your company's branch offices. When you use the information in these lists later (for example, as headings), just enter the first name in the list and expand the entry by dragging it with your mouse."
 
 #. qqeXK
 #: sorted_list.xhp
@@ -11346,7 +11344,7 @@ msgctxt ""
 "hd_id3148798\n"
 "help.text"
 msgid "<variable id=\"specialfilter\"><link href=\"text/scalc/guide/specialfilter.xhp\" name=\"Filter: Applying Advanced Filters\">Filter: Applying Advanced Filters</link></variable>"
-msgstr ""
+msgstr "<variable id=\"specialfilter\"><link href=\"text/scalc/guide/specialfilter.xhp\" name=\"Filter: Applying Advanced Filters\"> ត្រង: អនុវត្តតម្រងកម្រិតខ្ពស់ </link></variable>"
 
 #. tYuAi
 #: specialfilter.xhp
@@ -11373,7 +11371,7 @@ msgctxt ""
 "par_id3153726\n"
 "help.text"
 msgid "Then click OK, and you will see that only the rows from the original sheet whose contents have met the search criteria are still visible. All other rows are temporarily hidden and can be made to reappear with the <emph>Format - Rows - Show </emph>command."
-msgstr ""
+msgstr "បន្ទាប់មកចុចយល់ព្រមហើយអ្នកនឹងឃើញថាមានតែជួរដេកពីសន្លឹកដើមដែលមាតិកាបានបំពេញតាមលក្ខណៈវិនិច្ឆ័យស្វែងរកនៅតែអាចមើលឃើញ។ ជួរដេកផ្សេងទៀតទាំងអស់ត្រូវបានលាក់ជាបណ្តោះអាសន្នហើយអាចត្រូវបានបង្កើតឡើងវិញដោយប្រើឯកសារ <emph> ទ្រង់ទ្រាយ - ជួរដេក - បង្ហាញ </emph> ពាក្យបញ្ជា។"
 
 #. CC9mL
 #: specialfilter.xhp
@@ -11400,7 +11398,7 @@ msgctxt ""
 "par_id3154510\n"
 "help.text"
 msgid "<emph>A</emph>"
-msgstr "<emph>A</emph>"
+msgstr "<emph> ក </emph>"
 
 #. 9cuXW
 #: specialfilter.xhp
@@ -11409,7 +11407,7 @@ msgctxt ""
 "par_id3150327\n"
 "help.text"
 msgid "<emph>B</emph>"
-msgstr "<emph>B</emph>"
+msgstr "<emph> ខ </emph>"
 
 #. YfiAi
 #: specialfilter.xhp
@@ -11418,7 +11416,7 @@ msgctxt ""
 "par_id3154756\n"
 "help.text"
 msgid "<emph>C</emph>"
-msgstr "<emph>C</emph>"
+msgstr "<emph> គ </emph>"
 
 #. JX8aJ
 #: specialfilter.xhp
@@ -11427,7 +11425,7 @@ msgctxt ""
 "par_id3155335\n"
 "help.text"
 msgid "<emph>D</emph>"
-msgstr "<emph>D</emph>"
+msgstr "<emph> ឃ </emph>"
 
 #. QVEDv
 #: specialfilter.xhp
@@ -11436,7 +11434,7 @@ msgctxt ""
 "par_id3146315\n"
 "help.text"
 msgid "<emph>E</emph>"
-msgstr "<emph>E</emph>"
+msgstr "<emph> អ៊ី </emph>"
 
 #. Zok2N
 #: specialfilter.xhp
@@ -11454,7 +11452,7 @@ msgctxt ""
 "par_id3159239\n"
 "help.text"
 msgid "Month"
-msgstr "ខែ"
+msgstr "ខ"
 
 #. zvwPF
 #: specialfilter.xhp
@@ -11508,7 +11506,7 @@ msgctxt ""
 "par_id3148839\n"
 "help.text"
 msgid "January"
-msgstr "មករា"
+msgstr "មករ"
 
 #. rJZcC
 #: specialfilter.xhp
@@ -11517,7 +11515,7 @@ msgctxt ""
 "par_id3153816\n"
 "help.text"
 msgid "125600"
-msgstr "125600"
+msgstr "១២៥៦០០"
 
 #. 6ZN6M
 #: specialfilter.xhp
@@ -11526,7 +11524,7 @@ msgctxt ""
 "par_id3157978\n"
 "help.text"
 msgid "200500"
-msgstr "200500"
+msgstr "២០០៥០០"
 
 #. Gcbqo
 #: specialfilter.xhp
@@ -11535,7 +11533,7 @@ msgctxt ""
 "par_id3155268\n"
 "help.text"
 msgid "240000"
-msgstr "240000"
+msgstr "២៤០០០០"
 
 #. y6CMq
 #: specialfilter.xhp
@@ -11562,7 +11560,7 @@ msgctxt ""
 "par_id3149900\n"
 "help.text"
 msgid "February"
-msgstr "កុម្ភៈ"
+msgstr "កុម្ភ"
 
 #. SKG3B
 #: specialfilter.xhp
@@ -11571,7 +11569,7 @@ msgctxt ""
 "par_id3154763\n"
 "help.text"
 msgid "160000"
-msgstr "160000"
+msgstr "១៦០០០០"
 
 #. cGXHP
 #: specialfilter.xhp
@@ -11580,7 +11578,7 @@ msgctxt ""
 "par_id3150050\n"
 "help.text"
 msgid "180300"
-msgstr "180300"
+msgstr "១៨០៣០០"
 
 #. EiYAr
 #: specialfilter.xhp
@@ -11589,7 +11587,7 @@ msgctxt ""
 "par_id3153801\n"
 "help.text"
 msgid "362000"
-msgstr "362000"
+msgstr "៣៦២០០០"
 
 #. cUKzF
 #: specialfilter.xhp
@@ -11598,7 +11596,7 @@ msgctxt ""
 "par_id3154708\n"
 "help.text"
 msgid "220000"
-msgstr "220000"
+msgstr "២២០០០០"
 
 #. AwELk
 #: specialfilter.xhp
@@ -11616,7 +11614,7 @@ msgctxt ""
 "par_id3147250\n"
 "help.text"
 msgid "March"
-msgstr "មីនា"
+msgstr "មីន"
 
 #. onQTV
 #: specialfilter.xhp
@@ -11652,7 +11650,7 @@ msgctxt ""
 "par_id3159115\n"
 "help.text"
 msgid "<emph>A</emph>"
-msgstr "<emph>A</emph>"
+msgstr "<emph> ក </emph>"
 
 #. h5B4m
 #: specialfilter.xhp
@@ -11661,7 +11659,7 @@ msgctxt ""
 "par_id3146886\n"
 "help.text"
 msgid "<emph>B</emph>"
-msgstr "<emph>B</emph>"
+msgstr "<emph> ខ </emph>"
 
 #. 33sFp
 #: specialfilter.xhp
@@ -11670,7 +11668,7 @@ msgctxt ""
 "par_id3153124\n"
 "help.text"
 msgid "<emph>C</emph>"
-msgstr "<emph>C</emph>"
+msgstr "<emph> គ </emph>"
 
 #. EiMtC
 #: specialfilter.xhp
@@ -11679,7 +11677,7 @@ msgctxt ""
 "par_id3152979\n"
 "help.text"
 msgid "<emph>D</emph>"
-msgstr "<emph>D</emph>"
+msgstr "<emph> ឃ </emph>"
 
 #. inUjS
 #: specialfilter.xhp
@@ -11688,7 +11686,7 @@ msgctxt ""
 "par_id3145827\n"
 "help.text"
 msgid "<emph>E</emph>"
-msgstr "<emph>E</emph>"
+msgstr "<emph> អ៊ី </emph>"
 
 #. ubV5L
 #: specialfilter.xhp
@@ -11706,7 +11704,7 @@ msgctxt ""
 "par_id3150693\n"
 "help.text"
 msgid "Month"
-msgstr "ខែ"
+msgstr "ខ"
 
 #. fX6Uo
 #: specialfilter.xhp
@@ -11760,7 +11758,7 @@ msgctxt ""
 "par_id3149956\n"
 "help.text"
 msgid "January"
-msgstr "មករា"
+msgstr "មករ"
 
 #. FTwUG
 #: specialfilter.xhp
@@ -11778,7 +11776,7 @@ msgctxt ""
 "par_id3155957\n"
 "help.text"
 msgid "<160000"
-msgstr "<160000"
+msgstr "<១៦០០០០"
 
 #. cCG3M
 #: specialfilter.xhp
@@ -11805,7 +11803,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Using Subtotals Tool"
-msgstr ""
+msgstr "ការប្រើឧបករណ៍រង"
 
 #. aKjYH
 #: subtotaltool.xhp
@@ -11814,7 +11812,7 @@ msgctxt ""
 "bm_id521585182060496\n"
 "help.text"
 msgid "<bookmark_value>subtotals;using subtotals tool</bookmark_value>"
-msgstr ""
+msgstr "<bookmark_value> ដោយប្រើឧបករណ៍រង </bookmark_value>"
 
 #. 6JBG9
 #: subtotaltool.xhp
@@ -11823,7 +11821,7 @@ msgctxt ""
 "hd_id631585177069332\n"
 "help.text"
 msgid "<variable id=\"subtotaltoolh1\"><link href=\"text/scalc/guide/subtotaltool.xhp\" name=\"Using Subtotal Tool\">Using Subtotal Tool</link></variable>"
-msgstr ""
+msgstr "<variable id=\"subtotaltoolh1\"><link href=\"text/scalc/guide/subtotaltool.xhp\" name=\"Using Subtotal Tool\"> ការប្រើប្រាស់ឧបករណ៍រង </link></variable>"
 
 #. rC9BC
 #: subtotaltool.xhp
@@ -11832,7 +11830,7 @@ msgctxt ""
 "par_id301585177069332\n"
 "help.text"
 msgid "Calc offers the Subtotals tool as a more comprehensive alternative to the <link href=\"text/scalc/01/04060106.xhp#Section12\" name=\"subtotal\">SUBTOTAL function</link>. In contrast to SUBTOTAL, which only works on a single array, the Subtotals tool can create subtotals for up to three arrays arranged in labeled columns. It also groups subtotals by category and sorts them automatically, thereby eliminating the need to apply AutoFilters and filter categories by hand."
-msgstr ""
+msgstr "Calc ផ្តល់ជូននូវឧបករណ៍រងដែលជាជម្រើសដ៏ទូលំទូលាយបន្ថែមទៀតចំពោះឯកសារ <link href=\"text/scalc/01/04060106.xhp#Section12\" name=\"subtotal\"> មុខងារ SUBTOTAL </link> ។ ផ្ទុយទៅនឹង SUBTOTAL ដែលដំណើរការតែលើអារេតែមួយឧបករណ៍ Subtotals អាចបង្កើតដកសម្រាប់អារេរហូតដល់ទៅបីដែលបានរៀបចំនៅក្នុងជួរឈរដែលមានស្លាក។ វាក៏ដាក់ជាអក្សរតូចធំតាមប្រភេទនិងតម្រៀបពួកវាដោយស្វ័យប្រវត្តិដោយលុបបំបាត់នូវតម្រូវការដើម្បីអនុវត្តតម្រងស្វ័យប្រវត្តិនិងប្រភេទតម្រងដោយដៃ។"
 
 #. NEkbi
 #: subtotaltool.xhp
@@ -11841,7 +11839,7 @@ msgctxt ""
 "hd_id891585177511329\n"
 "help.text"
 msgid "Using the Subtotals tool"
-msgstr ""
+msgstr "ការប្រើឧបករណ៍រង"
 
 #. kwLkR
 #: subtotaltool.xhp
@@ -11850,7 +11848,7 @@ msgctxt ""
 "par_id91585177517697\n"
 "help.text"
 msgid "To insert subtotal values into a worksheet:"
-msgstr ""
+msgstr "ដើម្បីបញ្ចូលតម្លៃសរុបរងទៅក្នុងសន្លឹកកិច្ចការ៖"
 
 #. DKZ3o
 #: subtotaltool.xhp
@@ -11859,7 +11857,7 @@ msgctxt ""
 "par_id241585177550504\n"
 "help.text"
 msgid "Select the cell range for the subtotals that you want to calculate, and remember to include the column heading labels. Alternatively, click on a single cell within your data to allow Calc to automatically identify the range."
-msgstr ""
+msgstr "ជ្រើសជួរក្រឡាសម្រាប់ចំណងជើងរងដែលអ្នកចង់គណនាហើយចងចាំថាត្រូវបញ្ចូលស្លាកក្បាលជួរឈរ។ ម៉្យាងវិញទៀតចុចលើក្រឡាតែមួយនៅក្នុងទិន្នន័យរបស់អ្នកដើម្បីអនុញ្ញាតឱ្យ Calc កំណត់ជួរដោយស្វ័យប្រវត្តិ។"
 
 #. QiBqE
 #: subtotaltool.xhp
@@ -11868,7 +11866,7 @@ msgctxt ""
 "par_id421585177574387\n"
 "help.text"
 msgid "Choose <menuitem>Data - Subtotals</menuitem> to open the Subtotals dialog."
-msgstr ""
+msgstr "ជ្រើសរើស <menuitem> ទិន្នន័យ - វត្ថុរង </menuitem> ដើម្បីបើកប្រអប់រង។"
 
 #. BwAst
 #: subtotaltool.xhp
@@ -11877,7 +11875,7 @@ msgctxt ""
 "par_id41585177608508\n"
 "help.text"
 msgid "In the <emph>Group by</emph> drop-down list on the <emph>First Group</emph> page, select a column by its label. Entries in the cell range from step 1 will be grouped and sorted by matching values in this column."
-msgstr ""
+msgstr "ក្នុង <emph> ដាក់ជាក្រុមដោយ </emph> បញ្ជីទម្លាក់ចុះនៅលើតារាង <emph> ក្រុមទីមួយ </emph> ទំព័រ, ជ្រើសជួរឈរមួយដោយស្លាករបស់វា។ ធាតុនៅក្នុងជួរក្រឡាពីជំហានទី ១ នឹងត្រូវបានដាក់ជាក្រុមនិងតម្រៀបតាមតម្លៃដែលត្រូវគ្នានៅក្នុងជួរឈរនេះ។"
 
 #. QmNL9
 #: subtotaltool.xhp
@@ -11886,7 +11884,7 @@ msgctxt ""
 "par_id451585177625978\n"
 "help.text"
 msgid "In the <emph>Calculate subtotals for</emph> box on the <emph>First Group</emph> page, select a column containing values to be subtotaled. If you later change values in this column, Calc will automatically recalculate the subtotals."
-msgstr ""
+msgstr "ក្នុង <emph> គណនាអនុភាគសម្រាប់ </emph> ប្រអប់នៅលើ <emph> ក្រុមទីមួយ </emph> ទំព័រ, ជ្រើសជួរឈរមួយដែលមានតម្លៃដែលត្រូវបានសរុបរង។ ប្រសិនបើអ្នកប្តូរតម្លៃបន្តទៀតក្នុងជួរឈរនេះ Calc នឹងគណនាលេខសរុបឡើងវិញដោយស្វ័យប្រវត្តិ។"
 
 #. CQ9km
 #: subtotaltool.xhp
@@ -11895,7 +11893,7 @@ msgctxt ""
 "par_id661585177644535\n"
 "help.text"
 msgid "In the <emph>Use function</emph> box on the <emph>First Group</emph> page, select a function to calculate the subtotals for the column selected in step 4."
-msgstr ""
+msgstr "ក្នុង <emph> ប្រើមុខងារ </emph> ប្រអប់នៅលើ <emph> ក្រុមទីមួយ </emph> សូមជ្រើសរើសយកមុខងារដើម្បីគណនាសរុបរងសម្រាប់ជួរឈរដែលបានជ្រើសរើសក្នុងជំហ៊ានទី ៤ ។"
 
 #. 3eTTE
 #: subtotaltool.xhp
@@ -11904,7 +11902,7 @@ msgctxt ""
 "par_id351585177661529\n"
 "help.text"
 msgid "Repeat steps 4 and 5 to create subtotals for other columns on the <emph>First Group</emph> page."
-msgstr ""
+msgstr "ធ្វើជំហានទី ៤ និង ៥ ម្តងទៀតដើម្បីបង្កើតចំណងជើងរងសម្រាប់ជួរឈរផ្សេងទៀតនៅលើឯកសារ <emph> ក្រុមទីមួយ </emph> ទំព័រ"
 
 #. 6GLDr
 #: subtotaltool.xhp
@@ -11913,7 +11911,7 @@ msgctxt ""
 "par_id511585177679372\n"
 "help.text"
 msgid "You can create two more subtotal categories by using the <emph>Second Group</emph> and <emph>Third Group</emph> pages and repeating steps 3 to 6. If you do not want to add more groups, then leave the Group by list for each page set to “- none -”."
-msgstr ""
+msgstr "អ្នកអាចបង្កើតប្រភេទរងសរុបពីរបន្ថែមទៀតដោយប្រើឯកសារ <emph> ក្រុមទីពីរ </emph> និង <emph> ក្រុមទីបី </emph> ទំព័រនិងធ្វើជំហានទី ៣ ដល់ទី ៦ ម្តងទៀត។ ប្រសិនបើអ្នកមិនចង់បន្ថែមក្រុមបន្ថែមទេចូរចាកចេញពីក្រុមតាមបញ្ជីសម្រាប់ទំព័រនីមួយៗដែលបានកំណត់ជា“ - ទេ -” ។"
 
 #. HDB52
 #: subtotaltool.xhp
@@ -11922,7 +11920,7 @@ msgctxt ""
 "par_id301585177698777\n"
 "help.text"
 msgid "Click <emph>OK</emph>. Calc will add subtotal and grand total rows to your cell range."
-msgstr ""
+msgstr "ចុច <emph> យល់ព្រម </emph> ។ Calc នឹងបន្ថែមជួរសរុបសរុបនិងសរុបទៅជួរក្រឡារបស់អ្នក។"
 
 #. iMTer
 #: subtotaltool.xhp
@@ -11931,7 +11929,7 @@ msgctxt ""
 "hd_id211585178799496\n"
 "help.text"
 msgid "Subtotal outline"
-msgstr ""
+msgstr "គ្រោងរងសរុប"
 
 #. 35yNv
 #: subtotaltool.xhp
@@ -11940,7 +11938,7 @@ msgctxt ""
 "par_id841585178819108\n"
 "help.text"
 msgid "When you use the Subtotals tool, Calc inserts an outline to the left of the row number column. This outline represents the hierarchical structure of your subtotals, and can be used to hide or show data at different levels in the hierarchy using the numbered column indicators at the top of the outline or the group indicators, denoted by plus <emph>(+)</emph> and minus <emph>(-)</emph> signs."
-msgstr ""
+msgstr "នៅពេលដែលអ្នកប្រើឧបករណ៍រងដកប្រាក់ Calc បញ្ចូលគ្រោងមួយនៅខាងឆ្វេងជួរឈរលេខជួរ។ គ្រោងនេះតំណាងឱ្យរចនាសម្ព័ន្ធឋានានុក្រមនៃអនុភាគរងរបស់អ្នកហើយអាចត្រូវបានប្រើដើម្បីលាក់ឬបង្ហាញទិន្នន័យនៅកម្រិតផ្សេងៗគ្នាក្នុងឋានានុក្រមដោយប្រើសូចនាករជួរឈរដែលមានលេខនៅខាងលើនៃគ្រោងឬសូចនាករក្រុមដែលតាងដោយបូក <emph> (+) </emph> និងដក <emph> (-) </emph> សញ្ញា។"
 
 #. EhreW
 #: subtotaltool.xhp
@@ -11949,7 +11947,7 @@ msgctxt ""
 "par_id371585181820075\n"
 "help.text"
 msgid "This feature is useful if you have many subtotals, as you can simply hide low-level details, such as individual entries, to produce a high-level summary of your data."
-msgstr ""
+msgstr "លក្ខណៈពិសេសនេះមានប្រយោជន៍ប្រសិនបើអ្នកមានអក្សរតូចច្រើនដូចដែលអ្នកអាចលាក់ព័ត៌មានលំអិតកម្រិតទាបដូចជាធាតុនីមួយៗដើម្បីបង្កើតសេចក្តីសង្ខេបកម្រិតខ្ពស់នៃទិន្នន័យរបស់អ្នក។"
 
 #. C97jN
 #: subtotaltool.xhp
@@ -11958,7 +11956,7 @@ msgctxt ""
 "par_id161585178829165\n"
 "help.text"
 msgid "To turn off outlines, choose <menuitem>Data - Group and Outline - Remove Outline</menuitem>. To reinstate them, choose <menuitem>Data - Group and Outline - AutoOutline</menuitem>."
-msgstr ""
+msgstr "ដើម្បីបិទគ្រោងសូមជ្រើសរើស <menuitem> ទិន្នន័យ - ក្រុមនិងគ្រោង - យកគ្រោងចេញ </menuitem> ។ ដើម្បីជ្រើសរើសពួកគេឡើងវិញសូមជ្រើសរើស <menuitem> ទិន្នន័យ - ក្រុមនិងគ្រោង - អូតូថេត </menuitem> ។"
 
 #. oU9ew
 #: super_subscript.xhp
@@ -12048,7 +12046,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Merging and Splitting Cells"
-msgstr "បញ្ចូល​គ្នា និង​បំបែក​ក្រឡា"
+msgstr "បញ្ចូល​គ្នា និង​បំបែក​ក្រឡ"
 
 #. v5UNn
 #: table_cellmerge.xhp
@@ -12093,7 +12091,7 @@ msgctxt ""
 "hd_id235602\n"
 "help.text"
 msgid "Merging Cells"
-msgstr "បញ្ចូល​ក្រឡា​ចូល​គ្នា"
+msgstr "បញ្ចូល​ក្រឡា​ចូល​គ្ន"
 
 #. rg5VD
 #: table_cellmerge.xhp
@@ -12102,7 +12100,7 @@ msgctxt ""
 "par_id1272927\n"
 "help.text"
 msgid "Select the adjacent cells."
-msgstr "ជ្រើស​ក្រឡា​ជាប់​គ្នា"
+msgstr "ជ្រើស​ក្រឡា​ជាប់​គ្ន"
 
 #. tw3g2
 #: table_cellmerge.xhp
@@ -12120,7 +12118,7 @@ msgctxt ""
 "hd_id451368\n"
 "help.text"
 msgid "Splitting Cells"
-msgstr "ការ​ពុះ​ក្រឡា"
+msgstr "ការ​ពុះ​ក្រឡ"
 
 #. HBYzb
 #: table_cellmerge.xhp
@@ -12156,7 +12154,7 @@ msgctxt ""
 "bm_id3154346\n"
 "help.text"
 msgid "<bookmark_value>tables; transposing</bookmark_value><bookmark_value>transposing tables</bookmark_value><bookmark_value>inverting tables</bookmark_value><bookmark_value>swapping tables</bookmark_value><bookmark_value>columns; swap with rows</bookmark_value><bookmark_value>rows; swapping with columns</bookmark_value><bookmark_value>tables; rotating</bookmark_value><bookmark_value>rotating; tables</bookmark_value>"
-msgstr "<bookmark_value>តារាង; ការ​ផ្លាស់​កន្លែង</bookmark_value><bookmark_value>ការ​ផ្លាស់​កន្លែង​តារាង</bookmark_value><bookmark_value> ការ​ដាក់​បញ្ច្រាស​តារាង</bookmark_value><bookmark_value>ការ​ដាក់​តារាង​បញ្ច្រាស</bookmark_value><bookmark_value>ការ​ប្តូរ​តារាង </bookmark_value><bookmark_value>ជួរ​ឈរ; ប្តូរ​ជាមួយ​ជួរ​ដេក</bookmark_value><bookmark_value>ជួរ​ដេក; ការ​ប្តូរ​ជាមួយ​ជួរ​​ឈរ</bookmark_value><bookmark_value>តារាង; ការ​បង្វិល</bookmark_value><bookmark_value>ការ​បង្វិល; តារាង</bookmark_value>"
+msgstr "<bookmark_value>tables; transposing</bookmark_value><bookmark_value>transposing tables</bookmark_value><bookmark_value>inverting tables</bookmark_value><bookmark_value>swapping tables</bookmark_value><bookmark_value>columns; swap with rows</bookmark_value><bookmark_value>rows; swapping with columns</bookmark_value><bookmark_value>tables; rotating</bookmark_value><bookmark_value>rotating; tables</bookmark_value>"
 
 #. h6iqG
 #: table_rotate.xhp
@@ -12282,7 +12280,7 @@ msgctxt ""
 "par_id3153768\n"
 "help.text"
 msgid "Under the menu item <switchinline select=\"sys\"><caseinline select=\"MAC\"><emph>%PRODUCTNAME - Preferences</emph></caseinline><defaultinline><emph>Tools - Options</emph></defaultinline></switchinline><emph> - %PRODUCTNAME Calc,</emph> go to the <emph>View</emph> tab page. Unmark<emph> Column/row headers</emph>. Confirm with <emph>OK</emph>."
-msgstr "ក្រោម​ធាតុ​ម៉ឺនុយ <emph><switchinline select=\"sys\"><caseinline select=\"MAC\">%PRODUCTNAME - ចំណូល​ចិត្ត</caseinline><defaultinline>ឧបករណ៍ - ជម្រើស</defaultinline></switchinline> - %PRODUCTNAME Calc,</emph> ទៅកាន់​ទំព័រ​ផ្ទាំង <emph>មើល</emph> ។ ដោះធីក<emph> ជួរឈរ/ក្បាលជួរដេក</emph> ។ អះអាង​ដោយ <emph>យល់ព្រម</emph> ។"
+msgstr "Under the menu item <switchinline select=\"sys\"><caseinline select=\"MAC\"><emph>%PRODUCTNAME - Preferences</emph></caseinline><defaultinline><emph>Tools - Options</emph></defaultinline></switchinline><emph> - %PRODUCTNAME Calc,</emph> go to the <emph>View</emph> tab page. Unmark<emph> Column/row headers</emph>. Confirm with <emph>OK</emph>."
 
 #. AXeqh
 #: table_view.xhp
@@ -12300,7 +12298,7 @@ msgctxt ""
 "par_id3153726\n"
 "help.text"
 msgid "Under the menu item <switchinline select=\"sys\"><caseinline select=\"MAC\"><emph>%PRODUCTNAME - Preferences</emph></caseinline><defaultinline><emph>Tools - Options</emph></defaultinline></switchinline><emph> - %PRODUCTNAME Calc</emph>, go to the <emph>View</emph> tab page. Choose <emph>Hide</emph> in the <emph>Grid lines</emph> dropdown. Confirm with <emph>OK</emph>."
-msgstr "ក្រោម​ធាតុ​ម៉ឺនុយ <emph><switchinline select=\"sys\"><caseinline select=\"MAC\">%PRODUCTNAME - ចំណូល​ចិត្ត</caseinline><defaultinline>ឧបករណ៍ - ជម្រើស</defaultinline></switchinline> - %PRODUCTNAME Calc,</emph> ទៅកាន់​ទំព័រ​ផ្ទាំង <emph>មើល</emph> ។ ដោះធីក<emph> ជួរឈរ/ក្បាលជួរដេក</emph> ។ អះអាង​ដោយ <emph>យល់ព្រម</emph> ។"
+msgstr "Under the menu item <switchinline select=\"sys\"><caseinline select=\"MAC\"><emph>%PRODUCTNAME - Preferences</emph></caseinline><defaultinline><emph>Tools - Options</emph></defaultinline></switchinline><emph> - %PRODUCTNAME Calc</emph>, go to the <emph>View</emph> tab page. Choose <emph>Hide</emph> in the <emph>Grid lines</emph> dropdown. Confirm with <emph>OK</emph>."
 
 #. j82PQ
 #: text_numbers.xhp
@@ -12516,7 +12514,7 @@ msgctxt ""
 "par_id3145799\n"
 "help.text"
 msgid "<link href=\"text/scalc/01/05020000.xhp\" name=\"Format - Cells\">Format - Cells</link>"
-msgstr ""
+msgstr "<link href=\"text/scalc/01/05020000.xhp\" name=\"Format - Cells\"> ទ្រង់ទ្រាយ - កោសិកា </link>"
 
 #. rAuLt
 #: userdefined_function.xhp
@@ -12525,7 +12523,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "User-Defined Functions"
-msgstr "អនុគមន៍​កំណត់​ដោយ​អ្នក​ប្រើ"
+msgstr "អនុគមន៍​កំណត់​ដោយ​អ្នក​ប្រ"
 
 #. FS93h
 #: userdefined_function.xhp
@@ -12588,7 +12586,7 @@ msgctxt ""
 "par_id3148456\n"
 "help.text"
 msgid "Choose <switchinline select=\"sys\"><caseinline select=\"MAC\"><menuitem>%PRODUCTNAME - Preferences</menuitem></caseinline><defaultinline><menuitem>Tools - Options</menuitem></defaultinline></switchinline><menuitem> - %PRODUCTNAME Basic</menuitem>."
-msgstr ""
+msgstr "ជ្រើសរើស <switchinline select=\"sys\"><caseinline select=\"MAC\"><menuitem> %PRODUCTNAME - ចំណូលចិត្ត </menuitem></caseinline><defaultinline><menuitem> ឧបករណ៍ - ជម្រើស </menuitem></defaultinline></switchinline><menuitem> -%PRODUCTNAME Basic </menuitem> ។"
 
 #. 5gEUD
 #: userdefined_function.xhp
@@ -12606,7 +12604,7 @@ msgctxt ""
 "par_id3150327\n"
 "help.text"
 msgid "Enter the function code. In this example, we define a <literal>VOL(a; b; c)</literal> function that calculates the volume of a rectangular solid with side lengths <literal>a</literal>, <literal>b</literal> and <literal>c</literal>:"
-msgstr ""
+msgstr "បញ្ចូលលេខកូដមុខងារ។ ក្នុងឧទាហរណ៍នេះយើងកំណត់ក <literal> VOL (a; b; c) </literal> មុខងារដែលគណនាកម្រិតសំឡេងនៃរាងចតុកោណដែលមានប្រវែងចំហៀង <literal> ក </literal> , <literal> ខ </literal> និង <literal> គ </literal> ៖"
 
 #. eXWo3
 #: userdefined_function.xhp
@@ -12660,7 +12658,7 @@ msgctxt ""
 "par_id3150304\n"
 "help.text"
 msgid "Choose <switchinline select=\"sys\"><caseinline select=\"MAC\"><menuitem>%PRODUCTNAME - Preferences</menuitem></caseinline><defaultinline><menuitem>Tools - Options</menuitem></defaultinline></switchinline><menuitem> - %PRODUCTNAME Basic</menuitem>."
-msgstr ""
+msgstr "ជ្រើសរើស <switchinline select=\"sys\"><caseinline select=\"MAC\"><menuitem> %PRODUCTNAME - ចំណូលចិត្ត </menuitem></caseinline><defaultinline><menuitem> ឧបករណ៍ - ជម្រើស </menuitem></defaultinline></switchinline><menuitem> -%PRODUCTNAME Basic </menuitem> ។"
 
 #. HZciB
 #: userdefined_function.xhp
@@ -12732,7 +12730,7 @@ msgctxt ""
 "par_id3148869\n"
 "help.text"
 msgid "Once you have defined the function <literal>VOL(a; b; c)</literal> in the Basic-IDE, you can apply it the same way as the built-in functions of $[officename] Calc."
-msgstr ""
+msgstr "នៅពេលដែលអ្នកបានកំណត់មុខងារ <literal> VOL (a; b; c) </literal> ក្នុង Basic-IDE អ្នកអាចអនុវត្តវាដូចគ្នានឹងមុខងារដែលភ្ជាប់មកជាមួយនៃ $[officename] Calc ។"
 
 #. WtG8F
 #: userdefined_function.xhp
@@ -12741,7 +12739,7 @@ msgctxt ""
 "par_id3148606\n"
 "help.text"
 msgid "Open a Calc document and enter numbers for the function parameters <literal>a</literal>, <literal>b</literal> and <literal>c</literal> in cells A1, B1, and C1."
-msgstr ""
+msgstr "បើកឯកសារ Calc ហើយបញ្ចូលលេខសម្រាប់ប៉ារ៉ាម៉ែត្រមុខងារ <literal> ក </literal> , <literal> ខ </literal> និង <literal> គ </literal> នៅក្នុងកោសិកា A1, B1, និង C1 ។"
 
 #. TTo2C
 #: userdefined_function.xhp
@@ -12768,7 +12766,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Validity of Cell Contents"
-msgstr "សុពលភាព​នៃ​មាតិកា​ក្រឡា"
+msgstr "សុពលភាព​នៃ​មាតិកា​ក្រឡ"
 
 #. N5T5g
 #: validity.xhp
@@ -12822,7 +12820,7 @@ msgctxt ""
 "hd_id3155603\n"
 "help.text"
 msgid "Using Cell Contents Validity"
-msgstr "ការ​ប្រើ​សុពលភាព​មាតិកា​ក្រឡា"
+msgstr "ការ​ប្រើ​សុពលភាព​មាតិកា​ក្រឡ"
 
 #. vPWZE
 #: validity.xhp
@@ -12948,7 +12946,7 @@ msgctxt ""
 "par_id3149011\n"
 "help.text"
 msgid "To display the error message, select <link href=\"text/scalc/01/12120300.xhp\" name=\"erroralert\">Show error message when invalid values are entered</link>."
-msgstr ""
+msgstr "ដើម្បីបង្ហាញសារកំហុសសូមជ្រើសរើស <link href=\"text/scalc/01/12120300.xhp\" name=\"erroralert\"> បង្ហាញសារកំហុសនៅពេលបញ្ចូលតម្លៃមិនត្រឹមត្រូវ </link> ។"
 
 #. VTfnE
 #: validity.xhp
@@ -12975,7 +12973,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Naming Cells"
-msgstr "ការ​ដាក់​ឈ្មោះ​ក្រឡា"
+msgstr "ការ​ដាក់​ឈ្មោះ​ក្រឡ"
 
 #. DGAwD
 #: value_with_name.xhp
@@ -13047,7 +13045,7 @@ msgctxt ""
 "par_id2816553\n"
 "help.text"
 msgid "blank ( ) - allowed within a name, but not as first or last character, and not for a cell range"
-msgstr "ចន្លោះ​ទទេ ( ) - ត្រូវបាន​អនុញ្ញាត​នៅ​ក្នុង​ឈ្មោះ ប៉ុន្តែ​មិន​នៅ​ខាង​ដើម ឬ​ចុង​តួអក្សរ​ឡើយ ហើយ​មិនមែន​សម្រាប់​ជួរក្រឡា"
+msgstr "ចន្លោះ​ទទេ ( ) - ត្រូវបាន​អនុញ្ញាត​នៅ​ក្នុង​ឈ្មោះ ប៉ុន្តែ​មិន​នៅ​ខាង​ដើម ឬ​ចុង​តួអក្សរ​ឡើយ ហើយ​មិនមែន​សម្រាប់​ជួរក្រឡ"
 
 #. BvnNt
 #: value_with_name.xhp
@@ -13065,7 +13063,7 @@ msgctxt ""
 "par_id32898987\n"
 "help.text"
 msgid "Names must not start with the letters C or R followed by a number; also single characters C and R are not allowed as names. See the ADDRESS function for more information."
-msgstr ""
+msgstr "ឈ្មោះមិនត្រូវចាប់ផ្តើមដោយអក្សរ C ឬ R អមដោយលេខ; តួអក្សរ C និង R មិនត្រូវបានអនុញ្ញាតជាឈ្មោះឡើយ។ មើលមុខងារ ADDRESS សម្រាប់ព័ត៌មានបន្ថែម។"
 
 #. ELFqL
 #: value_with_name.xhp
@@ -13119,7 +13117,7 @@ msgctxt ""
 "par_id3153954\n"
 "help.text"
 msgid "Select a cell or range of cells, then choose <emph>Sheet - Named Ranges and Expressions - Define</emph>. The <emph>Define Names</emph> dialog appears."
-msgstr ""
+msgstr "ជ្រើសក្រឡាឬជួរក្រឡាបន្ទាប់ជ្រើស <emph> សន្លឹក - ជួរឈ្មោះនិងកន្សោម - កំណត់ </emph> ។ នេះ <emph> កំណត់ឈ្មោះ </emph> ប្រអប់លេចឡើង។"
 
 #. XRBXG
 #: value_with_name.xhp
@@ -13164,7 +13162,7 @@ msgctxt ""
 "par_id3150749\n"
 "help.text"
 msgid "If more than one name starts with the same characters, you can scroll forward through all the names using the Ctrl + Tab keys and backward using the Shift + Ctrl + Tab keys."
-msgstr ""
+msgstr "ប្រសិនបើឈ្មោះច្រើនជាងមួយចាប់ផ្តើមដោយតួអក្សរដូចគ្នាអ្នកអាចរំកិលទៅមុខគ្រប់ឈ្មោះដោយប្រើគ្រាប់ចុចបញ្ជា (Ctrl) + ថេប (Tab) និងថយក្រោយដោយប្រើគ្រាប់ចុចប្តូរ (Shift) + បញ្ជា (Ctrl) + ថេប (Tab) ។"
 
 #. VDbbB
 #: value_with_name.xhp
@@ -13173,7 +13171,7 @@ msgctxt ""
 "par_id3153711\n"
 "help.text"
 msgid "<link href=\"text/scalc/01/04070100.xhp\" name=\"Sheet - Named Ranges and Expressions - Define\">Sheet - Named Ranges and Expressions - Define</link>"
-msgstr ""
+msgstr "<link href=\"text/scalc/01/04070100.xhp\" name=\"Sheet - Named Ranges and Expressions - Define\"> សន្លឹក - ជួរឈ្មោះនិងកន្សោម - កំណត់ </link>"
 
 #. tT8Ku
 #: webquery.xhp
@@ -13254,7 +13252,7 @@ msgctxt ""
 "par_id3145750\n"
 "help.text"
 msgid "Choose <emph>Sheet - Link to External Data</emph>. This opens the <link href=\"text/scalc/01/04090000.xhp\">External Data</link> dialog."
-msgstr ""
+msgstr "ជ្រើសរើស <emph> សន្លឹក - ភ្ជាប់ទៅទិន្នន័យខាងក្រៅ </emph> ។ នេះបើកឯកសារ <link href=\"text/scalc/01/04090000.xhp\"> ទិន្នន័យខាងក្រៅ </link> ប្រអប់។"
 
 #. AGj3g
 #: webquery.xhp
@@ -13335,7 +13333,7 @@ msgctxt ""
 "par_id3148842\n"
 "help.text"
 msgid "In the Navigator select the <emph>Insert as link</emph> drag mode <image id=\"img_id3152985\" src=\"sw/res/sc20238.png\" width=\"0.222inch\" height=\"0.222inch\"><alt id=\"alt_id3152985\">Icon</alt></image>."
-msgstr ""
+msgstr "នៅក្នុងកម្មវិធីរុករកជ្រើសយក <emph> បញ្ចូលជាតំណ </emph> របៀបអូស <image id=\"img_id3152985\" src=\"sw/res/sc20238.png\" width=\"0.222inch\" height=\"0.222inch\"><alt id=\"alt_id3152985\"> រូបតំណាង </alt></image> ។"
 
 #. LS3Wf
 #: webquery.xhp
@@ -13380,7 +13378,7 @@ msgctxt ""
 "hd_id3149126\n"
 "help.text"
 msgid "Editing the external data"
-msgstr "ការ​កែសម្រួល​ទិន្នន័យ​ខាង​ក្រៅ"
+msgstr "ការ​កែសម្រួល​ទិន្នន័យ​ខាង​ក្រ"
 
 #. GEeyF
 #: webquery.xhp
@@ -13443,7 +13441,7 @@ msgctxt ""
 "par_id3154011\n"
 "help.text"
 msgid "Under <switchinline select=\"sys\"><caseinline select=\"MAC\"><emph>%PRODUCTNAME - Preferences</emph></caseinline><defaultinline><emph>Tools - Options</emph></defaultinline></switchinline><emph> - $[officename] - General</emph> you can define the century that is used when you enter a year with only two digits. The default is 1930 to 2029."
-msgstr "ក្រោម <emph><switchinline select=\"sys\"><caseinline select=\"MAC\">%PRODUCTNAME - ចំណូល​ចិត្ត</caseinline><defaultinline>ឧបករណ៍ - ជម្រើស</defaultinline></switchinline> - $[officename] - ទូទៅ</emph> អ្នក​អាច​កំណត់​សតវត្សរ៍​ដែល​ត្រូវបានប្រើ​ នៅពេល​អ្នក​បញ្ចូល​តែ​ពីរ​តួលេខ ។ លំនាំដើម​គឺ ១៩៣០ ដល់ ២០២៩ ។"
+msgstr "Under <switchinline select=\"sys\"><caseinline select=\"MAC\"><emph>%PRODUCTNAME - Preferences</emph></caseinline><defaultinline><emph>Tools - Options</emph></defaultinline></switchinline><emph> - $[officename] - General</emph> you can define the century that is used when you enter a year with only two digits. The default is 1930 to 2029."
 
 #. zB3Ff
 #: year2000.xhp

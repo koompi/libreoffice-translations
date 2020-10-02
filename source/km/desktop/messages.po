@@ -1,134 +1,127 @@
-#. extracted from desktop/inc
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
-"POT-Creation-Date: 2020-09-28 11:22+0200\n"
-"PO-Revision-Date: 2018-09-03 11:57+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2020-03-10 13:36+0100\n"
+"PO-Revision-Date: 2020-09-04 10:13+0700\n"
+"Last-Translator: KOOMPI Apps Localization\n"
 "Language: km\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Accelerator-Marker: ~\n"
-"X-Generator: LibreOffice\n"
-"X-POOTLE-MTIME: 1535975855.000000\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-POOTLE-MTIME: 1535975854.000000\n"
+"Language-Team: KOOMPI Apps Localization\n"
 
 #. v2iwK
-#: desktop/inc/strings.hrc:24
+#: desktop/inc/strings.hrc:25
 msgctxt "RID_STR_COPYING_PACKAGE"
 msgid "Copying: "
-msgstr "ការ​ចម្លង ៖ ​"
+msgstr "ការ​ចម្លង ៖ "
 
 #. 2dzDt
-#: desktop/inc/strings.hrc:25
+#: desktop/inc/strings.hrc:26
 msgctxt "RID_STR_ERROR_WHILE_ADDING"
 msgid "Error while adding: "
-msgstr "កំហុស​ខណៈ​ពេល​បន្ថែម ៖​ ​"
+msgstr "កំហុស​ខណៈ​ពេល​បន្ថែម ៖​ "
 
 #. CUrtD
-#: desktop/inc/strings.hrc:26
+#: desktop/inc/strings.hrc:27
 msgctxt "RID_STR_ERROR_WHILE_REMOVING"
 msgid "Error while removing: "
-msgstr "កំហុស​ខណៈ​ពេល​យក​ចេញ ៖ ​"
+msgstr "កំហុស​ខណៈ​ពេល​យក​ចេញ ៖ "
 
 #. XyESz
-#: desktop/inc/strings.hrc:27
+#: desktop/inc/strings.hrc:28
 msgctxt "RID_STR_PACKAGE_ALREADY_ADDED"
 msgid "Extension has already been added: "
-msgstr "ផ្នែក​បន្ថែម​ត្រូវ​បាន​បន្ថែម​រួច​ហើយ ៖ ​"
+msgstr "ផ្នែក​បន្ថែម​ត្រូវ​បាន​បន្ថែម​រួច​ហើយ ៖ "
 
 #. cuydq
-#: desktop/inc/strings.hrc:28
+#: desktop/inc/strings.hrc:29
 msgctxt "RID_STR_NO_SUCH_PACKAGE"
 msgid "There is no such extension deployed: "
-msgstr "គ្មាន​ផ្នែក​បន្ថែម​បែបនេះ​បាន​ចេញ ៖​"
+msgstr "គ្មាន​ផ្នែក​បន្ថែម​បែបនេះ​បាន​ចេញ ៖​ "
 
 #. wzGYv
-#: desktop/inc/strings.hrc:29
+#: desktop/inc/strings.hrc:30
 msgctxt "RID_STR_SYNCHRONIZING_REPOSITORY"
 msgid "Synchronizing repository for %NAME extensions"
 msgstr "ធ្វើ​សមកាលកម្ម​ឃ្លាំង​សម្រាប់​ផ្នែក​បន្ថែម​សម្រាប់ %NAME"
 
 #. dp8bf
-#: desktop/inc/strings.hrc:31
+#: desktop/inc/strings.hrc:32
 msgctxt "RID_STR_REGISTERING_PACKAGE"
 msgid "Enabling: "
 msgstr "បើក​ ៖ "
 
 #. xBysg
-#: desktop/inc/strings.hrc:32
+#: desktop/inc/strings.hrc:33
 msgctxt "RID_STR_REVOKING_PACKAGE"
 msgid "Disabling: "
-msgstr "បិទ ៖​"
+msgstr "បិទ ៖​ "
 
 #. HDgpp
-#: desktop/inc/strings.hrc:33
+#: desktop/inc/strings.hrc:34
 msgctxt "RID_STR_CANNOT_DETECT_MEDIA_TYPE"
 msgid "Cannot detect media-type: "
 msgstr "មិន​អាច​រកឃើញ​ប្រភេទ​មេឌៀ​ឡើយ ៖ "
 
 #. QfGM7
-#: desktop/inc/strings.hrc:34
+#: desktop/inc/strings.hrc:35
 msgctxt "RID_STR_UNSUPPORTED_MEDIA_TYPE"
 msgid "This media-type is not supported: "
-msgstr "មិន​គាំទ្រ​ប្រភេទ​​មេឌៀ​​​នេះ​ឡើយ ៖​"
+msgstr "មិន​គាំទ្រ​ប្រភេទ​​មេឌៀ​​​នេះ​ឡើយ ៖​ "
 
 #. VHcMc
-#: desktop/inc/strings.hrc:35
+#: desktop/inc/strings.hrc:36
 msgctxt "RID_STR_ERROR_WHILE_REGISTERING"
 msgid "An error occurred while enabling: "
-msgstr "កំហុស​មួយ​បាន​កើត​ឡើង​ខណៈ​ពេល​បើក ៖"
+msgstr "កំហុស​មួយ​បាន​កើត​ឡើង​ខណៈ​ពេល​បើក ៖ "
 
 #. BqmAM
-#: desktop/inc/strings.hrc:36
+#: desktop/inc/strings.hrc:37
 msgctxt "RID_STR_ERROR_WHILE_REVOKING"
 msgid "An error occurred while disabling: "
 msgstr "កំហុស​មួយ​បាន​កើត​ឡើង​ខណៈ​ពេល​បិទ ៖ "
 
 #. Avii2
-#: desktop/inc/strings.hrc:38
+#: desktop/inc/strings.hrc:39
 msgctxt "RID_STR_CONF_SCHEMA"
 msgid "Configuration Schema"
 msgstr "គំនូរ​បំព្រួញ​នៃ​ការ​កំណត់​រចនា​សម្ព័ន្ធ"
 
 #. cL9MC
-#: desktop/inc/strings.hrc:39
+#: desktop/inc/strings.hrc:40
 msgctxt "RID_STR_CONF_DATA"
 msgid "Configuration Data"
 msgstr "ទិន្នន័យ​នៃ​ការ​កំណត់​រចនា​សម្ព័ន្ធ​"
 
 #. S8Pj8
-#: desktop/inc/strings.hrc:41
+#: desktop/inc/strings.hrc:42
 msgctxt "RID_STR_BASIC_LIB"
 msgid "Basic Library"
-msgstr ""
+msgstr "បណ្ណាល័យមូលដ្ឋាន"
 
 #. Tnphj
-#: desktop/inc/strings.hrc:42
+#: desktop/inc/strings.hrc:43
 msgctxt "RID_STR_DIALOG_LIB"
 msgid "Dialog Library"
 msgstr "បណ្ណាល័យ​ប្រអប់"
 
 #. ThJQm
-#: desktop/inc/strings.hrc:43
+#: desktop/inc/strings.hrc:44
 msgctxt "RID_STR_CANNOT_DETERMINE_LIBNAME"
 msgid "The library name could not be determined."
 msgstr "មិន​​អាច​​កំណត់​​ឈ្មោះ​​បណ្ណា​ល័យ​បាន​ ។​"
 
 #. G6SqW
-#: desktop/inc/strings.hrc:45
+#: desktop/inc/strings.hrc:46
 msgctxt "RID_STR_PACKAGE_BUNDLE"
 msgid "Extension"
 msgstr "ផ្នែក​បន្ថែម​"
-
-#. o6NBi
-#: desktop/inc/strings.hrc:46
-msgctxt "RID_STR_PACKAGE_BUNDLE"
-msgid "All supported files"
-msgstr ""
 
 #. 5TAZB
 #: desktop/inc/strings.hrc:48
@@ -140,7 +133,7 @@ msgstr "សមាស​ភាគ​បណ្ណាល័យ​​​ថាមវ
 #: desktop/inc/strings.hrc:49
 msgctxt "RID_STR_JAVA_COMPONENT"
 msgid "UNO Java Component"
-msgstr "សមាស​​ភាគ​ Java UNO"
+msgstr "សមាស​​ភាគ​ UNO Java"
 
 #. a7o4C
 #: desktop/inc/strings.hrc:50
@@ -158,7 +151,7 @@ msgstr "សមាស​​ភាគ UNO"
 #: desktop/inc/strings.hrc:52
 msgctxt "RID_STR_RDB_TYPELIB"
 msgid "UNO RDB Type Library"
-msgstr "បណ្ណា​ល័យ​​ប្រភេទ​ ​UNO RDB"
+msgstr "បណ្ណា​ល័យ​​ប្រភេទ UNO RDB"
 
 #. KcXfh
 #: desktop/inc/strings.hrc:53
@@ -200,25 +193,25 @@ msgstr "បន្ថែម​ផ្នែក​បន្ថែម​"
 #: desktop/inc/strings.hrc:62
 msgctxt "RID_CTX_ITEM_REMOVE"
 msgid "~Remove"
-msgstr "យកចេញ "
+msgstr "យកចេញ"
 
 #. s6iho
 #: desktop/inc/strings.hrc:63
 msgctxt "RID_CTX_ITEM_ENABLE"
 msgid "~Enable"
-msgstr "បើក "
+msgstr "បើក"
 
 #. CeKUw
 #: desktop/inc/strings.hrc:64
 msgctxt "RID_CTX_ITEM_DISABLE"
 msgid "~Disable"
-msgstr "បិទ "
+msgstr "បិទ"
 
 #. Z7G4r
 #: desktop/inc/strings.hrc:65
 msgctxt "RID_CTX_ITEM_CHECK_UPDATE"
 msgid "~Update..."
-msgstr "ធ្វើ​បច្ចុប្បន្នភាព... "
+msgstr "ធ្វើ​បច្ចុប្បន្នភាព..."
 
 #. iFBQd
 #: desktop/inc/strings.hrc:66
@@ -300,45 +293,42 @@ msgstr "បង្ហាញ​អាជ្ញាប័ណ្ណ​"
 
 #. xyCf9
 #: desktop/inc/strings.hrc:80
-#, fuzzy
 msgctxt "RID_STR_WARNING_INSTALL_EXTENSION"
 msgid ""
 "You are about to install the extension '%NAME'.\n"
 "Click 'OK' to proceed with the installation.\n"
 "Click 'Cancel' to stop the installation."
 msgstr ""
-"អ្នក​ហៀបនឹង​ដំឡើង​ផ្នែក​បន្ថែម '%NAME\\' ។\n"
-"ចុច \\'យល់ព្រម\\' ដើម្បី​បន្ត​ការ​ដំឡើង។\n"
-"ចុច \\'បោះបង់\\' ដើម្បី​បញ្ឈប់​ការ​ដំឡើង។"
+"អ្នក​ហៀបនឹង​ដំឡើង​ផ្នែក​បន្ថែម '%NAME' ។\n"
+"ចុច 'យល់ព្រម' ដើម្បី​បន្ត​ការ​ដំឡើង។\n"
+"ចុច 'បោះបង់' ដើម្បី​បញ្ឈប់​ការ​ដំឡើង។"
 
 #. Y4EHy
 #: desktop/inc/strings.hrc:83
 msgctxt "RID_STR_WARNING_INSTALL_EXTENSION_DISABLED"
 msgid "Extension installation is currently disabled. Please consult your system administrator for more information."
-msgstr ""
+msgstr "ការតំឡើងកម្មវិធីបន្ថែមបច្ចុប្បន្នត្រូវបានបិទ។ សូមពិគ្រោះជាមួយអ្នកគ្រប់គ្រងប្រព័ន្ធរបស់អ្នកសម្រាប់ព័ត៌មានបន្ថែម។"
 
 #. JiEFG
 #: desktop/inc/strings.hrc:85
 msgctxt "RID_STR_WARNING_REMOVE_EXTENSION_DISABLED"
 msgid "Extension removal is currently disabled. Please consult your system administrator for more information."
-msgstr ""
+msgstr "ការដកផ្នែកបន្ថែមបច្ចុប្បន្នត្រូវបានបិទ។ សូមពិគ្រោះជាមួយអ្នកគ្រប់គ្រងប្រព័ន្ធរបស់អ្នកសម្រាប់ព័ត៌មានបន្ថែម។"
 
 #. LncbY
 #: desktop/inc/strings.hrc:87
-#, fuzzy
 msgctxt "RID_STR_WARNING_REMOVE_EXTENSION"
 msgid ""
 "You are about to remove the extension '%NAME'.\n"
 "Click 'OK' to remove the extension.\n"
 "Click 'Cancel' to stop removing the extension."
 msgstr ""
-"អ្នក​រៀបនឹង​លុប​ផ្នែក​បន្ថែម '%NAME\\' ចេញ។\n"
-"ចុច \\'យល់ព្រម\\' ដើម្បី​លុប​ផ្នែក​បន្ថែម​ចេញ។\n"
-"ចុច \\'បោះបង់\\' ដើម្បី​បញ្ឈប់​ការ​លុប​ផ្នែក​បន្ថែម​ចេញ។"
+"អ្នក​រៀបនឹង​លុប​ផ្នែក​បន្ថែម '%NAME' ចេញ។\n"
+"ចុច 'យល់ព្រម' ដើម្បី​លុប​ផ្នែក​បន្ថែម​ចេញ។\n"
+"ចុច 'បោះបង់' ដើម្បី​បញ្ឈប់​ការ​លុប​ផ្នែក​បន្ថែម​ចេញ។"
 
 #. fiYMH
 #: desktop/inc/strings.hrc:90
-#, fuzzy
 msgctxt "RID_STR_WARNING_REMOVE_SHARED_EXTENSION"
 msgid ""
 "Make sure that no further users are working with the same %PRODUCTNAME, when changing shared extensions in a multi user environment.\n"
@@ -347,11 +337,10 @@ msgid ""
 msgstr ""
 "សូម​ប្រាកដ​ថា​មិន​មាន​អ្នកប្រើ​ផ្សេង​កំពុង​ធ្វើការ​ជាមួយ %PRODUCTNAME នៅ​ពេល​ផ្លាស់ប្ដូរ​ផ្នែក​បន្ថែម​ដែល​បាន​ចែករំលែក​ក្នុង​បរិស្ថាន​អ្នកប្រើ​ច្រើន។\n"
 "ចុច 'យល់ព្រម' ដើម្បី​លុប​ផ្នែក​បន្ថែម​ចេញ។\n"
-"ចុច 'បោះបង់' ដើម្បី​បញ្ឈប់​ការ​លុប​ផ្នែក​បន្ថែម ។"
+"ចុច 'បោះបង់' ដើម្បី​បញ្ឈប់​ការ​លុប​ផ្នែក​បន្ថែម ។"
 
 #. bQ675
 #: desktop/inc/strings.hrc:94
-#, fuzzy
 msgctxt "RID_STR_WARNING_ENABLE_SHARED_EXTENSION"
 msgid ""
 "Make sure that no further users are working with the same %PRODUCTNAME, when changing shared extensions in a multi user environment.\n"
@@ -364,7 +353,6 @@ msgstr ""
 
 #. zEGzE
 #: desktop/inc/strings.hrc:98
-#, fuzzy
 msgctxt "RID_STR_WARNING_DISABLE_SHARED_EXTENSION"
 msgid ""
 "Make sure that no further users are working with the same %PRODUCTNAME, when changing shared extensions in a multi user environment.\n"
@@ -457,11 +445,10 @@ msgstr "ផ្នែក​បន្ថែម​ទាមទារ​យ៉ាង
 #: desktop/inc/strings.hrc:117
 msgctxt "RID_DEPLOYMENT_DEPENDENCIES_LO_MAX"
 msgid "Extension does not support %PRODUCTNAME versions greater than %VERSION"
-msgstr ""
+msgstr "កម្មវិធីបន្ថែមមិនគាំទ្រកំណែ %PRODUCTNAME ធំជាង %VERSION ទេ"
 
 #. dNBtG
 #: desktop/inc/strings.hrc:119
-#, fuzzy
 msgctxt "RID_STR_WARNING_VERSION_LESS"
 msgid ""
 "You are about to install version $NEW of the extension '$NAME'.\n"
@@ -490,7 +477,6 @@ msgstr ""
 
 #. AMTBi
 #: desktop/inc/strings.hrc:127
-#, fuzzy
 msgctxt "RID_STR_WARNING_VERSION_EQUAL"
 msgid ""
 "You are about to install version $NEW of the extension '$NAME'.\n"
@@ -519,7 +505,6 @@ msgstr ""
 
 #. 9wcAB
 #: desktop/inc/strings.hrc:135
-#, fuzzy
 msgctxt "RID_STR_WARNING_VERSION_GREATER"
 msgid ""
 "You are about to install version $NEW of the extension '$NAME'.\n"
@@ -616,7 +601,7 @@ msgstr "បច្ចុប្បន្នភាព​នេះ នឹង​ត�
 #: desktop/inc/strings.hrc:156
 msgctxt "STR_BOOTSTRAP_ERR_CANNOT_START"
 msgid "The application cannot be started. "
-msgstr "មិន​​​អាច​​​ចាប់​​ផ្តើម​​​កម្ម​វិធី​​​នេះ​​​បាន​​​ទេ ។​"
+msgstr "មិន​​​អាច​​​ចាប់​​ផ្តើម​​​កម្ម​វិធី​​​នេះ​​​បាន​​​ទេ ។​ "
 
 #. STFHr
 #: desktop/inc/strings.hrc:157
@@ -664,7 +649,7 @@ msgstr "មិនអាច​កំណត់​ភាសា​ចំណុច​
 #: desktop/inc/strings.hrc:164
 msgctxt "STR_BOOTSTRAP_ERR_USERINSTALL_FAILED"
 msgid "User installation could not be completed. "
-msgstr "ការ​ដំឡើង​របស់​អ្នកប្រើ​មិន​បាន​បញ្ចប់ ។"
+msgstr "ការ​ដំឡើង​របស់​អ្នកប្រើ​មិន​បាន​បញ្ចប់ ។ "
 
 #. dgxZP
 #: desktop/inc/strings.hrc:165
@@ -682,7 +667,7 @@ msgstr "ចាប់ផ្តើម​កម្មវិធី​ដំឡើង
 #: desktop/inc/strings.hrc:167
 msgctxt "STR_CONFIG_ERR_ACCESS_GENERAL"
 msgid "A general error occurred while accessing your central configuration. "
-msgstr "កំហុស​​ជា​​ទូទៅ​​មួយ​​បាន​​កើត​ឡើង ​​ខណៈពេល​​​ចូល​​​ដំណើរ​​​ការ​​​​កំណត់​​​រចនា​​សម្ព័ន្ធ​​​កណ្តាល​​របស់​​​អ្នក​ ។"
+msgstr "កំហុស​​ជា​​ទូទៅ​​មួយ​​បាន​​កើត​ឡើង ​​ខណៈពេល​​​ចូល​​​ដំណើរ​​​ការ​​​​កំណត់​​​រចនា​​សម្ព័ន្ធ​​​កណ្តាល​​របស់​​​អ្នក​ ។ "
 
 #. TXCKM
 #: desktop/inc/strings.hrc:168
@@ -700,7 +685,7 @@ msgstr ""
 #: desktop/inc/strings.hrc:169
 msgctxt "STR_INTERNAL_ERRMSG"
 msgid "The following internal error has occurred: "
-msgstr "កំហុស​​​ខាង​​​ក្នុង​​​ដូច​​​ខាង​​​ក្រោម​​នេះ​​​​ បាន​​កើត​ឡើង ៖"
+msgstr "កំហុស​​​ខាង​​​ក្នុង​​​ដូច​​​ខាង​​​ក្រោម​​នេះ​​​​ បាន​​កើត​ឡើង ៖ "
 
 #. zBSDM
 #: desktop/inc/strings.hrc:170
@@ -710,7 +695,6 @@ msgstr "%PRODUCTNAME ត្រូវ​តែ​ចាប់ផ្ដើម​�
 
 #. NBTfi
 #: desktop/inc/strings.hrc:171
-#, fuzzy
 msgctxt "STR_QUERY_USERDATALOCKED"
 msgid ""
 "Either another instance of %PRODUCTNAME is accessing your personal settings or your personal settings are locked.\n"
@@ -747,7 +731,7 @@ msgctxt "STR_BOOTSTRAP_ERR_NOTENOUGHDISKSPACE"
 msgid ""
 "%PRODUCTNAME user installation could not be completed due to insufficient free disk space. Please free more disc space at the following location and restart %PRODUCTNAME:\n"
 "\n"
-msgstr ""
+msgstr "ការដំឡើងអ្នកប្រើ %PRODUCTNAME មិនអាចបញ្ចប់បានទេដោយសារតែទំហំថាសទំនេរមិនគ្រប់គ្រាន់។ សូមទុកទំហំឌីសបន្ថែមនៅទីតាំងខាងក្រោមហើយចាប់ផ្តើម %PRODUCTNAME ឡើងវិញ៖\n"
 
 #. 2o5XG
 #: desktop/inc/strings.hrc:176
@@ -755,7 +739,7 @@ msgctxt "STR_BOOTSTRAP_ERR_NOACCESSRIGHTS"
 msgid ""
 "%PRODUCTNAME user installation could not be processed due to missing access rights. Please make sure that you have sufficient access rights for the following location and restart %PRODUCTNAME:\n"
 "\n"
-msgstr ""
+msgstr "ការដំឡើងអ្នកប្រើ %PRODUCTNAME មិនអាចដំណើរការបានទេដោយសារបាត់សិទ្ធិចូលដំណើរការ។ សូមប្រាកដថាអ្នកមានសិទ្ធិគ្រប់គ្រាន់សម្រាប់ទីតាំងខាងក្រោមហើយចាប់ផ្តើម %PRODUCTNAME ឡើងវិញ៖\n"
 
 #. uigQN
 #: desktop/inc/strings.hrc:178
@@ -767,25 +751,25 @@ msgstr "កិច្ចព្រមព្រៀង​អាជ្ញាប័ណ
 #: desktop/inc/strings.hrc:179
 msgctxt "RID_STR_UNOPKG_ACCEPT_LIC_2"
 msgid "Read the complete License Agreement displayed above. Accept the License Agreement by typing \"yes\" on the console then press the Return key. Type \"no\" to decline and to abort the extension setup."
-msgstr "អាន​កិច្ចព្រមព្រៀងអាជ្ញាប័ណ្ណ​ទាំងស្រុង​ដែលបាន​បង្ហាញ​ខាងលើ ។ យល់ព្រម​នឹង​កិច្ច​ព្រមព្រៀងអាជ្ញាប័ណ្ណ​ដោយវាយ \"yes\" នៅលើ​បង្អួច បន្ទាប់មក​ចុច​គ្រាប់ចុច ត្រឡប់(Return) ។ វាយ \"no\" ដើម្បី​បដិសេធ និង​ចាកចេញ​ពីការរៀបចំ​ពាក្យបន្ថែម ។"
+msgstr "អាន​កិច្ចព្រមព្រៀងអាជ្ញាប័ណ្ណ​ទាំងស្រុង​ដែលបាន​បង្ហាញ​ខាងលើ ។ យល់ព្រម​នឹង​កិច្ច​ព្រមព្រៀងអាជ្ញាប័ណ្ណ​ដោយវាយ \"បាទ/ចាស\" នៅលើ​បង្អួច បន្ទាប់មក​ចុច​គ្រាប់ចុច (ត្រឡប់) ។ វាយ \"ទេ\" ដើម្បី​បដិសេធ និង​ចាកចេញ​ពីការរៀបចំ​ពាក្យបន្ថែម ។"
 
 #. wANiC
 #: desktop/inc/strings.hrc:183
 msgctxt "RID_STR_UNOPKG_ACCEPT_LIC_3"
 msgid "[Enter \"yes\" or \"no\"]:"
-msgstr "[បញ្ចូល \"yes\" ឬ \"no\"]:"
+msgstr "[បញ្ចូល \"បាទ/ចាស\" ឬ \"ទេ\"]:"
 
 #. wEFn2
 #: desktop/inc/strings.hrc:184
 msgctxt "RID_STR_UNOPKG_ACCEPT_LIC_4"
 msgid "Your input was not correct. Please enter \"yes\" or \"no\":"
-msgstr "ព័ត៌មាន​បញ្ចូល​របស់អ្នក​គឺ មិនត្រឹមត្រូវទេ ។ សូមបញ្ចូល \"yes\" ឬ \"no\" ៖"
+msgstr "ព័ត៌មាន​បញ្ចូល​របស់អ្នក​គឺ មិនត្រឹមត្រូវទេ ។ សូមបញ្ចូល \"បាទ/ចាស\" ឬ \"ទេ\" ៖"
 
 #. A9CdG
 #: desktop/inc/strings.hrc:185
 msgctxt "RID_STR_UNOPKG_ACCEPT_LIC_YES"
 msgid "YES"
-msgstr "YES"
+msgstr "បាទ/ចាស"
 
 #. HLETc
 #: desktop/inc/strings.hrc:186
@@ -797,7 +781,7 @@ msgstr "បាទ/ចាស"
 #: desktop/inc/strings.hrc:187
 msgctxt "RID_STR_UNOPKG_ACCEPT_LIC_NO"
 msgid "NO"
-msgstr "NO"
+msgstr "ទេ"
 
 #. 6LgGA
 #: desktop/inc/strings.hrc:188
@@ -807,7 +791,6 @@ msgstr "ទេ"
 
 #. aCY73
 #: desktop/inc/strings.hrc:189
-#, fuzzy
 msgctxt "RID_STR_CONCURRENTINSTANCE"
 msgid "unopkg cannot be started. The lock file indicates it is already running. If this does not apply, delete the lock file at:"
 msgstr "មិនអាច​ចាប់ផ្ដើម unopkg បានទេ ។ ឯកសារ​ជាប់សោ​បង្ហាញ​ថា​ វា​កំពុង​តែ​រត់​ហើយ ។ ប្រសិនបើ​វា​មិនអនុវត្ត​ទេ លុប​​ឯកសារ​ជាប់​សោ​នៅ ៖"
@@ -820,14 +803,12 @@ msgstr "កំហុស ៖ "
 
 #. Qcv5A
 #: desktop/uiconfig/ui/dependenciesdialog.ui:18
-#, fuzzy
 msgctxt "dependenciesdialog|Dependencies"
 msgid "System dependencies check"
 msgstr "ការពិនិត្យ​មើល​ភាព​អាស្រ័យ​ប្រព័ន្ធ"
 
 #. JNnsh
 #: desktop/uiconfig/ui/dependenciesdialog.ui:73
-#, fuzzy
 msgctxt "dependenciesdialog|label1"
 msgid "The extension cannot be installed as the following system dependencies are not fulfilled:"
 msgstr "មិនអាច​បើក​ផ្នែក​បន្ថែម​បានទេ ព្រោះថា​ភាព​អាស្រ័យ​របស់​ប្រព័ន្ធ​ដូច​ខាងក្រោម​មិន​ត្រូវ​បាន​បំពេញ​ទេ ៖"
@@ -839,159 +820,94 @@ msgid "Extension Manager"
 msgstr "កម្មវិធី​គ្រប់គ្រង​ផ្នែក​បន្ថែម​"
 
 #. gjCkd
-#: desktop/uiconfig/ui/extensionmanager.ui:84
+#: desktop/uiconfig/ui/extensionmanager.ui:87
 msgctxt "extensionmanager|shared"
 msgid "Installed for all users"
-msgstr ""
-
-#. pnXoG
-#: desktop/uiconfig/ui/extensionmanager.ui:94
-msgctxt "extensionmanager|extended_tip|shared"
-msgid "Filter extensions available for all users of this computer."
-msgstr ""
+msgstr "បានតំឡើងសំរាប់អ្នកប្រើប្រាស់ទាំងអស់"
 
 #. zhqZT
-#: desktop/uiconfig/ui/extensionmanager.ui:105
+#: desktop/uiconfig/ui/extensionmanager.ui:103
 msgctxt "extensionmanager|user"
 msgid "Installed for current user"
-msgstr ""
-
-#. QbHCi
-#: desktop/uiconfig/ui/extensionmanager.ui:115
-msgctxt "extensionmanager|extended_tip|user"
-msgid "Filter extensions only available for the currently logged in user."
-msgstr ""
+msgstr "បានតំឡើងសំរាប់អ្នកប្រើប្រាស់បច្ចុប្បន្ន"
 
 #. 6wBVk
-#: desktop/uiconfig/ui/extensionmanager.ui:126
+#: desktop/uiconfig/ui/extensionmanager.ui:119
 msgctxt "extensionmanager|bundled"
 msgid "Bundled with %PRODUCTNAME"
-msgstr ""
-
-#. nF4rD
-#: desktop/uiconfig/ui/extensionmanager.ui:136
-msgctxt "extensionmanager|extended_tip|bundled"
-msgid "Bundled extensions are installed by the system administrator using the operating system specific installer packages. These can not be installed, updated or removed here."
-msgstr ""
+msgstr "បាច់ជាមួយ %PRODUCTNAME"
 
 #. T8BGR
-#: desktop/uiconfig/ui/extensionmanager.ui:153
+#: desktop/uiconfig/ui/extensionmanager.ui:141
 msgctxt "extensionmanager|label1"
 msgid "Display Extensions"
-msgstr ""
-
-#. BAVdg
-#: desktop/uiconfig/ui/extensionmanager.ui:187
-msgctxt "extensionmanager|extended_tip|extensions"
-msgid "Select the extension that you want to remove, enable, or disable. For some extensions, you can also open an Options dialog."
-msgstr ""
+msgstr "បង្ហាញផ្នែកបន្ថែម"
 
 #. DLME5
-#: desktop/uiconfig/ui/extensionmanager.ui:209
+#: desktop/uiconfig/ui/extensionmanager.ui:192
 msgctxt "extensionmanager|optionsbtn"
 msgid "_Options"
 msgstr "ជម្រើស​"
 
-#. DbuQS
-#: desktop/uiconfig/ui/extensionmanager.ui:216
-msgctxt "extensionmanager|extended_tip|optionsbtn"
-msgid "Select an installed extension, then click to open the Options dialog for the extension."
-msgstr "ជ្រើស​ផ្នែក​បន្ថែម​ដែល​បាន​ដំឡើង បន្ទាប់មក​ចុច​ដើម្បី​បើក​ប្រអប់​ជម្រើស​សម្រាប់​ផ្នែក​បន្ថែម ។"
-
 #. ieiF4
-#: desktop/uiconfig/ui/extensionmanager.ui:228
-#, fuzzy
+#: desktop/uiconfig/ui/extensionmanager.ui:206
 msgctxt "extensionmanager|updatebtn"
 msgid "Check for _Updates"
-msgstr " ពិនិត្យ​រក​មើល​បច្ចុប្បន្ន​​ភាព..."
-
-#. rirpA
-#: desktop/uiconfig/ui/extensionmanager.ui:235
-msgctxt "extensionmanager|extended_tip|updatebtn"
-msgid "Click to check for online updates of all installed extensions. To check for updates of the selected extension only, choose the Update command from the context menu. The check for availability of updates starts immediately."
-msgstr ""
+msgstr "ពិនិត្យ​រក​មើល​បច្ចុប្បន្ន​​ភាព"
 
 #. GehiB
-#: desktop/uiconfig/ui/extensionmanager.ui:248
+#: desktop/uiconfig/ui/extensionmanager.ui:221
 msgctxt "extensionmanager|addbtn"
 msgid "_Add"
 msgstr "បន្ថែម"
 
-#. MuigK
-#: desktop/uiconfig/ui/extensionmanager.ui:257
-msgctxt "extensionmanager|extended_tip|addbtn"
-msgid "Click Add to add an extension."
-msgstr ""
-
 #. wNCAw
-#: desktop/uiconfig/ui/extensionmanager.ui:270
-#, fuzzy
+#: desktop/uiconfig/ui/extensionmanager.ui:238
 msgctxt "extensionmanager|removebtn"
 msgid "_Remove"
-msgstr "យកចេញ "
-
-#. AGoX7
-#: desktop/uiconfig/ui/extensionmanager.ui:277
-msgctxt "extensionmanager|extended_tip|removebtn"
-msgid "Select the extension that you want to remove, and then click Remove."
-msgstr ""
+msgstr "យកចេញ"
 
 #. qHMdq
-#: desktop/uiconfig/ui/extensionmanager.ui:290
-#, fuzzy
+#: desktop/uiconfig/ui/extensionmanager.ui:253
 msgctxt "extensionmanager|enablebtn"
 msgid "_Enable"
-msgstr "បើក "
+msgstr "បើក"
 
 #. vz3Ti
-#: desktop/uiconfig/ui/extensionmanager.ui:319
+#: desktop/uiconfig/ui/extensionmanager.ui:282
 msgctxt "extensionmanager|progressft"
 msgid "Adding %EXTENSION_NAME"
 msgstr "បន្ថែម %EXTENSION_NAME"
 
 #. A33SB
-#: desktop/uiconfig/ui/extensionmanager.ui:354
+#: desktop/uiconfig/ui/extensionmanager.ui:317
 msgctxt "extensionmanager|getextensions"
 msgid "Get more extensions online..."
 msgstr "យក​ផ្នែក​បន្ថែម​លើ​បណ្ដាញ​បន្ថែម..."
-
-#. FBvRd
-#: desktop/uiconfig/ui/extensionmanager.ui:362
-msgctxt "extensionmanager|extended_tip|getextensions"
-msgid "You can find a collection of extensions on the Web."
-msgstr ""
-
-#. vSiEz
-#: desktop/uiconfig/ui/extensionmanager.ui:397
-msgctxt "extensionmanager|extended_tip|ExtensionManagerDialog"
-msgid "The Extension Manager adds, removes, disables, enables, and updates %PRODUCTNAME extensions."
-msgstr ""
 
 #. EGwkP
 #: desktop/uiconfig/ui/installforalldialog.ui:12
 msgctxt "installforalldialog|InstallForAllDialog"
 msgid "For whom do you want to install the extension?"
-msgstr ""
+msgstr "តើអ្នកចង់តំឡើងកម្មវិធីបន្ថែមសំរាប់អ្នកណា?"
 
 #. bFbLc
 #: desktop/uiconfig/ui/installforalldialog.ui:13
 msgctxt "installforalldialog|InstallForAllDialog"
 msgid "Make sure that no further users are working with the same %PRODUCTNAME, when installing an extension for all users in a multi user environment."
-msgstr ""
+msgstr "ត្រូវប្រាកដថាគ្មានអ្នកប្រើប្រាស់ណាផ្សេងទៀតកំពុងធ្វើការជាមួយ %PRODUCTNAME ដដែលទេនៅពេលដំឡើងផ្នែកបន្ថែមសម្រាប់អ្នកប្រើប្រាស់ទាំងអស់នៅក្នុងមជ្ឈដ្ឋានអ្នកប្រើប្រាស់ច្រើន។"
 
 #. urmUy
 #: desktop/uiconfig/ui/installforalldialog.ui:24
-#, fuzzy
 msgctxt "installforalldialog|no"
 msgid "_For all users"
-msgstr " សម្រាប់​អ្នក​ប្រើទាំងអស់"
+msgstr "សម្រាប់​អ្នក​ប្រើទាំងអស់"
 
 #. nPnM4
 #: desktop/uiconfig/ui/installforalldialog.ui:38
-#, fuzzy
 msgctxt "installforalldialog|yes"
 msgid "_Only for me"
-msgstr " សម្រាប់​តែ​ខ្ញុំ"
+msgstr "សម្រាប់​តែ​ខ្ញុំ"
 
 #. feAcg
 #: desktop/uiconfig/ui/licensedialog.ui:8
@@ -1031,10 +947,9 @@ msgstr "2."
 
 #. 5h4GZ
 #: desktop/uiconfig/ui/licensedialog.ui:141
-#, fuzzy
 msgctxt "licensedialog|label4"
 msgid "Read the complete License Agreement. Use the scroll bar or the 'Scroll Down' button in this dialog to view the entire license text."
-msgstr "មើល​កិច្ច​​ព្រមព្រៀង​​​​​អាជ្ញា​​ប័ណ្ណ​ទាំងមូល ​។ ​សូម​​​ប្រើ​​​របារ​​​រមូរ​​ ឬ​​ប៊ូតុង 'Scroll Down' ក្នុង​ប្រអប់​នេះ ដើម្បី​មើល​​អត្ថ​បទ​​​របស់​អាជ្ញា​ប័ណ្ណ​​ទាំងមូល។"
+msgstr "មើល​កិច្ច​​ព្រមព្រៀង​​​​​អាជ្ញា​​ប័ណ្ណ​ទាំងមូល ​។ ​សូម​​​ប្រើ​​​របារ​​​រមូរ​​ ឬ​​ប៊ូតុង 'រំកិល​ចុះ' ក្នុង​ប្រអប់​នេះ ដើម្បី​មើល​​អត្ថ​បទ​​​របស់​អាជ្ញា​ប័ណ្ណ​​ទាំងមូល។"
 
 #. oyoCK
 #: desktop/uiconfig/ui/licensedialog.ui:158
@@ -1048,149 +963,113 @@ msgctxt "licensedialog|down"
 msgid "_Scroll Down"
 msgstr "រមូរ​ចុះក្រោម"
 
-#. x4PCF
-#: desktop/uiconfig/ui/showlicensedialog.ui:8
-msgctxt "showlicensedialog|extended_tip|ShowLicenseDialog"
-msgid "Read the license. Click the Scroll Down button to scroll down if necessary. Click Accept to continue the installation of the extension."
-msgstr ""
-
 #. qquCs
-#: desktop/uiconfig/ui/showlicensedialog.ui:13
+#: desktop/uiconfig/ui/showlicensedialog.ui:8
 msgctxt "showlicensedialog|ShowLicenseDialog"
 msgid "Extension Software License Agreement"
 msgstr "កិច្ចព្រមព្រៀង​អាជ្ញាប័ណ្ណ​របស់​កម្មវិធី​ផ្នែក​បន្ថែម"
 
 #. GX3k2
-#: desktop/uiconfig/ui/updatedialog.ui:24
+#: desktop/uiconfig/ui/updatedialog.ui:10
 msgctxt "updatedialog|UpdateDialog"
 msgid "Extension Update"
 msgstr "បច្ចុប្បន្នភាព​ផ្នែក​បន្ថែម"
 
 #. DmHy5
-#: desktop/uiconfig/ui/updatedialog.ui:55
+#: desktop/uiconfig/ui/updatedialog.ui:44
 msgctxt "updatedialog|INSTALL"
 msgid "_Install"
 msgstr "ដំឡើង"
 
 #. 3bJwo
-#: desktop/uiconfig/ui/updatedialog.ui:120
+#: desktop/uiconfig/ui/updatedialog.ui:109
 msgctxt "updatedialog|UPDATE_LABEL"
 msgid "_Available extension updates"
 msgstr "បច្ចុប្បន្នភាព​ផ្នែក​បន្ថែម​អាច​ធ្វើ​បាន"
 
 #. 3mtLC
-#: desktop/uiconfig/ui/updatedialog.ui:133
+#: desktop/uiconfig/ui/updatedialog.ui:122
 msgctxt "updatedialog|UPDATE_CHECKING"
 msgid "Checking..."
 msgstr "កំពុង​ពិនិត្យ..."
 
 #. WkYgi
-#: desktop/uiconfig/ui/updatedialog.ui:217
+#: desktop/uiconfig/ui/updatedialog.ui:206
 msgctxt "updatedialog|UPDATE_ALL"
 msgid "_Show all updates"
 msgstr "បង្ហាញ​ការ​ធ្វើ​បច្ចុប្បន្នភាព​ទាំងអស់"
 
-#. ihAhY
-#: desktop/uiconfig/ui/updatedialog.ui:227
-msgctxt "updatedialog|extended_tip|UPDATE_ALL"
-msgid "By default, only the downloadable extensions are shown in the dialog. Mark Show all Updates to see also other extensions and error messages."
-msgstr "តាម​លំនាំដើម ផ្នែក​បន្ថែម​ដែល​អាច​ទាញ​យក​តែ​ប៉ុណ្ណោះ​ត្រូវ​បាន​បង្ហាញ​នៅ​ក្នុង​ប្រអប់ ។ សម្គាល់ បង្ហាញ​ការ​ធ្វើ​បច្ចុប្បន្នភាព​ទាំងអស់ មើល​សារ​កំហុស និង​ផ្នែក​បន្ថែម​ផ្សេងៗ​ទៀត ។"
-
 #. BriDD
-#: desktop/uiconfig/ui/updatedialog.ui:256
+#: desktop/uiconfig/ui/updatedialog.ui:240
 msgctxt "updatedialog|DESCRIPTION_LABEL"
 msgid "Description"
 msgstr "សេចក្ដី​ពិពណ៌នា"
 
 #. 7DTtA
-#: desktop/uiconfig/ui/updatedialog.ui:274
+#: desktop/uiconfig/ui/updatedialog.ui:258
 msgctxt "updatedialog|PUBLISHER_LABEL"
 msgid "Publisher:"
 msgstr "អ្នក​បោះពុម្ព​ផ្សាយ ៖"
 
 #. iaD89
-#: desktop/uiconfig/ui/updatedialog.ui:285
+#: desktop/uiconfig/ui/updatedialog.ui:269
 msgctxt "updatedialog|PUBLISHER_LINK"
 msgid "button"
 msgstr "ប៊ូតុង"
 
 #. kgLHP
-#: desktop/uiconfig/ui/updatedialog.ui:301
+#: desktop/uiconfig/ui/updatedialog.ui:285
 msgctxt "updatedialog|RELEASE_NOTES_LABEL"
 msgid "What is new:"
 msgstr "អ្វី​ដែល​ថ្មី៖"
 
 #. JqHGH
-#: desktop/uiconfig/ui/updatedialog.ui:312
+#: desktop/uiconfig/ui/updatedialog.ui:296
 msgctxt "updatedialog|RELEASE_NOTES_LINK"
 msgid "Release notes"
 msgstr "សម្គាល់​ការ​ចេញ​ផ្សាយ"
 
-#. UEHCd
-#: desktop/uiconfig/ui/updatedialog.ui:350
-msgctxt "updatedialog|extended_tip|DESCRIPTIONS"
-msgid "While checking for updates, you see a progress indicator. Wait for some messages to show up in the dialog, or click Cancel to abort the update check."
-msgstr "នៅខណៈ​ដែល​កំពុង​ពិនិត្យ​រកមើល​ភាព​ទាន់សម័យ អ្នក​នឹង​ឃើញ​ទ្រនិច​ចង្អុរ​ពី​វឌ្ឍនភាព ។ រង់ចាំ​សារ​មួយ​ចំនួន​ដែល​នឹង​បង្ហាញ​នៅ​ក្នុង​ប្រអប់ ឬ​ចុច បោះបង់ ដើម្បី​បញ្ឈប់​ការ​ពិនិត្យ​រក​ភាព​ទាន់សម័យ ។"
-
-#. c5FG9
-#: desktop/uiconfig/ui/updatedialog.ui:387
-msgctxt "updatedialog|extended_tip|UpdateDialog"
-msgid "Click the Check for Updates button in the Extension Manager to check for online updates for all installed extensions. To check for online updates for only the selected extension, right-click to open the context menu, then choose Update."
-msgstr "ចុច​ប៊ូតុង ពិនិត្យ​មើល​ភាព​ទាន់សម័យ នៅ​ក្នុង​ កម្មវិធី​គ្រប់គ្រង​ផ្នែក​បន្ថែម ដើម្បី​ពិនិត្យ​មើល​ភាព​ទាន់សម័យ​លើ​បណ្ដាញ​សម្រាប់​ផ្នែក​បន្ថែម​ដែល​បាន​ដំឡើង​ទាំងអស់ ។ ដើម្បី​ពិនិត្យ​មើល​ភាព​ទាន់សម័យ​លើ​បណ្ដាញ​សម្រាប់តែ​ផ្នែក​បន្ថែម​ដែលបានជ្រើស ចុច​កណ្ដុរ​ស្ដាំ​ដើម្បី​បើក​ម៉ឺនុយ​បរិបទ​ បន្ទាប់​មក​ជ្រើស ភាព​ទាន់សម័យ ។"
-
 #. YEhMN
 #: desktop/uiconfig/ui/updateinstalldialog.ui:8
-#, fuzzy
 msgctxt "updateinstalldialog|UpdateInstallDialog"
 msgid "Download and Installation"
 msgstr "ទាញយក ហើយ​ដំឡើង"
 
 #. t9MoN
-#: desktop/uiconfig/ui/updateinstalldialog.ui:87
-#, fuzzy
+#: desktop/uiconfig/ui/updateinstalldialog.ui:90
 msgctxt "updateinstalldialog|DOWNLOADING"
 msgid "Downloading extensions..."
 msgstr "កំពុង​ទាញយក​ផ្នែក​បន្ថែម..."
 
 #. 3AFnH
-#: desktop/uiconfig/ui/updateinstalldialog.ui:125
+#: desktop/uiconfig/ui/updateinstalldialog.ui:128
 msgctxt "updateinstalldialog|RESULTS"
 msgid "Result"
 msgstr "លទ្ធផល"
 
-#. Q4xyF
-#: desktop/uiconfig/ui/updateinstalldialog.ui:178
-msgctxt "updateinstalldialog|extended_tip|UpdateInstallDialog"
-msgid "Click the Check for Updates button in the Extension Manager to check for online updates for all installed extensions. To check for online updates for only the selected extension, right-click to open the context menu, then choose Update."
-msgstr "ចុច​ប៊ូតុង ពិនិត្យ​មើល​ភាព​ទាន់សម័យ នៅ​ក្នុង​ កម្មវិធី​គ្រប់គ្រង​ផ្នែក​បន្ថែម ដើម្បី​ពិនិត្យ​មើល​ភាព​ទាន់សម័យ​លើ​បណ្ដាញ​សម្រាប់​ផ្នែក​បន្ថែម​ដែល​បាន​ដំឡើង​ទាំងអស់ ។ ដើម្បី​ពិនិត្យ​មើល​ភាព​ទាន់សម័យ​លើ​បណ្ដាញ​សម្រាប់តែ​ផ្នែក​បន្ថែម​ដែលបានជ្រើស ចុច​កណ្ដុរ​ស្ដាំ​ដើម្បី​បើក​ម៉ឺនុយ​បរិបទ​ បន្ទាប់​មក​ជ្រើស ភាព​ទាន់សម័យ ។"
-
 #. Kfhc4
 #: desktop/uiconfig/ui/updaterequireddialog.ui:8
-#, fuzzy
 msgctxt "updaterequireddialog|UpdateRequiredDialog"
 msgid "Extension Update Required"
-msgstr "ត្រូវការ​​បច្ចុប្បន្នភាព​​របស់​ផ្នែក​បន្ថែម"
+msgstr "ត្រូវការ​​បច្ចុប្បន្នភាព​​របស់​ផ្នែក​បន្ថែ"
 
 #. bp47k
 #: desktop/uiconfig/ui/updaterequireddialog.ui:27
-#, fuzzy
 msgctxt "updaterequireddialog|check"
 msgid "Check for _Updates..."
-msgstr " ពិនិត្យ​រក​មើល​បច្ចុប្បន្ន​​ភាព..."
+msgstr "ពិនិត្យ​រក​មើល​បច្ចុប្បន្ន​​ភាព..."
 
 #. 9S2f3
 #: desktop/uiconfig/ui/updaterequireddialog.ui:43
-#, fuzzy
 msgctxt "updaterequireddialog|disable"
 msgid "Disable all"
 msgstr "បិទ​ទាំងអស់"
 
 #. VYnoR
 #: desktop/uiconfig/ui/updaterequireddialog.ui:101
-#, fuzzy
 msgctxt "updaterequireddialog|updatelabel"
 msgid "%PRODUCTNAME has been updated to a new version. Some installed %PRODUCTNAME extensions are not compatible with this version and need to be updated before they can be used."
-msgstr "%PRODUCTNAME ត្រូវ​បាន​ធ្វើ​បច្ចុប្បន្នភាព​ទៅ​កំណែ​ថ្មី ។ ផ្នែក​បន្ថែម​របស់ %PRODUCTNAME ដែល​បាន​ដំឡើង​មួយ​ចំនួន​មិន​ឆបគ្នា​ជា​មួយ​នឹង​កំណែ​នេះ​ទេ ហើយ​តម្រូវ​ឲ្យ​ធ្វើ​បច្ចុប្បន្នភាព​​មុននឹង​អ្នក​អាច​ប្រើ​វា​បាន ។"
+msgstr "%PRODUCTNAME ត្រូវ​បាន​ធ្វើ​បច្ចុប្បន្នភាព​ទៅ​កំណែ​ថ្មី ។ ផ្នែក​បន្ថែម​របស់ %PRODUCTNAME ដែល​បាន​ដំឡើង​មួយ​ចំនួន​មិន​ឆបគ្នា​ជា​មួយ​នឹង​កំណែ​នេះ​ទេ ហើយ​តម្រូវ​ឲ្យ​ធ្វើ​បច្ចុប្បន្នភាព​​មុននឹង​អ្នក​អាច​ប្រើ​វា​បាន។"
 
 #. FXDEw
 #: desktop/uiconfig/ui/updaterequireddialog.ui:151

@@ -1,20 +1,19 @@
-#. extracted from connectivity/inc
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
 "POT-Creation-Date: 2020-03-10 13:36+0100\n"
-"PO-Revision-Date: 2018-09-03 11:57+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2020-09-10 21:31+0700\n"
+"Last-Translator: KOOMPI Apps Localization\n"
 "Language: km\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Accelerator-Marker: ~\n"
-"X-Generator: LibreOffice\n"
+"X-Generator: Poedit 2.3.1\n"
 "X-POOTLE-MTIME: 1535975854.000000\n"
+"Language-Team: KOOMPI Apps Localization\n"
 
 #. 9LXDp
 #. = the mozab driver's resource strings
@@ -33,7 +32,7 @@ msgstr "ជួរ​មិនអាច​ប្រតិបត្តិ​បា
 #: connectivity/inc/strings.hrc:28
 msgctxt "STR_NO_COUNT_SUPPORT"
 msgid "The driver does not support the 'COUNT' function."
-msgstr "កម្មវិធី​បញ្ជា មិន​គាំទ្រ​នឹង​អនុគមន៍ 'COUNT' ទេ ។"
+msgstr "កម្មវិធី​បញ្ជា មិន​គាំទ្រ​នឹង​អនុគមន៍ 'រាប់' ទេ ។"
 
 #. FB59h
 #: connectivity/inc/strings.hrc:29
@@ -51,7 +50,7 @@ msgstr "កំហុស​មិន​ស្គាល់​បាន​កើត
 #: connectivity/inc/strings.hrc:31
 msgctxt "STR_ERROR_REFRESH_ROW"
 msgid "An error occurred while refreshing the current row."
-msgstr "មាន​កំហុស​កើតឡើង​នៅ​ពេល​ធ្វើ​ឲ្យ​ជួរដេក​បច្ចុប្បន្ន​ស្រស់ ។"
+msgstr "មាន​កំហុស​កើតឡើង​នៅ​ពេល​ដំណើរការនូវជួរដេកបច្ចុប្បន្ន។"
 
 #. DJhQp
 #: connectivity/inc/strings.hrc:32
@@ -63,7 +62,7 @@ msgstr "មាន​កំហុស​កើតឡើង​នៅ​ពេល​
 #: connectivity/inc/strings.hrc:33
 msgctxt "STR_QUERY_INVALID_IS_NULL_COLUMN"
 msgid "The query can not be executed. The 'IS NULL' can only be used with a column name."
-msgstr "មិនអាច​ប្រតិបត្តិ​ជួរ​បានទេ ។ 'IS NULL' អាច​ប្រើ​បាន​តែ​ជាមួយ​ឈ្មោះ​ជួរ​ឈរ​មួយ​ប៉ុណ្ណោះ ។"
+msgstr "មិនអាច​ប្រតិបត្តិ​ជួរ​បានទេ ។ 'គឺមិនមែន' អាច​ប្រើ​បាន​តែ​ជាមួយ​ឈ្មោះ​ជួរ​ឈរ​មួយ​ប៉ុណ្ណោះ ។"
 
 #. kLhAy
 #: connectivity/inc/strings.hrc:34
@@ -82,13 +81,15 @@ msgstr "មិនអាច​​ប្រព្រឹត្ត​ជួរ​ដ
 #: connectivity/inc/strings.hrc:37
 msgctxt "STR_NO_CONNECTION_GIVEN"
 msgid "No connection to the database exists."
-msgstr ""
+msgstr "គ្មានសេវាភ្ជាប់ទៅកាន់ទិន្នន័យដែលផ្ទុក។"
 
 #. 5BYEX
 #: connectivity/inc/strings.hrc:38
 msgctxt "STR_WRONG_PARAM_INDEX"
 msgid "You tried to set a parameter at position '$pos$' but there is/are only '$count$' parameter(s) allowed. One reason may be that the property \"ParameterNameSubstitution\" is not set to TRUE in the data source."
-msgstr "អ្នក​បាន​កំណត់​ប៉ារ៉ាម៉ែត្រ​នៅ​ទីតាំង '$pos$' ប៉ុន្តែ​មាន​តែ​ប៉ារ៉ាម៉ែត្រ '$count$' ទេ ដែល​បាន​អនុញ្ញាត​នោះ ។ មូលហេតុ​មួយ​ដែល​ប្រហែល​ជា​កម្មសិទ្ធិ​របស់ \"ParameterNameSubstitution\" គឺ​មិនត្រូវបាន​កំណត់​ទៅ TRUE នៅ​ក្នុង​ប្រភព​ទិន្នន័យ​ទេ ។"
+msgstr ""
+"អ្នក​បាន​កំណត់​ប៉ារ៉ាម៉ែត្រ​នៅ​ទីតាំង '$pos$' ប៉ុន្តែ​មាន​តែ​ប៉ារ៉ាម៉ែត្រ '$count$' ទេ ដែល​បាន​អនុញ្ញាត​នោះ ។ មូលហេតុ​មួយ​ដែល​ប្រហែល​ជា​កម្មសិទ្ធិ​របស់ \"ការជំនួសឈ្មោះប៉ារ៉ាម៉ែត្រ\"\n"
+"គឺ​មិនត្រូវបាន​កំណត់​ទៅ ពិត នៅ​ក្នុង​ប្រភព​ទិន្នន័យ​ទេ ។"
 
 #. 6FnrV
 #: connectivity/inc/strings.hrc:39
@@ -148,7 +149,7 @@ msgstr "កម្មវិធី​បញ្ជា មិន​គាំទ្�
 #: connectivity/inc/strings.hrc:48
 msgctxt "STR_FORMULA_WRONG"
 msgid "The formula for TypeInfoSettings is wrong!"
-msgstr "រូបមន្ដ​សម្រាប់ TypeInfoSettings គឺ​មិនត្រឹមត្រូវ !"
+msgstr "រូបមន្ដ​សម្រាប់ ការកំណត់ប្រភេទព័ត៌មាន គឺ​មិនត្រឹមត្រូវ !"
 
 #. ZWq6D
 #: connectivity/inc/strings.hrc:49
@@ -160,7 +161,7 @@ msgstr "ខ្សែអក្សរ '$string$' លើស​ប្រវែង​
 #: connectivity/inc/strings.hrc:50
 msgctxt "STR_CANNOT_CONVERT_STRING"
 msgid "The string '$string$' cannot be converted using the encoding '$charset$'."
-msgstr "ខ្សែ​អក្សរ '$string$' មិន​អាច​ត្រូវ​បាន​បម្លែង​ដោយ​ប្រើ​អ៊ិនកូឌីង '$charset$' ។"
+msgstr "ខ្សែ​អក្សរ '$string$' មិន​អាច​ត្រូវ​បាន​បម្លែង​ដោយ​ប្រើ​អ៊ិនកូដឌីង '$charset$' ។"
 
 #. sSzsJ
 #: connectivity/inc/strings.hrc:51
@@ -178,37 +179,37 @@ msgstr "ជួរ​មិនអាច​ប្រតិបត្តិ​បា
 #: connectivity/inc/strings.hrc:53
 msgctxt "STR_OPERATOR_TOO_COMPLEX"
 msgid "The query can not be executed. The operator is too complex."
-msgstr "ខ្សែអក្សរ​មិនអាច​ប្រតិបត្តិ​ត្រូវ​​បានទេ ។ កម្មវិធីប្រតិបត្តិ​ការ​គឺ​ស្មុគស្មាញ​ពេក ។"
+msgstr "ខ្សែអក្សរ​មិនអាច​ប្រតិបត្តិ​បានទេ ។ កម្មវិធីប្រតិបត្តិ​ការ​គឺ​ស្មុគស្មាញ​ពេក ។"
 
 #. DmQcr
 #: connectivity/inc/strings.hrc:54
 msgctxt "STR_QUERY_INVALID_LIKE_COLUMN"
 msgid "The query can not be executed. You cannot use 'LIKE' with columns of this type."
-msgstr "មិនអាច​ប្រតិបត្តិ​សំណួរ​បានទេ ។ អ្នកមិនអាច​ប្រើ 'LIKE' ជា​មួយ​នឹង​ជួរឈរ​នៃ​ប្រភេទ​នេះ​បានទេ ។"
+msgstr "មិនអាច​ប្រតិបត្តិ​សំណួរ​បានទេ ។ អ្នកមិនអាច​ប្រើ 'ចូលចិត្ត' ជា​មួយ​នឹង​ជួរឈរ​នៃ​ប្រភេទ​នេះ​បានទេ ។"
 
 #. EMgKF
 #: connectivity/inc/strings.hrc:55
 msgctxt "STR_QUERY_INVALID_LIKE_STRING"
 msgid "The query can not be executed. 'LIKE' can be used with a string argument only."
-msgstr "សំណួរ​មិនអាច​ត្រូវ​បានប្រតិបត្តិ​ទេ ។ 'LIKE' អាច​ត្រូវ​បានប្រើ​ជា​មួយនឹង​តែ​នឹង​អាគុយម៉ង​ខ្សែអក្សរ​ប៉ុណ្ណោះ ។"
+msgstr "សំណួរ​មិនអាច​ត្រូវ​បានប្រតិបត្តិ​ទេ ។ 'ចូលចិត្ត' អាច​ត្រូវ​បានប្រើ​ជា​មួយនឹង​តែ​នឹង​អាគុយម៉ង​ខ្សែអក្សរ​ប៉ុណ្ណោះ ។"
 
 #. PBG3H
 #: connectivity/inc/strings.hrc:56
 msgctxt "STR_QUERY_NOT_LIKE_TOO_COMPLEX"
 msgid "The query can not be executed. The 'NOT LIKE' condition is too complex."
-msgstr "សំណួរ​​មិន​អាច​ត្រូ​វបានប្រតិបត្តិ​ទេ ។ លក្ខខណ្ឌ 'NOT LIKE' ស្មុគស្មាញ​ពេក ។"
+msgstr "សំណួរ​​មិន​អាច​ត្រូ​វបានប្រតិបត្តិ​ទេ ។ លក្ខខណ្ឌ 'មិនចូលចិត្ត' ស្មុគស្មាញ​ពេក ។"
 
 #. CWeME
 #: connectivity/inc/strings.hrc:57
 msgctxt "STR_QUERY_LIKE_WILDCARD"
 msgid "The query can not be executed. The 'LIKE' condition contains wildcard in the middle."
-msgstr "សំណួរ​មិនអាច​ត្រូវ​បានប្រតិបត្តិ​ទេ ។ លក្ខខណ្ឌ 'LIKE' មាន​អក្សរ​ជំនួស​​នៅ​កណ្ដាល ។"
+msgstr "សំណួរ​មិនអាច​ត្រូវ​បានប្រតិបត្តិ​ទេ ។ លក្ខខណ្ឌ 'ចូលចិត្ត' មាន​អក្សរ​ជំនួស​​នៅ​កណ្ដាល ។"
 
 #. NK7eq
 #: connectivity/inc/strings.hrc:58
 msgctxt "STR_QUERY_LIKE_WILDCARD_MANY"
 msgid "The query can not be executed. The 'LIKE' condition contains too many wildcards."
-msgstr "សំណួរ​មិនអាច​ត្រូវ​បានប្រតិបត្តិ​ទេ ។ លក្ខខណ្ឌ 'LIKE' មាន​តួអក្សរ​ជំនួស​ច្រើនពេក ។"
+msgstr "សំណួរ​មិនអាច​ត្រូវ​បានប្រតិបត្តិ​ទេ ។ លក្ខខណ្ឌ 'ចូលចិត្ត' មាន​តួអក្សរ​ជំនួស​ច្រើនពេក ។"
 
 #. nADdF
 #: connectivity/inc/strings.hrc:59
@@ -251,7 +252,7 @@ msgstr ""
 #: connectivity/inc/strings.hrc:65
 msgctxt "STR_TYPE_NOT_CONVERT"
 msgid "The type could not be converted."
-msgstr "ប្រភេទ​នេះ មិនអាច​បន្លែង​បានទេ ។"
+msgstr "ប្រភេទ​នេះ មិនអាច​បម្លែង​បានទេ ។"
 
 #. 3L6uG
 #: connectivity/inc/strings.hrc:66
@@ -336,7 +337,7 @@ msgstr "មិនអាច​បង្កើត​លិបិក្រម​ប
 #: connectivity/inc/strings.hrc:80
 msgctxt "STR_COULD_NOT_CREATE_INDEX_NAME"
 msgid "The index could not be created. The file '$filename$' is used by another index."
-msgstr ""
+msgstr "លិបិក្រមមិនអាចបង្កើតបានទេ។  ឯកសារ គឺត្រូវបានប្រើដោយលិបិក្រមមួយទៀត។"
 
 #. GcK7B
 #: connectivity/inc/strings.hrc:81
@@ -408,7 +409,7 @@ msgstr "ជួរ​ឈរ '$columnname$' មិនអាច​ផ្លាស�
 #: connectivity/inc/strings.hrc:91
 msgctxt "STR_INVALID_COLUMN_VALUE"
 msgid "The column '$columnname$' could not be updated. The value is invalid for that column."
-msgstr "ជួរ​ឈរ '$columnname$' មិនអាច​ធ្វើ​បច្ចុប្បន្នភាពភាព​​បានទេ​។ តម្លៃ​គឺ​មិនត្រឹមត្រូវ​សម្រាប់​ជួរ​ឈរ​នោះ​ទេ ។"
+msgstr "ជួរ​ឈរ '$columnname$' មិនអាច​ធ្វើ​អាប់ដេត​​បានទេ​។ តម្លៃ​គឺ​មិនត្រឹមត្រូវ​សម្រាប់​ជួរ​ឈរ​នោះ​ទេ ។"
 
 #. dFAFB
 #: connectivity/inc/strings.hrc:92
@@ -445,7 +446,7 @@ msgstr "ឯកសារ​ '$filename$' គឺ​ជា​ឯកសារ dBase 
 #: connectivity/inc/strings.hrc:98
 msgctxt "STR_CANNOT_OPEN_BOOK"
 msgid "Cannot open Evolution address book."
-msgstr "មិនអាច​បើក​សៀវភៅ​អាសយដ្ឋាន Evolution បាន​ទេ ។"
+msgstr "មិនអាច​បើក​សៀវភៅ​អាសយដ្ឋាន ការវិវត្តន៍ បាន​ទេ ។"
 
 #. sxbEF
 #: connectivity/inc/strings.hrc:99
@@ -464,7 +465,7 @@ msgstr "សំណួរ មិនអាច​ប្រតិបត្តិ​�
 #: connectivity/inc/strings.hrc:102
 msgctxt "STR_QUERY_INVALID_BETWEEN"
 msgid "The query can not be executed. The 'BETWEEN' arguments are not correct."
-msgstr "សំណួរ​ដែល​មិនអាច​ប្រតិបត្តិ​បាន ។ អាគុយម៉ង់ 'BETWEEN' គឺ​មិនត្រឹមត្រូវ ។"
+msgstr "សំណួរ​ដែល​មិនអាច​ប្រតិបត្តិ​បាន ។ អាគុយម៉ង់ 'រវាងចន្លោះ' គឺ​មិនត្រឹមត្រូវ ។"
 
 #. 4oK7N
 #: connectivity/inc/strings.hrc:103
@@ -530,7 +531,7 @@ msgstr "មិនអាច​ផ្ទុក​ថ្នាក់​កម្ម
 #: connectivity/inc/strings.hrc:113
 msgctxt "STR_NO_JAVA"
 msgid "No Java installation could be found. Please check your installation."
-msgstr "រកមិនឃើញ​ការ​ដំឡើង Java ។ សូម​ពិនិត្យ​ការ​ដំឡើង​របស់​អ្នក ។"
+msgstr "រកមិនឃើញ​ការ​តម្លើង Java ។ សូម​ពិនិត្យ​ការ​តម្លើងរបស់​អ្នក ។"
 
 #. iKnFy
 #: connectivity/inc/strings.hrc:114
@@ -542,7 +543,7 @@ msgstr "ការ​ប្រតិបត្តិ​សំណួរ មិន�
 #: connectivity/inc/strings.hrc:115
 msgctxt "STR_NO_ROWCOUNT"
 msgid "The execution of the update statement doesn't effect any rows."
-msgstr "ការ​ប្រតិបត្តិ​ឃ្លា​បច្ចុប្បន្ន​ភាព មិន​ប៉ះពាល់​ដល់​ជួរ​ដេក​ណាមួយ​ទេ ។"
+msgstr "ការ​ប្រតិបត្តិ​អាប់ដេតឃ្លា​ មិន​ប៉ះពាល់​ដល់​ជួរ​ដេក​ណាមួយ​ទេ ។"
 
 #. xiRq3
 #: connectivity/inc/strings.hrc:116
@@ -611,13 +612,13 @@ msgstr "គ្មាន​តារាង​ដែល​មាន​ឈ្មោ
 #: connectivity/inc/strings.hrc:129
 msgctxt "STR_NO_DOCUMENTUI"
 msgid "The provided DocumentUI is not allowed to be NULL."
-msgstr "DocumentUI ដែល​បាន​ផ្ដល់ គឺ​មិនត្រូវ​បាន​អនុញ្ញាត​ឲ្យ​ស្មើ​នឹង NULL ទេ ។"
+msgstr "ឯកសារUI ដែល​បាន​ផ្ដល់ គឺ​មិនត្រូវ​បាន​អនុញ្ញាត​ឲ្យ​ស្មើ​នឹង NULL ទេ ។"
 
 #. VLEMM
 #: connectivity/inc/strings.hrc:130
 msgctxt "STR_ERROR_NEW_VERSION"
 msgid "The connection could not be established. The database was created by a newer version of %PRODUCTNAME."
-msgstr ""
+msgstr "ការតភ្ជាប់គឺមិនអាចបង្កើតបានឡើយ។ ការផ្ទុកទិន្នន័យគឺបង្កើតដោយវុឺសិនថ្មីមួយទៀតនៃ %PRODUCTNAME។"
 
 #. 3BKTP
 #: connectivity/inc/strings.hrc:132

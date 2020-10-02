@@ -1,44 +1,43 @@
-#. extracted from uui/inc
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
-"POT-Creation-Date: 2020-08-25 16:10+0200\n"
-"PO-Revision-Date: 2018-03-28 15:53+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2020-03-10 13:36+0100\n"
+"PO-Revision-Date: 2020-09-12 20:09+0700\n"
+"Last-Translator: Koompi Apps Localization\n"
 "Language: km\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Accelerator-Marker: ~\n"
-"X-Generator: LibreOffice\n"
-"X-POOTLE-MTIME: 1522252421.000000\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-POOTLE-MTIME: 1535975854.000000\n"
+"Language-Team: KOOMPI Apps Localization\n"
 
 #. DLY8p
 #: uui/inc/ids.hrc:33
 msgctxt "RID_UUI_ERRHDL"
 msgid "The operation executed on $(ARG1) was aborted."
-msgstr "បាន​បញ្ឈប់​ប្រតិបត្តិការ​ដែល​បាន​ប្រតិបត្តិ​លើ $(ARG1) ហើយ ។"
+msgstr "ប្រតិបត្តិការ​ដែល​បាន​ប្រតិបត្តិ​លើ $(ARG1)ត្រូវបានបញ្ឈប់។"
 
 #. Q448y
 #: uui/inc/ids.hrc:35
 msgctxt "RID_UUI_ERRHDL"
 msgid "Access to $(ARG1) was denied."
-msgstr "ការ​ចូលដំណើរការ​ទៅ $(ARG1) ត្រូវ​បាន​បដិសេធ​ហើយ ។"
+msgstr "ការ​ចូលដំណើរការ​លើ $(ARG1) ត្រូវ​បាន​បដិសេធ។"
 
 #. w6rpp
 #: uui/inc/ids.hrc:37
 msgctxt "RID_UUI_ERRHDL"
 msgid "$(ARG1) already exists."
-msgstr "មាន $(ARG1) រួច​ហើយ ។"
+msgstr "$(ARG1) មានរួច​ហើយ ។"
 
 #. a6BBm
 #: uui/inc/ids.hrc:39
 msgctxt "RID_UUI_ERRHDL"
 msgid "Target already exists."
-msgstr "មាន​គោលដៅ​រួច​ហើយ ។"
+msgstr "​គោលដៅ​មានរួច​ហើយ ។"
 
 #. KgnBz
 #: uui/inc/ids.hrc:41
@@ -48,9 +47,9 @@ msgid ""
 "$(ARG1)\n"
 "which are too large to store in binary format. If you wish users that don't have access to the library password to be able to run macros in those module(s) you must split those modules into a number of smaller modules. Do you wish to continue to save/export this library?"
 msgstr ""
-"អ្នក​រៀប​នឹង​រក្សាទុក/នាំចេញ​បណ្ណាល័យ​មូលដ្ឋាន​ដែល​បានការពារ​ដោយ​ពាក្យ​សម្ងាត់ ដែល​មាន​ម៉ូឌុល \n"
+"អ្នក​រៀប​នឹង​រក្សាទុក/នាំចេញលេខសម្ងាត់ដែលការពារម៉ូឌុលនៅក្នុងកន្លែងផ្ទុក \n"
 "$(ARG1)\n"
-"ដែល​ធំពេក​ពិបាក​នឹង​ទុក​ក្នុង​ទ្រង់ទ្រាយ​គោលពីរ ។ ប្រសិន​បើ​អ្នក​ចង់​ឲ្យ​អ្នក​ប្រើ​ ដែល​គ្មាន​ពាក្យ​សម្ងាត់​ចូល​ដំណើរការ​បណ្ណាល​អាច​រត់​ម៉ាក្រូ​ក្នុង​ម៉ូឌុល​ទាំង​នោះ អ្នក​ត្រូវ​តែ​បំបែក​ម៉ូឌុល​ទាំង​នោះ​ជា​ចំនួន​ម៉ូឌុល​តូចៗ ។ តើ​អ្នក​ចង់​បន្ដ​រក្សាទុក/នាំចេញ​បណ្ណាល័យ​នេះ​ឬទេ ។"
+"ដែល​មានទំហំធំដែលមិនអាចរក្សាទុក​ក្នុង​ទម្រង់​គោលពីរបានទេ ។ ប្រសិន​បើ​អ្នក​ចង់​ឲ្យ​អ្នក​ប្រើប្រាស់​ ដែលមិនអាចចូលកាន់កន្លែងផ្ទុកពាក្យ​សម្ងាត់អាច​ចូល​បាន អ្នកត្រូវដំណើរការម៉ាក្រូ​ក្នុង​ម៉ូឌុល​ទាំង​នោះ អ្នក​ត្រូវ​ចែក​ម៉ូឌុល​ទាំង​នោះ​ជា​​ម៉ូឌុល​តូចៗ ។ តើ​អ្នក​ចង់​បន្ដ​រក្សាទុក/នាំចេញ​កន្លែងផ្ទុកនេះ​ឬទេ?"
 
 #. 3rNDF
 #: uui/inc/ids.hrc:43
@@ -64,72 +63,78 @@ msgid ""
 "\n"
 "Are you certain that this file is a legacy document created many years ago?"
 msgstr ""
+"សូមប្រុងប្រយ័ត្ន\n"
+"\n"
+"អ្នកនឹងត្រូវទាញយកឯកសារ ($(ARG2)ដែលមិនជាជួរ ពី URL៖\n"
+"\n"
+"$(ARG1)\n"
+"តើអ្នកច្បាស់ទេដែលឯកសារនេះជាពពួកឯកសារ កេរ្តិ៍ ដែលបានបបង្កើតជាច្រើនឆ្នាំមកហើយ?"
 
 #. v6bPE
 #: uui/inc/ids.hrc:45
 msgctxt "RID_UUI_ERRHDL"
 msgid "The data from $(ARG1) has an incorrect checksum."
-msgstr "ទិន្នន័យ​ពី $(ARG1) មាន​ឆេកសាំ​មិន​ត្រឹមត្រូវ​ឡើយ ។"
+msgstr "ទិន្នន័យ​ពី $(ARG1) មានទិន្នន័យ checksum មិន​ត្រឹមត្រូវ​ឡើយ ។"
 
 #. AGF5W
 #: uui/inc/ids.hrc:47
 msgctxt "RID_UUI_ERRHDL"
 msgid "The object $(ARG1) cannot be created in directory $(ARG2)."
-msgstr "មិន​អាច​បង្កើត​វត្ថុ $(ARG1) ក្នុង​ថត $(ARG2) បាន​ឡើយ ។"
+msgstr "​វត្ថុបំណង $(ARG1) មិនអាចបង្កើតបានទេក្នុង​ថត $(ARG2) ។"
 
 #. Dw4Ff
 #: uui/inc/ids.hrc:49
 msgctxt "RID_UUI_ERRHDL"
 msgid "Data of $(ARG1) could not be read."
-msgstr "មិន​អាច​អាន​ទិន្នន័យ​របស់ $(ARG1) ឡើយ ។"
+msgstr "ទិន្នន័យ​របស់ $(ARG1) មិនអាចអានបានឡើយ ។"
 
 #. Qc4E9
 #: uui/inc/ids.hrc:51
 msgctxt "RID_UUI_ERRHDL"
 msgid "The seek operation on $(ARG1) could not be performed."
-msgstr "មិន​អាច​អនុវត្ត​ប្រតិបត្តិការ​ស្វែងរក​លើ $(ARG1) បាន​ឡើយ ។"
+msgstr "ប្រតិបត្តិការ​ស្វែងរក​លើ $(ARG1) មិនអាចអនុវត្តបាន​ឡើយ ។"
 
 #. CD7zU
 #: uui/inc/ids.hrc:53
 msgctxt "RID_UUI_ERRHDL"
 msgid "The tell operation on $(ARG1) could not be performed."
-msgstr "មិន​អាច​អនុវត្ត​ប្រតិបត្តិការ​បញ្ជា​លើ $(ARG1) បាន​ឡើយ ។"
+msgstr "ប្រតិបត្តិការ​បញ្ជា​លើ $(ARG1) មិនអាចអនុវត្តបាន​ឡើយ ។"
 
 #. AkGXL
 #: uui/inc/ids.hrc:55
 msgctxt "RID_UUI_ERRHDL"
 msgid "Data for $(ARG1) could not be written."
-msgstr "មិន​អាច​សរសេរ​ទិន្នន័យ​របស់ $(ARG1) ឡើយ ។"
+msgstr "ទិន្នន័យ​របស់ $(ARG1) មិនអាចសរសេរបានឡើយ ។"
 
 #. ndib2
 #: uui/inc/ids.hrc:57
 msgctxt "RID_UUI_ERRHDL"
 msgid "Action impossible: $(ARG1) is the current directory."
-msgstr "មិន​អាច​ធ្វើ​អំពើ​បាន​ឡើយ ៖ $(ARG1) គឺ​ជា​ថត​បច្ចុប្បន្ន ។"
+msgstr "មិនអាចដំណើរការ៖ $(ARG1) បានក្នុង​ថត​បច្ចុប្បន្ន ។"
 
 #. wWVF2
 #: uui/inc/ids.hrc:59
 msgctxt "RID_UUI_ERRHDL"
 msgid "$(ARG1) is not ready."
-msgstr "$(ARG1) មិន​ទាន់​រួច​ឡើយ ។"
+msgstr "$(ARG1) មិន​ទាន់​រួច​។"
 
 #. C7iGB
 #: uui/inc/ids.hrc:61
 msgctxt "RID_UUI_ERRHDL"
 msgid "Action impossible: $(ARG1) and $(ARG2) are different devices (drives)."
-msgstr "មិន​អាច​ធ្វើ​អំពើ​បាន​ឡើយ ៖ $(ARG1) និង $(ARG2) គឺ​ជា​ឧបករណ៍ (ដ្រាយ) ខុស​គ្នា ។"
+msgstr "មិនអាចដំណើរការ៖ $(ARG1) និង $(ARG2) គឺ​ជាប្រព័ន្ធពីរផ្សេងគ្នា។"
 
 #. ic2pB
 #: uui/inc/ids.hrc:63
 msgctxt "RID_UUI_ERRHDL"
 msgid "General input/output error while accessing $(ARG1)."
-msgstr "មាន​កំហុស​បញ្ចូល​/បញ្ចេញ​ទូទៅ​មួយ ខណៈ​ពេល​​ចូល​ដំណើរការ​ $(ARG1) ។"
+msgstr "បញ្ចូល​/បញ្ចេញ​ទូទៅ​មានបញ្ហា ខណៈ​ពេល​​ចូល​ដំណើរការ​ទៅកាន់ $(ARG1) ។"
 
 #. r6GVi
 #: uui/inc/ids.hrc:65
 msgctxt "RID_UUI_ERRHDL"
 msgid "An attempt was made to access $(ARG1) in an invalid way."
-msgstr "បាន​ប៉ុនប៉ង​ចូលដំណើរការ $(ARG1) តាម​មធ្យោយបាយ​មិន​ត្រឹមត្រូវ ។"
+msgstr "ការប៉ុនប៉ង​ដំណើរការទៅកាន់ $(ARG1) ត្រូវបានអនុវត្តតាម​មធ្យោយបាយ​មិន​ត្រឹមត្រូវ ។"
 
 #. Y6bwq
 #: uui/inc/ids.hrc:67
@@ -141,37 +146,37 @@ msgstr "$(ARG1) មាន​តួអក្សរ​មិន​ត្រឹម�
 #: uui/inc/ids.hrc:69
 msgctxt "RID_UUI_ERRHDL"
 msgid "The device (drive) $(ARG1) is invalid."
-msgstr "ឧបករណ៍ (ដ្រាយ) $(ARG1) មិន​ត្រឹមត្រូវ​ឡើយ ។"
+msgstr "ប្រព័ន្ធនេះ(ថាស) $(ARG1) មិន​ត្រឹមត្រូវ​។"
 
 #. Ykhp2
 #: uui/inc/ids.hrc:71
 msgctxt "RID_UUI_ERRHDL"
 msgid "The data from $(ARG1) has an invalid length."
-msgstr "ទិន្នន័យ​មក​ពី $(ARG1) មាន​ប្រវែង​មិន​ត្រឹមត្រូវ​ឡើយ ។"
+msgstr "ទិន្នន័យ​មក​ពី $(ARG1) មាន​ទំហំមិន​ត្រឹមត្រូវ​។"
 
 #. CbZfa
 #: uui/inc/ids.hrc:73
 msgctxt "RID_UUI_ERRHDL"
 msgid "The operation on $(ARG1) was started with an invalid parameter."
-msgstr "បាន​ចាប់ផ្ដើម​ប្រតិបត្តិការ​លើ $(ARG1) ដោយ​ប្រើ​ប៉ារ៉ាម៉ែត្រ​មិន​ត្រឹមត្រូវ ។"
+msgstr "ការចាប់ផ្ដើម​ប្រតិបត្តិការ​លើ $(ARG1) ដោយ​ប្រើ​ប៉ារ៉ាម៉ែត្រ​មិន​ត្រឹមត្រូវ ។"
 
 #. fEQmj
 #: uui/inc/ids.hrc:75
 msgctxt "RID_UUI_ERRHDL"
 msgid "The operation cannot be performed because $(ARG1) contains wildcards."
-msgstr "មិន​អាច​អនុវត្ត​ប្រតិបត្តិការ​បាន​ឡើយ ព្រោះ $(ARG1) មាន​អក្សរ​ជំនួស ។"
+msgstr "ការប្រតិបត្តិការមិនអាចអនុវត្ត​បាន​ឡើយ ព្រោះ $(ARG1) មាន​អក្សរ​ជំនួស ។"
 
 #. v2dLh
 #: uui/inc/ids.hrc:77
 msgctxt "RID_UUI_ERRHDL"
 msgid "Error during shared access to $(ARG1)."
-msgstr "កំហុស កំឡុង​ពេល​​ចូល​ដំណើរការ $(ARG1) ដែល​ចែក​រំលែក ។"
+msgstr "បញ្ហា កំឡុង​ពេល​​ចូល​ដំណើរការ $(ARG1) ដែល​ចែក​រំលែក ។"
 
 #. AEtU6
 #: uui/inc/ids.hrc:79
 msgctxt "RID_UUI_ERRHDL"
 msgid "$(ARG1) contains misplaced characters."
-msgstr "$(ARG1) មាន​តួ​អក្សរ​ខុស​​​កន្លែង ។"
+msgstr "$(ARG1) មាន​តួ​អក្សរ​ខុស​​​ទីតាំង។"
 
 #. fD986
 #: uui/inc/ids.hrc:81
@@ -183,25 +188,25 @@ msgstr "ឈ្មោះ $(ARG1) មាន​តួអក្សរ​ច្រើ
 #: uui/inc/ids.hrc:83
 msgctxt "RID_UUI_ERRHDL"
 msgid "$(ARG1) does not exist."
-msgstr "មិន​មាន $(ARG1) ឡើយ ។"
+msgstr "$(ARG1)មិនមានឡើយ ។"
 
 #. nB6UA
 #: uui/inc/ids.hrc:85
 msgctxt "RID_UUI_ERRHDL"
 msgid "The path $(ARG1) does not exist."
-msgstr "មិន​មាន​ផ្លូវ $(ARG1) ឡើយ ។"
+msgstr "$(ARG1) ក្មានផ្លូវវាឡើយ ។"
 
 #. FMV9Y
 #: uui/inc/ids.hrc:87
 msgctxt "RID_UUI_ERRHDL"
 msgid "The operation on $(ARG1) is not supported on this operating system."
-msgstr "ប្រតិបត្តិការ​លើ $(ARG1) មិន​ត្រូវ​បាន​គាំទ្រ​នៅ​ក្នុង​ប្រព័ន្ធ​ប្រតិបត្តិការ​នេះ​ឡើយ ។"
+msgstr "ការប្រតិបត្តិការ​លើ $(ARG1) មិន​ត្រូវ​បាន​គាំទ្រ​នៅ​ក្នុង​ប្រព័ន្ធ​ប្រតិបត្តិការ​នេះ​។"
 
 #. zzACo
 #: uui/inc/ids.hrc:89
 msgctxt "RID_UUI_ERRHDL"
 msgid "$(ARG1) is not a directory."
-msgstr "$(ARG1) មិន​មែន​ជា​ថត​ឡើយ ។"
+msgstr "$(ARG1) មិន​មែន​ជា​ថត​ឯកសារឡើយ ។"
 
 #. YW5vM
 #: uui/inc/ids.hrc:91
@@ -213,91 +218,91 @@ msgstr "$(ARG1) មិន​មែន​ជា​ឯកសារ​ឡើយ �
 #: uui/inc/ids.hrc:93
 msgctxt "RID_UUI_ERRHDL"
 msgid "There is no space left on device $(ARG1)."
-msgstr "មិន​មាន​ទំហំ​នៅសល់​លើ​ឧបករណ៍ $(ARG1) ឡើយ ។"
+msgstr "ប្រព័ន្ធ $(ARG1) នេះ ពុំមានទំហំនៅសល់ឡើយ ។"
 
 #. zehX6
 #: uui/inc/ids.hrc:95
 msgctxt "RID_UUI_ERRHDL"
 msgid "The operation on $(ARG1) cannot be performed because too many files are already open."
-msgstr "មិន​អាច​អនុវត្ត​ប្រតិបត្តិការ​លើ​ $(ARG1) បាន​ឡើយ ព្រោះ​បាន​បើក​ឯកសារ​ច្រើន​ពេក ។"
+msgstr "ការប្រតិបត្តិការ​លើ​ $(ARG1) មិនអាចអនុវត្តបាន ព្រោះឯកសារជាច្រើនកំពុងដំណើរការ។"
 
 #. ctFbB
 #: uui/inc/ids.hrc:97
 msgctxt "RID_UUI_ERRHDL"
 msgid "The operation on $(ARG1) cannot be performed because there is no more memory available."
-msgstr "មិន​អាច​អនុវត្ត​ប្រតិបត្តិការ​លើ​ $(ARG1) បាន​ឡើយ ព្រោះ​មិន​មាន​អង្គ​ចងចាំ​ឡើយ ។"
+msgstr "ការ​ប្រតិបត្តិការ​លើ​ $(ARG1) មិនអាចអនុវត្តព្រោះគ្មានទំហំនៅសល់ឡើយ។"
 
 #. jpzJG
 #: uui/inc/ids.hrc:99
 msgctxt "RID_UUI_ERRHDL"
 msgid "The operation on $(ARG1) cannot continue because more data is pending."
-msgstr "មិន​អាច​បន្ត​ប្រតិបត្តិការ​លើ $(ARG1) បាន​ឡើយ ព្រោះ​កំពុង​រង់ចាំ​ដោះស្រាយ​ទិន្នន័យ​ច្រើន​ទៀត ។"
+msgstr "ការប្រតិបត្តិការ​លើ $(ARG1) មិនអាចអនុវត្តបាន​ឡើយ ព្រោះ​ទិន្នន័យជាច្រើនកំពុង​រង់ចាំដំណើរការ។"
 
 #. 6DVTU
 #: uui/inc/ids.hrc:101
 msgctxt "RID_UUI_ERRHDL"
 msgid "$(ARG1) cannot be copied into itself."
-msgstr "មិន​អាច​ចម្លង $(ARG1) ទៅ​ខ្លួន​វា​បាន​ឡើយ ។"
+msgstr "$(ARG1) មិនអាចចម្លងចូលផ្នែកខ្លួនឡើយ។"
 
 #. zyCVE
 #: uui/inc/ids.hrc:103
 msgctxt "RID_UUI_ERRHDL"
 msgid "Unknown input/output error while accessing $(ARG1)."
-msgstr "មាន​កំហុស​បញ្ចេញ/បញ្ចូល​មិន​ស្គាល់​មួយ ខណៈពេល​ចូលដំណើរការ $(ARG1) ។"
+msgstr "បញ្ហាបញ្ចេញ/បញ្ចូល​មិន​ស្គាល់​ ខណៈពេល​ដំណើរការចូលទៅកាន់ $(ARG1) ។"
 
 #. cVa9F
 #: uui/inc/ids.hrc:105
 msgctxt "RID_UUI_ERRHDL"
 msgid "$(ARG1) is write protected."
-msgstr "$(ARG1) ត្រូវ​បាន​ការពារ​មិន​ឲ្យ​សរសេរ​ចូល ។"
+msgstr "$(ARG1) ត្រូវ​បាន​ដាក់ការពារ​ ។"
 
 #. JARZx
 #: uui/inc/ids.hrc:107
 msgctxt "RID_UUI_ERRHDL"
 msgid "$(ARG1) is not in the correct format."
-msgstr "$(ARG1) មិន​មែន​ជា​ទ្រង់ទ្រាយ​ត្រឹមត្រូវ​ឡើយ ។"
+msgstr "$(ARG1) មិន​ស្ថិតក្នុងទ្រង់ទ្រាយ​ត្រឹមត្រូវ​ឡើយ ។"
 
 #. NJNyn
 #: uui/inc/ids.hrc:109
 msgctxt "RID_UUI_ERRHDL"
 msgid "The version of $(ARG1) is not correct."
-msgstr "កំណែ​របស់ $(ARG1) មិន​ត្រឹមត្រូវ​ឡើយ ។"
+msgstr "កំណែ​ថ្មីរបស់ $(ARG1) មិន​ត្រឹមត្រូវ​ឡើយ ។"
 
 #. uBqiR
 #: uui/inc/ids.hrc:111
 msgctxt "RID_UUI_ERRHDL"
 msgid "Drive $(ARG1) does not exist."
-msgstr "មិន​មាន​ដ្រាយ $(ARG1) ឡើយ ។"
+msgstr "ថាស​ $(ARG1) មិនមានឡើយ ។"
 
 #. zemAv
 #: uui/inc/ids.hrc:113
 msgctxt "RID_UUI_ERRHDL"
 msgid "Folder $(ARG1) does not exist."
-msgstr "មិន​មាន​ថត $(ARG1) ឡើយ ។"
+msgstr "ថតឯកសារ $(ARG1) មិនមានឡើយ ។"
 
 #. aRCFc
 #: uui/inc/ids.hrc:115
 msgctxt "RID_UUI_ERRHDL"
 msgid "The installed Java version is not supported."
-msgstr "កំណែ Java ដែល​បាន​ដំឡើង មិន​ត្រូវ​បាន​គាំទ្រ​ឡើយ ។"
+msgstr "កំណែ Java ដែល​បាន​ដំឡើង មិន​ត្រូវ​បាន​គាំទ្រ​។"
 
 #. DbH3p
 #: uui/inc/ids.hrc:117
 msgctxt "RID_UUI_ERRHDL"
 msgid "The installed Java version $(ARG1) is not supported."
-msgstr "កំណែ Java $(ARG1) ដែល​បាន​ដំឡើង មិន​ត្រូវ​បាន​គាំទ្រ​ឡើយ ។"
+msgstr "កំណែ Java $(ARG1) ដែល​បាន​ដំឡើង មិន​ត្រូវ​បាន​គាំទ្រ​។"
 
 #. 7NCGk
 #: uui/inc/ids.hrc:119
 msgctxt "RID_UUI_ERRHDL"
 msgid "The installed Java version is not supported, at least version $(ARG1) is required."
-msgstr "កំណែ Java ដែល​បាន​ដំឡើង មិន​ត្រូវ​បាន​គាំទ្រ​ឡើយ ។ យ៉ាង​ហោច​ណាស់ ត្រូវការ​កំណែ $(ARG1) ។"
+msgstr "កំណែ Java ដែល​បាន​ដំឡើង មិន​ត្រូវ​បាន​គាំទ្រ​លុះត្រាតែមានកំណែថ$(ARG1) ។"
 
 #. bNWmn
 #: uui/inc/ids.hrc:121
 msgctxt "RID_UUI_ERRHDL"
 msgid "The installed Java version $(ARG1) is not supported, at least version $(ARG2) is required."
-msgstr "កំណែ Java $(ARG1) ដែល​បាន​ដំឡើង មិន​ត្រូវ​បាន​គាំទ្រ​ឡើយ ។ យ៉ាង​ហោច​ណាស់ ត្រូវការ​កំណែ $(ARG2) ។"
+msgstr "កំណែ Java ដែល​បាន​ដំឡើងក្នុងកំណែ $(ARG1) មិន​ត្រូវ​បាន​គាំទ្រ ​លុះត្រាតែមានកំណែថ $(ARG2) ។"
 
 #. 5MfGQ
 #: uui/inc/ids.hrc:123
@@ -315,41 +320,40 @@ msgstr "ទិន្នន័យ​​ដែល​​ភ្ជាប់​​ជ
 #: uui/inc/ids.hrc:127
 msgctxt "RID_UUI_ERRHDL"
 msgid "Volume $(ARG1) is not ready."
-msgstr "ភាគ $(ARG1) មិន​ទាន់​រួចរាល់​នៅ​ឡើយ​ទេ ។"
+msgstr "កម្រិតសំឡេង $(ARG1) មិន​ទាន់​រួចរាល់​ ។"
 
 #. yKKd9
 #: uui/inc/ids.hrc:129
 msgctxt "RID_UUI_ERRHDL"
 msgid "$(ARG1) is not ready; please insert a storage medium."
-msgstr "$(ARG1) មិន​ទាន់​រួចរាល់​ឡើយ ។ សូម​បញ្ចូល​ឧបករណ៍​ផ្ទុក​មួយ ។"
+msgstr "$(ARG1) មិន​ទាន់​រួចរាល់​ឡើយ សូម​បញ្ចូលកន្លែងផ្ទុក​មធ្យមមួយ ។"
 
 #. RogFv
 #: uui/inc/ids.hrc:131
 msgctxt "RID_UUI_ERRHDL"
 msgid "Volume $(ARG1) is not ready; please insert a storage medium."
-msgstr "ភាគ $(ARG1) មិន​ទាន់​រួចរាល់​នៅ​ឡើយ​ទេ ។ សូម​បញ្ចូល​ឧបករណ៍​ផ្ទុក​មួយ ។"
+msgstr "កម្រិតសំឡេង $(ARG1) មិន​ទាន់​រួចរាល់ សូម​បញ្ចូលកន្លែងផ្ទុក​មធ្យមមួយ ។"
 
 #. AqFh4
 #: uui/inc/ids.hrc:133
 msgctxt "RID_UUI_ERRHDL"
 msgid "Please insert disk $(ARG1)."
-msgstr "សូម​បញ្ចូល​ថាស $(ARG1) ។"
+msgstr "សូម​បញ្ចូល​ ថាស $(ARG1) ។"
 
 #. WbB7f
 #: uui/inc/ids.hrc:135
 msgctxt "RID_UUI_ERRHDL"
 msgid "The object cannot be created in directory $(ARG1)."
-msgstr "មិន​អាច​បង្កើត​វត្ថុ​នៅ​ក្នុង​ថត $(ARG1) បាន​ឡើយ ។"
+msgstr "​វត្ថុ​បំណងមិនអាចបង្កើតនៅ​ក្នុង​ថត $(ARG1) បាន​ឡើយ ។"
 
 #. cSCj6
 #: uui/inc/ids.hrc:137
 msgctxt "RID_UUI_ERRHDL"
 msgid "%PRODUCTNAME cannot keep files from being overwritten when this transmission protocol is used. Do you want to continue anyway?"
-msgstr "%PRODUCTNAME មិន​អាច​រក្សា​ឯកសារ​ពី​ការ​សរសេរ​ជាន់​លើ ពេល​ដែល​ពិធីការ​បញ្ជូន​នេះ​ត្រូវ​បាន​ប្រើ ។ យ៉ាង​ណា​​ក៏​ដោយ​ តើ​អ្នក​ចង់​បន្ត​ឬ ?"
+msgstr "%PRODUCTNAME មិន​អាច​រក្សា​ឯកសារ​ពី​ការ​ជំនួស នៅពេល​ដែល​ច្បាប់បញ្ជូន​នេះ​ត្រូវ​បាន​ប្រើ ។ តើ​អ្នក​នៅតែចង់​បន្ត​ឬទេ?"
 
 #. CUbSR
 #: uui/inc/ids.hrc:139
-#, fuzzy
 msgctxt "RID_UUI_ERRHDL"
 msgid ""
 "The file '$(ARG1)' is corrupt and therefore cannot be opened. %PRODUCTNAME can try to repair the file.\n"
@@ -361,20 +365,20 @@ msgid ""
 "\n"
 "Should %PRODUCTNAME repair the file?\n"
 msgstr ""
-"ឯកសារ '$(ARG1)' ខូច និង​មិន​អាច​បើក​បាន​ទេ ។ %PRODUCTNAME អាច​សាកល្បង​ជួសជុល​ឯកសារ ។\n"
+"ឯកសារ '$(ARG1)' ខូច និង​មិន​អាច​បើក​បាន​ទេ ។ %PRODUCTNAME សាកល្បង​ជួសជុល​ឯកសារ ។\n"
 "\n"
-"ការ​ខូច​នេះ​អាច​មក​ពី​ការ​រៀបចំ​ឯកសារ ឬ​មក​ពី​រចនា​សម្ព័ន្ធ​របស់​ឯកសារ​ខូច ដោយ​សារ​ការ​បញ្ជូន​ទិន្នន័យ ។\n"
+"លទ្ធផល​នៃការ​រៀបចំ​ឯកសារ ឬ​ការ​រចនា​សម្ព័ន្ធ​របស់​ឯកសារបានខូចខាត​ ដោយ​សារ​ការ​បញ្ជូន​ទិន្នន័យ ។\n"
 "\n"
-"យើង​សូម​ផ្ដល់​អនុសាសន៍​ថា អ្នក​មិន​គួរ​ជឿជាក់​លើ​មាតិកា​នៃ​ឯកសារ​ដែល​ជួសជុល​ទេ ។\n"
-"ការ​ប្រតិបត្តិ​ម៉ាក្រូ​ត្រូវ​បាន​បិទ​ចំពោះ​ឯកសារ​នេះ ។\n"
+"យើង​សូម​ណែនាំឲ្យអ្នក​មិន​គួរ​ជឿជាក់​លើមាតិកាដែលបានជួសជុលឯកសារឡើងវិញឡើយ។\n"
+"ការ​ប្រតិបត្តិ​ការម៉ាក្រូ​ត្រូវ​បាន​បិទ​ចំពោះ​ឯកសារ​នេះ ។\n"
 "\n"
-"តើ %PRODUCTNAME គួរ​ជួសជុល​ឯកសារ​ឬ?\n"
+"តើ %PRODUCTNAME គួរ​ជួសជុល​ឯកសារ​ឬទេ?\n"
 
 #. KeFss
 #: uui/inc/ids.hrc:141
 msgctxt "RID_UUI_ERRHDL"
 msgid "The file '$(ARG1)' could not be repaired and therefore cannot be opened."
-msgstr "មិន​អាច​ជួសជុល​ឯកសារ '$(ARG1)' ដូច្នេះ​​មិន​អាច​បើក​បានទេ​ ។"
+msgstr "​ឯកសារ '$(ARG1)'មិន​អាច​ជួសជុល ដូច្នេះ​​វាមិនអាច​បើក​បានឡើយ។"
 
 #. JCpTn
 #: uui/inc/ids.hrc:143
@@ -383,8 +387,8 @@ msgid ""
 "Configuration data in '$(ARG1)' is corrupted. Without this data some functions may not operate correctly.\n"
 "Do you want to continue startup of %PRODUCTNAME without the corrupted configuration data?"
 msgstr ""
-"ទិន្នន័យ​កំណត់​រចនា​សម្ព័ន្ធ​ក្នុង '$(ARG1)' ត្រូវ​បាន​ខូច ។ គ្មាន​ឯកសារ​នេះ អនុគមន៍​ខ្លះ​ប្រហែល​ជា​ដំណើរការមិន​បាន​ត្រឹមត្រូវ ។\n"
-"តើ​អ្នក​ចង់​បន្ត​ចាប់ផ្តើម %PRODUCTNAME ដោយ​គ្មាន​ទិន្នន័យ​កំណត់​រចនា​សម្ព័ន្ធ​ដែល​ខូច​ឬ ?"
+"កំណត់​រចនា​សម្ព័ន្ធទិន្នន័យ​​ក្នុង '$(ARG1)' ត្រូវ​បាន​ខូច ។ ការដែលគ្មានទិន្នន័យទាំងនេះបង្កឲ្យការប្រតិបត្តិការមិនប្រក្រតី។\n"
+"តើ​អ្នក​នៅតែចង់​បន្ត​ដំណើរការជាមួយ %PRODUCTNAME ដោយ​គ្មាន​ការកំណត់​រចនា​សម្ព័ន្ធទិន្នន័យ​​ខុស​ឬទេ ?"
 
 #. QCACp
 #: uui/inc/ids.hrc:145
@@ -393,14 +397,14 @@ msgid ""
 "The personal configuration file '$(ARG1)' is corrupted and must be deleted to continue. Some of your personal settings may be lost.\n"
 "Do you want to continue startup of %PRODUCTNAME without the corrupted configuration data?"
 msgstr ""
-"ឯកសារ​កំណត់​រចនា​សម្ព័ន្ធ​ផ្ទាល់​ខ្លួន '$(ARG1)' គឺ​ខូច និង​ត្រូវ​តែ​លុប​វា​ចេញ ដើម្បី​បន្ត ។ ការ​កំណត់​ផ្ទាល់​ខ្លួន​ខ្លះ​របស់​អ្នក អាច​ត្រូវ​បាន​បាត់​បង់ ។\n"
-"តើ​អ្នក​ចង់​បន្ត​ចាប់​ផ្តើម​ %PRODUCTNAME ដោយ​គ្មាន​ទិន្នន័យ​កំណត់​រចនា​សម្ព័ន្ធ​ដែល​ខូច​ឬទេ ?"
+"ការ​កំណត់​រចនា​សម្ព័ន្ឯឯកសារ​ផ្ទាល់​ខ្លួន នឌៃ '$(ARG1)' គឺ​មានភាពខូច និង​ត្រូវ​តែ​លុប​វា​ចេញ ដើម្បី​បន្ត ។ ផ្នែកមួយចំនួន​ផ្ទាល់​ខ្លួន​​របស់​អ្នក អាច​នឹងត្រូវ​បាន​បាត់​បង់។\n"
+"តើ​អ្នក​នៅតែចង់​បន្ត​ដំណើរការជាមួយ %PRODUCTNAME ដោយ​គ្មាន​ការកំណត់​រចនា​សម្ព័ន្ធទិន្នន័យ​​ខុស​ឬទេ ?"
 
 #. e5Rft
 #: uui/inc/ids.hrc:147
 msgctxt "RID_UUI_ERRHDL"
 msgid "The configuration data source '$(ARG1)' is unavailable. Without this data some functions may not operate correctly."
-msgstr "មិន​មាន​ប្រភព​ទិន្នន័យ​កំណត់​រចនា​សម្ព័ន្ធ '$(ARG1)' ។ គ្មាន​ទិន្នន័យ​នេះ អនុគមន៍​ខ្លះ​ប្រហែល​ជា​ដំណើរការមិន​បាន​ត្រឹមត្រូវ ។​"
+msgstr "​កំណត់​រចនា​សម្ព័ន្ធ ប្រភព​ទិន្នន័យ '$(ARG1)' មិនកើត​មានទេ។ ការដែលគ្មានទិន្នន័យផ្នែកខ្លះនៃប្រតិបតិ្តការដំណើរការមិនប្រក្រតី។"
 
 #. 4gRCA
 #: uui/inc/ids.hrc:149
@@ -409,32 +413,32 @@ msgid ""
 "The configuration data source '$(ARG1)' is unavailable. Without this data some functions may not operate correctly.\n"
 "Do you want to continue startup of %PRODUCTNAME without the missing configuration data?"
 msgstr ""
-"មិន​មាន​ប្រភព​ទិន្នន័យ​កំណត់​រចនា​សម្ព័ន្ធ '$(ARG1)' ។ គ្មាន​ទិន្នន័យ​នេះ អនុគមន៍​ខ្លះ​ប្រហែល​ជា​ដំណើរការមិន​បាន​ត្រឹមត្រូវ ។​\n"
-"តើ​អ្នក​ចង់​បន្ត​ចាប់ផ្តើម %PRODUCTNAME ដោយ​គ្មាន​ទិន្នន័យ​កំណត់​រចនា​សម្ព័ន្ធ​ដែល​បាត់​ឬ​ទេ ?"
+"​កំណត់​រចនា​សម្ព័ន្ធ ប្រភព​ទិន្នន័យ '$(ARG1)' មិនកើត​មានទេ។ ការដែលគ្មានទិន្នន័យផ្នែកខ្លះនៃប្រតិបតិ្តការបង្កដំណើរការមិនប្រក្រតី។\n"
+"តើអ្នកនៅតែចង់បន្តដំណើរការ %PRODUCTNAME ដោយគ្មានទិន្នន័យកំណត់រចនាសម្ព័ន្ធដែលឫទេ?"
 
 #. DAUhe
 #: uui/inc/ids.hrc:151
 msgctxt "RID_UUI_ERRHDL"
 msgid "The form contains invalid data. Do you still want to continue?"
-msgstr "សំណុំ​បែបបទ​មាន​ទិន្នន័យ​មិន​ត្រឹមត្រូវ ។ តើ​អ្នក​នៅ​តែ​ចង់​បន្ត​ឬ ?"
+msgstr "សំណុំ​បែបបទ​មាន​ទិន្នន័យ​មិន​ត្រឹមត្រូវ ។ តើ​អ្នក​នៅ​តែ​ចង់​បន្ត​ឬទេ ?"
 
 #. DSoD4
 #: uui/inc/ids.hrc:153
 msgctxt "RID_UUI_ERRHDL"
 msgid "The file $(ARG1) is locked by another user. Currently, another write access to this file cannot be granted."
-msgstr "ឯកសារ $(ARG1) ត្រូវ​បាន​ចាក់សោ​ដោយ​អ្នក​ប្រើ​ផ្សេង ​។ បច្ចុប្បន្ន សិទ្ធិសរសេរ​ផ្សេងៗ​ទៅ​កាន់​ឯកសារ​នេះ​មិនអាច​ត្រូវបានផ្ដល់​ទេ ។"
+msgstr "ឯកសារ $(ARG1) ត្រូវ​បានឃាត់ទុកដោយ​អ្នក​ប្រើ​ដទៃ ​។ បច្ចុប្បន្ន អ្នកប្រើបា្រស់ដទៃពំុមានសិទី្ធចូលទៅ​កាន់​ឯកសារ​នេះ​ឡើយ។"
 
 #. k6aHT
 #: uui/inc/ids.hrc:155
 msgctxt "RID_UUI_ERRHDL"
 msgid "The file $(ARG1) is locked by yourself. Currently, another write access to this file cannot be granted."
-msgstr "ឯកសារ $(ARG1) ត្រូវ​បានចាក់សោ​ដោយ​ខ្លួន​អ្នក​ផ្ទាល់ ។ បច្ចុប្បន្ន សិទ្ធិ​សរសេរ​ទៅកាន់​ឯកសារ​នេះ​មិនអាច​ត្រូវបាន​ផ្ដល់​ទេ ។"
+msgstr "ឯកសារ $(ARG1) ត្រូវ​បានឃាត់ទុកដោយ​ខ្លួនឯង ​។ បច្ចុប្បន្ន អ្នកប្រើបា្រស់ដទៃពំុមានសិទី្ធចូលទៅ​កាន់​ឯកសារ​នេះ​ឡើយ។"
 
 #. ZoUzb
 #: uui/inc/ids.hrc:157
 msgctxt "RID_UUI_ERRHDL"
 msgid "The file $(ARG1) is currently not locked by yourself."
-msgstr "ឯកសារ $(ARG1) បច្ចុប្បន្ន​ត្រូវបានចាក់សោយ​ដោយ​ខ្លួន​អ្នក​ផ្ទាល់ ។"
+msgstr "ឯកសារ $(ARG1) មិនត្រូវ​បានឃាត់ទុកដោយ​ខ្លួនឯងទេ ​។"
 
 #. L9PCQ
 #: uui/inc/ids.hrc:159
@@ -443,8 +447,8 @@ msgid ""
 "The previously obtained lock for file $(ARG1) has expired.\n"
 "This can happen due to problems on the server managing the file lock. It cannot be guaranteed that write operations on this file will not overwrite changes done by other users!"
 msgstr ""
-"បាន​ទទួល​ឯកសារ​ចាក់សោ​ពីមុន​របស់ $(ARG1) បានផុត​កំណត់​ហើយ ។\n"
-"វា​អាច​កតើ​ឡើង​ ដោយ​សារ​តែ​មានបញ្ហា​នៅ​លើ​ម៉ាស៊ីន​បម្រើ ដោយ​គ្រប់គ្រង​ការ​ចាក់សោ​ឯកសារ ។ វា​មិនអាច​ត្រូ​វបានធានា​ថា ប្រតិបត្តិការ​សសេរ​នៅ​លើ​ឯកសារ​នេះ​នឹង​មិន​សរសេរ​ជាន់លើ​កា​រផ្លាស់ប្ដូរ​ដែល​បាន​ធ្វើ​ដោយ​អ្នក​ប្រើ​ផ្សេង​ទេ !"
+"ការផ្តល់សិទី្ធឲ្យពីមុនត្រូវបានឃាត់ចំពោះឯកសារ $(ARG1) បានផុត​កំណត់​ហើយ ។\n"
+"វា​អាច​កើតមានឡើង​ ដោយ​សារ​តែ​មានបញ្ហាទៅលើការគ្រប់គ្រង​ឯកសារនៅ​ ម៉ាស៊ីនមេ បានឃាត់ទុក ។ វាមិនត្រូវបានធានាថាប្រតិបត្តិការទៅលើឯកសារនេះគ្មានការផ្លាស់ប្តូរដាយអ្នកប្រើប្រាស់ដទៃទេ!"
 
 #. gZzEy
 #: uui/inc/ids.hrc:161
@@ -455,8 +459,8 @@ msgid ""
 "\n"
 " $(ARG1)."
 msgstr ""
-"មិន​អាច​ផ្ទុក​សមាសភាគ​បាន​ទេ អាច​ដោយសារតែ​ខូច ឬ​ការ​ដំឡើង​មិន​ពេញលេញ ។\n"
-"សារ​កំហុស​ពេញលេញ ៖\n"
+"​សមាសធាតុខ្លះមិន​អាចដំណើរការ​ទេ វាប្រហែលកើតមានដោយសារតែ​ការខូចខាត ឬ​ការ​ដំឡើង​មិន​ពេញលេញ ។\n"
+"សារបញ្ហាទាំងអស់៖\n"
 "\n"
 " $(ARG1) ។"
 
@@ -468,9 +472,9 @@ msgid ""
 "\n"
 "Before accepting this certificate, you should examine this site's certificate carefully. Are you willing to accept this certificate for the purpose of identifying the Web site $(ARG1)?"
 msgstr ""
-"មិន​អាច​បញ្ជាក់​អត្តសញ្ញាណ​នៃ​តំបន់​បណ្ដាញ $(ARG1) ។\n"
+"ការបញ្ជាក់​អត្តសញ្ញាណ​នៃ​​បណ្ដាញ $(ARG1) មិនអាចទៅរួច ។\n"
 "\n"
-"មុន​ពេល​យល់ព្រម​ទទួល​វិញ្ញាបនបត្រ​នេះ អ្នក​គួរ​តែ​ពិនិត្យ​វិញ្ញាបនបត្រ​តំបន់​បណ្ដាញ​នេះ​ដោយ​ប្រុង​ប្រយ័ត្ន ។ តើ​អ្នក​ចង់​យល់ព្រម​ទទួល​វិញ្ញាបនបត្រ​នេះ ដោយ​ចង់​កំណត់​អត្តសញ្ញាណ​តំបន់​បណ្ដាញ $(ARG1) ឬ?"
+"មុន​ពេល​យល់ព្រម​វិញ្ញាបនប័ត្រ​នេះ អ្នក​គួរ​តែ​ពិនិត្យ​វិញ្ញាបនប័ត្រនៅលើ​បណ្ដាញ​នេះ​ដោយ​ប្រុង​ប្រយ័ត្ន ។ តើ​អ្នក​យល់ព្រម​ទទួល​វិញ្ញាបនប័ត្រ​នេះ ក្នុងការបញ្ជាក់​អត្តសញ្ញាណ​របស់វេបសាយ $(ARG1) ឬទេ?"
 
 #. kBZVn
 #: uui/inc/ids.hrc:167
@@ -480,15 +484,15 @@ msgid ""
 "\n"
 "You should check to make sure that your computer's time is correct."
 msgstr ""
-"$(ARG1) គឺ​ជា​តំបន់​បណ្ដាញ​ដែល​ប្រើ​វិញ្ញាបនបត្រ​សុវត្ថិភាព​ដើម្បី​អ៊ីនគ្រីប​ទិន្នន័យ​កំឡុង​ពេល​បញ្ជូន ប៉ុន្តែ​វិញ្ញាបនបត្រ​ត្រូវ​ផុត​កំណត់​នៅ $(ARG2) ។\n"
+"$(ARG1) គឺ​ជា​ណ្ដាញ​ដែល​ប្រើ​វិញ្ញាបនប័ត្រ​សុវត្ថិភាព​ដើម្បី​អ៊ីនគ្រីប​ទិន្នន័យ​កំឡុង​ពេល​បញ្ជូន ប៉ុន្តែ​វិញ្ញាបនប័ត្រ​ត្រូវ​ផុត​កំណត់​នៅលើ $(ARG2) ។\n"
 "\n"
-"អ្នក​គួរ​តែ​ពិនិត្យ​ឲ្យ​ច្បាស់​ថា ពេល​វេលា​កុំព្យូទ័រ​របស់​អ្នក​ត្រឹមត្រូវ ។"
+"អ្នក​គួរ​តែ​ពិនិត្យ​ឲ្យ​បានច្បាស់​ថា ពេល​វេលា​នៅលើកុំព្យូទ័រ​របស់​អ្នក​ត្រឹមត្រូវ។"
 
 #. 8GuAn
 #: uui/inc/ids.hrc:168
 msgctxt "STR_UUI_SSLWARN_EXPIRED_TITLE"
 msgid "Security Warning: Server Certificate Invalid"
-msgstr "ការ​ព្រមាន​សុវត្ថិភាព ៖ វិញ្ញាបនបត្រ​ម៉ាស៊ីន​បម្រើ​មិន​ត្រឹមត្រូវ"
+msgstr "បម្រាម ៖ វិញ្ញាបនប័ត្រ ម៉ាស៊ីនមេ ​មិន​ត្រឹមត្រូវ"
 
 #. iyR2A
 #: uui/inc/ids.hrc:169
@@ -500,17 +504,17 @@ msgid ""
 "\n"
 "Would you like to continue anyway?"
 msgstr ""
-"អ្នក​បាន​ប៉ុនប៉ង់​បង្កើត​ការ​តភ្ជាប់​ជាមួយ $(ARG1) ។ ទោះ​យ៉ាងណា វិញ្ញាបនបត្រ​សុវត្ថិភាព​ដែល​បាន​បង្ហាញ​ជា​កម្មសិទ្ធិ​របស់ $(ARG2) ។ វា​អាច​ថា មាន​នរណា​ម្នាក់​កំពុង​ព្យាយាម​រារាំង​ទំនាក់ទំនង​របស់​អ្នក​ជាមួយ​តំបន់​បណ្ដាញ​នេះ ។\n"
+"អ្នក​បាន​ប៉ុនប៉ង់​បង្កើត​ការ​តភ្ជាប់​ជាមួយ $(ARG1) ។ ទោះ​យ៉ាងណា វិញ្ញាបនប័ត្រ​សុវត្ថិភាព​ដែល​បាន​បង្ហាញ​ជា​កម្មសិទ្ធិ​របស់ $(ARG2) ។ វា​អាច​ទៅរួច​ថានរណា​ម្នាក់​កំពុង​ព្យាយាម​រារាំង​ទំនាក់ទំនង​របស់​អ្នក​ជាមួយ​​បណ្ដាញ​នេះ ។\n"
 "\n"
-"បើ​អ្នក​សង្ស័យ​ថា វិញ្ញាបនបត្រ​ដែល​បង្ហាញ​មិន​មែន​ជា​កម្មសិទ្ធិ​របស់ $(ARG1) សូម​បោះបង់​ការ​តភ្ជាប់ និង​ជូន​ដំណឹង​អ្នក​គ្រប់គ្រង​តំបន់​បណ្ដាញ ។\n"
+"បើ​អ្នក​សង្ស័យ​ថា វិញ្ញាបនប័ត្រ​ដែល​បង្ហាញ​មិន​មែន​ជា​កម្មសិទ្ធិ​របស់ $(ARG1) សូម​បោះបង់​ការ​តភ្ជាប់ និង​ជូន​ដំណឹង​ទៅកាន់អ្នក​គ្រប់គ្រង​បណ្ដាញ ។\n"
 "\n"
-"តើ​អ្នក​ចង់​បន្ត​ឬ?"
+"តើ​អ្នក​ចង់​បន្ត​ឬទេ?"
 
 #. q6DM2
 #: uui/inc/ids.hrc:170
 msgctxt "STR_UUI_SSLWARN_DOMAINMISMATCH_TITLE"
 msgid "Security Warning: Server Certificate Expired"
-msgstr "ការ​ព្រមាន​សុវត្ថិភាព ៖ វិញ្ញាបនបត្រ​ម៉ាស៊ីន​បម្រើ​ផុត​កំណត់"
+msgstr "បម្រាម ៖ វិញ្ញាបនបត្រ ម៉ាស៊ីនមេ ត្រូវបានផុត​កំណត់"
 
 #. zd5oX
 #: uui/inc/ids.hrc:171
@@ -520,64 +524,63 @@ msgid ""
 "\n"
 "If you suspect the certificate shown, please cancel the connection and notify the site administrator."
 msgstr ""
-"វិញ្ញាបនបត្រ​មិន​អាច​ត្រូវ​បាន​ធ្វើ​ឲ្យ​មាន​សុពលភាព​ទេ ។ អ្នក​គួរ​តែ​ពិនិត្យ​វិញ្ញាបនបត្រ​របស់​តំបន់​បណ្ដាញ​នេះ​ដោយ​ប្រុង​ប្រយ័ត្ន ។\n"
+"វិញ្ញាបនប័ត្រ​ពំុមាន​សុពលភាព​ទេ ។ អ្នក​គួរ​តែ​ពិនិត្យ​វិញ្ញាបនប័ត្រ​របស់​​បណ្ដាញ​នេះ​ដោយ​ប្រុង​ប្រយ័ត្ន ។\n"
 "\n"
-"បើ​អ្នក​សង្ស័យ​ថា វិញ្ញាបនបត្រ​ដែល​បង្ហាញ សូម​បោះបង់​ការ​តភ្ជាប់ និង​ជូន​ដំណឹង​អ្នក​គ្រប់គ្រង​តំបន់​បណ្ដាញ ។"
+"បើ​អ្នក​មានការសង្ស័យ​ពីវិញ្ញាបនបត្រ​ដែល​បង្ហាញ សូម​បោះបង់​ការ​តភ្ជាប់ និង​ជូន​ដំណឹងដល់​អ្នក​គ្រប់គ្រង​​បណ្ដាញ ។"
 
 #. Aj227
 #: uui/inc/ids.hrc:172
 msgctxt "STR_UUI_SSLWARN_INVALID_TITLE"
 msgid "Security Warning: Domain Name Mismatch"
-msgstr "ការ​ព្រមាន​សុវត្ថិភាព ៖ ឈ្មោះ​ដែន​មិន​ត្រឹមត្រូវ"
+msgstr "បម្រាម៖ ឈ្មោះ​ដែន​មិន​ត្រឹមត្រូវ"
 
 #. RaCss
 #: uui/inc/strings.hrc:25
 msgctxt "STR_ENTER_PASSWORD_TO_OPEN"
 msgid "Enter password to open file: \n"
-msgstr ""
+msgstr "សូមធ្វើការបំពេញលេខសម្ងាត់ដើម្បីចូលទៅកាន់ឯកសារ៖ \n"
 
 #. rmDwa
 #: uui/inc/strings.hrc:26
 msgctxt "STR_ENTER_PASSWORD_TO_MODIFY"
 msgid "Enter password to modify file: \n"
-msgstr ""
+msgstr "សូមធ្វើការបំពេញលេខសម្ងាត់ដើម្បីផ្ទៀងផ្ទាត់ឯកសារ៖ \n"
 
 #. BVofP
 #: uui/inc/strings.hrc:27
-#, fuzzy
 msgctxt "STR_ENTER_SIMPLE_PASSWORD"
 msgid "Enter password: "
-msgstr "បញ្ចូល​ពាក្យ​សម្ងាត់"
+msgstr "សូមបញ្ចូលលេខសម្ងាត់៖ "
 
 #. UTuR2
 #: uui/inc/strings.hrc:28
 msgctxt "STR_CONFIRM_SIMPLE_PASSWORD"
 msgid "Confirm password: "
-msgstr "បញ្ជាក់​ពាក្យ​សម្ងាត់៖"
+msgstr "សូមបញ្ជាក់​លេខ​សម្ងាត់៖ "
 
 #. wydLC
 #: uui/inc/strings.hrc:29
 msgctxt "STR_TITLE_CREATE_PASSWORD"
 msgid "Set Password"
-msgstr "កំណត់​ពាក្យ​សម្ងាត់"
+msgstr "ការដាក់ពាក្យសម្ងាត់"
 
 #. 8fcsq
 #: uui/inc/strings.hrc:30
 msgctxt "STR_TITLE_ENTER_PASSWORD"
 msgid "Enter Password"
-msgstr "បញ្ចូល​ពាក្យ​សម្ងាត់"
+msgstr "ការបញ្ចូល​លេខសម្ងាត់"
 
 #. hggFL
 #: uui/inc/strings.hrc:31
 msgctxt "STR_PASSWORD_MISMATCH"
 msgid "The confirmation password did not match the password. Set the password again by entering the same password in both boxes."
-msgstr "ពាក្យ​សម្ងាត់​បញ្ជាក់​មិន​ផ្គូផ្គង​។ កំណត់​ពាក្យ​សម្ងាត់​ម្ដងទៀត​ដោយ​បញ្ចូល​ពាក្យ​សម្ងាត់​ដូច​គ្នា​ក្នុង​ប្រអប់​ទាំងពីរ។"
+msgstr "ការបញ្ជាក់លេខមិនត្រឹមត្រូវជាមួយនឹងការលេខសម្ងាត់ដែលបានដាក់ សូមធ្វើការដាក់លេខសម្ងាត់​ម្ដងទៀត​ដោយ​បញ្ចូល​លេខ​សម្ងាត់​ដូច​គ្នា​ទាំង​ពីរប្រអប់។"
 
 #. sdbEf
 #: uui/inc/strings.hrc:33
 msgctxt "STR_ALREADYOPEN_TITLE"
 msgid "Document in Use"
-msgstr "ឯកសារ​កំពុងប្រើ"
+msgstr "ឯកសារ​កំពុងប្រើប្រាស់"
 
 #. YCVzp
 #: uui/inc/strings.hrc:34
@@ -587,12 +590,15 @@ msgid ""
 "\n"
 "Open document read-only, or ignore own file locking and open the document for editing."
 msgstr ""
+"ឯកសារ'$(ARG1)' ត្រូវបានហាមឃាត់ក្នុងការកែប្រែដោយខ្លួនឯងលើប្រព័ន្ធប្រតិបត្តិការពី $(ARG2)\n"
+"\n"
+"អនុញ្ញាតឲ្យអានឯកសារតែប៉ុណោ្ណះ ឫក៏មិនអើពើឯកសារដែលបានហាមឃាត់ និងធ្វើការកែប្រែឯកសារ។"
 
 #. 8mKMg
 #: uui/inc/strings.hrc:35
 msgctxt "STR_ALREADYOPEN_READONLY_BTN"
 msgid "Open ~Read-Only"
-msgstr "បើក​បាន​តែ​អាន"
+msgstr "បើកសម្រាប់តែការអានប៉ុណ្ណោះ"
 
 #. ThAZk
 #: uui/inc/strings.hrc:36
@@ -607,7 +613,7 @@ msgid ""
 "Document file '$(ARG1)' is locked for editing by yourself on a different system since $(ARG2)\n"
 "\n"
 "Close document on other system and retry saving or ignore own file locking and save current document."
-msgstr ""
+msgstr "ឯកសារ '$(ARG1)' ត្រូវបានហាមឃាត់់បីការកែប្រែដោយខ្លួនអ្នក ឫក៏មិនអើពើពីការហាមឃាត់ និងធ្វើការរក្សាទុកឯកសារ។"
 
 #. ZCJGW
 #: uui/inc/strings.hrc:38
@@ -625,44 +631,43 @@ msgstr "រក្សាទុក"
 #: uui/inc/strings.hrc:41
 msgctxt "RID_KEEP_PASSWORD"
 msgid "~Remember password until end of session"
-msgstr "ចង​ចាំ​​ពាក្យ​សម្ងាត់ ​​រ​ហូត​ដល់​​​បញ្ចប់​សម័យ​"
+msgstr "ចង​ចាំ​​ពាក្យ​សម្ងាត់ ​​រ​ហូត​ដល់​​​បញ្ចប់​វគ្គ"
 
 #. 7HtCZ
 #: uui/inc/strings.hrc:42
 msgctxt "RID_SAVE_PASSWORD"
 msgid "~Remember password"
-msgstr "ចងចាំ​ពាក្យ​សម្ងាត់ "
+msgstr "ចងចាំ​ពាក្យ​សម្ងាត់"
 
 #. CV6Ci
 #: uui/inc/strings.hrc:43
 msgctxt "STR_WARNING_INCOMPLETE_ENCRYPTION_TITLE"
 msgid "Non-Encrypted Streams"
-msgstr "ស្ទ្រីម​ដែល​មិន​បាន​អ៊ីនគ្រីប"
+msgstr "ស្ទ្រីម ដែលមិនបានអ៊ិនគ្រីប"
 
 #. P7Bd8
 #: uui/inc/strings.hrc:45
 msgctxt "STR_LOCKFAILED_TITLE"
 msgid "Document Could Not Be Locked"
-msgstr ""
+msgstr "ឯកសារមិនអាចឃាត់បាន"
 
 #. XBEF9
 #: uui/inc/strings.hrc:46
-#, fuzzy
 msgctxt "STR_LOCKFAILED_MSG"
 msgid "The lock file could not be created for exclusive access by %PRODUCTNAME, due to missing permission to create a lock file on that file location or lack of free disk space."
-msgstr "ឯកសារ មិនអាច​ចាក់សោ​សម្រាប់​ការ​ចូលដំណើរការ​ប្រតិបត្តិ​ដោយ %PRODUCTNAME បានទេ ព្រោះ​គ្មាន​សិទ្ធិ​ក្នុងការ​បង្កើត​ឯកសារ​សោ​នៅ​លើ​ទីតាំង​ឯកសារ​នោះ ។"
+msgstr "ឯកសារហាមឃាត់មិនអាចបង្កើតការចូលតាមរយះ %PRODUCTNAME បានទេ ព្រោះ​ឯកសារហាមឃាត់គ្មាន​សិទ្ធិ​ក្នុងការ​បង្កើតទីតាំងនៃឯកសារ​​នោះ ឫក៏ ថាស របស់អ្នកគ្មានសល់ទំហំ ។"
 
 #. CaBXF
 #: uui/inc/strings.hrc:47
 msgctxt "STR_LOCKFAILED_OPENREADONLY_BTN"
 msgid "Open ~Read-Only"
-msgstr "បើក​បាន​តែ​អាន"
+msgstr "បើកសម្រាប់តែអានប៉ុណ្ណោះ"
 
 #. u5nuY
 #: uui/inc/strings.hrc:49
 msgctxt "STR_OPENLOCKED_TITLE"
 msgid "Document in Use"
-msgstr "ឯកសារ​កំពុងប្រើ"
+msgstr "ឯកសារ​កំពុងប្រើប្រាស់"
 
 #. hFQZP
 #: uui/inc/strings.hrc:50
@@ -674,6 +679,11 @@ msgid ""
 "\n"
 "Open document read-only or open a copy of the document for editing.$(ARG3)"
 msgstr ""
+"ឯកសារ '$(ARG1)'ត្រូវបានហាមឃាត់សម្រាប់ការកែប្រែដោយ៖\n"
+"\n"
+"$(ARG2)\n"
+"\n"
+"ការបើកឯកសារសម្រាប់តែការអាន ឫក៏ការបើកឯកសារចម្លងក្នុងការកែប្រែ។$(ARG3)"
 
 #. VF7vT
 #: uui/inc/strings.hrc:51
@@ -682,18 +692,20 @@ msgid ""
 "\n"
 "You may also ignore the file locking and open the document for editing."
 msgstr ""
+"\n"
+"អ្នកប្រហែលមិនអើពើពីឯកសារដែលហាមឃាត់ និងធ្វើការបើកឯកសារក្នុងការកែប្រែ។"
 
 #. tc7YZ
 #: uui/inc/strings.hrc:52
 msgctxt "STR_OPENLOCKED_OPENREADONLY_BTN"
 msgid "Open ~Read-Only"
-msgstr "បើក​បាន​តែ​អាន"
+msgstr "បើកសម្រាប់តែអានប៉ុណ្ណោះ"
 
 #. TsA54
 #: uui/inc/strings.hrc:53
 msgctxt "STR_OPENLOCKED_OPENCOPY_BTN"
 msgid "Open ~Copy"
-msgstr "បើក​ច្បាប់​ចម្លង"
+msgstr "បើក ការថតចម្លង"
 
 #. EXAAf
 #: uui/inc/strings.hrc:54
@@ -715,6 +727,9 @@ msgid ""
 "\n"
 "Do you want to save anyway?"
 msgstr ""
+"ឯកសារនេះត្រូវបានធ្វើការកែប្រែពីការបើកកែប្រែចុងក្រោយនៅក្នុង %PRODUCTNAME។  ការរក្សាទុកកំណែនៃឯកសារដែលបានផ្លាស់ប្តូរដោយអ្នកដទៃ។\n"
+"\n"
+"តើអ្នកនៅតែចង់រក្សាទុកវាឫទេ?"
 
 #. DGYmK
 #: uui/inc/strings.hrc:58
@@ -738,6 +753,10 @@ msgid ""
 "\n"
 "Try again later to save document or save a copy of that document."
 msgstr ""
+"ឯកសារដែលហាមឃាត់ក្នុងការកែប្រែនៅក្នុង '$(ARG1)' ដោយ៖\n"
+"\n"
+"$(ARG2)\n"
+"សូមសាកល្បងម្តងទៀតក្នុងការរក្សាទុកឯកសារ ឫក៏រក្សាទុកឯកសារចម្លង"
 
 #. b3UBG
 #: uui/inc/strings.hrc:62
@@ -749,6 +768,10 @@ msgid ""
 "\n"
 "You may try to ignore the file locking and overwrite the existing document."
 msgstr ""
+"ឯកសារដែលហាមឃាត់ក្នុងការកែប្រែនៅក្នុង '$(ARG2)' ដោយ៖\n"
+"\n"
+"$(ARG2)\n"
+"អ្នកអាចធ្វើការអើពើពីឯកសារដែលបានហាមឃាត់ និងធ្វើការផ្លាស់ប្តូរលើឯកសារដែលមានហើយ។"
 
 #. 8JFLZ
 #: uui/inc/strings.hrc:63
@@ -769,6 +792,8 @@ msgid ""
 "A file with the name \"%NAME\" already exists in the location \"%FOLDER\".\n"
 "Choose Replace to overwrite the existing file or provide a new name."
 msgstr ""
+"ឯកសារមួយដែលមានឈ្មោះ \"%NAME\" មានរួចហើយក្នុងការទីតាំងនេះ \"%FOLDER\".\n"
+"សូមធ្វើការផ្លាស់ប្តូរលើឯកសារដែលមានរួច ឫក៏ផ្តលឈ្មោះដទៃ។"
 
 #. 3bJvA
 #: uui/inc/strings.hrc:67
@@ -777,12 +802,14 @@ msgid ""
 "A file with the name \"%NAME\" already exists in the location \"%FOLDER\".\n"
 "Please enter a new name."
 msgstr ""
+"ឯកសារមួយដែលមានឈ្មោះ \"%NAME\" មានរួចហើយក្នុងការទីតាំងនេះ \"%FOLDER\".\n"
+"សូមធ្វើការបញ្ចូលឈ្មោះថ្មី។"
 
 #. Bapqc
 #: uui/inc/strings.hrc:68
 msgctxt "STR_SAME_NAME_USED"
 msgid "Please provide a different file name!"
-msgstr ""
+msgstr "សូមធ្វើការផ្តល់ឈ្មោះឯកសារដទៃ!"
 
 #. BsaWY
 #: uui/inc/strings.hrc:70
@@ -794,7 +821,7 @@ msgstr "ពាក្យ​សម្ងាត់ មិនត្រឹមត្�
 #: uui/inc/strings.hrc:71
 msgctxt "STR_ERROR_PASSWORD_TO_MODIFY_WRONG"
 msgid "The password is incorrect. The file cannot be modified."
-msgstr "ពាក្យ​សម្ងាត់ មិនត្រឹមត្រូវ ។ មិន​អាច​កែប្រែ​ឯកសារ​បាន​ទេ ។"
+msgstr "ពាក្យ​សម្ងាត់ មិនត្រឹមត្រូវ ។ ឯកសារមិនអាចកែប្រែបានទេ ។"
 
 #. Gq9FJ
 #: uui/inc/strings.hrc:72
@@ -818,13 +845,13 @@ msgstr "ការ​អះអាង​ពាក្យ​សម្ងាត់ �
 #: uui/inc/strings.hrc:76
 msgctxt "STR_LOCKCORRUPT_TITLE"
 msgid "Lock file is corrupted"
-msgstr ""
+msgstr "ឯកសារដែលបានហាមឃាត់ត្រូវបានខូច។"
 
 #. QxsDe
 #: uui/inc/strings.hrc:77
 msgctxt "STR_LOCKCORRUPT_MSG"
 msgid "The lock file is corrupted and probably empty. Opening the document read-only and closing it again removes the corrupted lock file."
-msgstr ""
+msgstr "ឯកសារដែលបានហាមឃាត់ត្រូវបានខូច ឫក៏ទទេ។  សូមធ្វើការបើកឯកសារសម្រាប់ការអានតែប៉ុណ្ណោះ និងធ្វើការបិទវាម្តងទៀតដើម្បីធ្វើការលុបឯកសារឃាត់ដែលខូច។"
 
 #. fKEYB
 #: uui/inc/strings.hrc:78
@@ -836,38 +863,31 @@ msgstr "បើក​បាន​តែ​អាន"
 #: uui/uiconfig/ui/authfallback.ui:8
 msgctxt "authfallback|AuthFallbackDlg"
 msgid "Authentication Code"
-msgstr ""
+msgstr "ការផ្ទៀងផ្តាត់លេខសម្ងាត់ឲ្យបានត្រឹមត្រូវ"
 
 #. oHHac
 #: uui/uiconfig/ui/authfallback.ui:113
 msgctxt "authfallback|label1"
 msgid "Enter the 6 digit PIN:"
-msgstr ""
+msgstr "សូមធ្វើការបញ្ចូលលេខសម្ងាត់ឲ្យបាន ៦ខ្ទង់៖"
 
 #. vkXiS
 #: uui/uiconfig/ui/filterselect.ui:16
-#, fuzzy
 msgctxt "filterselect|FilterSelectDialog"
 msgid "Filter Selection"
-msgstr "ជម្រើស​តម្រង"
-
-#. HoJXz
-#: uui/uiconfig/ui/filterselect.ui:137
-msgctxt "filterselect|extended_tip|filters"
-msgid "Select the import filter for the file that you want to open."
-msgstr "ជ្រើស​តម្រង​នាំ​ចូល​​សម្រាប់​​ឯកសារ ​ដែល​អ្នក​ចង់​បើក​ ។​"
+msgstr "ផ្នែកត្រង"
 
 #. 8o9Bq
 #: uui/uiconfig/ui/logindialog.ui:8
 msgctxt "logindialog|LoginDialog"
 msgid "Authentication Required"
-msgstr "ទាមទារ​ការ​ផ្ទៀងផ្ទាត់"
+msgstr "ការទៀមទារការផ្ទៀងផ្តាត់លេខសម្ងាត់ឲ្យបានត្រឹមត្រូវ"
 
 #. SjxPP
 #: uui/uiconfig/ui/logindialog.ui:83
 msgctxt "logindialog|syscreds"
 msgid "_Use system credentials"
-msgstr ""
+msgstr "ប្រើព័ត៌មានបញ្ជាក់អត្តសញ្ញាណរបស់ប្រព័ន្ធ"
 
 #. J7CWF
 #: uui/uiconfig/ui/logindialog.ui:99
@@ -877,14 +897,12 @@ msgstr "ចងចាំ​ពាក្យ​សម្ងាត់"
 
 #. pryAC
 #: uui/uiconfig/ui/logindialog.ui:129
-#, fuzzy
 msgctxt "logindialog|accountft"
 msgid "A_ccount:"
 msgstr "គណនី"
 
 #. QccHg
 #: uui/uiconfig/ui/logindialog.ui:143
-#, fuzzy
 msgctxt "logindialog|passwordft"
 msgid "Pass_word:"
 msgstr "ពាក្យ​សម្ងាត់"
@@ -893,7 +911,7 @@ msgstr "ពាក្យ​សម្ងាត់"
 #: uui/uiconfig/ui/logindialog.ui:182
 msgctxt "logindialog|nameft"
 msgid "_User name:"
-msgstr "ឈ្មោះ​អ្នកប្រើ"
+msgstr "ឈ្មោះ​អ្នកប្រើប្រាស់"
 
 #. mD36F
 #: uui/uiconfig/ui/logindialog.ui:196
@@ -902,6 +920,8 @@ msgid ""
 "Enter user name and password for:\n"
 "“%2” on %1"
 msgstr ""
+"សូមធ្វើការបញ្ចូល ឈ្មោះអ្នកប្រើប្រាស់ និងលេខសម្ងាត់សម្រាប់៖\n"
+"“%2” លើ %1"
 
 #. kRDiF
 #: uui/uiconfig/ui/logindialog.ui:210
@@ -910,6 +930,8 @@ msgid ""
 "Wrong user name and password for:\n"
 "“%2” on %1"
 msgstr ""
+"ឈ្មោះអ្នកប្រើប្រាស់ និងលេខសម្ងាត់ខុសសម្រាប់៖\n"
+"“%2” លើ %1"
 
 #. ARsSU
 #: uui/uiconfig/ui/logindialog.ui:224
@@ -918,6 +940,8 @@ msgid ""
 "Wrong user name and password for:\n"
 "%1"
 msgstr ""
+"អ្នកប្រើប្រាស់មានឈ្មោះ និងលេខសម្ងាត់ខុសសម្រារប់:\n"
+"%1"
 
 #. WJkga
 #: uui/uiconfig/ui/logindialog.ui:238
@@ -926,19 +950,20 @@ msgid ""
 "Enter user name and password for:\n"
 "%1"
 msgstr ""
+"សូមដាក់ឈ្មោះ និងលេខសម្ងាត់អ្នកប្រើប្រាស់់សម្រាប់៖\n"
+"%1"
 
 #. FGAvy
 #: uui/uiconfig/ui/logindialog.ui:252
 msgctxt "logindialog|errorft"
 msgid "Message from server:"
-msgstr "សារ​ពី​ម៉ាស៊ីន​មេ៖"
+msgstr "សារ​ពី ម៉ាស៊ីនមេ៖"
 
 #. Q7Cb9
 #: uui/uiconfig/ui/macrowarnmedium.ui:7
-#, fuzzy
 msgctxt "macrowarnmedium|MacroWarnMedium"
 msgid "%PRODUCTNAME - Security Warning"
-msgstr "%PRODUCTNAME - ការ​ព្រមាន​សុវត្ថិភាព"
+msgstr "%PRODUCTNAME - បម្រាម"
 
 #. xCZst
 #: uui/uiconfig/ui/macrowarnmedium.ui:13
@@ -948,38 +973,36 @@ msgid ""
 "\n"
 "Macros may contain viruses. Disabling macros for a document is always safe. If you disable macros you may lose functionality provided by the document macros."
 msgstr ""
+"ថតឯកសារមានឯកសារម៉ាក្រូ៖\n"
+"\n"
+"ម៉ាក្រូអាចនឹងមានេះវីរុស។  ម៉ាក្រូត្រូវបានបិទសម្រាប់ឯកសារគឺតែងតែមានសុវត្ថិភាព។ ប្រសិនបើអ្នកចង់បិទម៉ាក្រូអ្នកអាចនឹងបាត់បង់ ប្រតិបតិ្តការដែលបានផ្តល់ឲ្យដោយឯកសារម៉ាក្រូ។"
 
 #. svTn6
 #: uui/uiconfig/ui/macrowarnmedium.ui:27
-#, fuzzy
 msgctxt "macrowarnmedium|cancel"
 msgid "_Disable Macros"
 msgstr "បិទ​ម៉ាក្រូ"
 
 #. o4c9e
 #: uui/uiconfig/ui/macrowarnmedium.ui:43
-#, fuzzy
 msgctxt "macrowarnmedium|ok"
 msgid "_Enable Macros"
 msgstr "បើក​ម៉ាក្រូ"
 
 #. tYAFs
 #: uui/uiconfig/ui/macrowarnmedium.ui:88
-#, fuzzy
 msgctxt "macrowarnmedium|descr1Label"
 msgid "The document contains document macros signed by:"
-msgstr "ឯកសារ​មាន​ម៉ាក្រូ​ឯកសារ​ដែល​ចុះ​ហត្ថលេខា​ដោយ ៖"
+msgstr "ឯកសារ​មាន​ម៉ាក្រូ​ឯកសារ​ដែល​ចុះ​ហត្ថលេខា​ដោយ៖"
 
 #. SBMFJ
 #: uui/uiconfig/ui/macrowarnmedium.ui:97
-#, fuzzy
 msgctxt "macrowarnmedium|alwaysTrustCheckbutton"
 msgid "_Always trust macros from this source"
-msgstr "ទុក​ចិត្ត​ម៉ាក្រូ​ពី​ប្រភព​នេះ​ជានិច្ច"
+msgstr "តែងតែទុក​ចិត្ត​ម៉ាក្រូ​ពី​ប្រភព​នេះ​ជានិច្ច"
 
 #. hWGP7
 #: uui/uiconfig/ui/macrowarnmedium.ui:128
-#, fuzzy
 msgctxt "macrowarnmedium|viewSignsButton"
 msgid "_View Signatures…"
 msgstr "មើល​ហត្ថលេខា​...​"
@@ -991,40 +1014,16 @@ msgid "Enter Master Password"
 msgstr "បញ្ចូល​​ពាក្យ​​សម្ងាត់​​​មេ"
 
 #. REFvG
-#: uui/uiconfig/ui/masterpassworddlg.ui:87
+#: uui/uiconfig/ui/masterpassworddlg.ui:90
 msgctxt "masterpassworddlg|label1"
 msgid "_Enter password:"
 msgstr "បញ្ចូល​ពាក្យសម្ងាត់៖"
-
-#. bRcP4
-#: uui/uiconfig/ui/masterpassworddlg.ui:109
-msgctxt "masterpassworddlg|extended_tip|password"
-msgid "Type a password. A password is case sensitive."
-msgstr ""
-
-#. Twvfe
-#: uui/uiconfig/ui/masterpassworddlg.ui:138
-msgctxt "extended_tip|MasterPasswordDialog"
-msgid "Enter the master password to continue."
-msgstr "បញ្ចូល​ពាក្យ​សម្ងាត់​មេ​ដើម្បី​បន្ត ។"
 
 #. qAMT2
 #: uui/uiconfig/ui/password.ui:8
 msgctxt "password|PasswordDialog"
 msgid "Set Password"
 msgstr "កំណត់​ពាក្យ​សម្ងាត់"
-
-#. XDzCT
-#: uui/uiconfig/ui/password.ui:117
-msgctxt "password|extended_tip|newpassEntry"
-msgid "Type a password. A password is case sensitive."
-msgstr ""
-
-#. QbKd2
-#: uui/uiconfig/ui/password.ui:135
-msgctxt "password|extended_tip|confirmpassEntry"
-msgid "Re-enter the password."
-msgstr "បញ្ចូល​ពាក្យ​សម្ងាត់​ម្តង​ទៀត​​ ។"
 
 #. ioiyr
 #: uui/uiconfig/ui/setmasterpassworddlg.ui:8
@@ -1033,73 +1032,52 @@ msgid "Set Master Password"
 msgstr "កំណត់​ពាក្យសម្ងាត់​មេ"
 
 #. eBpmB
-#: uui/uiconfig/ui/setmasterpassworddlg.ui:86
+#: uui/uiconfig/ui/setmasterpassworddlg.ui:89
 msgctxt "setmasterpassworddlg|label1"
 msgid "Passwords for web connections are protected by a master password. You will be asked to enter it once per session, if %PRODUCTNAME retrieves a password from the protected password list."
-msgstr "ពាក្យសម្ងាត់​សម្រាប់​ការ​តភ្ជាប់​បណ្ដាញ​គឺ​ត្រូវ​បាន​ការពារ​ដោយ​ពាក្យ​សម្ងាត់​មេ។ អ្នក​នឹង​ត្រូវ​ស្នើ​ឲ្យ​បញ្ចូល​វា​ក្នុង​មួយ​សម័យ ប្រសិនបើ %PRODUCTNAME ទៅ​យក​ពាក្យ​សម្ងាត់​ពី​បញ្ជី​ពាក្យ​សម្ងាត់​ការពារ។"
+msgstr "ពាក្យសម្ងាត់​សម្រាប់​ការ​តភ្ជាប់​បណ្ដាញ​គឺ​ត្រូវ​បាន​ការពារ​ដោយ​ពាក្យ​សម្ងាត់​មេ។ អ្នក​នឹង​ត្រូវ​ស្នើ​ឲ្យ​បញ្ចូល​វា​ក្នុង​មួយវគ្គនីមួយៗ ប្រសិនបើ %PRODUCTNAME ទៅ​យក​ពាក្យ​សម្ងាត់​ពី​បញ្ជី​ការពារពាក្យ​សម្ងាត់។"
 
 #. G2dce
-#: uui/uiconfig/ui/setmasterpassworddlg.ui:102
+#: uui/uiconfig/ui/setmasterpassworddlg.ui:105
 msgctxt "setmasterpassworddlg|label2"
 msgid "_Enter password:"
 msgstr "បញ្ចូល​ពាក្យសម្ងាត់៖"
 
-#. AG7BG
-#: uui/uiconfig/ui/setmasterpassworddlg.ui:121
-msgctxt "extended_tip|password1"
-msgid "Enter the master password."
-msgstr ""
-
 #. yaAhh
-#: uui/uiconfig/ui/setmasterpassworddlg.ui:135
+#: uui/uiconfig/ui/setmasterpassworddlg.ui:133
 msgctxt "setmasterpassworddlg|label3"
 msgid "_Reenter password:"
 msgstr "បញ្ចូល​ពាក្យសម្ងាត់​ម្ដងទៀត៖"
 
-#. HjihJ
-#: uui/uiconfig/ui/setmasterpassworddlg.ui:155
-msgctxt "extended_tip|password2"
-msgid "Enter the master password again."
-msgstr ""
-
 #. aNzdJ
-#: uui/uiconfig/ui/setmasterpassworddlg.ui:170
+#: uui/uiconfig/ui/setmasterpassworddlg.ui:163
 msgctxt "setmasterpassworddlg|label4"
 msgid "Caution: If you forget the master password, you will be unable to access any of the information protected by it. Passwords are case sensitive."
-msgstr "ប្រយ័ត្ន៖ បើ​អ្នក​ភ្លេច​ពាក្យសម្ងាត់​មេ អ្នក​នឹង​មិន​អាច​ចូល​ដំណើរការ​ព័ត៌មាន​ណាមួយ​ដែល​ត្រូវ​បាន​ការពារ​ដោយ​វា​បាន​ឡើយ។ ពាក្យសម្ងាត់​ប្រកាន់​តួអក្សរ​តូច​ធំ។"
-
-#. BHvee
-#: uui/uiconfig/ui/setmasterpassworddlg.ui:200
-msgctxt "setmasterpassworddlg|extended_tip|SetMasterPasswordDialog"
-msgid "Assign a master password to protect the access to a saved password."
-msgstr "ផ្ដល់​ពាក្យ​សម្ងាត់​មេ​ដើម្បី​ការពារ​ការ​ចូល​ដំណើរការ​ពាក្យ​សម្ងាត់​ដែល​បាន​រក្សាទុក​រួច ។"
+msgstr "ប្រយ័ត្ន៖ បើ​អ្នក​ភ្លេច​ពាក្យសម្ងាត់​មេរបស់អ្នក នោះអ្នក​នឹង​មិន​អាច​ចូល​កាន់​ព័ត៌មាន​ណាមួយ​ដែល​ត្រូវ​បាន​ការពារ​ដោយ​វា​បាន​ឡើយ។ ពាក្យសម្ងាត់​ប្រកាន់​តួអក្សរ​តូច​ធំ។"
 
 #. dAeLu
 #: uui/uiconfig/ui/simplenameclash.ui:8
-#, fuzzy
 msgctxt "simplenameclash|SimpleNameClashDialog"
 msgid "File Exists"
-msgstr "មាន​ឯកសារ"
+msgstr "មាន​ឯកសាររួចហើយ"
 
 #. tCDZh
 #: uui/uiconfig/ui/simplenameclash.ui:42
-#, fuzzy
 msgctxt "simplenameclash|replace"
 msgid "Replace"
-msgstr "ជំនួស​"
+msgstr "ជំនួស"
 
 #. j4y9t
 #: uui/uiconfig/ui/simplenameclash.ui:55
-#, fuzzy
 msgctxt "simplenameclash|rename"
 msgid "Rename"
-msgstr "ប្តូរ​​ឈ្មោះ​"
+msgstr "ផ្លាស់ប្តូរ​​ឈ្មោះ​"
 
 #. iX6rE
 #: uui/uiconfig/ui/sslwarndialog.ui:8
 msgctxt "sslwarndialog|SSLWarnDialog"
 msgid "Security Warning: "
-msgstr "ការ​ព្រមាន​សុវត្ថិភាព៖"
+msgstr "បម្រាម៖ "
 
 #. e7vJt
 #: uui/uiconfig/ui/sslwarndialog.ui:25
@@ -1117,29 +1095,28 @@ msgstr "បោះបង់​ការ​តភ្ជាប់"
 #: uui/uiconfig/ui/sslwarndialog.ui:53
 msgctxt "sslwarndialog|view"
 msgid "View Certificate"
-msgstr "មើល​វិញ្ញាបនបត្រ"
+msgstr "មើល​វិញ្ញាបនប័ត្រ"
 
 #. rrW2e
 #: uui/uiconfig/ui/unknownauthdialog.ui:8
 msgctxt "unknownauthdialog|UnknownAuthDialog"
 msgid "Website Certified by an Unknown Authority"
-msgstr "តំបន់​បណ្ដាញ​ដែល​បាន​បញ្ជាក់​ដោយ​អ្នក​និពន្ធ​ដែល​មិន​ស្គាល់"
+msgstr "បណ្ដាញ​ដែល​បាន​បញ្ជាក់​ដោយ​អ្នក​មិន​ស្គាល់"
 
 #. incLD
 #: uui/uiconfig/ui/unknownauthdialog.ui:81
 msgctxt "unknownauthdialog|accept"
 msgid "Accept this certificate temporarily for this session"
-msgstr "យល់​ព្រម​ជា​បណ្ដោះ​អាសន្ន​វិញ្ញាបនបត្រ​នេះ​សម្រាប់​សម័យ​នេះ"
+msgstr "យល់​ព្រម​វិញ្ញាបនប័ត្របណ្ដោះ​អាស័ន្ននេះ​សម្រាប់វគ្គនេះ"
 
 #. fGDzR
 #: uui/uiconfig/ui/unknownauthdialog.ui:97
 msgctxt "unknownauthdialog|reject"
 msgid "Do not accept this certificate and do not connect to this Web site"
-msgstr "កុំ​យល់ព្រម​វិញ្ញាបនបត្រ​នេះ និង​កុំ​តភ្ជាប់​ទៅ​តំបន់​បណ្ដាញ​នេះ"
+msgstr "កុំ​យល់ព្រម​វិញ្ញាបនប័ត្រ​នេះ និង​កុំ​តភ្ជាប់​ទៅ​កាន់បណ្ដាញ​នេះ"
 
 #. LWUhA
 #: uui/uiconfig/ui/unknownauthdialog.ui:113
-#, fuzzy
 msgctxt "unknownauthdialog|examine"
 msgid "Examine Certificate…"
-msgstr "ត្រួតពិនិត្យ​វិញ្ញាបនបត្រ..."
+msgstr "ការត្រួតពិនិត្យ​វិញ្ញាបនប័ត្រ..."

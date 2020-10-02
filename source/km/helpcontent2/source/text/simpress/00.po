@@ -1,20 +1,19 @@
-#. extracted from helpcontent2/source/text/simpress/00
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
-"POT-Creation-Date: 2020-08-04 13:02+0200\n"
-"PO-Revision-Date: 2018-04-17 15:34+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2020-03-10 13:36+0100\n"
+"PO-Revision-Date: 2020-09-14 11:44+0700\n"
+"Last-Translator: Koompi Apps Localization\n"
 "Language: km\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Accelerator-Marker: ~\n"
-"X-Generator: LibreOffice\n"
-"X-POOTLE-MTIME: 1523979248.000000\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-POOTLE-MTIME: 1535975854.000000\n"
+"Language-Team: KOOMPI Apps Localization\n"
 
 #. sqmGT
 #: 00000004.xhp
@@ -347,7 +346,7 @@ msgctxt ""
 "par_id3155255\n"
 "help.text"
 msgid "Choose <emph>View - Master Handout</emph>"
-msgstr ""
+msgstr "ជ្រើស <emph> មើល - ប្លង់មេ </emph>"
 
 #. jBGUy
 #: 00000403.xhp
@@ -383,7 +382,7 @@ msgctxt ""
 "par_id3148768\n"
 "help.text"
 msgid "<image id=\"img_id3148774\" src=\"cmd/sc_presentation.png\" width=\"1cm\" height=\"1cm\"><alt id=\"alt_id3148774\">Slide Show Icon</alt></image>"
-msgstr ""
+msgstr "<image id=\"img_id3148774\" src=\"cmd/sc_presentation.png\" width=\"1cm\" height=\"1cm\"><alt id=\"alt_id3148774\">Slide Show Icon</alt></image>"
 
 #. uF2sr
 #: 00000403.xhp
@@ -403,14 +402,14 @@ msgctxt ""
 msgid "Choose <emph>View - Normal</emph>"
 msgstr "ជ្រើស​ <emph>មើល​ - ធម្មតា</emph>"
 
-#. qm8qt
+#. usm8x
 #: 00000403.xhp
 msgctxt ""
 "00000403.xhp\n"
 "par_id3151264\n"
 "help.text"
-msgid "Choose <emph>View - Master Slide</emph>"
-msgstr ""
+msgid "Choose <emph>View - Master</emph>"
+msgstr "ជ្រើស​ <emph>មើល​ - មេ</emph>"
 
 #. DxBby
 #: 00000403.xhp
@@ -419,7 +418,7 @@ msgctxt ""
 "par_idN10AF7\n"
 "help.text"
 msgid "<variable id=\"masterlayouts\">Choose <emph>View - Master Slide </emph></variable>"
-msgstr ""
+msgstr "<អថេរ id = \"masterlayouts\"> ជ្រើស <emph> មើល - ស្លាយមេ </emph> </variable>"
 
 #. QetBX
 #: 00000403.xhp
@@ -428,7 +427,7 @@ msgctxt ""
 "par_idN10B19\n"
 "help.text"
 msgid "<variable id=\"notesmaster\">Choose <emph>View - Master Notes</emph> </variable>"
-msgstr ""
+msgstr "<អថេរ id = \"អ្នកកំណត់ចំណាំ\"> ជ្រើសរើស <មើលហ្វីត> មើល - កំណត់ចំណាំមេ </emph> </variable>"
 
 #. SL63x
 #: 00000403.xhp
@@ -437,7 +436,7 @@ msgctxt ""
 "par_idN10B07\n"
 "help.text"
 msgid "<variable id=\"master\">Choose <emph>Slide - Master Elements</emph> </variable>"
-msgstr ""
+msgstr "<អថេរ id = \"មេ\"> ជ្រើសស្លាយ - ធាតុមេ </emph> </variable>"
 
 #. FdzkE
 #: 00000403.xhp
@@ -482,7 +481,7 @@ msgctxt ""
 "par_id3153480\n"
 "help.text"
 msgid "<variable id=\"master_drawing\">Choose <emph>View - Master Slide</emph> </variable>"
-msgstr ""
+msgstr "<អថេរ id = \"master_drawing\"> ជ្រើស <emph> មើល - ស្លាយមេ </emph> </variable>"
 
 #. LG3aP
 #: 00000403.xhp
@@ -590,7 +589,7 @@ msgctxt ""
 "par_id3151239\n"
 "help.text"
 msgid "Choose <emph>Insert - Table</emph>"
-msgstr ""
+msgstr "ជ្រើស <emph> មើល - ប្លង់មេ </emph>"
 
 #. 6CAQP
 #: 00000404.xhp
@@ -608,7 +607,7 @@ msgctxt ""
 "par_id3163703\n"
 "help.text"
 msgid "<image id=\"img_id3145361\" src=\"cmd/sc_grid.png\" width=\"1cm\" height=\"1cm\"><alt id=\"alt_id3145361\">Icon Insert Table</alt></image>"
-msgstr ""
+msgstr "<image id=\"img_id3145361\" src=\"cmd/sc_grid.png\" width=\"1cm\" height=\"1cm\"><alt id=\"alt_id3145361\">Icon Insert Table</alt></image>"
 
 #. tUXJX
 #: 00000404.xhp
@@ -617,7 +616,7 @@ msgctxt ""
 "par_id3146963\n"
 "help.text"
 msgid "Table"
-msgstr ""
+msgstr "តារាង"
 
 #. mEkeS
 #: 00000404.xhp
@@ -626,7 +625,7 @@ msgctxt ""
 "par_id3153075\n"
 "help.text"
 msgid "Choose <switchinline select=\"appl\"><caseinline select=\"IMPRESS\"><menuitem>Slide - Insert Slide from File</menuitem></caseinline><defaultinline><menuitem>Page - Insert Page from File</menuitem></defaultinline></switchinline>"
-msgstr ""
+msgstr "ជ្រើសរើស <switchinline select = \"appl\"> <caseinline select = \"IMPRESS\"> <menuitem> ស្លាយ - បញ្ចូលស្លាយពីឯកសារ។ ការបញ្ចូលស្លាយពីឯកសារ </defaultinline> </switchinline>"
 
 #. ttNgv
 #: 00000404.xhp
@@ -653,7 +652,7 @@ msgctxt ""
 "par_id3157900\n"
 "help.text"
 msgid "<switchinline select=\"appl\"><caseinline select=\"IMPRESS\">Insert Slide from File</caseinline><defaultinline>Insert Page from File</defaultinline></switchinline>"
-msgstr ""
+msgstr "ជ្រើសរើស <switchinline select = \"appl\"> <caseinline select = \"IMPRESS\"> <menuitem> ស្លូ - បញ្ចូលស្លាយពីឯកសារ។ ការបញ្ចូលស្លាយពីឯកសារ </defaultinline> </switchinline>"
 
 #. YV4RY
 #: 00000404.xhp
@@ -788,7 +787,7 @@ msgctxt ""
 "par_id3146316\n"
 "help.text"
 msgid "Choose <emph>Format - Interaction</emph>"
-msgstr ""
+msgstr "ជ្រើស <emph> មើល - ប្លង់មេ </emph>"
 
 #. Gfjf3
 #: 00000405.xhp
@@ -797,7 +796,7 @@ msgctxt ""
 "par_id3149257\n"
 "help.text"
 msgid "On the <emph>Standard</emph> toolbar, click"
-msgstr ""
+msgstr "នៅលើរបារឧបករណ៍ <emph> ស្តង់ដារ </emph> ចុច"
 
 #. 4a3bB
 #: 00000405.xhp
@@ -806,7 +805,7 @@ msgctxt ""
 "par_id3154649\n"
 "help.text"
 msgid "<image id=\"img_id3150205\" src=\"cmd/sc_animationeffects.svg\" width=\"1cm\" height=\"1cm\"><alt id=\"alt_id3150205\">Icon Interaction</alt></image>"
-msgstr ""
+msgstr "<image id=\"img_id3150205\" src=\"cmd/sc_animationeffects.svg\" width=\"1cm\" height=\"1cm\"><alt id=\"alt_id3150205\">Icon Interaction</alt></image>"
 
 #. 8eiDD
 #: 00000405.xhp
@@ -815,7 +814,7 @@ msgctxt ""
 "par_id3155380\n"
 "help.text"
 msgid "Interaction"
-msgstr ""
+msgstr "អន្តរកម្ម"
 
 #. aFWLc
 #: 00000406.xhp
@@ -878,7 +877,7 @@ msgctxt ""
 "par_id3158394\n"
 "help.text"
 msgid "<variable id=\"etdaw\">Choose <menuitem>View - Slide Transition</menuitem></variable>"
-msgstr ""
+msgstr "<អថេរ id = \"etdaw\"> ជ្រើសរើសទិដ្ឋភាពមឺនុយមើល - ដំណើរផ្លាស់ប្តូរស្លាយ"
 
 #. LvLjL
 #: 00000407.xhp
@@ -950,7 +949,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Shape Menu"
-msgstr ""
+msgstr "រាងម៉ឺនុយ"
 
 #. k9tyC
 #: 00000413.xhp
@@ -959,7 +958,7 @@ msgctxt ""
 "hd_id3152578\n"
 "help.text"
 msgid "Shape Menu"
-msgstr ""
+msgstr "រាងម៉ឺនុយ"
 
 #. EbLAA
 #: 00000413.xhp
@@ -968,7 +967,7 @@ msgctxt ""
 "par_id3151075\n"
 "help.text"
 msgid "Choose <emph>Shape - Convert </emph>(<item type=\"productname\">%PRODUCTNAME</item> Draw only)"
-msgstr ""
+msgstr "ជ្រើសរាង <emph> - បំលែង </emph> (<ប្រភេទប្រភេទ = \"ឈ្មោះផលិតផល\">%PRODUCTNAME </item> គូរតែប៉ុណ្ណោះ)"
 
 #. 8sqbB
 #: 00000413.xhp
@@ -986,7 +985,7 @@ msgctxt ""
 "par_id3149124\n"
 "help.text"
 msgid "Choose <emph>Shape - Convert - To Curve</emph> (<item type=\"productname\">%PRODUCTNAME</item> Draw only)"
-msgstr ""
+msgstr "ជ្រើសរាង <emph> - បំលែង </emph> (<ប្រភេទប្រភេទ = \"ឈ្មោះផលិតផល\">%PRODUCTNAME </item> គូរតែប៉ុណ្ណោះ)"
 
 #. cjVjh
 #: 00000413.xhp
@@ -1004,7 +1003,7 @@ msgctxt ""
 "par_id3156384\n"
 "help.text"
 msgid "Choose <emph>Shape - Convert - To Polygon</emph> (<item type=\"productname\">%PRODUCTNAME</item> Draw only)"
-msgstr ""
+msgstr "ជ្រើសរាង <emph> - បំលែង </emph> (<ប្រភេទប្រភេទ = \"ឈ្មោះផលិតផល\">%PRODUCTNAME </item> គូរតែប៉ុណ្ណោះ)"
 
 #. vFDG5
 #: 00000413.xhp
@@ -1022,7 +1021,7 @@ msgctxt ""
 "par_id3147001\n"
 "help.text"
 msgid "Choose <emph>Shape - Convert - To 3D</emph> (<item type=\"productname\">%PRODUCTNAME</item> Draw only)"
-msgstr ""
+msgstr "ជ្រើសរាង <emph> - បំលែង </emph> (<ប្រភេទប្រភេទ = \"ឈ្មោះផលិតផល\">%PRODUCTNAME </item> គូរតែប៉ុណ្ណោះ)"
 
 #. ZM2qM
 #: 00000413.xhp
@@ -1040,7 +1039,7 @@ msgctxt ""
 "par_id3150205\n"
 "help.text"
 msgid "Choose <emph>Shape - Convert - To 3D Rotation Object</emph> (<item type=\"productname\">%PRODUCTNAME</item> Draw only)"
-msgstr ""
+msgstr "ជ្រើសរាង <emph> - បំលែង - ទៅជាវត្ថុបង្វិលត្រីមាត្រ </emph> (<ប្រភេទប្រភេទ = \"ឈ្មោះផលិតផល\">%PRODUCTNAME </item> គូរតែប៉ុណ្ណោះ)"
 
 #. 6GqEg
 #: 00000413.xhp
@@ -1058,7 +1057,7 @@ msgctxt ""
 "par_id3152986\n"
 "help.text"
 msgid "Choose <emph>Shape - Convert - To Bitmap</emph> (<item type=\"productname\">%PRODUCTNAME</item> Draw only)"
-msgstr ""
+msgstr "ជ្រើសរាង <emph> - បំលែង - ទៅជាវត្ថុបង្វិលត្រីមាត្រ </emph> (<ប្រភេទប្រភេទ = \"ឈ្មោះផលិតផល\">%PRODUCTNAME </item> គូរតែប៉ុណ្ណោះ)"
 
 #. zYDUA
 #: 00000413.xhp
@@ -1076,7 +1075,7 @@ msgctxt ""
 "par_id3148870\n"
 "help.text"
 msgid "Choose <emph>Shape - Convert - To Metafile</emph> (<item type=\"productname\">%PRODUCTNAME</item> Draw only)"
-msgstr ""
+msgstr "ជ្រើសរាង <emph> - បំលែង </emph> (<ប្រភេទប្រភេទ = \"ឈ្មោះផលិតផល\">%PRODUCTNAME </item> គូរតែប៉ុណ្ណោះ)"
 
 #. FKBs3
 #: 00000413.xhp
@@ -1094,7 +1093,7 @@ msgctxt ""
 "par_id3153246\n"
 "help.text"
 msgid "Choose <emph>Shape - Convert - To Contour</emph> (<item type=\"productname\">%PRODUCTNAME</item> Draw only)"
-msgstr ""
+msgstr "ជ្រើសរាង <emph> - បំលែង - ទៅជាវត្ថុបង្វិលត្រីមាត្រ </emph> (<ប្រភេទប្រភេទ = \"ឈ្មោះផលិតផល\">%PRODUCTNAME </item> គូរតែប៉ុណ្ណោះ)"
 
 #. JexGE
 #: 00000413.xhp
@@ -1112,7 +1111,7 @@ msgctxt ""
 "par_id3153008\n"
 "help.text"
 msgid "Choose <emph>Shape - Arrange - In Front of Object</emph> (<item type=\"productname\">%PRODUCTNAME</item> Draw only)"
-msgstr ""
+msgstr "ជ្រើសរាង <emph> - បំលែង - ទៅជាវត្ថុបង្វិលត្រីមាត្រ </emph> (<ប្រភេទប្រភេទ = \"ឈ្មោះផលិតផល\">%PRODUCTNAME </item> គូរតែប៉ុណ្ណោះ)"
 
 #. d8mib
 #: 00000413.xhp
@@ -1157,7 +1156,7 @@ msgctxt ""
 "par_id3150654\n"
 "help.text"
 msgid "Choose <emph>Shape - Arrange - Behind Object</emph> (<item type=\"productname\">%PRODUCTNAME</item> Draw only)"
-msgstr ""
+msgstr "ជ្រើសរាង <emph> - បំលែង - ទៅជាវត្ថុបង្វិលត្រីមាត្រ </emph> (<ប្រភេទប្រភេទ = \"ឈ្មោះផលិតផល\">%PRODUCTNAME </item> គូរតែប៉ុណ្ណោះ)"
 
 #. ECTJD
 #: 00000413.xhp
@@ -1202,7 +1201,7 @@ msgctxt ""
 "par_id3150002\n"
 "help.text"
 msgid "Choose <emph>Shape - Arrange - Reverse</emph> (<item type=\"productname\">%PRODUCTNAME</item> Draw only)"
-msgstr ""
+msgstr "ជ្រើសរាង <emph> - បំលែង </emph> (<ប្រភេទប្រភេទ = \"ឈ្មោះផលិតផល\">%PRODUCTNAME </item> គូរតែប៉ុណ្ណោះ)"
 
 #. kQ8FJ
 #: 00000413.xhp
@@ -1247,7 +1246,7 @@ msgctxt ""
 "par_id3145298\n"
 "help.text"
 msgid "Choose <emph>Shape - Combine</emph> (<item type=\"productname\">%PRODUCTNAME</item> Draw only)"
-msgstr ""
+msgstr "ជ្រើសរាង <emph> - បំលែង </emph> (<ប្រភេទប្រភេទ = \"ឈ្មោះផលិតផល\">%PRODUCTNAME </item> គូរតែប៉ុណ្ណោះ)"
 
 #. PP2FD
 #: 00000413.xhp
@@ -1265,7 +1264,7 @@ msgctxt ""
 "par_id3150930\n"
 "help.text"
 msgid "Choose <emph>Shape - Split</emph> (<item type=\"productname\">%PRODUCTNAME</item> Draw only)"
-msgstr ""
+msgstr "ជ្រើសរាង <emph> - បំលែង </emph> (<ប្រភេទប្រភេទ = \"ឈ្មោះផលិតផល\">%PRODUCTNAME </item> គូរតែប៉ុណ្ណោះ)"
 
 #. ncA47
 #: 00000413.xhp
@@ -1283,7 +1282,7 @@ msgctxt ""
 "par_id3154872\n"
 "help.text"
 msgid "Choose <emph>Shape - Connect</emph> (<item type=\"productname\">%PRODUCTNAME</item> Draw only)"
-msgstr ""
+msgstr "ជ្រើសរាង <emph> - បំលែង </emph> (<ប្រភេទប្រភេទ = \"ឈ្មោះផលិតផល\">%PRODUCTNAME </item> គូរតែប៉ុណ្ណោះ)"
 
 #. DNEs5
 #: 00000413.xhp
@@ -1301,7 +1300,7 @@ msgctxt ""
 "par_id3153920\n"
 "help.text"
 msgid "Choose <emph>Shape - Break</emph> (<item type=\"productname\">%PRODUCTNAME</item> Draw only)"
-msgstr ""
+msgstr "ជ្រើសរាង <emph> - បំលែង </emph> (<ប្រភេទប្រភេទ = \"ឈ្មោះផលិតផល\">%PRODUCTNAME </item> គូរតែប៉ុណ្ណោះ)"
 
 #. EZSR4
 #: 00000413.xhp
@@ -1319,7 +1318,7 @@ msgctxt ""
 "par_id3155408\n"
 "help.text"
 msgid "Choose <emph>Shape</emph> (<item type=\"productname\">%PRODUCTNAME</item> Draw only)"
-msgstr ""
+msgstr "ជ្រើសរាង <emph> - បំលែង </emph> (<ប្រភេទប្រភេទ = \"ឈ្មោះផលិតផល\">%PRODUCTNAME </item> គូរតែប៉ុណ្ណោះ)"
 
 #. CT5rY
 #: 00000413.xhp
@@ -1337,7 +1336,7 @@ msgctxt ""
 "par_id3163822\n"
 "help.text"
 msgid "Choose <emph>Shape - Merge</emph> (<item type=\"productname\">%PRODUCTNAME</item> Draw only)"
-msgstr ""
+msgstr "ជ្រើសរាង <emph> - បំលែង </emph> (<ប្រភេទប្រភេទ = \"ឈ្មោះផលិតផល\">%PRODUCTNAME </item> គូរតែប៉ុណ្ណោះ)"
 
 #. izMq7
 #: 00000413.xhp
@@ -1355,7 +1354,7 @@ msgctxt ""
 "par_id3150874\n"
 "help.text"
 msgid "Choose <emph>Shape - Subtract</emph> (<item type=\"productname\">%PRODUCTNAME</item> Draw only)"
-msgstr ""
+msgstr "ជ្រើសរាង <emph> - បំលែង </emph> (<ប្រភេទប្រភេទ = \"ឈ្មោះផលិតផល\">%PRODUCTNAME </item> គូរតែប៉ុណ្ណោះ)"
 
 #. dyi5b
 #: 00000413.xhp
@@ -1373,7 +1372,7 @@ msgctxt ""
 "par_id3145204\n"
 "help.text"
 msgid "Choose <emph>Shape - Intersect</emph> (<item type=\"productname\">%PRODUCTNAME</item> Draw only)"
-msgstr ""
+msgstr "ជ្រើសរាង <emph> - បំលែង </emph> (<ប្រភេទប្រភេទ = \"ឈ្មោះផលិតផល\">%PRODUCTNAME </item> គូរតែប៉ុណ្ណោះ)"
 
 #. LqCnD
 #: 00000413.xhp
@@ -1391,7 +1390,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Slide Menu"
-msgstr ""
+msgstr "ស្លាយមុឺនុយ"
 
 #. eVFdV
 #: slide_menu.xhp
@@ -1400,7 +1399,7 @@ msgctxt ""
 "par_id3155530\n"
 "help.text"
 msgid "<variable id=\"frtite\">Choose <emph>Slide - Properties</emph>    </variable>"
-msgstr ""
+msgstr "<អថេរ id = \"មេ\"> ជ្រើសស្លាយ - ធាតុមេ </emph> </variable>"
 
 #. tFRFZ
 #: slide_menu.xhp
@@ -1409,7 +1408,7 @@ msgctxt ""
 "par_id3145386\n"
 "help.text"
 msgid "<variable id=\"frtites\">Choose <emph>Slide - Properties</emph> and then click the <emph>Page</emph> tab    </variable>"
-msgstr ""
+msgstr "ជ្រើសរាង <emph> - បំលែង - ទៅជាវត្ថុបង្វិលត្រីមាត្រ </emph> (<ប្រភេទប្រភេទ = \"ឈ្មោះផលិតផល\">%PRODUCTNAME </item> គូរតែប៉ុណ្ណោះ)"
 
 #. Rn7C8
 #: slide_menu.xhp
@@ -1418,7 +1417,7 @@ msgctxt ""
 "par_id3148866\n"
 "help.text"
 msgid "<variable id=\"frtiteh\">Choose <emph>Slide - Properties</emph> and then click the <emph>Background</emph> tab    </variable>"
-msgstr ""
+msgstr "ជ្រើសរាង <emph> - បំលែង - ទៅជាវត្ថុបង្វិលត្រីមាត្រ </emph> (<ប្រភេទប្រភេទ = \"ឈ្មោះផលិតផល\">%PRODUCTNAME </item> គូរតែប៉ុណ្ណោះ)"
 
 #. sHGZ4
 #: slide_menu.xhp
@@ -1427,7 +1426,7 @@ msgctxt ""
 "par_id3155266\n"
 "help.text"
 msgid "<variable id=\"adnsei\">Choose <emph>Slide - Layout</emph>    </variable>"
-msgstr ""
+msgstr "<អថេរ id = \"masterlayouts\"> ជ្រើស <emph> មើល - ស្លាយមេ </emph> </variable>"
 
 #. i3nvo
 #: slide_menu.xhp
@@ -1436,7 +1435,7 @@ msgctxt ""
 "par_id3153012\n"
 "help.text"
 msgid "<variable id=\"seitenvorlage\">Choose <emph>Slide - Change Slide Master</emph>    </variable>"
-msgstr ""
+msgstr "<អថេរ id = \"masterlayouts\"> ជ្រើស <emph> មើល - ស្លាយមេ </emph> </variable>"
 
 #. FeqGZ
 #: slide_menu.xhp
@@ -1445,7 +1444,7 @@ msgctxt ""
 "par_id3134264\n"
 "help.text"
 msgid "Choose <emph>Slide - New Slide</emph>"
-msgstr ""
+msgstr "ជ្រើស <emph> ស្លាយ - ស្លាយថ្មី </emph>"
 
 #. 7tbCN
 #: slide_menu.xhp
@@ -1463,7 +1462,7 @@ msgctxt ""
 "par_id3685251\n"
 "help.text"
 msgid "<image id=\"img_id3183073\" src=\"cmd/sc_insertpage.png\" width=\"0.566cm\" height=\"0.566cm\"><alt id=\"alt_id3183073\">Icon</alt></image>"
-msgstr ""
+msgstr "<image id=\"img_id3183073\" src=\"cmd/sc_insertpage.png\" width=\"0.566cm\" height=\"0.566cm\"><alt id=\"alt_id3183073\">Icon</alt></image>"
 
 #. brVDD
 #: slide_menu.xhp
@@ -1472,4 +1471,4 @@ msgctxt ""
 "par_id7354512\n"
 "help.text"
 msgid "New Slide"
-msgstr ""
+msgstr "ស្លាយថ្មី"

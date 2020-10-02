@@ -1,21 +1,19 @@
-#. extracted from helpcontent2/source/text/smath/guide
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
-"POT-Creation-Date: 2019-01-12 13:18+0100\n"
-"PO-Revision-Date: 2017-05-10 03:19+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
-"Language-Team: Khmer <support@khmeros.info>\n"
+"POT-Creation-Date: 2020-03-10 13:36+0100\n"
+"PO-Revision-Date: 2020-09-14 11:44+0700\n"
+"Last-Translator: Koompi Apps Localization\n"
 "Language: km\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Accelerator-Marker: ~\n"
-"X-Generator: LibreOffice\n"
-"X-Language: km-KH\n"
-"X-POOTLE-MTIME: 1494386340.000000\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-POOTLE-MTIME: 1535975854.000000\n"
+"Language-Team: KOOMPI Apps Localization\n"
 
 #: align.xhp
 msgctxt ""
@@ -23,7 +21,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Manually Aligning Formula Parts"
-msgstr "ការ​តម្រឹម​ផ្នែក​រូបមន្ត​ដោយ​ដៃ"
+msgstr "ការ​តម្រឹម​ផ្នែក​រូបមន្ត​ដោយ​ដ"
 
 #: align.xhp
 msgctxt ""
@@ -351,7 +349,7 @@ msgctxt ""
 "par_id3150537\n"
 "help.text"
 msgid "You can compose formulas using the Elements pane. Open it with the menu <emph>View - Elements</emph> if it is not already open."
-msgstr ""
+msgstr "អ្នកអាចតែងរូបមន្តដោយប្រើធាតុរូបមន្ត។ បើកវាជាមួយមឺនុយ <emph> មើល - ធាតុ </emph> ប្រសិនបើវាមិនទាន់បើក។"
 
 #: keyboard.xhp
 msgctxt ""
@@ -359,7 +357,7 @@ msgctxt ""
 "par_id3155625\n"
 "help.text"
 msgid "If the Elements pane is open, use F6 to switch from the Commands window to the Elements pane and back."
-msgstr ""
+msgstr "ប្រសិនបើស្លាបព្រិល Elements បានបើកសូមប្រើ F6 ដើម្បីប្តូរពីបង្អួចពាក្យបញ្ជាទៅជាធាតុអេឡិចត្រូនិចនិងខាងក្រោយ។"
 
 #: keyboard.xhp
 msgctxt ""
@@ -367,7 +365,7 @@ msgctxt ""
 "hd_id3154554\n"
 "help.text"
 msgid "Elements pane"
-msgstr ""
+msgstr "ធាតុស្លាបព្រិល"
 
 #: limits.xhp
 msgctxt ""
@@ -423,7 +421,7 @@ msgctxt ""
 "par_id1276589\n"
 "help.text"
 msgid "You see the Math input window and the Elements pane on the left."
-msgstr ""
+msgstr "អ្នកនឹងឃើញផ្ទាំងបញ្ចូលគណិតវិទ្យានិងស្លាបព្រិលធាតុនៅខាងឆ្វេង។"
 
 #: limits.xhp
 msgctxt ""
@@ -431,7 +429,7 @@ msgctxt ""
 "par_id3283791\n"
 "help.text"
 msgid "From the list on the upper part of the Elements pane, select the <emph>Operators</emph> item."
-msgstr ""
+msgstr "ពីបញ្ជីនៅផ្នែកខាងលើនៃផ្ទាំងធាតុអេឡិចត្រូនិចជ្រើសធាតុ <emph> ប្រតិបត្តិករ </emph> ។"
 
 #: limits.xhp
 msgctxt ""
@@ -439,7 +437,7 @@ msgctxt ""
 "par_id9734794\n"
 "help.text"
 msgid "In the lower part of the Elements pane, click the <emph>Sum</emph> icon."
-msgstr ""
+msgstr "នៅផ្នែកខាងក្រោមនៃផ្ទាំងធាតុរូបមន្តចុចរូបតំណាង <emph> Sum </emph> ។"
 
 #: limits.xhp
 msgctxt ""
@@ -487,7 +485,7 @@ msgctxt ""
 "par_id9406414\n"
 "help.text"
 msgid "In the same way, you can enter an Integral formula with limits. When you click an icon from the Elements pane, the assigned text command is inserted in the input window. If you know the text commands, you can enter the commands directly in the input window."
-msgstr ""
+msgstr "តាមរបៀបដូចគ្នាអ្នកអាចបញ្ចូលរូបមន្តអាំងតេក្រាលដែលមានដែនកំណត់។ នៅពេលអ្នកចុចរូបតំណាងមួយពីផ្ទាំងធាតុរូបមន្តពាក្យបញ្ជាដែលបានកំណត់ត្រូវបានបញ្ចូលក្នុងបង្អួចបញ្ចូល។ ប្រសិនបើអ្នកស្គាល់ពាក្យបញ្ជាអត្ថបទអ្នកអាចបញ្ចូលពាក្យបញ្ជាដោយផ្ទាល់នៅក្នុងបង្អួចបញ្ចូល។"
 
 #: limits.xhp
 msgctxt ""
@@ -511,7 +509,7 @@ msgctxt ""
 "par_id4651020\n"
 "help.text"
 msgid "A small gap exists between f(x) and dx, which you can also enter using the Elements pane: select the <emph>Formats</emph> item from the list on the top, then the <emph>Small Gap</emph> icon."
-msgstr ""
+msgstr "គម្លាតតូចមួយមានចន្លោះ f (x) និង dx ដែលអ្នកក៏អាចបញ្ចូលដោយប្រើធាតុរូបមន្ត៖ ជ្រើសធាតុ <emph> ទ្រង់ទ្រាយ </emph> ពីបញ្ជីនៅខាងលើបន្ទាប់មក <emph> គម្លាតតូច </emph> រូបតំណាង។"
 
 #: limits.xhp
 msgctxt ""

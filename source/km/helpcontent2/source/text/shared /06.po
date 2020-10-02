@@ -1,0 +1,448 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2020-03-10 13:36+0100\n"
+"PO-Revision-Date: 2020-09-03 10:02+0700\n"
+"Last-Translator: Koompi Apps Localization\n"
+"Language: km\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: ~\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-POOTLE-MTIME: 1535975854.000000\n"
+"Language-Team: KOOMPI Apps Localization\n"
+
+#. EUcrc
+#: filter_screenshots.xhp
+msgctxt ""
+"filter_screenshots.xhp\n"
+"tit\n"
+"help.text"
+msgid "Filter screenshots"
+msgstr "ច្រោះរូបថតអេក្រង់"
+
+#. KKTAL
+#: filter_screenshots.xhp
+msgctxt ""
+"filter_screenshots.xhp\n"
+"par_id431534783734366\n"
+"help.text"
+msgid "<image src=\"media/screenshots/filter/ui/pdfgeneralpage/PdfGeneralPage.png\" id=\"img_id131534783734367\"><alt id=\"alt_id271534783734367\">PDF Export General Options Dialog Image</alt></image>"
+msgstr "<image src=\"media/screenshots/filter/ui/pdfgeneralpage/PdfGeneralPage.png\" id=\"img_id131534783734367\"><alt id=\"alt_id271534783734367\"> PDF នាំចេញជម្រើសទូទៅប្រអប់រូបភាព </alt></image>"
+
+#. NiURr
+#: filter_screenshots.xhp
+msgctxt ""
+"filter_screenshots.xhp\n"
+"par_id434534783734366\n"
+"help.text"
+msgid "<image src=\"media/screenshots/filter/ui/pdflinkspage/PdfLinksPage.png\" id=\"img_id131534783734367\"><alt id=\"alt_id271534783734367\">PDF Export Links Options Dialog Image</alt></image>"
+msgstr "<image src=\"media/screenshots/filter/ui/pdflinkspage/PdfLinksPage.png\" id=\"img_id131534783734367\"><alt id=\"alt_id271534783734367\"> ជម្រើសតំណភ្ជាប់ជា PDF ប្រអប់រូបភាព </alt></image>"
+
+#. 6V29R
+#: filter_screenshots.xhp
+msgctxt ""
+"filter_screenshots.xhp\n"
+"par_id434534703734366\n"
+"help.text"
+msgid "<image src=\"media/screenshots/filter/ui/pdfviewpage/PdfViewPage.png\" id=\"img_id131534783734367\"><alt id=\"alt_id271534783734367\">PDF Export View Options Dialog Image</alt></image>"
+msgstr "<image src=\"media/screenshots/filter/ui/pdfviewpage/PdfViewPage.png\" id=\"img_id131534783734367\"><alt id=\"alt_id271534783734367\"> PDF នាំចេញជម្រើសមើលប្រអប់ប្រអប់រូបភាព </alt></image>"
+
+#. csH2C
+#: filter_screenshots.xhp
+msgctxt ""
+"filter_screenshots.xhp\n"
+"par_id434534703734306\n"
+"help.text"
+msgid "<image src=\"media/screenshots/filter/ui/pdfuserinterfacepage/PdfUserInterfacePage.png\" id=\"img_id131534783734367\"><alt id=\"alt_id271534783734367\">PDF Export User Interface Options Dialog Image</alt></image>"
+msgstr "<image src=\"media/screenshots/filter/ui/pdfuserinterfacepage/PdfUserInterfacePage.png\" id=\"img_id131534783734367\"><alt id=\"alt_id271534783734367\"> ប្រអប់នាំចេញជម្រើសចំណុចប្រទាក់អ្នកប្រើជា PDF </alt></image>"
+
+#. Ea8o3
+#: filter_screenshots.xhp
+msgctxt ""
+"filter_screenshots.xhp\n"
+"par_id434534703704306\n"
+"help.text"
+msgid "<image src=\"media/screenshots/filter/ui/pdfsignpage/PdfSignPage.png\" id=\"img_id131534783734367\"><alt id=\"alt_id271534783734367\">PDF Export Digital Signature Options Dialog Image</alt></image>"
+msgstr "<image src=\"media/screenshots/filter/ui/pdfsignpage/PdfSignPage.png\" id=\"img_id131534783734367\"><alt id=\"alt_id271534783734367\"> ប្រអប់ហត្ថលេខាបែបផែនឌីជីថលជា PDF </alt></image>"
+
+#. mBPGC
+#: filter_screenshots.xhp
+msgctxt ""
+"filter_screenshots.xhp\n"
+"par_id434034703704306\n"
+"help.text"
+msgid "<image src=\"media/screenshots/filter/ui/pdfsecuritypage/PdfSecurityPage.png\" id=\"img_id131534783734367\"><alt id=\"alt_id271534783734367\">PDF Export Security Options Dialog Image</alt></image>"
+msgstr "<image src=\"media/screenshots/filter/ui/pdfsecuritypage/PdfSecurityPage.png\" id=\"img_id131534783734367\"><alt id=\"alt_id271534783734367\"> PDF នាំចេញប្រអប់សុវត្ថិភាពជម្រើសប្រអប់ </alt></image>"
+
+#. UgJfc
+#: filter_screenshots.xhp
+msgctxt ""
+"filter_screenshots.xhp\n"
+"par_id19921\n"
+"help.text"
+msgid "<image id=\"img_id22170\" src=\"media/screenshots/writerperfect/ui/exportepub/EpubDialog.png\"><alt id=\"alt_id59843\">EPUB dialog box</alt></image>"
+msgstr "<image id=\"img_id22170\" src=\"media/screenshots/writerperfect/ui/exportepub/EpubDialog.png\"><alt id=\"alt_id59843\"> ប្រអប់ EPUB </alt></image>"
+
+#. cEcCB
+#: optionen_screenshots.xhp
+msgctxt ""
+"optionen_screenshots.xhp\n"
+"tit\n"
+"help.text"
+msgid "Optionen Screenshots"
+msgstr "រូបថតអេក្រង់ស្រេចចិត្ត"
+
+#. wCY4r
+#: optionen_screenshots.xhp
+msgctxt ""
+"optionen_screenshots.xhp\n"
+"par_id431534783734366\n"
+"help.text"
+msgid "<image src=\"media/screenshots/cui/ui/optviewpage/OptViewPage.png\" id=\"img_id131534783734367\"><alt id=\"alt_id271534783734367\">Options View Dialog Image</alt></image>"
+msgstr "<image src=\"media/screenshots/cui/ui/optviewpage/OptViewPage.png\" id=\"img_id131534783734367\"><alt id=\"alt_id271534783734367\"> ជម្រើសមើលរូបភាពប្រអប់ </alt></image>"
+
+#. ncxnF
+#: optionen_screenshots.xhp
+msgctxt ""
+"optionen_screenshots.xhp\n"
+"par_id431534383734366\n"
+"help.text"
+msgid "<image src=\"media/screenshots/cui/ui/optfltrpage/OptFltrPage.png\" id=\"img_id131594783734367\"><alt id=\"alt_id271534783734367\">Options Load/Save Dialog Image</alt></image>"
+msgstr "<image src=\"media/screenshots/cui/ui/optfltrpage/OptFltrPage.png\" id=\"img_id131594783734367\"><alt id=\"alt_id271534783734367\"> ជម្រើសផ្ទុក / រក្សាទុករូបភាពប្រអប់ </alt></image>"
+
+#. 4ESEt
+#: optionen_screenshots.xhp
+msgctxt ""
+"optionen_screenshots.xhp\n"
+"par_id431534385734366\n"
+"help.text"
+msgid "<image src=\"media/screenshots/cui/ui/opthtmlpage/OptHtmlPage.png\" id=\"img_id131594783734368\"><alt id=\"alt_id271534783734367\">Options HTML Dialog Image</alt></image>"
+msgstr "<image src=\"media/screenshots/cui/ui/opthtmlpage/OptHtmlPage.png\" id=\"img_id131594783734368\"><alt id=\"alt_id271534783734367\"> ជម្រើសប្រអប់ប្រអប់ HTML </alt></image>"
+
+#. FjGtw
+#: optionen_screenshots.xhp
+msgctxt ""
+"optionen_screenshots.xhp\n"
+"par_id431564385734366\n"
+"help.text"
+msgid "<image src=\"media/screenshots/cui/ui/optaccessibilitypage/OptAccessibilityPage.png\" id=\"img_id131592783734368\"><alt id=\"alt_id271534783734367\">Options Accessibility Dialog Image</alt></image>"
+msgstr "<image src=\"media/screenshots/cui/ui/optaccessibilitypage/OptAccessibilityPage.png\" id=\"img_id131592783734368\"><alt id=\"alt_id271534783734367\"> ជម្រើសប្រអប់រូបភាពភាពងាយស្រួល </alt></image>"
+
+#. XPDyx
+#: optionen_screenshots.xhp
+msgctxt ""
+"optionen_screenshots.xhp\n"
+"par_id431564381734366\n"
+"help.text"
+msgid "<image src=\"media/screenshots/cui/ui/optsavepage/OptSavePage.png\" id=\"img_id231592783734368\"><alt id=\"alt_id271534783734367\">Options Save Dialog Image</alt></image>"
+msgstr "<image src=\"media/screenshots/cui/ui/optsavepage/OptSavePage.png\" id=\"img_id231592783734368\"><alt id=\"alt_id271534783734367\"> ជម្រើសរក្សាទុករូបភាពប្រអប់ </alt></image>"
+
+#. FAeBR
+#: optionen_screenshots.xhp
+msgctxt ""
+"optionen_screenshots.xhp\n"
+"par_id481564381734366\n"
+"help.text"
+msgid "<image src=\"media/screenshots/cui/ui/optadvancedpage/OptAdvancedPage.png\" id=\"img_id231592783736368\"><alt id=\"alt_id271534783734367\">Options Advanced Dialog Image</alt></image>"
+msgstr "<image src=\"media/screenshots/cui/ui/optadvancedpage/OptAdvancedPage.png\" id=\"img_id231592783736368\"><alt id=\"alt_id271534783734367\"> ជម្រើសប្រអប់រូបភាពកម្រិតខ្ពស់ </alt></image>"
+
+#. NJzQs
+#: optionen_screenshots.xhp
+msgctxt ""
+"optionen_screenshots.xhp\n"
+"par_id481364381734366\n"
+"help.text"
+msgid "<image src=\"media/screenshots/cui/ui/optasianpage/OptAsianPage.png\" id=\"img_id231592783736868\"><alt id=\"alt_id271534783734367\">Options Asian Dialog Image</alt></image>"
+msgstr "<image src=\"media/screenshots/cui/ui/optasianpage/OptAsianPage.png\" id=\"img_id231592783736868\"><alt id=\"alt_id271534783734367\"> ជម្រើសប្រអប់ប្រអប់អាស៊ី </alt></image>"
+
+#. zLdmq
+#: optionen_screenshots.xhp
+msgctxt ""
+"optionen_screenshots.xhp\n"
+"par_id481394381734366\n"
+"help.text"
+msgid "<image src=\"media/screenshots/cui/ui/optctlpage/OptCTLPage.png\" id=\"img_id231592783736868\"><alt id=\"alt_id271534783734367\">Options CTL Dialog Image</alt></image>"
+msgstr "<image src=\"media/screenshots/cui/ui/optctlpage/OptCTLPage.png\" id=\"img_id231592783736868\"><alt id=\"alt_id271534783734367\"> ជម្រើសជម្រើសប្រអប់ស៊ីធីអិល </alt></image>"
+
+#. kEHFK
+#: optionen_screenshots.xhp
+msgctxt ""
+"optionen_screenshots.xhp\n"
+"par_id481394381724366\n"
+"help.text"
+msgid "<image src=\"media/screenshots/cui/ui/optsecuritypage/OptSecurityPage.png\" id=\"img_id231592783736868\"><alt id=\"alt_id271534783734367\">Options Security Dialog Image</alt></image>"
+msgstr "<image src=\"media/screenshots/cui/ui/optsecuritypage/OptSecurityPage.png\" id=\"img_id231592783736868\"><alt id=\"alt_id271534783734367\"> ជម្រើសរូបភាពប្រអប់សុវត្ថិភាព </alt></image>"
+
+#. 4HEUe
+#: optionen_screenshots.xhp
+msgctxt ""
+"optionen_screenshots.xhp\n"
+"par_id361572483243630\n"
+"help.text"
+msgid "<image src=\"media/screenshots/cui/ui/optlanguagespage/OptLanguagesPage.png\" id=\"img_id841572483243631\"><alt id=\"alt_id131572483243632\">Options Language Dialog Image</alt></image>"
+msgstr "<image src=\"media/screenshots/cui/ui/optlanguagespage/OptLanguagesPage.png\" id=\"img_id841572483243631\"><alt id=\"alt_id131572483243632\"> ជម្រើសភាសាប្រអប់រូបភាព </alt></image>"
+
+#. 9hcKT
+#: optionen_screenshots.xhp
+msgctxt ""
+"optionen_screenshots.xhp\n"
+"par_id511572514566037\n"
+"help.text"
+msgid "<image src=\"media/screenshots/cui/ui/optgeneralpage/OptGeneralPage.png\" id=\"img_id11572514566037\"><alt id=\"alt_id41572514566038\">Options General Dialog Image</alt></image>"
+msgstr "<image src=\"media/screenshots/cui/ui/optgeneralpage/OptGeneralPage.png\" id=\"img_id11572514566037\"><alt id=\"alt_id41572514566038\"> ជម្រើសរូបភាពប្រអប់ទូទៅ </alt></image>"
+
+#. Ak6ph
+#: shared_cui_screenshots.xhp
+msgctxt ""
+"shared_cui_screenshots.xhp\n"
+"tit\n"
+"help.text"
+msgid "Shared CUI Screenshots"
+msgstr "បានចែករំលែករូបថតអេក្រង់ស៊ីអេយូ"
+
+#. BQjvk
+#: shared_cui_screenshots.xhp
+msgctxt ""
+"shared_cui_screenshots.xhp\n"
+"par_id341572255825997\n"
+"help.text"
+msgid "<image src=\"media/screenshots/cui/ui/effectspage/EffectsPage.png\" id=\"img_id741572255825998\"><alt id=\"alt_id261572255825998\">Font Effects Page Dialog Image</alt></image>"
+msgstr "<image src=\"media/screenshots/cui/ui/effectspage/EffectsPage.png\" id=\"img_id741572255825998\"><alt id=\"alt_id261572255825998\"> ប្រអប់ទំព័របែបផែនពុម្ពអក្សរ </alt></image>"
+
+#. 5Fp2F
+#: shared_cui_screenshots.xhp
+msgctxt ""
+"shared_cui_screenshots.xhp\n"
+"par_id91572261220492\n"
+"help.text"
+msgid "<image src=\"media/screenshots/cui/ui/hyperlinkdocpage/HyperlinkDocPage.png\" id=\"img_id41572261220494\"><alt id=\"alt_id561572261220495\">Hyperlink Doc Page Dialog Image</alt></image>"
+msgstr "<image src=\"media/screenshots/cui/ui/hyperlinkdocpage/HyperlinkDocPage.png\" id=\"img_id41572261220494\"><alt id=\"alt_id561572261220495\"> ប្រអប់ប្រអប់ឯកសារតំណខ្ពស់ទំព័រ </alt></image>"
+
+#. q52zT
+#: shared_cui_screenshots.xhp
+msgctxt ""
+"shared_cui_screenshots.xhp\n"
+"par_id321572273256466\n"
+"help.text"
+msgid "<image src=\"media/screenshots/cui/ui/hyperlinkinternetpage/HyperlinkInternetPage.png\" id=\"img_id691572273256467\"><alt id=\"alt_id981572273256469\">Hyperlink Internet Dialog Image</alt></image>"
+msgstr "<image src=\"media/screenshots/cui/ui/hyperlinkinternetpage/HyperlinkInternetPage.png\" id=\"img_id691572273256467\"><alt id=\"alt_id981572273256469\"> រូបភាពប្រអប់អ៊ីនធឺណេតតំណខ្ពស់ </alt></image>"
+
+#. 7gbR6
+#: shared_cui_screenshots.xhp
+msgctxt ""
+"shared_cui_screenshots.xhp\n"
+"par_id681572278003926\n"
+"help.text"
+msgid "<image src=\"media/screenshots/cui/ui/hyperlinkmailpage/HyperlinkMailPage.png\" id=\"img_id791572287939226\"><alt id=\"alt_id291572278003928\">Hyperlink Mail Dialog Image</alt></image>"
+msgstr "<image src=\"media/screenshots/cui/ui/hyperlinkmailpage/HyperlinkMailPage.png\" id=\"img_id791572287939226\"><alt id=\"alt_id291572278003928\"> រូបភាពប្រអប់អ៊ីមែលតំណខ្ពស់ </alt></image>"
+
+#. UZndE
+#: shared_cui_screenshots.xhp
+msgctxt ""
+"shared_cui_screenshots.xhp\n"
+"par_id911572279106813\n"
+"help.text"
+msgid "<image src=\"media/screenshots/cui/ui/hyperlinknewdocpage/HyperlinkNewDocPage.png\" id=\"img_id411572279106814\"><alt id=\"alt_id611572279106816\">Hyperlink New Document Dialog Image</alt></image>"
+msgstr "<image src=\"media/screenshots/cui/ui/hyperlinknewdocpage/HyperlinkNewDocPage.png\" id=\"img_id411572279106814\"><alt id=\"alt_id611572279106816\"> រូបភាពប្រអប់ឯកសារថ្មីតំណខ្ពស់ </alt></image>"
+
+#. j7M36
+#: shared_cui_screenshots.xhp
+msgctxt ""
+"shared_cui_screenshots.xhp\n"
+"par_id61884\n"
+"help.text"
+msgid "<image id=\"img_id5337\" src=\"media/screenshots/cui/ui/colorpickerdialog/ColorPicker.png\"><alt id=\"alt_id34144\">The Pick a Color window</alt></image>"
+msgstr "<image id=\"img_id5337\" src=\"media/screenshots/cui/ui/colorpickerdialog/ColorPicker.png\"><alt id=\"alt_id34144\"> បង្អួចជ្រើសយកពណ៌ </alt></image>"
+
+#. WUBTK
+#: shared_cui_screenshots.xhp
+msgctxt ""
+"shared_cui_screenshots.xhp\n"
+"par_id651578766209506\n"
+"help.text"
+msgid "<image id=\"img_id521237\" src=\"media/screenshots/cui/ui/colorpage/ColorPage.png\"><alt id=\"alt_id378144\">Color page dialog</alt></image>"
+msgstr "<image id=\"img_id521237\" src=\"media/screenshots/cui/ui/colorpage/ColorPage.png\"><alt id=\"alt_id378144\"> ប្រអប់ទំព័រពណ៌ </alt></image>"
+
+#. mpmiK
+#: shared_cui_screenshots.xhp
+msgctxt ""
+"shared_cui_screenshots.xhp\n"
+"par_id531589156232176\n"
+"help.text"
+msgid "<image id=\"img_id090120160131201466\" src=\"media/screenshots/cui/ui/pageformatpage/PageFormatPage.png\"><alt id=\"alt_id090120160131201466\">Page format tab page</alt></image>"
+msgstr "<image id=\"img_id090120160131201466\" src=\"media/screenshots/cui/ui/pageformatpage/PageFormatPage.png\"><alt id=\"alt_id090120160131201466\"> ទំព័រផ្ទាំងទ្រង់ទ្រាយទំព័រ </alt></image>"
+
+#. agtWk
+#: simpress_screenshots.xhp
+msgctxt ""
+"simpress_screenshots.xhp\n"
+"tit\n"
+"help.text"
+msgid "SIMPRESS Screenshots"
+msgstr "រូបថតអេក្រង់ស៊ីមខម"
+
+#. c6FJr
+#: simpress_screenshots.xhp
+msgctxt ""
+"simpress_screenshots.xhp\n"
+"par_id431534783734366\n"
+"help.text"
+msgid "<image src=\"media/screenshots/modules/simpress/ui/optimpressgeneralpage/OptSavePage.png\" id=\"img_id131534783734367\"><alt id=\"alt_id271534783734367\">Impress General Options Dialog</alt></image>"
+msgstr "<image src=\"media/screenshots/modules/simpress/ui/optimpressgeneralpage/OptSavePage.png\" id=\"img_id131534783734367\"><alt id=\"alt_id271534783734367\"> ប្រអប់ជម្រើសទូទៅគួរឱ្យចាប់អារម្មណ៍ </alt></image>"
+
+#. 5EVvY
+#: simpress_screenshots.xhp
+msgctxt ""
+"simpress_screenshots.xhp\n"
+"par_id431514783734366\n"
+"help.text"
+msgid "<image src=\"media/screenshots/modules/simpress/ui/sdviewpage/SdViewPage.png\" id=\"img_id131531783734367\"><alt id=\"alt_id271534783731367\">Impress View Options Dialog</alt></image>"
+msgstr "<image src=\"media/screenshots/modules/simpress/ui/sdviewpage/SdViewPage.png\" id=\"img_id131531783734367\"><alt id=\"alt_id271534783731367\"> ប្រអប់ជម្រើសមើលចំណាប់អារម្មណ៍ </alt></image>"
+
+#. a5Djv
+#: simpress_screenshots.xhp
+msgctxt ""
+"simpress_screenshots.xhp\n"
+"par_id231514783734366\n"
+"help.text"
+msgid "<image src=\"media/screenshots/modules/simpress/ui/prntopts/prntopts.png\" id=\"img_id231531783734367\"><alt id=\"alt_id671534783731367\">Impress Print Options Dialog</alt></image>"
+msgstr "<image src=\"media/screenshots/modules/simpress/ui/prntopts/prntopts.png\" id=\"img_id231531783734367\"><alt id=\"alt_id671534783731367\"> ប្រអប់ជម្រើសបោះពុម្ពគួរឱ្យចាប់អារម្មណ៍ </alt></image>"
+
+#. nUdKY
+#: simpress_screenshots.xhp
+msgctxt ""
+"simpress_screenshots.xhp\n"
+"par_id231414783734366\n"
+"help.text"
+msgid "<image src=\"media/screenshots/modules/simpress/ui/photoalbum/PhotoAlbumCreatorDialog.png\" id=\"img_id231591783734367\"><alt id=\"alt_id671534783731067\">Impress Photo Album Dialog</alt></image>"
+msgstr "<image src=\"media/screenshots/modules/simpress/ui/photoalbum/PhotoAlbumCreatorDialog.png\" id=\"img_id231591783734367\"><alt id=\"alt_id671534783731067\"> ប្រអប់អាល់ប៊ុមរូបថតគួរឱ្យចាប់អារម្មណ៍ </alt></image>"
+
+#. CitKQ
+#: simpress_screenshots.xhp
+msgctxt ""
+"simpress_screenshots.xhp\n"
+"par_id231414783735366\n"
+"help.text"
+msgid "<image src=\"media/screenshots/modules/simpress/ui/presentationdialog/PresentationDialog.png\" id=\"img_id231591783734567\"><alt id=\"alt_id671538783731067\">Presentation Dialog</alt></image>"
+msgstr "<image src=\"media/screenshots/modules/simpress/ui/presentationdialog/PresentationDialog.png\" id=\"img_id231591783734567\"><alt id=\"alt_id671538783731067\"> ប្រអប់បទបង្ហាញ </alt></image>"
+
+#. yFT8R
+#: simpress_screenshots.xhp
+msgctxt ""
+"simpress_screenshots.xhp\n"
+"par_id231414783735360\n"
+"help.text"
+msgid "<image src=\"media/screenshots/modules/simpress/ui/slidedesigndialog/SlideDesignDialog.png\" id=\"img_id231591783734560\"><alt id=\"alt_id671538783731060\">Slide Design Dialog</alt></image>"
+msgstr "<image src=\"media/screenshots/modules/simpress/ui/slidedesigndialog/SlideDesignDialog.png\" id=\"img_id231591783734560\"><alt id=\"alt_id671538783731060\"> ប្រអប់រចនាស្លាយ </alt></image>"
+
+#. dgGzF
+#: simpress_screenshots.xhp
+msgctxt ""
+"simpress_screenshots.xhp\n"
+"par_id231414780735360\n"
+"help.text"
+msgid "<image src=\"media/screenshots/modules/simpress/ui/headerfooterdialog/HeaderFooterDialog.png\" id=\"img_id231591780734560\"><alt id=\"alt_id671538780731060\">Header Footer Dialog</alt></image>"
+msgstr "<image src=\"media/screenshots/modules/simpress/ui/headerfooterdialog/HeaderFooterDialog.png\" id=\"img_id231591780734560\"><alt id=\"alt_id671538780731060\"> ប្រអប់ក្បាលទំព័រ </alt></image>"
+
+#. cxPnD
+#: simpress_screenshots.xhp
+msgctxt ""
+"simpress_screenshots.xhp\n"
+"par_id891577672025399\n"
+"help.text"
+msgid "<image src=\"media/screenshots/modules/simpress/ui/masterlayoutdlg/MasterLayoutDialog.png\" id=\"img_id231577672025400\"><alt id=\"alt_id601577672025401\">Master Layout Dialog</alt></image>"
+msgstr "<image src=\"media/screenshots/modules/simpress/ui/masterlayoutdlg/MasterLayoutDialog.png\" id=\"img_id231577672025400\"><alt id=\"alt_id601577672025401\"> ប្រអប់ប្លង់មេ </alt></image>"
+
+#. P2Ap4
+#: simpress_screenshots.xhp
+msgctxt ""
+"simpress_screenshots.xhp\n"
+"par_id521577673588040\n"
+"help.text"
+msgid "<image src=\"media/screenshots/modules/simpress/ui/customslideshows/CustomSlideShows.png\" id=\"img_id51577673588041\"><alt id=\"alt_id171577673588042\">Custom Slide Shows Dialog</alt></image>"
+msgstr "<image src=\"media/screenshots/modules/simpress/ui/customslideshows/CustomSlideShows.png\" id=\"img_id51577673588041\"><alt id=\"alt_id171577673588042\"> ផ្ទាំងបង្ហាញស្លាយផ្ទាល់ខ្លួន </alt></image>"
+
+#. fAstm
+#: simpress_screenshots.xhp
+msgctxt ""
+"simpress_screenshots.xhp\n"
+"par_id651577674792950\n"
+"help.text"
+msgid "<image src=\"media/screenshots/modules/simpress/ui/definecustomslideshow/DefineCustomSlideShow.png\" id=\"img_id791577674792951\"><alt id=\"alt_id171577674792952\">Define Custom Slide Show Dialog</alt></image>"
+msgstr "<image src=\"media/screenshots/modules/simpress/ui/definecustomslideshow/DefineCustomSlideShow.png\" id=\"img_id791577674792951\"><alt id=\"alt_id171577674792952\"> កំណត់ប្រអប់បង្ហាញស្លាយផ្ទាល់ខ្លួន </alt></image>"
+
+#. nwxvb
+#: simpress_screenshots.xhp
+msgctxt ""
+"simpress_screenshots.xhp\n"
+"par_id291577710686074\n"
+"help.text"
+msgid "<image src=\"media/screenshots/modules/simpress/ui/customanimationeffecttab/EffectTab.png\" id=\"img_id761577710686075\"><alt id=\"alt_id701577710686076\">Enhanced Animation Effects Dialog</alt></image>"
+msgstr "<image src=\"media/screenshots/modules/simpress/ui/customanimationeffecttab/EffectTab.png\" id=\"img_id761577710686075\"><alt id=\"alt_id701577710686076\"> ប្រអប់ប្រសិទ្ធិភាពជីវចលដែលបានលើកកម្ពស់ </alt></image>"
+
+#. 7grsS
+#: simpress_screenshots.xhp
+msgctxt ""
+"simpress_screenshots.xhp\n"
+"par_id911577712535653\n"
+"help.text"
+msgid "<image src=\"media/screenshots/modules/simpress/ui/customanimationtexttab/TextAnimationTab.png\" id=\"img_id461577712535654\"><alt id=\"alt_id501577712535655\">Text Animation Dialog</alt></image>"
+msgstr "<image src=\"media/screenshots/modules/simpress/ui/customanimationtexttab/TextAnimationTab.png\" id=\"img_id461577712535654\"><alt id=\"alt_id501577712535655\"> ប្រអប់ចលនាអត្ថបទ </alt></image>"
+
+#. 9FESr
+#: simpress_screenshots.xhp
+msgctxt ""
+"simpress_screenshots.xhp\n"
+"par_id471577714065260\n"
+"help.text"
+msgid "<image src=\"media/screenshots/modules/simpress/ui/customanimationtimingtab/TimingTab.png\" id=\"img_id381577714065261\"><alt id=\"alt_id151577714065262\">Custom Animation Timing Dialog</alt></image>"
+msgstr "<image src=\"media/screenshots/modules/simpress/ui/customanimationtimingtab/TimingTab.png\" id=\"img_id381577714065261\"><alt id=\"alt_id151577714065262\"> ប្រអប់ពេលវេលាកំណត់ចលនាផ្ទាល់ខ្លួន </alt></image>"
+
+#. 5E4AD
+#: simpress_screenshots.xhp
+msgctxt ""
+"simpress_screenshots.xhp\n"
+"par_id431634783734366\n"
+"help.text"
+msgid "<image src=\"media/screenshots/miscellaneous/impressremote/ui/image02/impress_remote02.png\" id=\"img_id131634783734367\"><alt id=\"alt_id273534783734367\">Alternate mode: all slide thumbnails for direct selection or jumping. The current slide has a red selection cursor</alt></image>"
+msgstr "<image src=\"media/screenshots/miscellaneous/impressremote/ui/image02/impress_remote02.png\" id=\"img_id131634783734367\"><alt id=\"alt_id273534783734367\"> របៀបជំនួស៖ រូបភាពតូចៗស្លាយទាំងអស់សម្រាប់ការជ្រើសរើសឬលោតដោយផ្ទាល់។ ស្លាយបច្ចុប្បន្នមានទស្សន៍ទ្រនិចជម្រើសពណ៌ក្រហម </alt></image>"
+
+#. Vda3k
+#: simpress_screenshots.xhp
+msgctxt ""
+"simpress_screenshots.xhp\n"
+"par_id431634783034366\n"
+"help.text"
+msgid "<image src=\"media/screenshots/miscellaneous/impressremote/ui/image01/impress_remote01.png\" id=\"img_id121634783734367\"><alt id=\"alt_id273534733734367\">Impress Remote: initial thumbnail shown</alt></image>"
+msgstr "<image src=\"media/screenshots/miscellaneous/impressremote/ui/image01/impress_remote01.png\" id=\"img_id121634783734367\"><alt id=\"alt_id273534733734367\"> Impress ពីចម្ងាយ៖ រូបភាពតូចដំបូងបានបង្ហាញ </alt></image>"
+
+#. 9viDm
+#: svx_screenshots.xhp
+msgctxt ""
+"svx_screenshots.xhp\n"
+"tit\n"
+"help.text"
+msgid "SVX Screenshots"
+msgstr "រូបថតអេក្រង់អេសអិច"
+
+#. tBy37
+#: svx_screenshots.xhp
+msgctxt ""
+"svx_screenshots.xhp\n"
+"par_id431534783734366\n"
+"help.text"
+msgid "<image src=\"media/screenshots/svx/ui/compressgraphicdialog/CompressGraphicDialog.png\" id=\"img_id131534783734367\"><alt id=\"alt_id271534783734367\">Compress Image Dialog</alt></image>"
+msgstr "<image src=\"media/screenshots/svx/ui/compressgraphicdialog/CompressGraphicDialog.png\" id=\"img_id131534783734367\"><alt id=\"alt_id271534783734367\"> បង្រួមប្រអប់រូបភាព </alt></image>"
+
+#. AW8Pn
+#: youtubevideos.xhp
+msgctxt ""
+"youtubevideos.xhp\n"
+"tit\n"
+"help.text"
+msgid "YouTube Videos"
+msgstr "វីឌីអូយូធ្យូប"

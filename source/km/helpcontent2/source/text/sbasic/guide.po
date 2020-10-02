@@ -1,20 +1,19 @@
-#. extracted from helpcontent2/source/text/sbasic/guide
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
-"POT-Creation-Date: 2019-11-08 19:34+0100\n"
-"PO-Revision-Date: 2018-04-25 12:37+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2020-03-10 13:36+0100\n"
+"PO-Revision-Date: 2020-09-10 12:43+0700\n"
+"Last-Translator: Koompi Apps Localization\n"
 "Language: km\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Accelerator-Marker: ~\n"
-"X-Generator: LibreOffice\n"
-"X-POOTLE-MTIME: 1524659878.000000\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-POOTLE-MTIME: 1535975854.000000\n"
+"Language-Team: KOOMPI Apps Localization\n"
 
 #. WcTKB
 #: access2base.xhp
@@ -32,7 +31,7 @@ msgctxt ""
 "bm_idA2B001\n"
 "help.text"
 msgid "<bookmark_value>Access2Base</bookmark_value><bookmark_value>Microsoft Access; Access2Base</bookmark_value><bookmark_value>Access databases; run in Base</bookmark_value>"
-msgstr ""
+msgstr "<bookmark_value>Access2Base</bookmark_value><bookmark_value>Microsoft Access; Access2Base</bookmark_value><bookmark_value>Access databases; run in Base</bookmark_value>"
 
 #. V4kCb
 #: access2base.xhp
@@ -50,7 +49,7 @@ msgctxt ""
 "hd_idA2B003\n"
 "help.text"
 msgid "What is Access2Base?"
-msgstr ""
+msgstr "អ្វីជា Access2Base?"
 
 #. FKEy5
 #: access2base.xhp
@@ -68,7 +67,7 @@ msgctxt ""
 "par_idA2B005\n"
 "help.text"
 msgid "The functionalities provided by the implemented macros are all directly inspired by Microsoft Access. The macros are callable mainly from a LibreOffice <emph>Base</emph> application, but also from <emph>any</emph> LibreOffice document (Writer, Calc, ...) where access to data stored in a database makes sense."
-msgstr ""
+msgstr "មុខងារដែលបានផ្តល់ដោយម៉ាក្រូដែលបានអនុវត្តទាំងអស់ត្រូវបានបំផុសគំនិតដោយផ្ទាល់ដោយក្រុមហ៊ុន Microsoft ។ ម៉ាក្រូអាចហៅបានជាចម្បងពីកម្មវិធីរបស់ LibreOffice <emph> មូលដ្ឋាន </emph> ហើយក៏មកពី <emph> ឯកសារ </emph> ណាមួយរបស់ LibreOffice ផងដែរ (Writer, Calc, ... ) ដែលការចូលដំណើរការទិន្នន័យត្រូវបានរក្សាទុកក្នុងឃ្លាំងទិន្នន័យ។"
 
 #. tmNkV
 #: access2base.xhp
@@ -86,7 +85,7 @@ msgctxt ""
 "par_idA2B007\n"
 "help.text"
 msgid "<emph>The library is documented online on </emph><link href=\"http://www.access2base.com\" name=\"http://www.access2base.com\"><emph>http://www.access2base.com</emph></link>."
-msgstr ""
+msgstr "<emph> បណ្ណាល័យត្រូវបានចងក្រងជាឯកសារតាមគេហទំព័រ </emph><link href=\"http://www.access2base.com\" name=\"http://www.access2base.com\"> <emph> http: // www .access2base.com </emph> </link> ។"
 
 #. fGJgF
 #: access2base.xhp
@@ -104,7 +103,7 @@ msgctxt ""
 "par_idA2B009\n"
 "help.text"
 msgid "a simplified and extensible API for <emph>forms</emph>, <emph>dialogs</emph> and <emph>controls</emph> manipulations similar with the Microsoft Access object model,"
-msgstr ""
+msgstr "សាមញ្ញនិងអាចពង្រីក API បានសម្រាប់<emph> ទម្រង់ </emph> ប្រអប់ </emph> និង <emph> ការគ្រប់គ្រង </emph> ការដំណើរការប្រហាក់ប្រហែលនឹងម៉ូឌុល របស់ Microsoft Access ។"
 
 #. ZTQD8
 #: access2base.xhp
@@ -113,7 +112,7 @@ msgctxt ""
 "par_idA2B010\n"
 "help.text"
 msgid "an API for database access with the <emph>table</emph>, <emph>query</emph>, <emph>recordset</emph> and <emph>field</emph> objects,"
-msgstr ""
+msgstr "មាន API មួយសម្រាប់ការចូលប្រើឃ្លាំងទិន្នន័យជាមួយតារាង <emph>តារាង</emph>សំណួរ<emph>សំណួរ</emph>ឧបករណ៍ថតចម្លង<emph>និង<emph>វាល</emph> វត្ថុបំណង,"
 
 #. z3ZS9
 #: access2base.xhp
@@ -122,7 +121,7 @@ msgctxt ""
 "par_idA2B011\n"
 "help.text"
 msgid "a number of <emph>actions</emph> with a syntax identical to their corresponding Microsoft Access macros/actions,"
-msgstr ""
+msgstr "ចំនួននៃ <emph> សកម្មភាព </emph> ជាមួយវាក្យសម្ព័ន្ធដូចគ្នាបេះបិទទៅនឹងម៉ាក្រូ / សកម្មភាពរបស់ Microsoft Access ។"
 
 #. GQaLp
 #: access2base.xhp
@@ -131,7 +130,7 @@ msgctxt ""
 "par_idA2B012\n"
 "help.text"
 msgid "the <emph>DLookup</emph>, <emph>DSum</emph>, ... database functions,"
-msgstr ""
+msgstr "<emph>នេះ DLookup</emph>, <emph>DSum</emph>, ... មុខងារមូលដ្ឋានទិន្នន័យ,"
 
 #. jeLAg
 #: access2base.xhp
@@ -140,7 +139,7 @@ msgctxt ""
 "par_idA2B013\n"
 "help.text"
 msgid "the support of the shortcut notations like <item type=\"literal\">Forms!myForm!myControl</item>"
-msgstr "ការ​គាំទ្រ​ចំណារ​ផ្លូវកាត់​ដូចជា <item type=\"literal\">Forms!myForm!myControl</item>"
+msgstr "ការ​គាំទ្រ​ចំណារ​ផ្លូវកាត់​ដូចជា <item type=\"literal\">ទម្រង់! ទម្រង់របស់ខ្ញុំ! ការគ្រប់គ្រងរបស់ខ្ញុំ</item>"
 
 #. QDQtE
 #: access2base.xhp
@@ -149,7 +148,7 @@ msgctxt ""
 "par_idA2B014\n"
 "help.text"
 msgid "in addition"
-msgstr ""
+msgstr "លើស​ពី​នេះ​ទៀត"
 
 #. 9EyMt
 #: access2base.xhp
@@ -158,7 +157,7 @@ msgctxt ""
 "par_idA2B015\n"
 "help.text"
 msgid "a consistent errors and exceptions handler,"
-msgstr ""
+msgstr "បញ្ហាថេរនិងដោះស្រាយករណីលើកលែង"
 
 #. 72jo7
 #: access2base.xhp
@@ -167,7 +166,7 @@ msgctxt ""
 "par_idA2B016\n"
 "help.text"
 msgid "facilities for programming form, dialog and control <emph>events</emph> and"
-msgstr ""
+msgstr "កន្លែងសម្រាប់សំណុំបែបបទសរសេរកម្មវិធីប្រអប់និងត្រួតពិនិត្យ <emph> ព្រឹត្តិការណ៍ </emph> និង"
 
 #. ByZAC
 #: access2base.xhp
@@ -176,7 +175,7 @@ msgctxt ""
 "par_idA2B017\n"
 "help.text"
 msgid "the support of both embedded forms and standalone (Writer) forms."
-msgstr ""
+msgstr "ការគាំទ្រទាំងទម្រង់បង្កប់និងទំរង់តែឯង (អ្នកនិពន្ធ) ។"
 
 #. tmq7c
 #: access2base.xhp
@@ -185,7 +184,7 @@ msgctxt ""
 "hd_idA2B018\n"
 "help.text"
 msgid "Compare Access2Base with Microsoft Access VBA"
-msgstr ""
+msgstr "ប្រៀបធៀប Access2Base ជាមួយ Microsoft Access VBA"
 
 #. 4eXWf
 #: basic_2_python.xhp
@@ -194,7 +193,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Basic to Python"
-msgstr ""
+msgstr "មូលដ្ឋាន ផាយតុន"
 
 #. eoGBT
 #: basic_2_python.xhp
@@ -203,7 +202,7 @@ msgctxt ""
 "N0430\n"
 "help.text"
 msgid "<bookmark_value>Basic;Calling Python</bookmark_value>         <bookmark_value>API;SimpleFileAccess</bookmark_value>         <bookmark_value>API;PathSettings</bookmark_value>         <bookmark_value>API;XScript</bookmark_value>"
-msgstr ""
+msgstr "<bookmark_value>មូលដ្ឋាន;ការហៅ ផាយតុន</bookmark_value>         <bookmark_value>API;ការចូលប្រើឯកសារសាមញ្ញ</bookmark_value>         <bookmark_value>API;ការកំណត់ផ្លូវ</bookmark_value>         <bookmark_value>API;ស្គ្រីបX</bookmark_value>"
 
 #. 8tB4f
 #: basic_2_python.xhp
@@ -212,7 +211,7 @@ msgctxt ""
 "hd_id811571848401485\n"
 "help.text"
 msgid "<variable id=\"basic2python\"><link href=\"text/sbasic/guide/basic_2_python.xhp\" name=\"Basic Programming Examples\">Calling Python Scripts from Basic</link></variable>"
-msgstr ""
+msgstr "<variable id=\"basic2python\"><link href=\"text/sbasic/guide/basic_2_python.xhp\" name=\"Basic Programming Examples\">ហៅ Python Scripts ពីបញ្ជាមូលដ្ឋាន</link></variable>"
 
 #. P7E4G
 #: basic_2_python.xhp
@@ -221,7 +220,7 @@ msgctxt ""
 "N0432\n"
 "help.text"
 msgid "Calling Python scripts from %PRODUCTNAME Basic macros is possible, and valuable features can be obtained such as:"
-msgstr ""
+msgstr "កំពុងហៅ​​ ស្គ្រីបផាយតុន ពី %PRODUCTNAMEម៉ាក្រមូលដ្ឋានគឺអាចទៅរួច និង មុខងារដែលមានតម្លៃដែលអាចទទួលយកបានដូចជា៖"
 
 #. ZKSB3
 #: basic_2_python.xhp
@@ -230,7 +229,7 @@ msgctxt ""
 "N0433\n"
 "help.text"
 msgid "<literal>ComputerName</literal> identification or <literal>OSName</literal> detection are possible,"
-msgstr ""
+msgstr "<literal>ឈ្មោះកំុព្យូរទ័រ</literal>បញ្ជាក់អត្តសញ្ញាណ <literal>ឈ្មោះOS</literal>ការរកឃើញដែលអាចទៅរួច៖"
 
 #. AW7Lr
 #: basic_2_python.xhp
@@ -239,7 +238,7 @@ msgctxt ""
 "N0434\n"
 "help.text"
 msgid "Basic <literal>FileLen()</literal> function and <link href=\"https://api.libreoffice.org/docs/idl/ref/servicecom_1_1sun_1_1star_1_1ucb_1_1SimpleFileAccess.html\" name=\"ucb.SimpleFileAccess\">com.sun.star.ucb.SimpleFileAccess.</link><literal>getSize()</literal> API function exhibit a 2 Gigabytes file size upper limit that Python helps to overcome,"
-msgstr ""
+msgstr "មុខងារមូលដ្ឋាន<literal>FileLen()</literal> និង <link href=\"https://api.libreoffice.org/docs/idl/ref/servicecom_1_1sun_1_1star_1_1ucb_1_1SimpleFileAccess.html\" name=\"ucb.SimpleFileAccess\">com.sun.star.ucb.SimpleFileAccess.</link><literal>getSize()</literal> មុខងារ API បង្ហាញទំហំឯកសារ ២ ជីហ្គាបៃដែលជាដែនកំណត់ខាងលើដែលពស់ថ្លាន់ជួយយកឈ្នះ។"
 
 #. At8D2
 #: basic_2_python.xhp
@@ -248,7 +247,7 @@ msgctxt ""
 "N0435\n"
 "help.text"
 msgid "<link href=\"https://api.libreoffice.org/docs/idl/ref/servicecom_1_1sun_1_1star_1_1util_1_1PathSettings.html\" name=\"util.PathSettings\">com.sun.star.util.PathSettings</link> can be normalized,"
-msgstr ""
+msgstr "<link href=\"https://api.libreoffice.org/docs/idl/ref/servicecom_1_1sun_1_1star_1_1util_1_1PathSettings.html\" name=\"util.PathSettings\">com.sun.star.util.PathSettings</link> អាចធ្វើជាធម្មតា។"
 
 #. CPd9K
 #: basic_2_python.xhp
@@ -257,7 +256,7 @@ msgctxt ""
 "N0436\n"
 "help.text"
 msgid "and many more."
-msgstr ""
+msgstr "និងមានច្រើនទៀត។"
 
 #. JvzSR
 #: basic_2_python.xhp
@@ -266,7 +265,7 @@ msgctxt ""
 "N0437\n"
 "help.text"
 msgid "A reasonable exposure to %PRODUCTNAME Basic and to <link href=\"https://api.libreoffice.org/\" name=\"Application Programming Interface\">Application Programming Interface (API)</link> features is recommended prior to perform inter-language calls from Basic to Python, to JavaScript or any other script engine."
-msgstr ""
+msgstr "ការបង្ហាញសមហេតុផលចំពោះ %PRODUCTNAME មូលដ្ឋាន និងដើម្បីភ្ជាប់<link href=\"https://api.libreoffice.org/\" name=\"Application Programming Interface\">ចំណុចប្រទាក់ការសរសេរកម្មវិធី(API)</link> ត្រូវបានណែនាំមុនពេលអនុវត្តអន្តរ - ភាសាហៅពី មូលដ្ឋាន ទៅ ផាយតុន ទៅ ចាវ៉ាស្គ្រីប ឬម៉ាស៊ីនស្គ្រីបផ្សេងទៀត។"
 
 #. 4jY8s
 #: basic_2_python.xhp
@@ -275,7 +274,7 @@ msgctxt ""
 "N0438\n"
 "help.text"
 msgid "Retrieving Python Scripts"
-msgstr ""
+msgstr "យក ស្គ្រីបផាយតុន"
 
 #. bBTqb
 #: basic_2_python.xhp
@@ -284,7 +283,7 @@ msgctxt ""
 "N0439\n"
 "help.text"
 msgid "Python scripts can be personal, shared, or embedded in documents. In order to execute them, %PRODUCTNAME Basic needs to be provided with Python script locations. Locating <link href=\"https://api.libreoffice.org/docs/idl/ref/interfacecom_1_1sun_1_1star_1_1script_1_1provider_1_1XScript.html\" name=\"script.provider.XScript\">com.sun.star.script.provider.XScript</link> interface compliant UNO objects allows the execution of Python scripts:"
-msgstr ""
+msgstr "ស្គ្រីបPythonអាចជាឯកសារផ្ទាល់ខ្លួនចែករំលែកឬបង្កប់ក្នុងឯកសារ។ ដើម្បីប្រតិបត្តិពួកវា %PRODUCTNAME មូលដ្ឋាន ត្រូវការផ្តល់ទីតាំងស្គ្រីប ផាយតុន ។ ការរកទីតាំង <link href=\"https://api.libreoffice.org/docs/idl/ref/interfacecom_1_1sun_1_1star_1_1script_1_1provider_1_1XScript.html\" name=\"script.provider.XScript\"> com.sun.star.script.provider.XScript </link>  វត្ថុរបស់អាយអូអូអនុលោមតាមចំណុចប្រទាក់អនុញ្ញាតអោយប្រតិបត្តិ ស្គ្រីបផាយតុន៖"
 
 #. AZwVA
 #: basic_2_python.xhp
@@ -293,7 +292,7 @@ msgctxt ""
 "N0444\n"
 "help.text"
 msgid "''' Grab Python script object before execution"
-msgstr ""
+msgstr "\"\" ចាប់យកវត្តុបំណងផាយតុនស្គ្រីបមុនដំណើរការ"
 
 #. woGvx
 #: basic_2_python.xhp
@@ -302,7 +301,7 @@ msgctxt ""
 "N0445\n"
 "help.text"
 msgid "' Arguments:"
-msgstr ""
+msgstr "' អាគុយម៉ង់៖"
 
 #. nvnTr
 #: basic_2_python.xhp
@@ -311,7 +310,7 @@ msgctxt ""
 "N0446\n"
 "help.text"
 msgid "'    macro   : as \"library/module.py$macro\" or \"module.py$macro\""
-msgstr ""
+msgstr "'   ម៉ាក្រូ៖ ដូចជា \"library/module.py$macro\" ឬ \"module.py$macro\""
 
 #. Au674
 #: basic_2_python.xhp
@@ -320,7 +319,7 @@ msgctxt ""
 "N0447\n"
 "help.text"
 msgid "'    location: as \"document\", \"share\", \"user\" or ENUM(eration)"
-msgstr ""
+msgstr "'    ទីតាំង៖ ដូចជា \"ឯកសារ\", \"ការផ្សព្វផ្សាយបន្ត\", \"អ្នកប្រើប្រាស់\" ឬ ENUM(eration)"
 
 #. u5hgy
 #: basic_2_python.xhp
@@ -329,7 +328,7 @@ msgctxt ""
 "N0448\n"
 "help.text"
 msgid "' Result:"
-msgstr ""
+msgstr "' លទ្ធផល៖"
 
 #. kskTS
 #: basic_2_python.xhp
@@ -338,7 +337,7 @@ msgctxt ""
 "N0449\n"
 "help.text"
 msgid "'    located com.sun.star.script.provider.XScript UNO service'''"
-msgstr ""
+msgstr "'    located com.sun.star.script.provider.XScript សេវាកម្ម UNO '''"
 
 #. F9Hvi
 #: basic_2_python.xhp
@@ -347,7 +346,7 @@ msgctxt ""
 "N0452\n"
 "help.text"
 msgid "Dim sp As Object ' com.sun.star.script.provider.XScriptProvider compatible"
-msgstr ""
+msgstr "Dim sp ជាវត្ថុ ' com.sun.star.script.provider.អ្នកផ្តល់សេវា ស្គ្រីបX ឆបគ្នា"
 
 #. osCpU
 #: basic_2_python.xhp
@@ -356,7 +355,7 @@ msgctxt ""
 "N0463\n"
 "help.text"
 msgid "Executing Python Scripts"
-msgstr ""
+msgstr "ដំណើរការ  ស្គ្រីបផាយតុន"
 
 #. pAfKa
 #: basic_2_python.xhp
@@ -365,7 +364,7 @@ msgctxt ""
 "N0464\n"
 "help.text"
 msgid "Syntax"
-msgstr ""
+msgstr "វាក្យសម្ពន្ធ"
 
 #. gVpsb
 #: basic_2_python.xhp
@@ -374,7 +373,7 @@ msgctxt ""
 "N0466\n"
 "help.text"
 msgid "<literal>opSysName = script.invoke(Array(), in_outs, Array())</literal> ' in_out is an Array"
-msgstr ""
+msgstr "<literal>opSysName = script.invoke(Array(), in_outs, Array())</literal> 'នៅខាងក្រៅគឺជាអារេ"
 
 #. jiU2w
 #: basic_2_python.xhp
@@ -383,7 +382,7 @@ msgctxt ""
 "N0469\n"
 "help.text"
 msgid "Embedded Scripts Examples"
-msgstr ""
+msgstr "បង្កប់ឧទាហរណ៍ស្គ្រីប"
 
 #. FadCx
 #: basic_2_python.xhp
@@ -392,7 +391,7 @@ msgctxt ""
 "N0470\n"
 "help.text"
 msgid "Below <literal>ComputerName</literal>, and <literal>GetFilelen</literal> routines are calling their Python counterparts, using aforementioned <literal>GetPythonScript</literal> function. Exception handling is not detailed."
-msgstr ""
+msgstr "ខាងក្រោមនេះ<literal>ជាទម្រង់ការហៅកុំព្យូទ័រកុំព្យូរទ័រ</literal>,និង <literal>ទទួលយកឯកសារ len</literal> ជាទម្រង់ហៅទូរស័ព្ទទៅសមភាគី ផាយតុន ដោយប្រើមុខងារ GetPythonScript </literal> ដែលបានរៀបរាប់ខាងលើ។ ការដោះស្រាយករណីលើកលែងមិនមានលក្ខណៈលម្អិតទេ។"
 
 #. YbMbS
 #: basic_2_python.xhp
@@ -401,7 +400,7 @@ msgctxt ""
 "N0472\n"
 "help.text"
 msgid "Option Compatible ' Properties are supported"
-msgstr ""
+msgstr "ជម្រើសដែលត្រូវគ្នាត្រូវបានគាំទ្រ"
 
 #. KVNHH
 #: basic_2_python.xhp
@@ -410,7 +409,7 @@ msgctxt ""
 "N0477\n"
 "help.text"
 msgid "'''Workstation name'''"
-msgstr ""
+msgstr "'''ឈ្មោះកន្លែងធ្វើការ'''"
 
 #. FCaBa
 #: basic_2_python.xhp
@@ -419,7 +418,7 @@ msgctxt ""
 "N0483\n"
 "help.text"
 msgid "'''File size in bytes'''"
-msgstr ""
+msgstr "'''ទំហំឯកសារជា bytes'''"
 
 #. D9Cbu
 #: basic_2_python.xhp
@@ -428,7 +427,7 @@ msgctxt ""
 "N0489\n"
 "help.text"
 msgid "ISEMBEDDED As String ' document script"
-msgstr ""
+msgstr "ISEMBEDDED ដូចតួអក្សរ ' script ឯកសារ"
 
 #. bD77H
 #: basic_2_python.xhp
@@ -437,7 +436,7 @@ msgctxt ""
 "N0490\n"
 "help.text"
 msgid "ISPERSONAL As String ' user script"
-msgstr ""
+msgstr "ISPERSONAL ដូចតួអក្សរ 'ស្គ្រីប អ្នកប្រើប្រាស់"
 
 #. TEbDh
 #: basic_2_python.xhp
@@ -446,7 +445,7 @@ msgctxt ""
 "N0491\n"
 "help.text"
 msgid "ISSHARED As String ' %PRODUCTNAME macro"
-msgstr ""
+msgstr "ISSHARED ដូចតួអក្សរ ' %PRODUCTNAME ម៉ាក្រូ"
 
 #. CHTxq
 #: basic_2_python.xhp
@@ -455,7 +454,7 @@ msgctxt ""
 "N0497\n"
 "help.text"
 msgid ".ISEMBEDDED = \"document\" ' document script"
-msgstr ""
+msgstr ".ISEMBEDDED = \"ឯកសារ\" ' ស្គ្រីបឯកសារ"
 
 #. GGD4G
 #: basic_2_python.xhp
@@ -464,7 +463,7 @@ msgctxt ""
 "N0498\n"
 "help.text"
 msgid ".ISPERSONAL = \"user\" ' user scripts"
-msgstr ""
+msgstr ".ISPERSONAL = \"អ្នកប្រើប្រាស់\" ' ស្គ្រីប អ្នកប្រើប្រាស់"
 
 #. hz9VR
 #: basic_2_python.xhp
@@ -473,7 +472,7 @@ msgctxt ""
 "N0499\n"
 "help.text"
 msgid ".ISSHARED = \"share\" ' %PRODUCTNAME macro"
-msgstr ""
+msgstr ".ISSHARED = \"ផ្សាយបន្ត\" ' %PRODUCTNAME ម៉ាក្រូ"
 
 #. KfKCA
 #: basic_2_python.xhp
@@ -482,7 +481,7 @@ msgctxt ""
 "N0503\n"
 "help.text"
 msgid "Two different Python modules are called. They can either be embedded in the current document, either be stored on the file system. Argument type checking is skipped for clarity:"
-msgstr ""
+msgstr "ម៉ូឌុល Python ពីរផ្សេងគ្នាត្រូវបានគេហៅថា។ ពួកវាអាចត្រូវបានបង្កប់នៅក្នុងឯកសារបច្ចុប្បន្នក៏អាចត្រូវបានរក្សាទុកនៅក្នុងប្រព័ន្ធឯកសារ។ ការពិនិត្យប្រភេទអាគុយម៉ង់ត្រូវបានរំលងដើម្បីភាពច្បាស់៖"
 
 #. igPCi
 #: basic_2_python.xhp
@@ -491,7 +490,7 @@ msgctxt ""
 "N0526\n"
 "help.text"
 msgid "Personal or Shared Scripts Examples"
-msgstr ""
+msgstr "ឧទាហេណ៍ផ្ខាល់ខ្លួន និងការចែករំលែក Scripts"
 
 #. EPVTC
 #: basic_2_python.xhp
@@ -500,7 +499,7 @@ msgctxt ""
 "N0527\n"
 "help.text"
 msgid "The calling mechanism for personal or shared Python scripts is identical to that of embedded scripts. Library names are mapped to folders. Computing %PRODUCTNAME user profile and shared modules system file paths can be performed as detailed in <link href=\"text/sbasic/python/python_session.xhp\">Getting session information</link>. Below <literal>OSName</literal>, <literal>HelloWorld</literal> and <literal>NormalizePath</literal> routines are calling their Python counterparts, using aforementioned <literal>GetPythonScript</literal> function. Exception handling is not detailed."
-msgstr ""
+msgstr "The calling mechanism for personal or shared Python scripts is identical to that of embedded scripts. Library names are mapped to folders. Computing %PRODUCTNAME user profile and shared modules system file paths can be performed as detailed in <link href=\"text/sbasic/python/python_session.xhp\">Getting session information</link>. Below <literal>OSName</literal>, <literal>HelloWorld</literal> and <literal>NormalizePath</literal> routines are calling their Python counterparts, using aforementioned <literal>GetPythonScript</literal> function. Exception handling is not detailed."
 
 #. bwkSJ
 #: basic_2_python.xhp
@@ -509,7 +508,7 @@ msgctxt ""
 "N0529\n"
 "help.text"
 msgid "Option Compatible ' Properties are supported"
-msgstr ""
+msgstr "ជម្រើសត្រូវគ្នា ' កម្មសិទិ្ធត្រូវបានគាំទ្រ"
 
 #. 3W9xB
 #: basic_2_python.xhp
@@ -518,7 +517,7 @@ msgctxt ""
 "N0534\n"
 "help.text"
 msgid "'''Platform name as \"Linux\", \"Darwin\" or \"Windows\"'''"
-msgstr ""
+msgstr "'''វេទិការមានឈ្មោះ \"Linux\", \"Darwin\" or \"Windows\"'''"
 
 #. WAE7X
 #: basic_2_python.xhp
@@ -527,7 +526,7 @@ msgctxt ""
 "N0540\n"
 "help.text"
 msgid "'''%PRODUCTNAME Python shared sample'''"
-msgstr ""
+msgstr "'''%PRODUCTNAME }ឧទាហេណ៍ Python'''"
 
 #. MYSSL
 #: basic_2_python.xhp
@@ -536,7 +535,7 @@ msgctxt ""
 "N0546\n"
 "help.text"
 msgid "'''Strip superfluous '\\..' in path'''"
-msgstr ""
+msgstr "'''Strip superfluous '\\..' in path'''"
 
 #. yTqsy
 #: basic_2_python.xhp
@@ -545,7 +544,7 @@ msgctxt ""
 "N0550\n"
 "help.text"
 msgid "Python standard modules"
-msgstr ""
+msgstr "ម៉ូឌុលស្តង់ដារ Python"
 
 #. 3F9RQ
 #: basic_2_python.xhp
@@ -554,7 +553,7 @@ msgctxt ""
 "N0551\n"
 "help.text"
 msgid "%PRODUCTNAME embedded Python contains many standard libraries to benefit from. They bear a rich feature set, such as but not limited to:"
-msgstr ""
+msgstr "%PRODUCTNAME Python មានបណ្ណាល័យស្តង់ដារជាច្រើនដើម្បីទទួលបានអត្ថប្រយោជន៍។ ពួកវាមានសំណុំមុខងារពិសេសច្រើនដែលមិនមានកម្រិតសម្រាប់"
 
 #. aPbV7
 #: basic_2_python.xhp
@@ -563,7 +562,7 @@ msgctxt ""
 "N0552\n"
 "help.text"
 msgid "<emph>argparse</emph> Parser for command-line options, arguments and sub-commands"
-msgstr ""
+msgstr "<emph>argparse</emph> កម្មវិធីត្រួសត្រាយសម្រាប់ជម្រើសបន្ទាត់ពាក្យបញ្ជា, អាគុយម៉ង់, និងពាក្យបញ្ជារង"
 
 #. zBD3c
 #: basic_2_python.xhp
@@ -572,7 +571,7 @@ msgctxt ""
 "N0553\n"
 "help.text"
 msgid "<emph>cmath</emph> Mathematical functions for complex numbers"
-msgstr ""
+msgstr "<emph>cmath</emph> អនុគមន៍គណិតវិទ្យាចំនួនកុំផ្លិច"
 
 #. GDXVa
 #: basic_2_python.xhp
@@ -581,7 +580,7 @@ msgctxt ""
 "N0554\n"
 "help.text"
 msgid "<emph>csv</emph> CSV files reading and writing"
-msgstr ""
+msgstr "<emph>csv</emph> ឯកសារអាន និង សរសេរ CSV"
 
 #. FnCu8
 #: basic_2_python.xhp
@@ -590,7 +589,7 @@ msgctxt ""
 "N0555\n"
 "help.text"
 msgid "<emph>datetime</emph> Genuine date and time types"
-msgstr ""
+msgstr "<emph>កាលបរិច្ឆេទ</emph> ប្រភេទកាលបរិច្ឆេទ និងពេលវេលាពិតប្រាកដ"
 
 #. GQCwa
 #: basic_2_python.xhp
@@ -599,7 +598,7 @@ msgctxt ""
 "N0556\n"
 "help.text"
 msgid "<emph>json</emph> JSON encoder and decoder"
-msgstr ""
+msgstr "<emph>ជេសុន</emph> ឧបករណ៍បំលែងកូដនិងឌិកូដ ជេសុន"
 
 #. JmFZK
 #: basic_2_python.xhp
@@ -608,7 +607,7 @@ msgctxt ""
 "N0557\n"
 "help.text"
 msgid "<emph>math</emph> Mathematical functions"
-msgstr ""
+msgstr "<emph>គណិតវិទ្យា</emph> អនុគមន៍គណិតវិទ្យា"
 
 #. PRGHi
 #: basic_2_python.xhp
@@ -617,7 +616,7 @@ msgctxt ""
 "N0558\n"
 "help.text"
 msgid "<emph>re</emph> Regular expression operations"
-msgstr ""
+msgstr "<emph>ធ្វើឡើងវិញ</emph> ប្រតិបត្ដិការបញ្ចេញមតិទៀងទាត់"
 
 #. XVbzW
 #: basic_2_python.xhp
@@ -626,7 +625,7 @@ msgctxt ""
 "N0559\n"
 "help.text"
 msgid "<emph>socket</emph> Low-level networking interface"
-msgstr ""
+msgstr "<emph>រន្ធ</emph>បណ្តាញកម្រិតទាប"
 
 #. VehtJ
 #: basic_2_python.xhp
@@ -635,7 +634,7 @@ msgctxt ""
 "N0560\n"
 "help.text"
 msgid "<emph>sys</emph> System-specific parameters and functions"
-msgstr ""
+msgstr "<emph>sys</emph> ប្រព័ន្ធបញ្ជាក់ ការតាងនិងមុខងារ"
 
 #. RWzWY
 #: basic_2_python.xhp
@@ -644,7 +643,7 @@ msgctxt ""
 "N0561\n"
 "help.text"
 msgid "<emph>unittest</emph> and <emph>trace</emph> Unit testing framework and Track Python execution"
-msgstr ""
+msgstr "<emph>ការធ្វើតេស្តឯកតា</emph> និង <emph>ដាន</emph> ក្របខ័ណ្ឌសម្រាប់សាកល្បង ឯកតានិងតាមដានប្រតិបត្តិការផាយតុន"
 
 #. JG3VZ
 #: basic_2_python.xhp
@@ -653,7 +652,7 @@ msgctxt ""
 "N0562\n"
 "help.text"
 msgid "<emph>xml.etree.ElementTree</emph> ElementTree XML API"
-msgstr ""
+msgstr "<emph>xml.etree.ElementTree</emph>API មែកធាងធាតុ XML"
 
 #. CwBFN
 #: basic_examples.xhp
@@ -662,7 +661,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Basic Programming Examples"
-msgstr ""
+msgstr "ឧទាហរណ៍កម្មវិធីមូលដ្ឋាន"
 
 #. eBci4
 #: basic_examples.xhp
@@ -671,7 +670,7 @@ msgctxt ""
 "bm_id171559140731329\n"
 "help.text"
 msgid "<bookmark_value>Basic;programming examples</bookmark_value>"
-msgstr ""
+msgstr "<bookmark_value>ឧទាហរណ៍កម្មវិធីមូលដ្ឋាន</bookmark_value>"
 
 #. DdPKY
 #: basic_examples.xhp
@@ -680,7 +679,7 @@ msgctxt ""
 "hd_id471559139063621\n"
 "help.text"
 msgid "<variable id=\"basicexamplestit\"><link href=\"text/sbasic/guide/basic_examples.xhp\" name=\"Basic Programming Examples\">Basic Programming Examples</link></variable>"
-msgstr ""
+msgstr "<variable id=\"basicexamplestit\"><link href=\"text/sbasic/guide/basic_examples.xhp\" name=\"Basic Programming Examples\">ឧទាហរណ៍កម្មវិធីមូលដ្ឋាន</link></variable>"
 
 #. YLjtF
 #: control_properties.xhp
@@ -734,7 +733,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Creating a Basic Dialog"
-msgstr "ការ​បង្កើត​ប្រអប់ Basic មួយ"
+msgstr "ការ​បង្កើត​ប្រអប់ មូលដ្ឋាន មួយ"
 
 #. MV4Pg
 #: create_dialog.xhp
@@ -743,7 +742,7 @@ msgctxt ""
 "bm_id3149346\n"
 "help.text"
 msgid "<bookmark_value>dialogs;creating Basic dialogs</bookmark_value>"
-msgstr "<bookmark_value>ប្រអប់;ការ​បង្កើត​ប្រអប់​ Basic</bookmark_value>"
+msgstr "<bookmark_value>ប្រអប់;ការ​បង្កើត​ប្រអប់​ មូលដ្ឋាន</bookmark_value>"
 
 #. TKtFE
 #: create_dialog.xhp
@@ -752,7 +751,7 @@ msgctxt ""
 "hd_id3149346\n"
 "help.text"
 msgid "<variable id=\"create_dialog\"><link href=\"text/sbasic/guide/create_dialog.xhp\" name=\"Creating a Basic Dialog\">Creating a Basic Dialog</link></variable>"
-msgstr "<variable id=\"create_dialog\"><link href=\"text/sbasic/guide/create_dialog.xhp\" name=\"Creating a Basic Dialog\">ការ​បង្កើត​ប្រអប់ Basic មួយ</link></variable>"
+msgstr "<variable id=\"create_dialog\"><link href=\"text/sbasic/guide/create_dialog.xhp\" name=\"Creating a Basic Dialog\">ការ​បង្កើត​ប្រអប់ មូលដ្ឋាន មួយ</link></variable>"
 
 #. xBcR4
 #: create_dialog.xhp
@@ -770,7 +769,7 @@ msgctxt ""
 "par_id3150447\n"
 "help.text"
 msgid "Enter a name for the dialog and click <emph>OK</emph>. To rename the dialog later, right-click the name on the tab and choose <emph>Rename</emph>."
-msgstr ""
+msgstr "ដាក់ឈ្មោះ ប្រអប់ និងចុច <emph>យល់ព្រម</emph>. ដើម្បីប្តូរឈ្មោះពេលក្រោយ, ចុចខាងស្តាំ ឈ្មោះនិងជ្រើស <emph>ប្តូរឈ្មោះ</emph>."
 
 #. qFeYH
 #: create_dialog.xhp
@@ -779,7 +778,7 @@ msgctxt ""
 "par_idN1065F\n"
 "help.text"
 msgid "Click <emph>Edit</emph>. The Basic dialog editor opens and contains a blank dialog."
-msgstr "ចុច <emph>កែសម្រួល</emph> ។ កម្មវិធី​និពន្ធ​ប្រអប់ Basic នឹង​បើក​ឡើង ហើយ​មាន​ប្រអប់​ទទេ​មួយ ។"
+msgstr "ចុច <emph>កែសម្រួល</emph> ។ កម្មវិធី​និពន្ធ​ប្រអប់ មូលដ្ឋាន នឹង​បើក​ឡើង ហើយ​មាន​ប្រអប់​ទទេ​មួយ ។"
 
 #. To7nC
 #: create_dialog.xhp
@@ -833,7 +832,7 @@ msgctxt ""
 "par_id3146797\n"
 "help.text"
 msgid "Use the tools on the <emph>Toolbox </emph>of the BASIC dialog editor to add controls to your dialog."
-msgstr "ប្រើ​ឧបករណ៍​លើ <emph>ប្រអប់​ឧបករណ៍ </emph> របស់​កម្មវិធីនិពន្ធ​ប្រអប់ BASIC ដើម្បី​បន្ថែម​វត្ថុ​បញ្ជា​ទៅ​ប្រអប់​របស់​អ្នក ។"
+msgstr "ប្រើ​ឧបករណ៍​លើ <emph>ប្រអប់​ឧបករណ៍ </emph> របស់​កម្មវិធីនិពន្ធ​ប្រអប់ មូលដ្ឋាន ដើម្បី​បន្ថែម​វត្ថុ​បញ្ជា​ទៅ​ប្រអប់​របស់​អ្នក ។"
 
 #. bDK4t
 #: insert_control.xhp
@@ -878,7 +877,7 @@ msgctxt ""
 "bm_id3155338\n"
 "help.text"
 msgid "<bookmark_value>programming examples for controls</bookmark_value>  <bookmark_value>dialogs;loading (example)</bookmark_value>  <bookmark_value>dialogs;displaying (example)</bookmark_value>  <bookmark_value>controls;reading or editing properties (example)</bookmark_value>  <bookmark_value>list boxes;removing entries from (example)</bookmark_value>  <bookmark_value>list boxes;adding entries to (example)</bookmark_value>  <bookmark_value>examples; programming controls</bookmark_value>  <bookmark_value>dialog editor;programming examples for controls</bookmark_value>  <bookmark_value>Tools;LoadDialog</bookmark_value>"
-msgstr ""
+msgstr "<bookmark_value>ឧទាហរណ៍សំរាប់សរសេរកម្មវិធី</bookmark_value>  <bookmark_value>dialogs;ផ្ទុក (ឧទាហរណ៍) </bookmark_value>  <bookmark_value>ប្រអប់បង្ហាញ (ឧទាហរណ៍)</bookmark_value>  <bookmark_value>ត្រួតពិនិត្យអានឬកែសម្រួលលក្ខណសម្បត្តិ (ឧទាហរណ៍)</bookmark_value>  <bookmark_value>ប្រអប់បញ្ជី;ដកធាតុចេញពី (ឧទាហរណ៍)</bookmark_value>  <bookmark_value>ប្រអប់បញ្ជីបន្ថែមធាតុទៅ (ឧទាហរណ៍)</bookmark_value>  <bookmark_value>ឧទាហរណ៍; ការគ្រប់គ្រងកម្មវិធី</bookmark_value>  <bookmark_value>កម្មវិធីនិពន្ធប្រអប់;ឧទាហរណ៍សរសេរកម្មវិធីសម្រាប់វត្ថុបញ្ជា</bookmark_value>  <bookmark_value>ឧបករណ៍;ផ្ទុកប្រអប់ផ្ទុក</bookmark_value>"
 
 #. XFqTD
 #: sample_code.xhp
@@ -887,7 +886,7 @@ msgctxt ""
 "hd_id3155338\n"
 "help.text"
 msgid "<variable id=\"sample_code\"><link href=\"text/sbasic/guide/sample_code.xhp\" name=\"Programming Examples for Controls in the Dialog Editor\">Programming Examples for Controls in the Dialog Editor</link>   </variable>"
-msgstr ""
+msgstr "<variable id=\"sample_code\"><link href=\"text/sbasic/guide/sample_code.xhp\" name=\"Programming Examples for Controls in the Dialog Editor\">ឧទាហរណ៍កម្មវិធីសម្រាប់ការគ្រប់គ្រងក្នុង កម្មវិធីនិពន្ធប្រអប់</link>   </variable>"
 
 #. uFxhk
 #: sample_code.xhp
@@ -896,7 +895,7 @@ msgctxt ""
 "par_id3153031\n"
 "help.text"
 msgid "The following examples are for a new <link href=\"text/sbasic/guide/create_dialog.xhp\" name=\"dialog\">dialog</link> called \"Dialog1\". Use the tools on the <emph>Toolbox</emph> bar in the dialog editor to create the dialog and add the following controls: a <emph>Check Box</emph> called \"CheckBox1\", a <emph>Label Field</emph> called \"Label1\", a <emph>Button</emph> called \"CommandButton1\", and a <emph>List Box</emph> called \"ListBox1\"."
-msgstr "ឧទាហរណ៍​ដូច​ខាង​ក្រោម​គឺ​សម្រាប់ <link href=\"text/sbasic/guide/create_dialog.xhp\" name=\"dialog\">ប្រអប់</link> ថ្មី​មួយ​ ហៅ​ថា \"Dialog1\" ។ ប្រើ​ឧបករណ៍​លើ​របារ <emph>ប្រអប់​ឧបករណ៍</emph>​ក្នុង​កម្មវិធី​និពន្ធ​ប្រអប់ ដើម្បី​បង្កើត​ប្រអប់ និង​បន្ថែម​វត្ថុ​បញ្ជា​ដូច​ខាង​ក្រោម ៖ <emph>ប្រអប់​ធីក</emph> មួយ​ ហៅ​ថា \"CheckBox1\" <emph>វាល​​ស្លាក</emph> មួយ​ ហៅ​ថា \"Label1\" <emph>ប៊ូតុង</emph> មួយ​ ហៅ​ថា \"CommandButton1\" និង<emph>ប្រអប់​បញ្ជី</emph> មួយ​ ហៅ​ថា \"ListBox1\" ។"
+msgstr "ឧទាហរណ៍​ដូច​ខាង​ក្រោម​គឺ​សម្រាប់ <link href=\"text/sbasic/guide/create_dialog.xhp\" name=\"dialog\">ប្រអប់</link> ថ្មី​មួយ​ ហៅ​ថា \"ប្រអប់ ១\" ។ ប្រើ​ឧបករណ៍​លើ​របារ <emph>ប្រអប់​ឧបករណ៍</emph>​ក្នុង​កម្មវិធី​និពន្ធ​ប្រអប់ ដើម្បី​បង្កើត​ប្រអប់ និង​បន្ថែម​វត្ថុ​បញ្ជា​ដូច​ខាង​ក្រោម ៖ <emph>ប្រអប់​ធីក</emph> មួយ​ ហៅ​ថា \"ប្រអប់ធីក ១\" <emph>វាល​​ស្លាក</emph> មួយ​ ហៅ​ថា \"ស្លាក ១\" <emph>ប៊ូតុង</emph> មួយ​ ហៅ​ថា \"ប៊ូតុងបញ្ជា ១\" និង<emph>ប្រអប់​បញ្ជី</emph> មួយ​ ហៅ​ថា \"ប្រអប់បញ្ជី ១\" ។"
 
 #. bfDTG
 #: sample_code.xhp
@@ -923,7 +922,7 @@ msgctxt ""
 "par_id3153032\n"
 "help.text"
 msgid "<literal>LoadDialog</literal> function is stored in <literal>Tools.ModuleControls</literal> available from %PRODUCTNAME Macros and Dialogs."
-msgstr ""
+msgstr "<literal>ដំណើរការប្រអប់</literal>មុខងារត្រូវបានស្ទុកទុក <literal>Tools.ModuleControls</literal> ទំនេរ​ពី %PRODUCTNAME ម៉ាក្រូនិងប្រអប់"
 
 #. kBLFU
 #: sample_code.xhp
@@ -941,7 +940,7 @@ msgctxt ""
 "par_id3145801\n"
 "help.text"
 msgid "REM global definition of variables"
-msgstr "rem global definition of variables"
+msgstr "REM សកល អត្តន័យនៃ អថេរ"
 
 #. FQCDq
 #: sample_code.xhp
@@ -959,7 +958,7 @@ msgctxt ""
 "par_id3145232\n"
 "help.text"
 msgid "REM get dialog model"
-msgstr "REM get dialog model"
+msgstr "REM ទទួលបានគំរូប្រអប់"
 
 #. VWD2t
 #: sample_code.xhp
@@ -968,7 +967,7 @@ msgctxt ""
 "par_id3154021\n"
 "help.text"
 msgid "REM display text of Label1"
-msgstr "REM display text of Label1"
+msgstr "REM បង្ហាញអត្ថបទនៃស្លាក ១"
 
 #. aAmMT
 #: sample_code.xhp
@@ -977,7 +976,7 @@ msgctxt ""
 "par_id3151277\n"
 "help.text"
 msgid "REM set new text for control Label1"
-msgstr "REM កំណត់​អត្ថបទ​ថ្មី​សម្រាប់​ត្រួតពិនិត្យ​ Label1"
+msgstr "REM កំណត់​អត្ថបទ​ថ្មី​សម្រាប់​ត្រួតពិនិត្យ​ស្លាក ១"
 
 #. DZEpD
 #: sample_code.xhp
@@ -995,7 +994,7 @@ msgctxt ""
 "par_id3155115\n"
 "help.text"
 msgid "REM display model properties for the control CheckBox1"
-msgstr "REM បង្ហាញ​លក្ខណសម្បត្តិ​ម៉ូដែល​សម្រាប់​ត្រួតពិនិត្យ CheckBox1"
+msgstr "REM បង្ហាញ​លក្ខណសម្បត្តិ​ម៉ូដែល​សម្រាប់​ត្រួតពិនិត្យ ប្រអប់ធីក ១"
 
 #. 9FejL
 #: sample_code.xhp
@@ -1004,7 +1003,7 @@ msgctxt ""
 "par_id3149817\n"
 "help.text"
 msgid "REM set new state for CheckBox1 for model of control"
-msgstr "REM កំណត់សភាពថ្មី​សម្រាប់ CheckBox1 សម្រាប់​ម៉ូដែល​នៃ​វត្ថុបញ្ជា"
+msgstr "REM កំណត់សភាពថ្មី​សម្រាប់ ប្រអប់ធីក ១ សម្រាប់​ម៉ូដែល​នៃ​វត្ថុបញ្ជា"
 
 #. JkUUZ
 #: sample_code.xhp
@@ -1013,7 +1012,7 @@ msgctxt ""
 "par_id3159102\n"
 "help.text"
 msgid "REM display model properties for control CommandButton1"
-msgstr "REM បង្ហាញ​លក្ខណសម្បត្តិ​ម៉ូដែល​សម្រាប់ត្រួតពិនិត្យ CommandButton1"
+msgstr "REM បង្ហាញ​លក្ខណសម្បត្តិ​ម៉ូដែល​សម្រាប់ត្រួតពិនិត្យ ប៊ូតុងពាក្យបញ្ជា ១"
 
 #. vS9pR
 #: sample_code.xhp
@@ -1022,7 +1021,7 @@ msgctxt ""
 "par_id3150368\n"
 "help.text"
 msgid "REM display properties of control CommandButton1"
-msgstr "REM បង្ហាញ​លក្ខណសម្បត្តិ​នៃ​វត្ថុ​បញ្ជា CommandButton1"
+msgstr "REM បង្ហាញ​លក្ខណសម្បត្តិ​នៃ​វត្ថុ​បញ្ជា ប៊ូតុងពាក្យបញ្ជា ១"
 
 #. CVE7H
 #: sample_code.xhp
@@ -1058,7 +1057,7 @@ msgctxt ""
 "par_id3144504\n"
 "help.text"
 msgid "oListbox.additem(\"New Item\" & iCount,0)"
-msgstr "oListbox.additem(\"New Item\" & iCount,0)"
+msgstr "oListbox.additem(\"ធាតុថ្មី\" & iCount,0)"
 
 #. FKzdb
 #: sample_code.xhp
@@ -1076,7 +1075,7 @@ msgctxt ""
 "par_id3153247\n"
 "help.text"
 msgid "REM remove the first entry from the ListBox"
-msgstr "REM យកធាតុ​ទី​មួយចេញពី ListBox"
+msgstr "REM យកធាតុ​ទី​មួយចេញពី ប្រអប់បញ្ជី"
 
 #. EYDQU
 #: show_dialog.xhp
@@ -1085,7 +1084,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Opening a Dialog With Basic"
-msgstr ""
+msgstr "កំពុងបើក ប្រអប់ មូលដ្ឋានមួយ"
 
 #. biDaS
 #: show_dialog.xhp
@@ -1094,7 +1093,7 @@ msgctxt ""
 "bm_id3154140\n"
 "help.text"
 msgid "<bookmark_value>module/dialog toggle</bookmark_value>   <bookmark_value>dialogs;using Basic to show (example)</bookmark_value>   <bookmark_value>examples; showing a dialog with Basic</bookmark_value>   <bookmark_value>Tools;LoadDialog</bookmark_value>"
-msgstr ""
+msgstr "<bookmark_value> បិទ / បើកម៉ូឌុល / ប្រអប់បិទបើក </bookmark_value> <bookmark_value> ប្រអប់ដោយប្រើ មូលដ្ឋាន ដើម្បីបង្ហាញ (ឧទាហរណ៍) </bookmark_value> <bookmark_value>ឧទាហរណ៍; បង្ហាញប្រអប់មួយដែលមានមូលដ្ឋាន</bookmark_value> <bookmark_value>ឧបករណ៍;ផ្ទុកប្រអប់</bookmark_value>"
 
 #. 7KfDE
 #: show_dialog.xhp
@@ -1103,7 +1102,7 @@ msgctxt ""
 "hd_id3154140\n"
 "help.text"
 msgid "<variable id=\"show_dialog\"><link href=\"text/sbasic/guide/show_dialog.xhp\" name=\"Opening a Dialog With Basic\">Opening a Dialog With Basic</link></variable>"
-msgstr ""
+msgstr "<variable id=\"show_dialog\"><link href=\"text/sbasic/guide/show_dialog.xhp\" name=\"Opening a Dialog With Basic\">កំពុងបើក ប្រអប់ មូលដ្ឋាន</link></variable>"
 
 #. PXLvB
 #: show_dialog.xhp
@@ -1112,7 +1111,7 @@ msgctxt ""
 "par_id3145171\n"
 "help.text"
 msgid "In the <item type=\"productname\">%PRODUCTNAME</item> BASIC window for a dialog that you created, leave the dialog editor by clicking the name tab of the Module that the dialog is assigned to. The name tab is at the bottom of the window."
-msgstr "ក្នុង​បង្អួច <item type=\"productname\">%PRODUCTNAME</item> BASIC សម្រាប់​ប្រអប់​មួយ​ ដែល​អ្នក​បាន​បង្កើត ចាកចេញ​ពី​កម្មវិធី​និពន្ធ​ប្រអប់ ដោយ​ចុច​ផ្ទាំង​ឈ្មោះ​នៃ \"ម៉ូឌុល\" ដែល​ប្រអប់​ត្រូវ​បាន​ផ្តល់​តម្លៃ​ទៅ ។ ផ្ទាំង​ឈ្មោះ​ស្ថិត​នៅ​ខាង​ក្រោម​នៃ​បង្អួច ។"
+msgstr "ក្នុង​បង្អួច <item type=\"productname\">%PRODUCTNAME</item> មូលដ្ឋាន សម្រាប់​ប្រអប់​មួយ​ ដែល​អ្នក​បាន​បង្កើត ចាកចេញ​ពី​កម្មវិធី​និពន្ធ​ប្រអប់ ដោយ​ចុច​ផ្ទាំង​ឈ្មោះ​នៃ \"ម៉ូឌុល\" ដែល​ប្រអប់​ត្រូវ​បាន​ផ្តល់​តម្លៃ​ទៅ ។ ផ្ទាំង​ឈ្មោះ​ស្ថិត​នៅ​ខាង​ក្រោម​នៃ​បង្អួច ។"
 
 #. SyMUQ
 #: show_dialog.xhp
@@ -1121,7 +1120,7 @@ msgctxt ""
 "par_id3153968\n"
 "help.text"
 msgid "Enter the following code for a subroutine called <emph>Dialog1Show</emph>. In this example, the name of the dialog that you created is \"Dialog1\":"
-msgstr "បញ្ចូល​កូដ​ដូច​ខាង​ក្រោម សម្រាប់​ទម្រង់ការ​រង <emph>Dialog1Show</emph> ។ ក្នុង​ឧទាហរណ៍​នេះ ឈ្មោះ​របស់​ប្រអប់​​ដែល​អ្នក​បាន​បង្កើត​គឺ \"Dialog1\" ៖"
+msgstr "បញ្ចូល​កូដ​ដូច​ខាង​ក្រោម សម្រាប់​ទម្រង់ការ​រង <emph>បង្ហាញប្រអប់ ១</emph> ។ ក្នុង​ឧទាហរណ៍​នេះ ឈ្មោះ​របស់​ប្រអប់​​ដែល​អ្នក​បាន​បង្កើត​គឺ \"ប្រអប់ ១\" ៖"
 
 #. ytWYo
 #: show_dialog.xhp
@@ -1130,7 +1129,7 @@ msgctxt ""
 "par_id3152596\n"
 "help.text"
 msgid "Without using \"LoadDialog\" you can call the code as follows:"
-msgstr "អ្នក​អាច​ហៅ​កូដ​ដូចខាងក្រោម​បាន ដោយ​មិន​ប្រើ \"LoadDialog\" ៖"
+msgstr "អ្នក​អាច​ហៅ​កូដ​ដូចខាងក្រោម​បាន ដោយ​មិន​ប្រើ \"ផ្ទុកប្រអប់\" ៖"
 
 #. DtP6k
 #: show_dialog.xhp
@@ -1139,7 +1138,7 @@ msgctxt ""
 "par_id3153157\n"
 "help.text"
 msgid "When you execute this code, \"Dialog1\" opens. To close the dialog, click the close button (x) on its title bar."
-msgstr "ពេល​អ្នក​ប្រតិបត្តិ​កូដ​នេះ \"Dialog1\" នឹង​បើក​ ។ ដើម្បី​បិទ​ប្រអប់ ចុច​ប៊ូតុង​បិទ (x) នៅ​លើ​របារ​ចំណងជើង​របស់​វា ។"
+msgstr "ពេល​អ្នក​ប្រតិបត្តិ​កូដ​នេះ \"ប្រអប់ ១\" នឹង​បើក​ ។ ដើម្បី​បិទ​ប្រអប់ ចុច​ប៊ូតុង​បិទ (x) នៅ​លើ​របារ​ចំណងជើង​របស់​វា ។"
 
 #. s79uv
 #: translation.xhp
@@ -1175,7 +1174,7 @@ msgctxt ""
 "par_id4601940\n"
 "help.text"
 msgid "The Language toolbar in the Basic IDE dialog editor shows controls to enable and manage localizable dialogs."
-msgstr "<ahelp hid=\".\">របារ​ឧបករណ៍​ភាសា នៅ​ក្នុង​កម្មវិធី​និពន្ធ​ប្រអប់ Basic IDE បង្ហាញ​វត្ថុបញ្ជា​ដើម្បី​អនុញ្ញាត និង​គ្រប់គ្រង​ប្រអប់​ដែលអាច​ធ្វើ​មូលដ្ឋានីយកម្មបាន ។</ahelp>"
+msgstr "របារ​ឧបករណ៍​ភាសា នៅ​ក្នុង​កម្មវិធី​និពន្ធ​ប្រអប់ មូលដ្ឋាន IDE បង្ហាញ​វត្ថុបញ្ជា​ដើម្បី​អនុញ្ញាត និង​គ្រប់គ្រង​ប្រអប់​ដែលអាច​ធ្វើ​មូលដ្ឋានីយកម្មបាន ។"
 
 #. eGsqR
 #: translation.xhp
@@ -1265,7 +1264,7 @@ msgctxt ""
 "par_id8750572\n"
 "help.text"
 msgid "In the Basic IDE dialog editor, open the Language toolbar choosing <item type=\"menuitem\">View - Toolbars - Language</item>."
-msgstr "នៅ​ក្នុង​កម្មវិធីនិពន្ធ​ប្រអប់ Basic IDE ត្រូវ​បើក​របារ​ឧបករណ៍​ភាសា ដោយ​ជ្រើស <item type=\"menuitem\">ទិដ្ឋភាព - របារ​ឧបករណ៍ - ភាសា</item> ។"
+msgstr "នៅ​ក្នុង​កម្មវិធីនិពន្ធ​ប្រអប់ មូលដ្ឋាន IDE ត្រូវ​បើក​របារ​ឧបករណ៍​ភាសា ដោយ​ជ្រើស <item type=\"menuitem\">ទិដ្ឋភាព - របារ​ឧបករណ៍ - ភាសា</item> ។"
 
 #. df3mU
 #: translation.xhp
@@ -1283,7 +1282,7 @@ msgctxt ""
 "par_id7359233\n"
 "help.text"
 msgid "Click the <emph>Manage Languages</emph> icon<image id=\"img_id2526017\" src=\"cmd/sc_managelanguage.png\" width=\"0.1665inch\" height=\"0.1665inch\"><alt id=\"alt_id2526017\">Manage Language icon</alt></image> on the Language toolbar or on the Toolbox bar."
-msgstr ""
+msgstr "ចុច <emph>ការគ្រប់គ្រងភាសា</emph>រូបសញ្ញា<image id=\"img_id2526017\" src=\"cmd/sc_managelanguage.png\" width=\"0.1665inch\" height=\"0.1665inch\"><alt id=\"alt_id2526017\">រូបសញ្ញាការគ្រប់គ្រងភាសា</alt></image> ចំពោះរបាយប្រអប់ភាសា ។"
 
 #. MHDVd
 #: translation.xhp
@@ -1445,4 +1444,4 @@ msgctxt ""
 "par_id3050325\n"
 "help.text"
 msgid "If the user has an older version of %PRODUCTNAME that does not know localizable string resources for Basic dialogs, the user will see the default language strings."
-msgstr "ប្រសិន​បើអ្នក​ប្រើ​មាន​កំណែ %PRODUCTNAME ចាស់ ដែល​មិន​ស្គាល់​ធនធាន​ខ្សែអក្សរ​ដែអាច​ធ្វើ​មូលដ្ឋានីយកម្ម​បាន​សម្រាប់​ប្រអប់ Basic ទេ​នោះ អ្នក​ប្រើ​នឹង​មើលឃើញ​ខ្សែអក្សរ​ភាសា​លំនាំដើម ។"
+msgstr "ប្រសិន​បើអ្នក​ប្រើ​មាន​កំណែ %PRODUCTNAME ចាស់ ដែល​មិន​ស្គាល់​ធនធាន​ខ្សែអក្សរ​ដែអាច​ធ្វើ​មូលដ្ឋានីយកម្ម​បាន​សម្រាប់​ប្រអប់ មូលដ្ឋាន ទេ​នោះ អ្នក​ប្រើ​នឹង​មើលឃើញ​ខ្សែអក្សរ​ភាសា​លំនាំដើម ។"

@@ -1,107 +1,106 @@
-#. extracted from editeng/inc
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
-"POT-Creation-Date: 2020-09-28 11:22+0200\n"
-"PO-Revision-Date: 2018-01-15 20:25+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2020-03-10 13:36+0100\n"
+"PO-Revision-Date: 2020-09-11 00:29+0700\n"
+"Last-Translator: Koompi Apps Localization\n"
 "Language: km\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Accelerator-Marker: ~\n"
-"X-Generator: LibreOffice\n"
-"X-POOTLE-MTIME: 1516047931.000000\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-POOTLE-MTIME: 1535975854.000000\n"
+"Language-Team: KOOMPI Apps Localization\n"
 
 #. BHYB4
 #. enum SvxCellHorJustify ----------------------------------------------------
-#: editeng/inc/strings.hrc:17
+#: editeng/inc/strings.hrc:18
 msgctxt "RID_SVXITEMS_HORJUST_STANDARD"
 msgid "Horizontal alignment default"
 msgstr "តម្រឹម​ផ្ដេក​លំនាំដើម"
 
 #. htWdf
-#: editeng/inc/strings.hrc:18
+#: editeng/inc/strings.hrc:19
 msgctxt "RID_SVXITEMS_HORJUST_LEFT"
 msgid "Align left"
 msgstr "តម្រឹម​ឆ្វេង"
 
 #. icuN2
-#: editeng/inc/strings.hrc:19
+#: editeng/inc/strings.hrc:20
 msgctxt "RID_SVXITEMS_HORJUST_CENTER"
 msgid "Centered horizontally"
 msgstr "តម្រឹម​កណ្ដាល"
 
 #. JXEo9
-#: editeng/inc/strings.hrc:20
+#: editeng/inc/strings.hrc:21
 msgctxt "RID_SVXITEMS_HORJUST_RIGHT"
 msgid "Align right"
 msgstr "តម្រឹម​ស្តាំ​"
 
 #. BFCFs
-#: editeng/inc/strings.hrc:21
+#: editeng/inc/strings.hrc:22
 msgctxt "RID_SVXITEMS_HORJUST_BLOCK"
 msgid "Justify horizontally"
-msgstr ""
+msgstr "តម្រឹមផ្តេក"
 
 #. DVmUh
-#: editeng/inc/strings.hrc:22
+#: editeng/inc/strings.hrc:23
 msgctxt "RID_SVXITEMS_HORJUST_REPEAT"
 msgid "Repeat alignment"
 msgstr "តម្រឹម​ឡើងវិញ"
 
 #. hMaif
 #. enum SvxCellVerJustify ----------------------------------------------------
-#: editeng/inc/strings.hrc:28
+#: editeng/inc/strings.hrc:29
 msgctxt "RID_SVXITEMS_VERJUST_STANDARD"
 msgid "Vertical alignment default"
 msgstr "តម្រឹម​បញ្ឈរ​លំនាំដើម"
 
 #. xy2FG
-#: editeng/inc/strings.hrc:29
+#: editeng/inc/strings.hrc:30
 msgctxt "RID_SVXITEMS_VERJUST_TOP"
 msgid "Align to top"
 msgstr "តម្រឹម​ទៅ​កំពូល"
 
 #. UjmWt
-#: editeng/inc/strings.hrc:30
+#: editeng/inc/strings.hrc:31
 msgctxt "RID_SVXITEMS_VERJUST_CENTER"
 msgid "Centered vertically"
 msgstr "តម្រឹម​កណ្ដាល"
 
 #. G3X9R
-#: editeng/inc/strings.hrc:31
+#: editeng/inc/strings.hrc:32
 msgctxt "RID_SVXITEMS_VERJUST_BOTTOM"
 msgid "Align to bottom"
 msgstr "តម្រឹម​ទៅ​បាត"
 
 #. 3jGFq
-#: editeng/inc/strings.hrc:32
+#: editeng/inc/strings.hrc:33
 msgctxt "RID_SVXITEMS_HORJUST_BLOCK"
 msgid "Justify vertically"
-msgstr ""
+msgstr "តម្រឹមបញ្ឈរ"
 
 #. WQZvF
 #. enum SvxCellJustifyMethod ----------------------------------------------------
-#: editeng/inc/strings.hrc:38
+#: editeng/inc/strings.hrc:39
 msgctxt "RID_SVXITEMS_JUSTMETHOD_AUTO"
 msgid "Automatic Justify"
-msgstr ""
+msgstr "តម្រឹមស្វ័យប្រវត្តិ"
 
 #. o9aJe
-#: editeng/inc/strings.hrc:39
+#: editeng/inc/strings.hrc:40
 msgctxt "RID_SVXITEMS_JUSTMETHOD_DISTRIBUTE"
 msgid "Distributed Justify"
-msgstr ""
+msgstr "ចែកចាយយុត្តិកម្ម"
 
 #. 2Lzx7
 #: editeng/uiconfig/ui/spellmenu.ui:12
 msgctxt "spellmenu|ignore"
 msgid "I_gnore All"
-msgstr "មិន​អើ​ពើ​ទាំង​អស់ "
+msgstr "មិន​អើ​ពើ ​ទាំង​អស់"
 
 #. GNLYJ
 #: editeng/uiconfig/ui/spellmenu.ui:19
@@ -117,7 +116,6 @@ msgstr "បន្ថែម​ទៅ​វចនានុក្រម"
 
 #. MFssd
 #: editeng/uiconfig/ui/spellmenu.ui:41
-#, fuzzy
 msgctxt "spellmenu|check"
 msgid "_Spellcheck..."
 msgstr "ពិនិត្យ​​អក្ខរាវិរុទ្ធ ..."
@@ -126,11 +124,10 @@ msgstr "ពិនិត្យ​​អក្ខរាវិរុទ្ធ ..."
 #: editeng/uiconfig/ui/spellmenu.ui:55
 msgctxt "spellmenu|autocorrect"
 msgid "AutoCorrect _To"
-msgstr ""
+msgstr "កែស្វ័យប្រវត្តិ ទៅ"
 
 #. 4qA7Z
 #: editeng/uiconfig/ui/spellmenu.ui:69
-#, fuzzy
 msgctxt "spellmenu|autocorrectdlg"
 msgid "Auto_Correct Options..."
 msgstr "កែ​ជម្រើស​ស្វ័យប្រវត្តិ..."
@@ -158,7 +155,7 @@ msgstr "បំបែក​ក្រោយ​ជួរឈរថ្មី​"
 #: include/editeng/editrids.hrc:29
 msgctxt "RID_SVXITEMS_BREAK_COLUMN_BOTH"
 msgid "Break before and after new column"
-msgstr "បំបែក​មុន និងក្រោយ​ជួរឈរ​​ថ្មី "
+msgstr "បំបែក​មុន និងក្រោយ​ជួរឈរ​​ថ្មី"
 
 #. FxoBE
 #: include/editeng/editrids.hrc:30
@@ -170,13 +167,13 @@ msgstr "បំបែកមុនទំព័រថ្មី​"
 #: include/editeng/editrids.hrc:31
 msgctxt "RID_SVXITEMS_BREAK_PAGE_AFTER"
 msgid "Break after new page"
-msgstr "បំបែកក្រោយ​ទំព័រថ្មី "
+msgstr "បំបែកក្រោយ​ ទំព័រថ្មី"
 
 #. qbDrm
 #: include/editeng/editrids.hrc:32
 msgctxt "RID_SVXITEMS_BREAK_PAGE_BOTH"
 msgid "Break before and after new page"
-msgstr "បំបែក​មុន​ និង​ក្រោយ​ទំព័រថ្មី "
+msgstr "បំបែក​មុន​ និង​ក្រោយ​ទំព័រថ្មី"
 
 #. pqhsi
 #. enum SvxShadowLocation ---------------------------------------------------
@@ -330,7 +327,7 @@ msgstr "ទ្រេត​"
 #: include/editeng/editrids.hrc:65
 msgctxt "RID_SVXITEMS_WEIGHT_DONTKNOW"
 msgid "?"
-msgstr ""
+msgstr "?"
 
 #. ZPWhD
 #: include/editeng/editrids.hrc:66
@@ -643,7 +640,6 @@ msgstr "បន្ទាត់ឆូត​ទ្វេ​"
 
 #. CRbmc
 #: include/editeng/editrids.hrc:123
-#, fuzzy
 msgctxt "RID_SVXITEMS_STRIKEOUT_DONTKNOW"
 msgid "Strikethrough"
 msgstr "គ្មាន​បន្ទាត់ឆូត​"
@@ -664,7 +660,7 @@ msgstr "បន្ទាត់​ឆូត​ជាមួយ /"
 #: include/editeng/editrids.hrc:126
 msgctxt "RID_SVXITEMS_STRIKEOUT_X"
 msgid "Strike through with Xes"
-msgstr "បន្ទាត់​ឆូត​ជាមួយ x"
+msgstr "បន្ទាត់​ឆូត​ជាមួយ Xes"
 
 #. 9Cwcw
 #. enum CASEMAP ----------------------------------------------------------
@@ -677,7 +673,7 @@ msgstr "គ្មាន"
 #: include/editeng/editrids.hrc:130
 msgctxt "RID_SVXITEMS_CASEMAP_VERSALIEN"
 msgid "Caps"
-msgstr "អក្សរធំ "
+msgstr "អក្សរធំ"
 
 #. DngZG
 #: include/editeng/editrids.hrc:131
@@ -708,13 +704,13 @@ msgstr "ទីតាំង​ធម្មតា​"
 #: include/editeng/editrids.hrc:137
 msgctxt "RID_SVXITEMS_ESCAPEMENT_SUPER"
 msgid "Superscript "
-msgstr "អក្សរតូចលើ​"
+msgstr "អក្សរតូចលើ​ "
 
 #. AYvFH
 #: include/editeng/editrids.hrc:138
 msgctxt "RID_SVXITEMS_ESCAPEMENT_SUB"
 msgid "Subscript "
-msgstr "អក្សរតូចក្រោម​"
+msgstr "អក្សរតូចក្រោម​ "
 
 #. 2qkvs
 #: include/editeng/editrids.hrc:139
@@ -781,49 +777,49 @@ msgstr "ទ្វេ"
 #: include/editeng/editrids.hrc:151
 msgctxt "RID_THINTHICK_SMALLGAP"
 msgid "Double, inside: fine, outside: thick, spacing: small"
-msgstr "ទ្វេ ខាងក្នុង ក្រាស់​ ខាងក្រៅ​ ៖ ស្តើង គម្លាត ៖ តូច​"
+msgstr "ទ្វេ,ខាងក្នុង៖ល្អ,ខាងក្រៅ៖ស្តើង,គម្លាត៖តូច​"
 
 #. A5WNh
 #: include/editeng/editrids.hrc:152
 msgctxt "RID_THINTHICK_MEDIUMGAP"
 msgid "Double, inside: fine, outside: thick, spacing: medium"
-msgstr "ទ្វេ ខាងក្នុង​ ៖ ស្តើង ខាងក្រៅ​ ៖ ក្រាស់ គម្លាត ៖ ធំ "
+msgstr "ទ្វេ,ខាងក្នុង​៖ល្អ,ខាងក្រៅ​៖ក្រាស់,គម្លាត៖មធ្យម"
 
 #. nvFHD
 #: include/editeng/editrids.hrc:153
 msgctxt "RID_THINTHICK_LARGEGAP"
 msgid "Double, inside: fine, outside: thick, spacing: large"
-msgstr "ទ្វេ ខាងក្នុង​ ៖ ស្តើង ខាងក្រៅ​ ៖ ក្រាស់ គម្លាត ៖ ធំ "
+msgstr "ទ្វេ,ខាងក្នុង​៖ល្អ,ខាងក្រៅ​៖ក្រាស់,គម្លាត៖ធំ"
 
 #. CtueB
 #: include/editeng/editrids.hrc:154
 msgctxt "RID_THICKTHIN_SMALLGAP"
 msgid "Double, inside: thick, outside: fine, spacing: small"
-msgstr "ទ្វេ ខាងក្នុង ក្រាស់​ ខាងក្រៅ​ ៖ ស្តើង គម្លាត ៖ តូច​"
+msgstr "ទ្វេ,ខាងក្នុង៖ក្រាស់,​ខាងក្រៅ​៖ល្អ,គម្លាត៖តូច​"
 
 #. V8UfF
 #: include/editeng/editrids.hrc:155
 msgctxt "RID_THICKTHIN_MEDIUMGAP"
 msgid "Double, inside: thick, outside: fine, spacing: medium"
-msgstr "ទ្វេ ខាងក្នុង ក្រាស់​ ខាងក្រៅ​ ៖ ស្តើង គម្លាត ៖ តូច​"
+msgstr "ទ្វេ,ខាងក្នុង៖ក្រាស់​,ខាងក្រៅ​៖ល្អ,គម្លាត៖មធ្យម"
 
 #. MeSC4
 #: include/editeng/editrids.hrc:156
 msgctxt "RID_THICKTHIN_LARGEGAP"
 msgid "Double, inside: thick, outside: fine, spacing: large"
-msgstr "ទ្វេ ខាងក្នុង​ ៖ ស្តើង ខាងក្រៅ​ ៖ ក្រាស់ គម្លាត ៖ ធំ "
+msgstr "ទ្វេ,ខាងក្នុង​៖ស្តើង,ខាងក្រៅ​៖ល្អ គម្លាត៖ធំ"
 
 #. RmYEL
 #: include/editeng/editrids.hrc:157
 msgctxt "RID_EMBOSSED"
 msgid "3D embossed"
-msgstr "លាន​ត្រី​មាត្រ"
+msgstr "3D ក្រឡោត"
 
 #. BXK8h
 #: include/editeng/editrids.hrc:158
 msgctxt "RID_ENGRAVED"
 msgid "3D engraved"
-msgstr "លឹប​ត្រីមាត្រ​"
+msgstr "3D ឆ្លាក់"
 
 #. xeaGY
 #: include/editeng/editrids.hrc:159
@@ -877,7 +873,7 @@ msgstr "cm"
 #: include/editeng/editrids.hrc:167
 msgctxt "RID_SVXITEMS_METRIC_INCH"
 msgid "inch"
-msgstr "អ៊ិន្ឈ៍"
+msgstr "អ៊ីញ"
 
 #. QMd2A
 #: include/editeng/editrids.hrc:168
@@ -1082,43 +1078,43 @@ msgstr "គ្មានចុងទំព័រ​"
 #: include/editeng/editrids.hrc:203
 msgctxt "RID_SVXITEMS_SIZE_WIDTH"
 msgid "Width: "
-msgstr "ទទឹង ៖"
+msgstr "ទទឹង ៖ "
 
 #. A6LqG
 #: include/editeng/editrids.hrc:204
 msgctxt "RID_SVXITEMS_SIZE_HEIGHT"
 msgid "Height: "
-msgstr "កម្ពស់​ ៖"
+msgstr "កម្ពស់​ ៖ "
 
 #. EhDVf
 #: include/editeng/editrids.hrc:205
 msgctxt "RID_SVXITEMS_LRSPACE_LEFT"
 msgid "Indent left "
-msgstr "ចូលបន្ទាត់ខាង​​ឆ្វេង"
+msgstr "ចូលបន្ទាត់ខាង​​ឆ្វេង "
 
 #. 8pKEx
 #: include/editeng/editrids.hrc:206
 msgctxt "RID_SVXITEMS_LRSPACE_FLINE"
 msgid "First Line "
-msgstr "ជួរ​ដំបូង​"
+msgstr "ជួរ​ដំបូង​ "
 
 #. 5yfe7
 #: include/editeng/editrids.hrc:207
 msgctxt "RID_SVXITEMS_LRSPACE_RIGHT"
 msgid "Indent right "
-msgstr "ចូលបន្ទាត់​ខាង​ស្តាំ​"
+msgstr "ចូលបន្ទាត់​ខាង​ស្តាំ​ "
 
 #. rHuC8
 #: include/editeng/editrids.hrc:208
 msgctxt "RID_SVXITEMS_SHADOW_COMPLETE"
 msgid "Shadow: "
-msgstr "ស្រមោល​ ៖"
+msgstr "ស្រមោល​ ៖ "
 
 #. WAFNF
 #: include/editeng/editrids.hrc:209
 msgctxt "RID_SVXITEMS_BORDER_COMPLETE"
 msgid "Borders "
-msgstr "ស៊ុម​"
+msgstr "ស៊ុម​ "
 
 #. H7bna
 #: include/editeng/editrids.hrc:210
@@ -1130,91 +1126,91 @@ msgstr "គ្មាន​ស៊ុម​"
 #: include/editeng/editrids.hrc:211
 msgctxt "RID_SVXITEMS_BORDER_TOP"
 msgid "top "
-msgstr "កំពូល​"
+msgstr "កំពូល​ "
 
 #. BuyEy
 #: include/editeng/editrids.hrc:212
 msgctxt "RID_SVXITEMS_BORDER_BOTTOM"
 msgid "bottom "
-msgstr "បាត​"
+msgstr "បាត​ "
 
 #. qAkBD
 #: include/editeng/editrids.hrc:213
 msgctxt "RID_SVXITEMS_BORDER_LEFT"
 msgid "left "
-msgstr "ឆ្វេង​"
+msgstr "ឆ្វេង​ "
 
 #. EGQai
 #: include/editeng/editrids.hrc:214
 msgctxt "RID_SVXITEMS_BORDER_RIGHT"
 msgid "right "
-msgstr "ស្តាំ​"
+msgstr "ស្តាំ​ "
 
 #. vyBZu
 #: include/editeng/editrids.hrc:215
 msgctxt "RID_SVXITEMS_BORDER_DISTANCE"
 msgid "Spacing "
-msgstr "គម្លាត​"
+msgstr "គម្លាត​ "
 
 #. AXuCm
 #: include/editeng/editrids.hrc:216
 msgctxt "RID_SVXITEMS_ULSPACE_UPPER"
 msgid "From top "
-msgstr "ពី​កំពូល​"
+msgstr "ពី​កំពូល​ "
 
 #. onyB7
 #: include/editeng/editrids.hrc:217
 msgctxt "RID_SVXITEMS_ULSPACE_LOWER"
 msgid "From bottom "
-msgstr "ពី​បាត​"
+msgstr "ពី​បាត​ "
 
 #. 5o8Bu
 #: include/editeng/editrids.hrc:218
 msgctxt "RID_SVXITEMS_LINESPACING_SINGLE"
 msgid "Single"
-msgstr ""
+msgstr "នៅលីវ"
 
 #. 8xELr
 #: include/editeng/editrids.hrc:219
 msgctxt "RID_SVXITEMS_LINESPACING_115"
 msgid "1.15 Lines"
-msgstr ""
+msgstr "១.១៥ ខ្សែ"
 
 #. BE4uB
 #: include/editeng/editrids.hrc:220
 msgctxt "RID_SVXITEMS_LINESPACING_15"
 msgid "1.5 Lines"
-msgstr ""
+msgstr "១.៥ ខ្សែ"
 
 #. uECD7
 #: include/editeng/editrids.hrc:221
 msgctxt "RID_SVXITEMS_LINESPACING_DOUBLE"
 msgid "Double"
-msgstr ""
+msgstr "ទ្វេ"
 
 #. rpjTU
 #: include/editeng/editrids.hrc:222
 msgctxt "RID_SVXITEMS_LINESPACING_PROPORTIONAL"
 msgid "Proportional"
-msgstr ""
+msgstr "សមាមាត្រ"
 
 #. BAMDF
 #: include/editeng/editrids.hrc:223
 msgctxt "RID_SVXITEMS_LINESPACING_MIN"
 msgid "At least"
-msgstr ""
+msgstr "យ៉ាងហោចណាស់"
 
 #. sG5JS
 #: include/editeng/editrids.hrc:224
 msgctxt "RID_SVXITEMS_LINESPACING_LEADING"
 msgid "Leading"
-msgstr ""
+msgstr "នាំមុខ"
 
 #. Y4oRf
 #: include/editeng/editrids.hrc:225
 msgctxt "RID_SVXITEMS_LINESPACING_FIXED"
 msgid "Fixed"
-msgstr ""
+msgstr "ថេរ"
 
 #. Z6CiF
 #. To translators: %1 == will be replaced by the number of lines
@@ -1257,25 +1253,25 @@ msgstr "%1 សហសញ្ញា"
 #: include/editeng/editrids.hrc:233
 msgctxt "RID_SVXITEMS_PAGEMODEL_COMPLETE"
 msgid "Page Style: "
-msgstr "រចនាប័ទ្ម​ទំព័រ​ ៖"
+msgstr "រចនាប័ទ្ម​ទំព័រ​ ៖ "
 
 #. JgaGz
 #: include/editeng/editrids.hrc:234
 msgctxt "RID_SVXITEMS_KERNING_COMPLETE"
 msgid "Kerning "
-msgstr "ការ​សម្រួល​ចន្លោះ​តួអក្សរ​"
+msgstr "ការ​សម្រួល​ចន្លោះ​តួអក្សរ​ "
 
 #. A7tAE
 #: include/editeng/editrids.hrc:235
 msgctxt "RID_SVXITEMS_KERNING_EXPANDED"
 msgid "locked "
-msgstr "ជាប់​សោ​"
+msgstr "ជាប់​សោ​ "
 
 #. P976r
 #: include/editeng/editrids.hrc:236
 msgctxt "RID_SVXITEMS_KERNING_CONDENSED"
 msgid "Condensed "
-msgstr "ញឹក​"
+msgstr "ញឹក​ "
 
 #. TYEUj
 #: include/editeng/editrids.hrc:237
@@ -1293,26 +1289,26 @@ msgstr "គ្មាន​"
 #: include/editeng/editrids.hrc:239
 msgctxt "RID_SVXITEMS_EMPHASIS_DOT_STYLE"
 msgid "Dots "
-msgstr "ចុចៗ​"
+msgstr "ចុចៗ​ "
 
 #. sSTeu
 #: include/editeng/editrids.hrc:240
 msgctxt "RID_SVXITEMS_EMPHASIS_CIRCLE_STYLE"
 msgid "Circle "
-msgstr "រង្វង់​"
+msgstr "រង្វង់​ "
 
 #. znKWc
 #. ??? disc == filled ring
 #: include/editeng/editrids.hrc:242
 msgctxt "RID_SVXITEMS_EMPHASIS_DISC_STYLE"
 msgid "Filled circle "
-msgstr "រង្វង់​ដែលបាន​បំពេញ​"
+msgstr "រង្វង់​ដែលបាន​បំពេញ​ "
 
 #. CEGAg
 #: include/editeng/editrids.hrc:243
 msgctxt "RID_SVXITEMS_EMPHASIS_ACCENT_STYLE"
 msgid "Accent "
-msgstr "សញ្ញា​សង្កត់​សំឡេង​"
+msgstr "សញ្ញា​សង្កត់​សំឡេង​ "
 
 #. 2hqEA
 #: include/editeng/editrids.hrc:244
@@ -1396,13 +1392,13 @@ msgstr "សម​ត្រូវ​ជួរ​"
 #: include/editeng/editrids.hrc:257
 msgctxt "RID_SVXITEMS_TEXTROTATE_OFF"
 msgid "Text is not rotated"
-msgstr ""
+msgstr "អត្ថបទមិនត្រូវបានបង្វិលទេ"
 
 #. WSt2G
 #: include/editeng/editrids.hrc:258
 msgctxt "RID_SVXITEMS_TEXTROTATE"
 msgid "Text is rotated by $(ARG1)°"
-msgstr ""
+msgstr "អត្ថបទត្រូវបានបង្វិលដោយ $(ARG1) °"
 
 #. bGvZn
 #: include/editeng/editrids.hrc:259
@@ -1498,7 +1494,7 @@ msgstr "ប្រើ​ការកំណត់​ទិសអត្ថបទ​
 #: include/editeng/editrids.hrc:274
 msgctxt "RID_SVXITEMS_FRMDIR_VERT_BOT_LEFT"
 msgid "Text direction left-to-right (vertical from bottom)"
-msgstr ""
+msgstr "ទិសអក្សរពីឆ្វេងទៅស្តាំ (បញ្ឈរពីបាត)"
 
 #. Z9dAu
 #: include/editeng/editrids.hrc:275

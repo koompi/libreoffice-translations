@@ -1,20 +1,19 @@
-#. extracted from sfx2
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
-"POT-Creation-Date: 2020-09-28 11:22+0200\n"
-"PO-Revision-Date: 2018-10-21 19:35+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2020-03-10 13:36+0100\n"
+"PO-Revision-Date: 2020-09-12 09:56+0700\n"
+"Last-Translator: Koompi Apps Localization\n"
 "Language: km\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Accelerator-Marker: ~\n"
-"X-Generator: LibreOffice\n"
-"X-POOTLE-MTIME: 1540150531.000000\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-POOTLE-MTIME: 1535975854.000000\n"
+"Language-Team: KOOMPI Apps Localization\n"
 
 #. bHbFE
 #: include/sfx2/strings.hrc:25
@@ -26,13 +25,13 @@ msgstr "ពុម្ព"
 #: include/sfx2/strings.hrc:26
 msgctxt "STR_SAVEDOC"
 msgid "~Save"
-msgstr "រក្សាទុក "
+msgstr "រក្សាទុក"
 
 #. CQKYg
 #: include/sfx2/strings.hrc:27
 msgctxt "STR_SAVEASDOC"
 msgid "Save ~As..."
-msgstr "រក្សាទុក​ជា​... "
+msgstr "រក្សាទុក​ជា​..."
 
 #. BdP9V
 #: include/sfx2/strings.hrc:28
@@ -44,7 +43,7 @@ msgstr "រក្សាទុក​ច្បាប់​ចម្លង..."
 #: include/sfx2/strings.hrc:29
 msgctxt "STR_CLOSEDOC"
 msgid "~Close"
-msgstr "បិទ "
+msgstr "បិទ"
 
 #. 5ZD4C
 #: include/sfx2/strings.hrc:30
@@ -62,17 +61,16 @@ msgstr "កែ​សម្រួល"
 #: include/sfx2/strings.hrc:32
 msgctxt "STR_DEFAULT_TEMPLATE"
 msgid "Set as Default"
-msgstr ""
+msgstr "ដាក់ជាលំនាំដើម"
 
 #. kZmDk
 #: include/sfx2/strings.hrc:33
 msgctxt "STR_RESET_DEFAULT"
 msgid "Reset Default"
-msgstr ""
+msgstr "កំណត់ឡើងវិញ"
 
 #. 5rD3D
 #: include/sfx2/strings.hrc:34
-#, fuzzy
 msgctxt "STR_DELETE"
 msgid "Delete"
 msgstr "លុប​"
@@ -81,19 +79,19 @@ msgstr "លុប​"
 #: include/sfx2/strings.hrc:35
 msgctxt "STR_SFX_RENAME"
 msgid "Rename"
-msgstr ""
+msgstr "ប្តូរពណ៌"
 
 #. C2ngg
 #: include/sfx2/strings.hrc:36
 msgctxt "STR_CATEGORY_RENAME"
 msgid "Rename Category"
-msgstr ""
+msgstr "ប្តូរឈ្មោះប្រភេទ"
 
 #. w5nke
 #: include/sfx2/strings.hrc:37
 msgctxt "STR_RENAME_TEMPLATE"
 msgid "Enter New Name: "
-msgstr ""
+msgstr "បញ្ចូលឈ្មោះថ្មី៖ "
 
 #. TVTsi
 #: include/sfx2/strings.hrc:38
@@ -102,12 +100,14 @@ msgid ""
 "Title: $1\n"
 "Category: $2"
 msgstr ""
+"ចំណងជើង៖ $1\n"
+"ប្រភេទ៖ $2"
 
 #. W2X7Y
 #: include/sfx2/strings.hrc:39
 msgctxt "STR_TEMPLATE_SELECTION"
 msgid "Select a Template"
-msgstr ""
+msgstr "ជ្រើសរើសគំរូ"
 
 #. ihUZ6
 #: include/sfx2/strings.hrc:40
@@ -141,7 +141,7 @@ msgstr ""
 #: include/sfx2/strings.hrc:44
 msgctxt "STR_HIDDENINFO_RECORDCHANGES"
 msgid "Recorded changes"
-msgstr "ភាព​ផ្លាស់​ប្តូ​ដែល​បាន​កត់​ត្រា"
+msgstr "ភាព​ផ្លាស់​ប្តូរដែល​បាន​កត់​ត្រ"
 
 #. LUUtP
 #: include/sfx2/strings.hrc:45
@@ -196,11 +196,10 @@ msgstr " (បាន​ចែករំលែក)"
 #: include/sfx2/strings.hrc:54
 msgctxt "STR_XMLSEC_ODF12_EXPECTED"
 msgid "The document format version is set to ODF 1.1 (OpenOffice.org 2.x) in Tools-Options-Load/Save-General. Signing documents requires ODF 1.2 (OpenOffice.org 3.x)."
-msgstr "កំណែ​ទ្រង់ទ្រាយ​ឯកសារ​ត្រូវ​កំណត់​ទៅ ODF 1.1 (OpenOffice.org 2.x) នៅ​ក្នុង​ ឧបករណ៍-ជម្រើស-ផ្ទុក/រក្សាទុក-ទូទៅ ។ ចុះហត្ថលេខា​ត្រូវការ ODF 1.2 (OpenOffice.org 3.x) ។"
+msgstr "កំណែ​ទ្រង់ទ្រាយ​ឯកសារ​ត្រូវ​កំណត់​ទៅ ODF ១.១ (OpenOffice.org ២.x) នៅ​ក្នុង​ ឧបករណ៍-ជម្រើស-ផ្ទុក/រក្សាទុក-ទូទៅ ។ ចុះហត្ថលេខា​ត្រូវការ ODF ១.២ (OpenOffice.org ៣.x) ។"
 
 #. tqPCH
 #: include/sfx2/strings.hrc:55
-#, fuzzy
 msgctxt "STR_XMLSEC_QUERY_SAVESIGNEDBEFORESIGN"
 msgid ""
 "The document has to be saved before it can be signed. Saving the document removes all present signatures.\n"
@@ -225,7 +224,7 @@ msgstr "ធ្វើ​បច្ចុប្បន្នភាព​រចនា
 #: include/sfx2/strings.hrc:58
 msgctxt "STR_QRYTEMPL_KEEP_BTN"
 msgid "~Keep Old Styles"
-msgstr "ទុក​រចនាប័ទ្ម​ចាស់ "
+msgstr "ទុក​រចនាប័ទ្ម​ចាស់"
 
 #. XdvXk
 #: include/sfx2/strings.hrc:59
@@ -237,49 +236,49 @@ msgstr "ធ្វើ​ឲ្យ​ស្រស់"
 #: include/sfx2/strings.hrc:60
 msgctxt "STR_CATEGORY_NEW"
 msgid "New Category"
-msgstr ""
+msgstr "ប្រភេទថ្មី"
 
 #. p46Ai
 #: include/sfx2/strings.hrc:61
 msgctxt "STR_CATEGORY_DELETE"
 msgid "Delete Category"
-msgstr ""
+msgstr "លុបប្រភេទ"
 
 #. xfaom
 #: include/sfx2/strings.hrc:62
 msgctxt "STR_CATEGORY_SELECT"
 msgid "Select Category"
-msgstr ""
+msgstr "ជ្រើសរើសប្រភេទ"
 
 #. YdoDu
 #: include/sfx2/strings.hrc:63
 msgctxt "STR_MSG_EXPORT_SUCCESS"
 msgid "$1 templates successfully exported."
-msgstr ""
+msgstr "ពុម្ព $1 ត្រូវបាននាំចេញដោយជោគជ័យ"
 
 #. g6iDa
 #: include/sfx2/strings.hrc:64
 msgctxt "STR_MSG_QUERY_COPY"
 msgid "$1 could not be moved to the category \"$2\". Do you want to copy the template instead?"
-msgstr ""
+msgstr "$1 មិនអាចប្តូរទៅប្រភេទ \"$2\" ទេ។ តើអ្នកចង់ចម្លងពុម្ពជំនួសទេ?"
 
 #. 9bJN3
 #: include/sfx2/strings.hrc:65
 msgctxt "STR_CREATE_ERROR"
 msgid "Cannot create category: $1"
-msgstr ""
+msgstr "មិនអាចបង្កើតប្រភេទ៖  $1"
 
 #. YR7aW
 #: include/sfx2/strings.hrc:66
 msgctxt "STR_ERROR_SAVEAS"
 msgid "Cannot save template: $1"
-msgstr ""
+msgstr "មិនអាចរក្សាទុកគំរូ៖  $1"
 
 #. vFwwF
 #: include/sfx2/strings.hrc:67
 msgctxt "STR_INPUT_NEW"
 msgid "Enter category name:"
-msgstr ""
+msgstr "បញ្ចូលឈ្មោះប្រភេទ៖"
 
 #. yxN3P
 #: include/sfx2/strings.hrc:68
@@ -353,13 +352,13 @@ msgstr "តើ​អ្នក​ចង់​លុប​ពុម្ព​ដែ
 #: include/sfx2/strings.hrc:76
 msgctxt "STR_QMSG_ERROR_OPENING_FILE"
 msgid "An error occurred during opening the file. This may be caused by incorrect file contents.\n"
-msgstr ""
+msgstr "កំហុសមួយបានកើតឡើងនៅពេលបើកឯកសារ។ នេះអាចបណ្តាលមកពីមាតិកាឯកសារមិនត្រឹមត្រូវ។\n"
 
 #. AsUee
 #: include/sfx2/strings.hrc:77
 msgctxt "STR_QMSG_ERROR_OPENING_FILE_DETAILS"
 msgid "The error details are:\n"
-msgstr ""
+msgstr "ព័ត៌មានលម្អិតអំពីកំហុសគឺ\n"
 
 #. D2XDV
 #: include/sfx2/strings.hrc:78
@@ -370,6 +369,10 @@ msgid ""
 "\n"
 "Do you want to ignore the error and attempt to continue loading the file?"
 msgstr ""
+"\n"
+"បន្តការនាំចូលអាចបណ្តាលឱ្យបាត់បង់ទិន្នន័យឬពុករលួយហើយការដាក់ពាក្យសុំអាចនឹងមិនមានស្ថេរភាពឬគាំង។\n"
+"\n"
+"តើអ្នកចង់មិនអើពើនឹងកំហុសហើយព្យាយាមបន្តផ្ទុកឯកសារឬ?"
 
 #. g63UH
 #: include/sfx2/strings.hrc:80
@@ -381,13 +384,13 @@ msgstr "ជំនួយរបស់ %PRODUCTNAME"
 #: include/sfx2/strings.hrc:81
 msgctxt "STR_HELP_BUTTON_INDEX_ON"
 msgid "Show Navigation Pane"
-msgstr "បង្ហាញ​ស្លាបព្រិល​រុករក"
+msgstr "បង្ហាញផ្ទាំងរុករក"
 
 #. 3LGpr
 #: include/sfx2/strings.hrc:82
 msgctxt "STR_HELP_BUTTON_INDEX_OFF"
 msgid "Hide Navigation Pane"
-msgstr "លាក់​ស្លាបព្រិល​រុករក"
+msgstr "លាក់ផ្ទាំងនាវាចរណ៍"
 
 #. g8Vns
 #: include/sfx2/strings.hrc:83
@@ -441,7 +444,7 @@ msgstr "ជ្រើស​អត្ថបទ"
 #: include/sfx2/strings.hrc:91
 msgctxt "STR_HELP_MENU_TEXT_COPY"
 msgid "~Copy"
-msgstr "ចម្លង "
+msgstr "ចម្លង"
 
 #. TQd3C
 #: include/sfx2/strings.hrc:92
@@ -459,13 +462,13 @@ msgstr "រក​មិន​ឃើញ​អត្ថបទ ដែល​អ្�
 #: include/sfx2/strings.hrc:94
 msgctxt "RID_HELP_ONSTARTUP_TEXT"
 msgid "~Display %PRODUCTNAME %MODULENAME Help at Startup"
-msgstr "បង្ហាញជំនួយ​ %PRODUCTNAME %MODULENAME នៅ​ពេល​ចាប់​ផ្តើម "
+msgstr "បង្ហាញជំនួយ​ %PRODUCTNAME %MODULENAME នៅ​ពេល​ចាប់​ផ្តើម"
 
 #. TEgzB
 #: include/sfx2/strings.hrc:96
 msgctxt "STR_NONAME"
 msgid "Untitled"
-msgstr "គ្មាន​ចំណងជើង "
+msgstr "គ្មាន​ចំណងជើង"
 
 #. fs5SN
 #: include/sfx2/strings.hrc:97
@@ -510,12 +513,14 @@ msgid ""
 "Opening \"$(ARG1)\" failed with error code $(ARG2) and message: \"$(ARG3)\"\n"
 "Maybe no web browser could be found on your system. In that case, please check your Desktop Preferences or install a web browser (for example, Firefox) in the default location requested during the browser installation."
 msgstr ""
+"ការបើក \"$ (ARG1)\" បានបរាជ័យជាមួយលេខកូដកំហុស $ (ARG2) និងសារ៖ \"$ (ARG3)\"\n"
+"ប្រហែលជាមិនមានកម្មវិធីរុករកគេហទំព័រអាចរកបាននៅលើប្រព័ន្ធរបស់អ្នកទេ។ ក្នុងករណីនោះសូមពិនិត្យមើលចំណង់ចំណូលចិត្តលើផ្ទៃតុរបស់អ្នកឬតំឡើងកម្មវិធីរុករកគេហទំព័រ (ឧទាហរណ៍ Firefox) នៅក្នុងទីតាំងលំនាំដើមដែលបានស្នើសុំកំឡុងពេលតំឡើងកម្មវិធីរុករក។"
 
-#. ADqLM
+#. kmLzB
 #: include/sfx2/strings.hrc:104
 msgctxt "STR_NO_ABS_URI_REF"
-msgid "\"$(ARG1)\" cannot be passed to an external application to open it (e.g., it might not be an absolute URL, or might denote no existing file)."
-msgstr ""
+msgid "\"$(ARG1)\" is not an absolute URL that can be passed to an external application to open it."
+msgstr "\"$(ARG1)\" មិនមែន​ជា​ URL ពេញលេញ​ដែល​អាច​ចម្លង​ទៅ​កម្មវិធី​ខាង​ក្រៅ​ ដើម្បី​បើក​វា។"
 
 #. XDUCY
 #: include/sfx2/strings.hrc:105
@@ -551,7 +556,7 @@ msgstr "កែ​សម្រួល"
 #: include/sfx2/strings.hrc:110
 msgctxt "STR_GID_MACRO"
 msgid "BASIC"
-msgstr "BASIC"
+msgstr "មូលដ្ឋាន"
 
 #. 3QkTL
 #: include/sfx2/strings.hrc:111
@@ -659,13 +664,13 @@ msgstr "អ្នក​ត​ភ្ជាប់"
 #: include/sfx2/strings.hrc:128
 msgctxt "STR_GID_MODIFY"
 msgid "Modify"
-msgstr "កែប្រែ"
+msgstr "កែប្រែ​"
 
 #. WcwGs
 #: include/sfx2/strings.hrc:129
 msgctxt "STR_GID_DRAWING"
 msgid "Drawing"
-msgstr "គំនូរ"
+msgstr "គូរ"
 
 #. Ajo4w
 #: include/sfx2/strings.hrc:130
@@ -754,17 +759,19 @@ msgid ""
 "Would you like to change the document, and update all links\n"
 "to get the most recent data?"
 msgstr ""
+"ឯកសារ %{filename} មានតំណមួយឬច្រើនទៅទិន្នន័យខាងក្រៅ។\n"
+"\n"
+"តើអ្នកចង់ផ្លាស់ប្តូរឯកសារនិងធ្វើបច្ចុប្បន្នភាពតំណទាំងអស់\n"
+"ដើម្បីទទួលបានទិន្នន័យថ្មីៗបំផុត?"
 
 #. zJGEM
 #: include/sfx2/strings.hrc:144
-#, fuzzy
 msgctxt "STR_DDE_ERROR"
 msgid "DDE link to %1 for %2 area %3 are not available."
-msgstr "មិន​មាន​តំណ DDE ​ទៅ % សម្រាប់ % តំបន់ %  ។"
+msgstr "មិន​មាន​តំណ DDE ​ទៅ %1 សម្រាប់ %2 តំបន់ %3  ។"
 
 #. zECGD
 #: include/sfx2/strings.hrc:145
-#, fuzzy
 msgctxt "STR_SECURITY_WARNING_NO_HYPERLINKS"
 msgid ""
 "For security reasons, the hyperlink cannot be executed.\n"
@@ -781,7 +788,6 @@ msgstr "ការ​ព្រមាន​​​សុវត្ថិភាព"
 
 #. vVCon
 #: include/sfx2/strings.hrc:147
-#, fuzzy
 msgctxt "RID_SVXSTR_XMLSEC_QUERY_LOSINGSIGNATURE"
 msgid ""
 "Saving will remove all existing signatures.\n"
@@ -792,7 +798,6 @@ msgstr ""
 
 #. cGnF9
 #: include/sfx2/strings.hrc:148
-#, fuzzy
 msgctxt "RID_SVXSTR_XMLSEC_QUERY_SAVEBEFORESIGN"
 msgid ""
 "The document has to be saved before it can be signed.\n"
@@ -803,7 +808,6 @@ msgstr ""
 
 #. zNVEd
 #: include/sfx2/strings.hrc:149
-#, fuzzy
 msgctxt "STR_QUERY_CANCELCHECKOUT"
 msgid ""
 "This will discard all changes on the server since check-out.\n"
@@ -814,10 +818,9 @@ msgstr ""
 
 #. jufLD
 #: include/sfx2/strings.hrc:150
-#, fuzzy
 msgctxt "STR_INFO_WRONGDOCFORMAT"
 msgid "This document must be saved in OpenDocument file format before it can be digitally signed."
-msgstr "ឯកសារ​នេះ​ត្រូវ​តែ​រក្សា​ទុក​ក្នុងទ្រង់​ទ្រាយ​ឯកសារ OpenDocument មុន​ពេល​វា​អាច​ត្រូវ​បានចុះ​ហត្ថលេខា​ជា​លេខ ។"
+msgstr "ឯកសារ​នេះ​ត្រូវ​តែ​រក្សា​ទុក​ក្នុងទ្រង់​ទ្រាយ​ទិន្នន័យ ឯកសារបើក មុន​ពេល​វា​អាច​ត្រូវ​បានចុះ​ហត្ថលេខា​ជា​លេខ ។"
 
 #. ori9u
 #: include/sfx2/strings.hrc:151
@@ -829,7 +832,7 @@ msgstr " (​បាន​ចុះ​ហត្ថលេខា​)"
 #: include/sfx2/strings.hrc:152
 msgctxt "STR_EMBEDDED_TITLE"
 msgid " (Embedded document)"
-msgstr ""
+msgstr " (ឯកសារបង្កប់)"
 
 #. 3nT9T
 #: include/sfx2/strings.hrc:153
@@ -869,7 +872,6 @@ msgstr "ឯកសារ​ទាំងអស់"
 
 #. E39E2
 #: include/sfx2/strings.hrc:159
-#, fuzzy
 msgctxt "STR_SFX_FILTERNAME_PDF"
 msgid "PDF files"
 msgstr "ឯកសារ ​PDF"
@@ -925,14 +927,8 @@ msgctxt "RID_SVXSTR_GRFILTER_FILTERERROR"
 msgid "Image filter not found"
 msgstr "រក​មិន​ឃើញ​តម្រង​រូបភាព"
 
-#. huEFV
-#: include/sfx2/strings.hrc:168
-msgctxt "RID_SVXSTR_TXTFILTER_FILTERERROR"
-msgid "This is not a text document"
-msgstr ""
-
 #. ejBgZ
-#: include/sfx2/strings.hrc:169
+#: include/sfx2/strings.hrc:168
 msgctxt "RID_SVXSTR_END_REDLINING_WARNING"
 msgid ""
 "This action will exit the change recording mode.\n"
@@ -941,46 +937,49 @@ msgid ""
 "Exit change recording mode?\n"
 "\n"
 msgstr ""
+"សកម្មភាពនេះនឹងចេញពីរបៀបថតការផ្លាស់ប្តូរ។\n"
+"ចាប់ពីពេលនេះតទៅគ្មានព័ត៌មានអំពីការផ្លាស់ប្តូរត្រូវបានកត់ត្រាទុកទេ។\n"
+"\n"
+"ចេញពីរបៀបថតការផ្លាស់ប្តូរ?\n"
 
 #. E2CcY
-#: include/sfx2/strings.hrc:170
+#: include/sfx2/strings.hrc:169
 msgctxt "RID_SVXSTR_INCORRECT_PASSWORD"
 msgid "Incorrect password"
 msgstr "ពាក្យ​សម្ងាត់​មិន​ត្រឹម​ត្រូវ"
 
 #. 7Ezso
-#: include/sfx2/strings.hrc:171
+#: include/sfx2/strings.hrc:170
 msgctxt "RID_SVXSTR_GPG_ENCRYPT_FAILURE"
 msgid "OpenPGP key not trusted, damaged, or encryption failure. Please try again."
-msgstr ""
+msgstr "កូនសោ OpenPGP មិនគួរឱ្យទុកចិត្តខូចខាតឬបរាជ័យក្នុងការអ៊ិនគ្រីប។ សូម​ព្យាយាម​ម្តង​ទៀត។"
 
 #. DQCUm
-#: include/sfx2/strings.hrc:173
+#: include/sfx2/strings.hrc:172
 msgctxt "STR_PASSWD_MIN_LEN"
 msgid "(Minimum $(MINLEN) characters)"
 msgstr "(តួអក្សរ $(MINLEN) អតិបរមា)"
 
 #. ZKZnh
-#: include/sfx2/strings.hrc:174
+#: include/sfx2/strings.hrc:173
 msgctxt "STR_PASSWD_MIN_LEN1"
 msgid "(Minimum 1 character)"
 msgstr "(1 តួ​អក្សរ​អប្បបរមា)"
 
 #. B3WoF
-#: include/sfx2/strings.hrc:175
+#: include/sfx2/strings.hrc:174
 msgctxt "STR_PASSWD_EMPTY"
 msgid "(The password can be empty)"
 msgstr "(ពាក្យ​សម្ងាត់​អាច​ទទេ​បាន)"
 
 #. iBD9D
-#: include/sfx2/strings.hrc:176
-#, fuzzy
+#: include/sfx2/strings.hrc:175
 msgctxt "STR_MODULENOTINSTALLED"
 msgid "The action could not be executed. The %PRODUCTNAME program module needed for this action is currently not installed."
 msgstr "មិន​អាច​ប្រតិបត្តិ​អំពើ​នេះ ។ ម៉ូឌុល​កម្មវិធី %PRODUCTNAME ដែល​ចាំបាច់​សម្រាប់​អំពើ​នេះ​ មិន​ត្រូវ​បាន​ដំឡើង​ក្នុង​ពេល​បច្ចុប្បន្ន ។"
 
 #. TXAV5
-#: include/sfx2/strings.hrc:178
+#: include/sfx2/strings.hrc:177
 msgctxt "STR_FILTER_NOT_INSTALLED"
 msgid ""
 "The selected filter $(FILTER) has not been installed.\n"
@@ -990,7 +989,7 @@ msgstr ""
 "តើ​អ្នក​ចង់​ធ្វើ​ដូច្នេះ​ឥឡូវ​នេះ​ឬ ?"
 
 #. gQhYY
-#: include/sfx2/strings.hrc:179
+#: include/sfx2/strings.hrc:178
 msgctxt "STR_FILTER_CONSULT_SERVICE"
 msgid ""
 "The selected filter $(FILTER) is not included in your edition.\n"
@@ -1000,217 +999,215 @@ msgstr ""
 "អ្នក​អាច​រក​ព័ត៌មាន​អំពី​​បញ្ជា ​លើ​គេហទំព័រ​របស់​ពួកយើង ។"
 
 #. Y9yeS
-#: include/sfx2/strings.hrc:181
+#: include/sfx2/strings.hrc:180
 msgctxt "STR_WELCOME_LINE1"
 msgid "Welcome to %PRODUCTNAME."
 msgstr "សូម​ស្វាគមន៍​មកកាន់ %PRODUCTNAME ។"
 
 #. hyKnu
-#: include/sfx2/strings.hrc:182
+#: include/sfx2/strings.hrc:181
 msgctxt "STR_WELCOME_LINE2"
 msgid "Drop a document here or pick an app from the left side to create one."
-msgstr ""
+msgstr "ទម្លាក់ឯកសារនៅទីនេះឬជ្រើសរើសកម្មវិធីពីផ្នែកខាងឆ្វេងដើម្បីបង្កើត។"
 
 #. oTVdA
 #. Translators: Target types in Auto-redaction dialog
-#: include/sfx2/strings.hrc:185
+#: include/sfx2/strings.hrc:184
 msgctxt "STR_REDACTION_TARGET_TYPE_TEXT"
 msgid "Text"
-msgstr ""
+msgstr "អត្ថបទ"
 
 #. eG5qc
-#: include/sfx2/strings.hrc:186
+#: include/sfx2/strings.hrc:185
 msgctxt "STR_REDACTION_TARGET_TYPE_REGEX"
 msgid "Regular expression"
-msgstr ""
+msgstr "កន្សោម​ធម្មតា"
 
 #. TaDCG
-#: include/sfx2/strings.hrc:187
+#: include/sfx2/strings.hrc:186
 msgctxt "STR_REDACTION_TARGET_TYPE_PREDEF"
 msgid "Predefined"
-msgstr ""
+msgstr "កំណត់ជាមុន"
 
 #. bDjwW
-#: include/sfx2/strings.hrc:188
+#: include/sfx2/strings.hrc:187
 msgctxt "STR_REDACTION_TARGET_TYPE_UNKNOWN"
 msgid "Unknown"
-msgstr ""
+msgstr "មិនស្គាល់"
 
 #. Ao6kC
 #. Translators: Column headers in Auto-redaction dialog's targets list
-#: include/sfx2/strings.hrc:191
+#: include/sfx2/strings.hrc:190
 msgctxt "STR_REDACTION_TARGET_NAME"
 msgid "Target Name"
-msgstr ""
+msgstr "ឈ្មោះគោលដៅ"
 
 #. mGjsx
-#: include/sfx2/strings.hrc:192
+#: include/sfx2/strings.hrc:191
 msgctxt "STR_REDACTION_TYPE"
 msgid "Type"
-msgstr ""
+msgstr "ប្រភេទ"
 
 #. gFKC4
-#: include/sfx2/strings.hrc:193
+#: include/sfx2/strings.hrc:192
 msgctxt "STR_REDACTION_CONTENT"
 msgid "Content"
-msgstr ""
+msgstr "មាតិកា"
 
 #. oSNPd
-#: include/sfx2/strings.hrc:194
+#: include/sfx2/strings.hrc:193
 msgctxt "STR_REDACTION_CASE_SENSITIVE"
 msgid "Case Sensitive"
-msgstr ""
+msgstr "ប្រកាន់​តួអក្សរ​តូច​ធំ"
 
 #. FLcSM
-#: include/sfx2/strings.hrc:195
+#: include/sfx2/strings.hrc:194
 msgctxt "STR_REDACTION_WHOLE_WORDS"
 msgid "Whole Words"
-msgstr ""
+msgstr "ពាក្យទាំងមូល"
 
 #. YgzCk
 #. Translators: Values for the Case Sensitive and the Whole Words columns in Auto-redaction dialog
-#: include/sfx2/strings.hrc:198
+#: include/sfx2/strings.hrc:197
 msgctxt "STR_REDACTION_YES"
 msgid "Yes"
-msgstr ""
+msgstr "បាទ/ចាស"
 
 #. oZNaM
-#: include/sfx2/strings.hrc:199
+#: include/sfx2/strings.hrc:198
 msgctxt "STR_REDACTION_NO"
 msgid "No"
-msgstr ""
+msgstr "ទេ"
 
 #. FM3Gf
 #. Translators: Misc strings of the Auto Redaction dialog
-#: include/sfx2/strings.hrc:202
+#: include/sfx2/strings.hrc:201
 msgctxt "STR_REDACTION_TARGET"
 msgid "Target"
-msgstr ""
+msgstr "គោលដៅ"
 
 #. m2i7V
-#: include/sfx2/strings.hrc:203
+#: include/sfx2/strings.hrc:202
 msgctxt "STR_REDACTION_LOAD_TARGETS"
 msgid "Load Targets"
-msgstr ""
+msgstr "ផ្ទុកគោលដៅ"
 
 #. HgrwX
-#: include/sfx2/strings.hrc:204
+#: include/sfx2/strings.hrc:203
 msgctxt "STR_REDACTION_SAVE_TARGETS"
 msgid "Save Targets"
-msgstr ""
+msgstr "រក្សាទុក​ជា​..."
 
 #. MYMTF
-#: include/sfx2/strings.hrc:205
+#: include/sfx2/strings.hrc:204
 msgctxt "STR_REDACTION_FIELDS_REQUIRED"
 msgid "All fields are required"
-msgstr ""
+msgstr "វាលទាំងអស់ត្រូវបានទាមទារ"
 
 #. rQS6M
-#: include/sfx2/strings.hrc:206
+#: include/sfx2/strings.hrc:205
 msgctxt "STR_REDACTION_TARGET_NAME_CLASH"
 msgid "There is already a target with this name"
-msgstr ""
+msgstr "មានគោលដៅរួចហើយជាមួយឈ្មោះនេះ"
 
 #. s248s
-#: include/sfx2/strings.hrc:207
+#: include/sfx2/strings.hrc:206
 msgctxt "STR_REDACTION_MULTI_EDIT"
 msgid "You have selected multiple targets, but only one target can be edited at once."
-msgstr ""
+msgstr "អ្នកបានជ្រើសរើសគោលដៅជាច្រើនប៉ុន្តែមានតែគោលដៅមួយទេដែលអាចកែសម្រួលបានក្នុងពេលតែមួយ។"
 
 #. BTayC
-#: include/sfx2/strings.hrc:208
+#: include/sfx2/strings.hrc:207
 msgctxt "STR_REDACTION_MULTI_DELETE"
 msgid "Are you sure you would like to delete $(TARGETSCOUNT) targets at once?"
-msgstr ""
+msgstr "តើអ្នកពិតជាចង់លុបគោលដៅ $(TARGETSCOUNT) ក្នុងពេលតែមួយមែនទេ?"
 
 #. qFqDC
-#: include/sfx2/strings.hrc:209
+#: include/sfx2/strings.hrc:208
 msgctxt "STR_REDACTION_JSON_FILE_FILTER"
 msgid "Target Set (*.json)"
-msgstr ""
+msgstr "កំណត់គោលដៅ (* .json)"
 
 #. EGCo6
-#: include/sfx2/strings.hrc:210
+#: include/sfx2/strings.hrc:209
 msgctxt "STR_REDACTION_EDIT_TARGET"
 msgid "Edit Target"
-msgstr ""
+msgstr "កែសម្រួលគោលដៅ"
 
 #. ACY9D
-#: include/sfx2/strings.hrc:211
+#: include/sfx2/strings.hrc:210
 msgctxt "STR_REDACTION_TARGET_ADD_ERROR"
 msgid "An error occurred while adding new target. Please report this incident."
-msgstr ""
+msgstr "កំហុសមួយបានកើតឡើងខណៈពេលបន្ថែមគោលដៅថ្មី។ សូមរាយការណ៍អំពីឧប្បត្តិហេតុនេះ។"
 
 #. znVBU
-#: include/sfx2/strings.hrc:212
+#: include/sfx2/strings.hrc:211
 msgctxt "STR_REDACTION_NO_DRAW_WARNING"
 msgid "Draw module is needed for redaction. Please make sure you have LibreOffice Draw installed and working correctly."
-msgstr ""
+msgstr "ម៉ូឌុលនៃការគូរគឺត្រូវការសម្រាប់ការធ្វើប្រតិបត្តិការម្តងទៀត។ សូមប្រាកដថាអ្នកបានដំឡើងនិងទាញយកកម្មវិធី LibreOffice Draw ត្រឹមត្រូវ។"
 
 #. FQ9kN
-#: include/sfx2/strings.hrc:214
+#: include/sfx2/strings.hrc:213
 msgctxt "STR_SFX_FILEDLG_ACTUALVERSION"
 msgid "Current version"
 msgstr "កំណែ​បច្ចុប្បន្ន"
 
 #. GFAEM
-#: include/sfx2/strings.hrc:215
+#: include/sfx2/strings.hrc:214
 msgctxt "STR_SFX_EXPLORERFILE_EXPORT"
 msgid "Export"
 msgstr "នាំចេញ"
 
 #. 2DBBC
-#: include/sfx2/strings.hrc:216
+#: include/sfx2/strings.hrc:215
 msgctxt "STR_SFX_EXPLORERFILE_INSERT"
 msgid "Insert"
 msgstr "បញ្ចូល​"
 
 #. VBKtt
-#: include/sfx2/strings.hrc:217
+#: include/sfx2/strings.hrc:216
 msgctxt "STR_SFX_EXPLORERFILE_BUTTONINSERT"
 msgid "~Insert"
-msgstr "បញ្ចូល "
+msgstr "បញ្ចូល"
 
 #. DcLFD
-#: include/sfx2/strings.hrc:218
+#: include/sfx2/strings.hrc:217
 msgctxt "STR_SFX_IMPORT_ALL_IMAGES"
 msgid "<All images>"
-msgstr ""
+msgstr "<រូបភាពទាំងអស់>"
 
 #. tPDwc
-#: include/sfx2/strings.hrc:219
+#: include/sfx2/strings.hrc:218
 msgctxt "STR_PB_SAVEACOPY"
 msgid "Save a Copy"
 msgstr "រក្សាទុក​ច្បាប់​ចម្លង"
 
 #. T9mMd
-#: include/sfx2/strings.hrc:220
-#, fuzzy
+#: include/sfx2/strings.hrc:219
 msgctxt "STR_PB_COMPAREDOC"
 msgid "Compare to"
-msgstr "ប្រៀបធៀប #"
+msgstr "ប្រៀបធៀបទៅ"
 
 #. 4qMCh
-#: include/sfx2/strings.hrc:221
+#: include/sfx2/strings.hrc:220
 msgctxt "STR_PB_MERGEDOC"
 msgid "Merge with"
-msgstr ""
+msgstr "បញ្ចូលគ្នាជាមួយ"
 
 #. cDMBG
-#: include/sfx2/strings.hrc:223
+#: include/sfx2/strings.hrc:222
 msgctxt "STR_SFX_NEWOFFICEDOC"
 msgid "%PRODUCTNAME document"
 msgstr "ឯកសារ %PRODUCTNAME"
 
 #. 43QYo
-#: include/sfx2/strings.hrc:224
+#: include/sfx2/strings.hrc:223
 msgctxt "SFX_ST_DURATION_FORMAT"
 msgid " Y: %1 M: %2 D: %3 H: %4 M: %5 S: %6"
 msgstr " Y: %1 M: %2 D: %3 H: %4 M: %5 S: %6"
 
 #. jQX7C
-#: include/sfx2/strings.hrc:225
-#, fuzzy
+#: include/sfx2/strings.hrc:224
 msgctxt "STR_SFX_QUERY_WRONG_TYPE"
 msgid ""
 "The value entered does not match the specified type.\n"
@@ -1220,32 +1217,31 @@ msgstr ""
 "តម្លៃ​នឹង​ត្រូវបាន​រក្សាទុក​ជា​អត្ថបទ ។"
 
 #. cinmA
-#: include/sfx2/strings.hrc:227
+#: include/sfx2/strings.hrc:226
 msgctxt "STR_QUERY_OVERWRITE"
 msgid "Style already exists. Overwrite?"
 msgstr "មាន​រចនាប័ទ្ម​រួច​ហើយ។ សរសេរ​ជាន់​លើ​ឬ​ទេ?"
 
 #. f627N
-#: include/sfx2/strings.hrc:229
+#: include/sfx2/strings.hrc:228
 msgctxt "STR_RESET"
 msgid "~Reset"
-msgstr "កំណត់​ឡើង​វិញ "
+msgstr "កំណត់​ឡើង​វិញ"
 
 #. EXGDb
-#: include/sfx2/strings.hrc:230
+#: include/sfx2/strings.hrc:229
 msgctxt "STR_TABPAGE_INVALIDNAME"
 msgid "This name is already in use."
 msgstr "ឈ្មោះ​នេះ​បាន​ប្រើ​រួច​ហើយ ។"
 
 #. N5aeR
-#: include/sfx2/strings.hrc:231
+#: include/sfx2/strings.hrc:230
 msgctxt "STR_TABPAGE_INVALIDSTYLE"
 msgid "This Style does not exist."
 msgstr "គ្មាន​​រចនាប័ទ្ម​នេះ ។"
 
 #. CYQwN
-#: include/sfx2/strings.hrc:232
-#, fuzzy
+#: include/sfx2/strings.hrc:231
 msgctxt "STR_TABPAGE_INVALIDPARENT"
 msgid ""
 "This Style cannot be used as a base Style,\n"
@@ -1255,7 +1251,7 @@ msgstr ""
 "ពីព្រោះ​វា​នឹង​ផ្តល់​លទ្ធផល​ជា​សេចក្តីយោង​ដដែលៗ ។"
 
 #. ECPSd
-#: include/sfx2/strings.hrc:233
+#: include/sfx2/strings.hrc:232
 msgctxt "STR_POOL_STYLE_NAME"
 msgid ""
 "Name already exists as a default Style.\n"
@@ -1265,82 +1261,85 @@ msgstr ""
 "សូម​ជ្រើស​ឈ្មោះ​ផ្សេង​ ។"
 
 #. NWDmA
-#: include/sfx2/strings.hrc:234
+#: include/sfx2/strings.hrc:233
 msgctxt "STR_DELETE_STYLE_USED"
 msgid ""
 "One or more of the selected styles is in use in this document.\n"
 "If you will delete it, text or objects using these styles will revert to the parent style.\n"
 "Do you still wish to delete these styles?\n"
 msgstr ""
+"រចនាប័ទ្មមួយឬច្រើនដែលបានជ្រើសរើសគឺកំពុងប្រើក្នុងឯកសារនេះ។\n"
+"ប្រសិនបើអ្នកនឹងលុបវាអត្ថបទឬវត្ថុដែលប្រើរចនាប័ទ្មទាំងនេះនឹងត្រលប់ទៅរចនាប័ទ្មមេវិញ។\n"
+"តើអ្នកនៅតែចង់លុបស្ទីលទាំងនេះទេ?\n"
 
 #. kuD77
-#: include/sfx2/strings.hrc:235
+#: include/sfx2/strings.hrc:234
 msgctxt "STR_DELETE_STYLE"
 msgid "Styles in use: "
-msgstr "រចនាប័ទ្ម​កំពុង​ប្រើ៖"
+msgstr "រចនាប័ទ្ម​កំពុង​ប្រើ៖ "
 
 #. 4JhEW
-#: include/sfx2/strings.hrc:236
+#: include/sfx2/strings.hrc:235
 msgctxt "STR_SID_NAVIGATOR"
 msgid "Navigator"
 msgstr "កម្មវិធី​រុករក​"
 
 #. Acahp
-#: include/sfx2/strings.hrc:237
+#: include/sfx2/strings.hrc:236
 msgctxt "STR_ERROR_WRONG_CONFIRM"
 msgid "Faulty password confirmation"
 msgstr "អះអាង​ពាក្យ​សម្ងាត់​ខុស"
 
 #. 6uv4b
-#: include/sfx2/strings.hrc:238
+#: include/sfx2/strings.hrc:237
 msgctxt "STR_PDF_EXPORT_SEND"
 msgid "Send"
-msgstr "ផ្ញើ"
+msgstr "ផ្ញើរ"
 
 #. 9HHQw
-#: include/sfx2/strings.hrc:239
+#: include/sfx2/strings.hrc:238
 msgctxt "STR_FONT_TABPAGE"
 msgid "Font"
 msgstr "ពុម្ពអក្សរ"
 
 #. 7baC6
-#: include/sfx2/strings.hrc:241
+#: include/sfx2/strings.hrc:240
 msgctxt "STR_VIEWVERSIONCOMMENT"
 msgid "View Version Comment"
-msgstr "បញ្ចូលមតិយោបល់​​កំណែ"
+msgstr "មើលមតិយោបល់កំណែ"
 
 #. LGiF8
-#: include/sfx2/strings.hrc:242
+#: include/sfx2/strings.hrc:241
 msgctxt "STR_NO_NAME_SET"
 msgid "(no name set)"
-msgstr ""
+msgstr "(គ្មានឈ្មោះបានកំណត់)"
 
 #. rZ4Ao
-#: include/sfx2/strings.hrc:244
+#: include/sfx2/strings.hrc:243
 msgctxt "STR_STYLE_FILTER_HIERARCHICAL"
 msgid "Hierarchical"
 msgstr "​ឋានានុក្រម"
 
 #. 4VXDe
-#: include/sfx2/strings.hrc:246
+#: include/sfx2/strings.hrc:245
 msgctxt "STR_MACRO_LOSS"
 msgid "Do you really want to cancel the recording? Any steps recorded up to this point will be lost."
 msgstr "តើ​អ្នក​ពិត​ជា​ចង់​បោះបង់​ការ​កត់​ត្រា​​ឬ ? ជំហាន​ទាំងឡាយ​ដែល​បាន​​កត់ត្រា​​មក​ដល់​ចំនុច​នេះ នឹង​ត្រូវ​បាត់បង់ ។"
 
 #. 9MnrK
-#: include/sfx2/strings.hrc:247
+#: include/sfx2/strings.hrc:246
 msgctxt "STR_CANCEL_RECORDING"
 msgid "Cancel Recording"
 msgstr "បោះបង់​​ការ​កត់​ត្រា"
 
 #. m9FCm
-#: include/sfx2/strings.hrc:249
+#: include/sfx2/strings.hrc:248
 msgctxt "RID_CNT_STR_WAITING"
 msgid "The templates are being initialized for first-time usage."
 msgstr "ពុម្ព​កំពុង​ត្រូវ​បាន​ចាប់ផ្តើម សម្រាប់​ការ​ប្រើ​លើក​ដំបូង ។"
 
 #. F3ym2
-#: include/sfx2/strings.hrc:251
+#: include/sfx2/strings.hrc:250
 msgctxt "STR_NODEFPRINTER"
 msgid ""
 "No default printer found.\n"
@@ -1350,7 +1349,7 @@ msgstr ""
 "សូម​ជ្រើស​ម៉ាស៊ីន​បោះពុម្ព​មួយ រួចព្យាយាម​ម្តង​ទៀត ។"
 
 #. a3NTu
-#: include/sfx2/strings.hrc:252
+#: include/sfx2/strings.hrc:251
 msgctxt "STR_NOSTARTPRINTER"
 msgid ""
 "Could not start printer.\n"
@@ -1360,19 +1359,19 @@ msgstr ""
 "សូម​ពិនិត្យ​មើល​ការ​កំណត់​រចនា​សម្ព័ន្ធ​ម៉ាស៊ីន​បោះពុម្ព​របស់​អ្នក ។"
 
 #. acKHX
-#: include/sfx2/strings.hrc:253
+#: include/sfx2/strings.hrc:252
 msgctxt "STR_ERROR_PRINTER_BUSY"
 msgid "Printer busy"
 msgstr "ម៉ាស៊ីន​បោះពុម្ព ជាប់​រវល់"
 
 #. hDEUj
-#: include/sfx2/strings.hrc:254
+#: include/sfx2/strings.hrc:253
 msgctxt "STR_READONLY"
 msgid " (read-only)"
 msgstr " (​បាន​​តែ​​អាន​)"
 
 #. uL87C
-#: include/sfx2/strings.hrc:255
+#: include/sfx2/strings.hrc:254
 msgctxt "STR_PRINT_NEWORI"
 msgid ""
 "The page size and orientation have been modified.\n"
@@ -1384,7 +1383,7 @@ msgstr ""
 "ឯកសារ​សកម្ម​ដែរឬទេ ?"
 
 #. cxuAH
-#: include/sfx2/strings.hrc:256
+#: include/sfx2/strings.hrc:255
 msgctxt "STR_PRINT_NEWSIZE"
 msgid ""
 "The page size has been modified.\n"
@@ -1396,7 +1395,7 @@ msgstr ""
 "ក្នុង​ឯកសារ​សកម្ម​ឬ​ទេ ?"
 
 #. 4QJxB
-#: include/sfx2/strings.hrc:257
+#: include/sfx2/strings.hrc:256
 msgctxt "STR_PRINT_NEWORISIZE"
 msgid ""
 "The page size and orientation have been modified.\n"
@@ -1408,8 +1407,7 @@ msgstr ""
 "ឯកសារ​សកម្ម​ដែរឬទេ ?"
 
 #. RXbfs
-#: include/sfx2/strings.hrc:258
-#, fuzzy
+#: include/sfx2/strings.hrc:257
 msgctxt "STR_CANT_CLOSE"
 msgid ""
 "The document cannot be closed because a\n"
@@ -1419,581 +1417,570 @@ msgstr ""
 "ការងារ​បោះពុម្ព​មួយ​កំពុង​ត្រូវ​បាន​អនុវត្ត ។"
 
 #. YGyQP
-#: include/sfx2/strings.hrc:259
+#: include/sfx2/strings.hrc:258
 msgctxt "STR_ERROR_SEND_MAIL"
 msgid ""
 "An error occurred in sending the message. Possible errors could be a missing user account or a defective setup.\n"
 "Please check the %PRODUCTNAME settings or your email program settings."
 msgstr ""
+"មានកំហុសកើតឡើងក្នុងការផ្ញើសារ។ កំហុសដែលអាចកើតឡើងអាចជាគណនីអ្នកប្រើដែលបាត់ឬការរៀបចំដែលមានបញ្ហា។\n"
+"សូមពិនិត្យការកំណត់ %PRODUCTNAME ឬការកំណត់កម្មវិធីអ៊ីមែលរបស់អ្នក។"
 
 #. 3nzi6
 #. Error codes look like "MAPI_E_FAILURE" or "1234"
-#: include/sfx2/strings.hrc:261
+#: include/sfx2/strings.hrc:260
 msgctxt "STR_ERROR_SEND_MAIL_CODE"
 msgid ""
 "An error occurred in sending the message. Possible errors could be a missing user account or a defective setup.\n"
 "\n"
 "Error code is $1"
 msgstr ""
+"មានកំហុសកើតឡើងក្នុងការផ្ញើសារ។ កំហុសដែលអាចកើតឡើងអាចជាគណនីអ្នកប្រើដែលបាត់ឬការរៀបចំដែលមានបញ្ហា។\n"
+"\n"
+"លេខកូដកំហុសគឺ $1​"
 
 #. ZWTDr
-#: include/sfx2/strings.hrc:262
+#: include/sfx2/strings.hrc:261
 msgctxt "STR_ERROR_SEND_MAIL_HEADER"
 msgid "Error sending mail"
-msgstr ""
+msgstr "កំហុសក្នុងការផ្ញើសំបុត្រ"
 
 #. QVS2D
-#: include/sfx2/strings.hrc:263
-#, fuzzy
+#: include/sfx2/strings.hrc:262
 msgctxt "STR_QUERY_OPENASTEMPLATE"
 msgid "This document cannot be edited, possibly due to missing access rights. Do you want to edit a copy of the document?"
 msgstr "មិន​អាច​កែសម្រួល​ឯកសារ​នេះ អាច​ប្រហែល​ជា​ដោយ​សារ បាត់​សិទ្ធិ​ដំណើរការ ។ តើ​អ្នក​ចង់​កែសម្រួល​ច្បាប់​ចម្លង​នៃ​ឯកសារ​ឬ​ទេ ?"
 
 #. ZdGNX
-#: include/sfx2/strings.hrc:264
+#: include/sfx2/strings.hrc:263
 msgctxt "STR_QUERY_OPENASTEMPLATE_LOCKED"
 msgid ""
 "This document cannot be edited, because it is locked in another session.%LOCKINFO\n"
 "Do you want to edit a copy of the document?"
 msgstr ""
+"ឯកសារនេះមិនអាចកែបានទេព្រោះវាត្រូវបានចាក់សោក្នុងវគ្គមួយផ្សេងទៀត។ %LOCKINFO\n"
+"តើអ្នកចង់កែសម្រួលច្បាប់ចម្លងឯកសារទេ?"
 
 #. n3sMB
-#: include/sfx2/strings.hrc:265
+#: include/sfx2/strings.hrc:264
 msgctxt "STR_QUERY_OPENASTEMPLATE_ALLOW_IGNORE"
 msgid "You can also try to ignore the lock and open the file for editing."
-msgstr ""
+msgstr "អ្នកក៏អាចព្យាយាមមិនអើពើនឹងសោរហើយបើកឯកសារសម្រាប់កែសម្រួល។"
 
 #. yaKxR
-#: include/sfx2/strings.hrc:266
+#: include/sfx2/strings.hrc:265
 msgctxt "STR_QUERY_OPENASTEMPLATE_OPENCOPY_BTN"
 msgid "Open ~Copy"
-msgstr ""
+msgstr "បើក ចម្លង"
 
 #. UYkFP
-#: include/sfx2/strings.hrc:267
+#: include/sfx2/strings.hrc:266
 msgctxt "STR_QUERY_OPENASTEMPLATE_OPEN_BTN"
 msgid "~Open"
-msgstr ""
+msgstr "បើក"
 
 #. GcSXH
-#: include/sfx2/strings.hrc:268
+#: include/sfx2/strings.hrc:267
 msgctxt "STR_REPAIREDDOCUMENT"
 msgid " (repaired document)"
-msgstr "(ឯកសារ​ដែល​បាន​ជួសជុល)"
+msgstr " (ឯកសារ​ដែល​បាន​ជួសជុល)"
 
 #. HPqkX
-#: include/sfx2/strings.hrc:269
-#, fuzzy
+#: include/sfx2/strings.hrc:268
 msgctxt "STR_NONCHECKEDOUT_DOCUMENT"
 msgid "This document is not checked out on the server."
-msgstr "ឯកសារ​មិន​បាន​ពិនិត្យ​ចេញពី​ម៉ាស៊ីន​មេ"
+msgstr "ឯកសារនេះមិនត្រូវបានឆែកចេញពីម៉ាស៊ីនមេទេ"
 
 #. uPc29
-#: include/sfx2/strings.hrc:270
+#: include/sfx2/strings.hrc:269
 msgctxt "STR_GET_INVOLVED_TEXT"
 msgid "Help us make %PRODUCTNAME even better!"
-msgstr ""
+msgstr "ជួយយើងធ្វើឱ្យ %PRODUCTNAME កាន់តែប្រសើរ!"
 
 #. PboiP
-#: include/sfx2/strings.hrc:271
+#: include/sfx2/strings.hrc:270
 msgctxt "STR_GET_INVOLVED_BUTTON"
 msgid "Get involved"
-msgstr ""
+msgstr "ចូលរួម"
 
 #. GuLGH
-#: include/sfx2/strings.hrc:272
+#: include/sfx2/strings.hrc:271
 msgctxt "STR_DONATE_TEXT"
 msgid "Your donations support our worldwide community."
-msgstr ""
+msgstr "ការបរិច្ចាគរបស់អ្នកគាំទ្រដល់សហគមន៍ទូទាំងពិភពលោករបស់យើង។"
 
 #. KzgoD
-#: include/sfx2/strings.hrc:273
+#: include/sfx2/strings.hrc:272
 msgctxt "STR_DONATE_BUTTON"
 msgid "Donate"
-msgstr ""
+msgstr "បរិច្ចាគ"
 
 #. G8bbK
-#: include/sfx2/strings.hrc:274
+#: include/sfx2/strings.hrc:273
 msgctxt "STR_WHATSNEW"
 msgid "You are running version %PRODUCTVERSION of %PRODUCTNAME for the first time. Do you want to learn what's new?"
-msgstr ""
+msgstr "អ្នកកំពុងដំណើរការកំណែ %PRODUCTVERSION នៃ %PRODUCTNAME ជាលើកដំបូង។ តើអ្នកចង់រៀនអ្វីដែលថ្មីទេ?"
 
 #. J5UkB
-#: include/sfx2/strings.hrc:275
+#: include/sfx2/strings.hrc:274
 msgctxt "STR_WHATSNEW_BUTTON"
 msgid "Release Notes"
-msgstr ""
+msgstr "កំណត់ការចេញផ្សាយ"
 
-#. c7NPT
-#: include/sfx2/strings.hrc:276
+#. 9BCk4
+#: include/sfx2/strings.hrc:275
 msgctxt "STR_READONLY_DOCUMENT"
-msgid "This document is open in read-only mode."
-msgstr ""
+msgid "This document is open in read-only mode. If you wish to modify the contents, first save it as another document, in a folder you have write access to."
+msgstr "ឯកសារនេះបានតែអានបុ៉ណ្ណោះ។ ប្រសិនបើអ្នកចង់កែសំរួលមាតិកាសូមរក្សាទុកវាជាឯកសារមួយទៀតនៅក្នុងថតដែលអ្នកមានសិទ្ធិសរសេរ។"
 
 #. KyyFk
-#: include/sfx2/strings.hrc:277
+#: include/sfx2/strings.hrc:276
 msgctxt "STR_READONLY_PDF"
 msgid "This PDF is open in read-only mode to allow signing the existing file."
-msgstr ""
+msgstr "ឯកសារ PDF នេះបានតែអានបុ៉ណ្ណោះ ដើម្បីអនុញ្ញាតឱ្យចុះហត្ថលេខាលើឯកសារដែលមានស្រាប់។"
 
 #. MENvD
-#: include/sfx2/strings.hrc:278
+#: include/sfx2/strings.hrc:277
 msgctxt "STR_CLASSIFIED_DOCUMENT"
 msgid "The classification label of this document is %1."
-msgstr ""
+msgstr "ស្លាកចំណាត់ថ្នាក់នៃឯកសារនេះគឺ %1 ។"
 
 #. 3B3ij
-#: include/sfx2/strings.hrc:279
+#: include/sfx2/strings.hrc:278
 msgctxt "STR_TARGET_DOC_NOT_CLASSIFIED"
 msgid "This document must be classified before the clipboard can be pasted."
-msgstr ""
+msgstr "ឯកសារនេះត្រូវតែត្រូវបានចាត់ថ្នាក់មុនពេល ក្ដារតម្បៀតខ្ទាស់ ត្រូវបានបិទភ្ជាប់។"
 
 #. BYcYH
-#: include/sfx2/strings.hrc:280
+#: include/sfx2/strings.hrc:279
 msgctxt "STR_DOC_CLASSIFICATION_TOO_LOW"
 msgid "This document has a lower classification level than the clipboard."
-msgstr ""
+msgstr "ឯកសារនេះមានកំរិតចំណាត់ថ្នាក់ទាបជាង ក្ដារតម្បៀតខ្ទាស់។"
 
 #. EJPzh
-#: include/sfx2/strings.hrc:281
+#: include/sfx2/strings.hrc:280
 msgctxt "STR_CLASSIFIED_INTELLECTUAL_PROPERTY"
 msgid "Level"
-msgstr ""
+msgstr "កម្រិត"
 
 #. itVew
-#: include/sfx2/strings.hrc:282
+#: include/sfx2/strings.hrc:281
 msgctxt "STR_CLASSIFIED_NATIONAL_SECURITY"
 msgid "National Security:"
-msgstr ""
+msgstr "សន្តិសុខជាតិ៖"
 
 #. ZBXbG
-#: include/sfx2/strings.hrc:283
-#, fuzzy
+#: include/sfx2/strings.hrc:282
 msgctxt "STR_CLASSIFIED_EXPORT_CONTROL"
 msgid "Export Control:"
 msgstr "វត្ថុ​បញ្ជា​របាយការណ៍"
 
 #. QAnvx
-#: include/sfx2/strings.hrc:284
-#, fuzzy
+#: include/sfx2/strings.hrc:283
 msgctxt "STR_CHECKOUT"
 msgid "Check Out"
 msgstr "ចេញ"
 
 #. PwPNw
-#: include/sfx2/strings.hrc:285
-#, fuzzy
+#: include/sfx2/strings.hrc:284
 msgctxt "STR_READONLY_EDIT"
 msgid "Edit Document"
 msgstr "កែសម្រួល​ឯកសារ"
 
 #. FCeC5
-#: include/sfx2/strings.hrc:286
-#, fuzzy
+#: include/sfx2/strings.hrc:285
 msgctxt "STR_READONLY_SIGN"
 msgid "Sign Document"
 msgstr "ចុះហត្ថលេខា​ឯកសារ..."
 
-#. MEfTq
-#: include/sfx2/strings.hrc:287
-msgctxt "STR_READONLY_FINISH_SIGN"
-msgid "Finish Signing"
-msgstr ""
-
 #. pkWmU
-#: include/sfx2/strings.hrc:288
+#: include/sfx2/strings.hrc:286
 msgctxt "STR_SIGNATURE_BROKEN"
 msgid "This document has an invalid signature."
-msgstr ""
+msgstr "ឯកសារនេះមានហត្ថលេខាមិនត្រឹមត្រូវ"
 
 #. Vd3CU
-#: include/sfx2/strings.hrc:289
+#: include/sfx2/strings.hrc:287
 msgctxt "STR_SIGNATURE_INVALID"
 msgid "The signature was valid, but the document has been modified"
-msgstr ""
+msgstr "ហត្ថលេខាមានសុពលភាពប៉ុន្តែឯកសារត្រូវបានកែប្រែ"
 
-#. 2HNfx
-#: include/sfx2/strings.hrc:290
+#. Gu5dP
+#: include/sfx2/strings.hrc:288
 msgctxt "STR_SIGNATURE_NOTVALIDATED"
-msgid "At least one signature has problems: the certificate could not be validated."
-msgstr ""
+msgid "The signature is OK, but the certificate could not be validated."
+msgstr "ហត្ថលេខាគឺមិនអីទេប៉ុន្តែវិញ្ញាបនប័ត្រមិនអាចត្រូវបានធ្វើឱ្យមានសុពលភាពទេ។"
 
-#. tjCmr
-#: include/sfx2/strings.hrc:291
+#. UDVE4
+#: include/sfx2/strings.hrc:289
 msgctxt "STR_SIGNATURE_PARTIAL_OK"
-msgid "At least one signature has problems: the document is only partially signed."
-msgstr ""
+msgid "The signature is OK, but the document is only partially signed."
+msgstr "ហត្ថលេខាគឺមិនអីទេប៉ុន្តែឯកសារត្រូវបានចុះហត្ថលេខាដោយផ្នែកប៉ុណ្ណោះ។"
 
 #. mU6ot
-#: include/sfx2/strings.hrc:292
+#: include/sfx2/strings.hrc:290
 msgctxt "STR_SIGNATURE_NOTVALIDATED_PARTIAL_OK"
 msgid "The certificate could not be validated and the document is only partially signed."
-msgstr ""
+msgstr "វិញ្ញាបនប័ត្រមិនអាចត្រូវបានធ្វើឱ្យមានសុពលភាពទេហើយឯកសារត្រូវបានចុះហត្ថលេខាតែផ្នែកខ្លះប៉ុណ្ណោះ។"
 
 #. FKDbE
-#: include/sfx2/strings.hrc:293
+#: include/sfx2/strings.hrc:291
 msgctxt "STR_SIGNATURE_OK"
 msgid "This document is digitally signed and the signature is valid."
-msgstr ""
+msgstr "ឯកសារនេះត្រូវបានចុះហត្ថលេខាជាលក្ខណៈឌីជីថលហើយហត្ថលេខាមានសុពលភាព។"
 
 #. rMGka
-#: include/sfx2/strings.hrc:294
+#: include/sfx2/strings.hrc:292
 msgctxt "STR_SIGNATURE_SHOW"
 msgid "Show Signatures"
-msgstr ""
+msgstr "បង្ហាញហត្ថលេខ"
 
 #. Wkvpi
-#: include/sfx2/strings.hrc:296
+#: include/sfx2/strings.hrc:294
 msgctxt "STR_CLOSE_PANE"
 msgid "Close Pane"
-msgstr ""
+msgstr "បិទផ្ទាំង"
 
 #. eprKp
-#: include/sfx2/strings.hrc:297
+#: include/sfx2/strings.hrc:295
 msgctxt "STR_SFX_DOCK"
 msgid "Dock"
-msgstr "ចូលផែ"
+msgstr "ចត"
 
 #. xE8Tq
-#: include/sfx2/strings.hrc:298
+#: include/sfx2/strings.hrc:296
 msgctxt "STR_SFX_UNDOCK"
 msgid "Undock"
-msgstr "មិន​ចូលផែ"
+msgstr "បោះបង់ចោល"
 
 #. fDc7q
-#: include/sfx2/strings.hrc:300
+#: include/sfx2/strings.hrc:298
 msgctxt "SFX_STR_SIDEBAR_MORE_OPTIONS"
 msgid "More Options"
 msgstr "ជម្រើស​បន្ថែម"
 
 #. Csqeg
-#: include/sfx2/strings.hrc:301
+#: include/sfx2/strings.hrc:299
 msgctxt "SFX_STR_SIDEBAR_CLOSE_DECK"
 msgid "Close Sidebar Deck"
 msgstr "បិទ​របារ​ចំហៀង"
 
 #. zCPnN
-#: include/sfx2/strings.hrc:302
+#: include/sfx2/strings.hrc:300
 msgctxt "SFX_STR_SIDEBAR_SETTINGS"
 msgid "Sidebar Settings"
-msgstr ""
+msgstr "កែប្រែរបារចំហៀង"
 
 #. i5XDP
-#: include/sfx2/strings.hrc:303
-#, fuzzy
+#: include/sfx2/strings.hrc:301
 msgctxt "SFX_STR_SIDEBAR_CUSTOMIZATION"
 msgid "Customization"
 msgstr "ការ​ប្ដូរ​តាម​តម្រូវ​ការ"
 
 #. A4aHk
-#: include/sfx2/strings.hrc:304
-#, fuzzy
+#: include/sfx2/strings.hrc:302
 msgctxt "SFX_STR_SIDEBAR_RESTORE"
 msgid "Restore Default"
 msgstr "ស្ដារ​លំនាំដើម"
 
 #. DJGFS
-#: include/sfx2/strings.hrc:305
+#: include/sfx2/strings.hrc:303
 msgctxt "SFX_STR_SIDEBAR_HIDE_SIDEBAR"
 msgid "Close Sidebar"
-msgstr ""
+msgstr "បិទរបារចំហៀង"
 
 #. S2DCY
 #. Translators: default Impress template names
-#: include/sfx2/strings.hrc:308
+#: include/sfx2/strings.hrc:306
 msgctxt "STR_TEMPLATE_NAME1"
 msgid "Alizarin"
-msgstr ""
+msgstr "អាលីហ្សារិន"
 
 #. FkuLG
-#: include/sfx2/strings.hrc:309
+#: include/sfx2/strings.hrc:307
 msgctxt "STR_TEMPLATE_NAME2"
 msgid "Beehive"
-msgstr ""
+msgstr "សំបុកឃ្មុំ"
 
 #. uwaPH
-#: include/sfx2/strings.hrc:310
+#: include/sfx2/strings.hrc:308
 msgctxt "STR_TEMPLATE_NAME3"
 msgid "Blue Curve"
-msgstr ""
+msgstr "ខ្សែកោងខៀវ"
 
 #. hHRDz
-#: include/sfx2/strings.hrc:311
+#: include/sfx2/strings.hrc:309
 msgctxt "STR_TEMPLATE_NAME4"
 msgid "Blueprint Plans"
-msgstr ""
+msgstr "ផែនការប្លង់មេ"
 
 #. AEtHT
-#: include/sfx2/strings.hrc:312
+#: include/sfx2/strings.hrc:310
 msgctxt "STR_TEMPLATE_NAME5"
 msgid "Bright Blue"
-msgstr ""
+msgstr "ខៀវភ្លឺ"
 
 #. tPjXG
-#: include/sfx2/strings.hrc:313
+#: include/sfx2/strings.hrc:311
 msgctxt "STR_TEMPLATE_NAME6"
 msgid "Classy Red"
-msgstr ""
+msgstr "ក្រហមក្លាស៊ីស្តាយ"
 
 #. QDNuB
-#: include/sfx2/strings.hrc:314
+#: include/sfx2/strings.hrc:312
 msgctxt "STR_TEMPLATE_NAME7"
 msgid "DNA"
-msgstr ""
+msgstr "ឌីអិនអេ"
 
 #. XBrCi
-#: include/sfx2/strings.hrc:315
+#: include/sfx2/strings.hrc:313
 msgctxt "STR_TEMPLATE_NAME8"
 msgid "Focus"
-msgstr ""
+msgstr "ផ្ដោត"
 
 #. GADdA
-#: include/sfx2/strings.hrc:316
+#: include/sfx2/strings.hrc:314
 msgctxt "STR_TEMPLATE_NAME9"
 msgid "Forestbird"
-msgstr ""
+msgstr "Forestbird"
 
 #. o8F35
-#: include/sfx2/strings.hrc:317
+#: include/sfx2/strings.hrc:315
 msgctxt "STR_TEMPLATE_NAME10"
 msgid "Impress"
-msgstr ""
+msgstr "គួរ​ឱ្យ​ចាប់អារម្មណ៍"
 
 #. C5N9D
-#: include/sfx2/strings.hrc:318
+#: include/sfx2/strings.hrc:316
 msgctxt "STR_TEMPLATE_NAME11"
 msgid "Inspiration"
-msgstr ""
+msgstr "ការបំផុសគំនិត"
 
 #. fCKG9
-#: include/sfx2/strings.hrc:319
+#: include/sfx2/strings.hrc:317
 msgctxt "STR_TEMPLATE_NAME12"
 msgid "Lights"
-msgstr ""
+msgstr "អំពូលភ្លើង"
 
 #. AiFo4
-#: include/sfx2/strings.hrc:320
+#: include/sfx2/strings.hrc:318
 msgctxt "STR_TEMPLATE_NAME13"
 msgid "Lush Green"
-msgstr ""
+msgstr "ពណ៌បៃតងខៀវស្រងាត់"
 
 #. xo2gC
-#: include/sfx2/strings.hrc:321
+#: include/sfx2/strings.hrc:319
 msgctxt "STR_TEMPLATE_NAME14"
 msgid "Metropolis"
-msgstr ""
+msgstr "ទីប្រជុំជន"
 
 #. FFDBk
-#: include/sfx2/strings.hrc:322
+#: include/sfx2/strings.hrc:320
 msgctxt "STR_TEMPLATE_NAME15"
 msgid "Midnightblue"
-msgstr ""
+msgstr "ខៀវ​ងងឹត"
 
 #. yiCzk
-#: include/sfx2/strings.hrc:323
+#: include/sfx2/strings.hrc:321
 msgctxt "STR_TEMPLATE_NAME16"
 msgid "Nature Illustration"
-msgstr ""
+msgstr "រូបភាពធម្មជាតិ"
 
 #. cCZzC
-#: include/sfx2/strings.hrc:324
+#: include/sfx2/strings.hrc:322
 msgctxt "STR_TEMPLATE_NAME17"
 msgid "Pencil"
-msgstr ""
+msgstr "ខ្មៅដៃ"
 
 #. Ji4Cw
-#: include/sfx2/strings.hrc:325
+#: include/sfx2/strings.hrc:323
 msgctxt "STR_TEMPLATE_NAME18"
 msgid "Piano"
-msgstr ""
+msgstr "ព្យាណូ"
 
 #. mrbiq
-#: include/sfx2/strings.hrc:326
+#: include/sfx2/strings.hrc:324
 msgctxt "STR_TEMPLATE_NAME19"
 msgid "Portfolio"
-msgstr ""
+msgstr "ផលប័ត្រ"
 
 #. ysBGy
-#: include/sfx2/strings.hrc:327
+#: include/sfx2/strings.hrc:325
 msgctxt "STR_TEMPLATE_NAME20"
 msgid "Progress"
-msgstr ""
+msgstr "ដំណើរការ"
 
 #. gtPt9
-#: include/sfx2/strings.hrc:328
+#: include/sfx2/strings.hrc:326
 msgctxt "STR_TEMPLATE_NAME21"
 msgid "Sunset"
-msgstr ""
+msgstr "ព្រះ​អាទិត្យ​លិច"
 
 #. 73Y2e
-#: include/sfx2/strings.hrc:329
+#: include/sfx2/strings.hrc:327
 msgctxt "STR_TEMPLATE_NAME22"
 msgid "Vintage"
-msgstr ""
+msgstr "រសជាតិ"
 
 #. MSY8y
-#: include/sfx2/strings.hrc:330
+#: include/sfx2/strings.hrc:328
 msgctxt "STR_TEMPLATE_NAME23"
 msgid "Vivid"
-msgstr ""
+msgstr "រស់រវើក"
 
 #. QDZBz
 #. Translators: default Writer template names
-#: include/sfx2/strings.hrc:332
+#: include/sfx2/strings.hrc:330
 msgctxt "STR_TEMPLATE_NAME24"
 msgid "CV"
-msgstr ""
+msgstr "ប្រវត្តិរូបសង្ខេប"
 
 #. Koe3V
-#: include/sfx2/strings.hrc:333
+#: include/sfx2/strings.hrc:331
 msgctxt "STR_TEMPLATE_NAME25"
 msgid "Resume"
-msgstr ""
+msgstr "បន្ត​ឡើងវិញ"
 
 #. hCpfD
-#: include/sfx2/strings.hrc:334
+#: include/sfx2/strings.hrc:332
 msgctxt "STR_TEMPLATE_NAME26"
 msgid "Default"
-msgstr ""
+msgstr "លំនាំដើម"
 
 #. d7Hyk
-#: include/sfx2/strings.hrc:335
+#: include/sfx2/strings.hrc:333
 msgctxt "STR_TEMPLATE_NAME27"
 msgid "Modern"
-msgstr ""
+msgstr "ទំនើប"
 
 #. CVJEC
-#: include/sfx2/strings.hrc:336
+#: include/sfx2/strings.hrc:334
 msgctxt "STR_TEMPLATE_NAME28"
 msgid "Modern business letter sans-serif"
-msgstr ""
+msgstr "លិខិតជំនួញបែបទំនើប sans-serif"
 
 #. 95GeB
-#: include/sfx2/strings.hrc:337
+#: include/sfx2/strings.hrc:335
 msgctxt "STR_TEMPLATE_NAME29"
 msgid "Modern business letter serif"
-msgstr ""
+msgstr "អក្សរពាណិជ្ជកម្មទំនើប"
 
 #. XdU49
-#: include/sfx2/strings.hrc:338
+#: include/sfx2/strings.hrc:336
 msgctxt "STR_TEMPLATE_NAME30"
 msgid "Businesscard with logo"
-msgstr ""
+msgstr "នាមប័ណ្ណដែលមានរូបសញ្ញា"
 
 #. UAmSj
-#: include/sfx2/strings.hrc:339
+#: include/sfx2/strings.hrc:337
 msgctxt "STR_TEMPLATE_NAME31"
 msgid "Simple"
-msgstr ""
+msgstr "ធម្មតា"
 
 #. W7NVH
-#: include/sfx2/strings.hrc:340
+#: include/sfx2/strings.hrc:338
 msgctxt "STR_TEMPLATE_NAME32"
 msgid "BPMN"
-msgstr ""
+msgstr "BPMN"
 
 #. ZaGGB
-#: include/sfx2/strings.hrc:342
-#, fuzzy
+#: include/sfx2/strings.hrc:340
 msgctxt "STR_CLEAR_CHAR"
 msgid "Remove"
 msgstr "យកចេញ"
 
 #. JReRY
-#: include/sfx2/strings.hrc:343
+#: include/sfx2/strings.hrc:341
 msgctxt "STR_CLEAR_ALL_CHAR"
 msgid "Clear All"
-msgstr ""
+msgstr "លុបទាំងអស់"
 
 #. yC8Gs
-#: include/sfx2/strings.hrc:345
+#: include/sfx2/strings.hrc:343
 msgctxt "STR_PASSWORD_LEN"
 msgid "Password length"
-msgstr ""
+msgstr "ប្រវែងពាក្យសម្ងាត់"
 
 #. FKFmJ
-#: include/sfx2/strings.hrc:346
+#: include/sfx2/strings.hrc:344
 msgctxt "STR_PASSWORD_WARNING"
 msgid "The password you have entered causes interoperability issues. Please enter a password that is shorter than 52 bytes, or longer than 55 bytes."
-msgstr ""
+msgstr "ពាក្យសម្ងាត់ដែលអ្នកបានបញ្ចូលបណ្តាលឱ្យមានបញ្ហាអន្តរប្រតិបត្តិការ។ សូមបញ្ចូលពាក្យសម្ងាត់ខ្លីជាង ៥២ bytes ឬវែងជាង ៥៥ bytes"
 
 #. jBQFN
-#: include/sfx2/strings.hrc:348
+#: include/sfx2/strings.hrc:346
 msgctxt "STR_CTRLCLICKHYPERLINK"
 msgid "%{key}-click to open hyperlink: %{link}"
-msgstr ""
+msgstr "%{key}-ចុចដើមី្បបើក តំណខ្ពស់ៈ %{link}"
 
 #. jC3AK
-#: include/sfx2/strings.hrc:349
+#: include/sfx2/strings.hrc:347
 msgctxt "STR_CLICKHYPERLINK"
 msgid "Click to open hyperlink: %{link}"
-msgstr ""
+msgstr "ចុចដើមី្បបើកតំណខ្ពស់ៈ %{link}"
 
 #. eFJMp
-#: include/sfx2/strings.hrc:351
+#: include/sfx2/strings.hrc:349
 msgctxt "STR_STYLEUSEDBY"
 msgid "(used by: %STYLELIST)"
-msgstr ""
+msgstr "(ប្រើដោយ៖ %STYLELIST)"
+
+#. bwSHT
+#: include/sfx2/strings.hrc:350
+msgctxt "STR_PERSONALDESC"
+msgid "The Personal edition is supported by volunteers and intended for individual use."
+msgstr "ការបោះពុម្ពផ្សាយផ្ទាល់ខ្លួនត្រូវបានគាំទ្រដោយអ្នកស្ម័គ្រចិត្តហើយមានបំណងប្រើប្រាស់ជាលក្ខណៈបុគ្គល។"
 
 #. F5rSU
 #: sfx2/inc/dinfdlg.hrc:27
-#, fuzzy
 msgctxt "SFX_CB_PROPERTY_STRINGARRAY"
 msgid "Checked by"
 msgstr "ពិនិត្យ​ដោយ"
 
 #. BCYGG
 #: sfx2/inc/dinfdlg.hrc:28
-#, fuzzy
 msgctxt "SFX_CB_PROPERTY_STRINGARRAY"
 msgid "Client"
 msgstr "ម៉ាស៊ីន​ភ្ញៀវ"
 
 #. nSrT3
 #: sfx2/inc/dinfdlg.hrc:29
-#, fuzzy
 msgctxt "SFX_CB_PROPERTY_STRINGARRAY"
 msgid "Date completed"
 msgstr "បាន​បំពេញ​កាលបរិច្ឆេទ"
 
 #. HEaEC
 #: sfx2/inc/dinfdlg.hrc:30
-#, fuzzy
 msgctxt "SFX_CB_PROPERTY_STRINGARRAY"
 msgid "Department"
 msgstr "នាយកដ្ឋាន"
 
 #. TxAux
 #: sfx2/inc/dinfdlg.hrc:31
-#, fuzzy
 msgctxt "SFX_CB_PROPERTY_STRINGARRAY"
 msgid "Destinations"
 msgstr "ទិស"
 
 #. f3nqh
 #: sfx2/inc/dinfdlg.hrc:32
-#, fuzzy
 msgctxt "SFX_CB_PROPERTY_STRINGARRAY"
 msgid "Disposition"
 msgstr "ការ​រៀបចំ"
 
 #. uznMD
 #: sfx2/inc/dinfdlg.hrc:33
-#, fuzzy
 msgctxt "SFX_CB_PROPERTY_STRINGARRAY"
 msgid "Division"
 msgstr "ការ​បែងចែក"
 
 #. 6DuFF
 #: sfx2/inc/dinfdlg.hrc:34
-#, fuzzy
 msgctxt "SFX_CB_PROPERTY_STRINGARRAY"
 msgid "Document number"
 msgstr "លេខ​ឯកសារ"
 
 #. XXKuP
 #: sfx2/inc/dinfdlg.hrc:35
-#, fuzzy
 msgctxt "SFX_CB_PROPERTY_STRINGARRAY"
 msgid "Editor"
 msgstr "អ្នក​​​កែ​​សម្រួល​​"
@@ -2002,25 +1989,22 @@ msgstr "អ្នក​​​កែ​​សម្រួល​​"
 #: sfx2/inc/dinfdlg.hrc:36
 msgctxt "SFX_CB_PROPERTY_STRINGARRAY"
 msgid "Email"
-msgstr ""
+msgstr "អ៊ីម៉ែល"
 
 #. xNvDx
 #: sfx2/inc/dinfdlg.hrc:37
-#, fuzzy
 msgctxt "SFX_CB_PROPERTY_STRINGARRAY"
 msgid "Forward to"
 msgstr "បញ្ជូន​បន្ត​ទៅកាន់"
 
 #. xwv85
 #: sfx2/inc/dinfdlg.hrc:38
-#, fuzzy
 msgctxt "SFX_CB_PROPERTY_STRINGARRAY"
 msgid "Group"
 msgstr "ក្រុម"
 
 #. u59Qp
 #: sfx2/inc/dinfdlg.hrc:39
-#, fuzzy
 msgctxt "SFX_CB_PROPERTY_STRINGARRAY"
 msgid "Info"
 msgstr "ព័ត៌មាន"
@@ -2033,14 +2017,12 @@ msgstr "ភាសា"
 
 #. bv3HC
 #: sfx2/inc/dinfdlg.hrc:41
-#, fuzzy
 msgctxt "SFX_CB_PROPERTY_STRINGARRAY"
 msgid "Mailstop"
-msgstr "Mailstop"
+msgstr "ប្រអប់សំបុត្រ"
 
 #. AFGi2
 #: sfx2/inc/dinfdlg.hrc:42
-#, fuzzy
 msgctxt "SFX_CB_PROPERTY_STRINGARRAY"
 msgid "Matter"
 msgstr "រូបធាតុ"
@@ -2053,14 +2035,12 @@ msgstr "ការិយាល័យ"
 
 #. ZqphY
 #: sfx2/inc/dinfdlg.hrc:44
-#, fuzzy
 msgctxt "SFX_CB_PROPERTY_STRINGARRAY"
 msgid "Owner"
 msgstr "ម្ចាស់"
 
 #. mK8Th
 #: sfx2/inc/dinfdlg.hrc:45
-#, fuzzy
 msgctxt "SFX_CB_PROPERTY_STRINGARRAY"
 msgid "Project"
 msgstr "គម្រោង"
@@ -2069,31 +2049,28 @@ msgstr "គម្រោង"
 #: sfx2/inc/dinfdlg.hrc:46
 msgctxt "SFX_CB_PROPERTY_STRINGARRAY"
 msgid "Publisher"
-msgstr "Publisher"
+msgstr "អ្នក​​បោះពុម្ព​​ផ្សាយ"
 
 #. pF2eJ
 #: sfx2/inc/dinfdlg.hrc:47
 msgctxt "SFX_CB_PROPERTY_STRINGARRAY"
 msgid "Purpose"
-msgstr "Purpose"
+msgstr "គោល​បំណង"
 
 #. GTPFZ
 #: sfx2/inc/dinfdlg.hrc:48
-#, fuzzy
 msgctxt "SFX_CB_PROPERTY_STRINGARRAY"
 msgid "Received from"
 msgstr "បានទទួល​ពី"
 
 #. dvGyQ
 #: sfx2/inc/dinfdlg.hrc:49
-#, fuzzy
 msgctxt "SFX_CB_PROPERTY_STRINGARRAY"
 msgid "Recorded by"
 msgstr "បាន​កត់ត្រា​ដោយ"
 
 #. GjVXD
 #: sfx2/inc/dinfdlg.hrc:50
-#, fuzzy
 msgctxt "SFX_CB_PROPERTY_STRINGARRAY"
 msgid "Recorded date"
 msgstr "កាលបរិច្ឆេទ​កត់ត្រា"
@@ -2108,25 +2085,22 @@ msgstr "សេចក្តី​យោង"
 #: sfx2/inc/dinfdlg.hrc:52
 msgctxt "SFX_CB_PROPERTY_STRINGARRAY"
 msgid "Source"
-msgstr "Source"
+msgstr "ប្រភព"
 
 #. 4HSZB
 #: sfx2/inc/dinfdlg.hrc:53
-#, fuzzy
 msgctxt "SFX_CB_PROPERTY_STRINGARRAY"
 msgid "Status"
 msgstr "ស្ថានភាព"
 
 #. U3RdC
 #: sfx2/inc/dinfdlg.hrc:54
-#, fuzzy
 msgctxt "SFX_CB_PROPERTY_STRINGARRAY"
 msgid "Telephone number"
 msgstr "លេខទូរស័ព្ទ"
 
 #. Geeuu
 #: sfx2/inc/dinfdlg.hrc:55
-#, fuzzy
 msgctxt "SFX_CB_PROPERTY_STRINGARRAY"
 msgid "Typist"
 msgstr "អ្នកវាយអត្ថបទ"
@@ -2135,7 +2109,7 @@ msgstr "អ្នកវាយអត្ថបទ"
 #: sfx2/inc/dinfdlg.hrc:56
 msgctxt "SFX_CB_PROPERTY_STRINGARRAY"
 msgid "URL"
-msgstr "URL"
+msgstr "អាស័យដ្ឌានរបស់វេបសាយ"
 
 #. CxTQY
 #: sfx2/inc/dinfdlg.hrc:69
@@ -2145,14 +2119,12 @@ msgstr "អត្ថបទ"
 
 #. MMGFi
 #: sfx2/inc/dinfdlg.hrc:70
-#, fuzzy
 msgctxt "SFX_CB_PROPERTY_STRINGARRAY"
 msgid "DateTime"
 msgstr "ពេលវេលា​កាលបរិច្ឆេទ"
 
 #. GvJMH
 #: sfx2/inc/dinfdlg.hrc:71
-#, fuzzy
 msgctxt "SFX_CB_PROPERTY_STRINGARRAY"
 msgid "Date"
 msgstr "ទិន្នន័យ​"
@@ -2161,18 +2133,16 @@ msgstr "ទិន្នន័យ​"
 #: sfx2/inc/dinfdlg.hrc:72
 msgctxt "SFX_CB_PROPERTY_STRINGARRAY"
 msgid "Duration"
-msgstr "ថិរវេលា"
+msgstr "ថេរវេលា"
 
 #. CxZ4Z
 #: sfx2/inc/dinfdlg.hrc:73
-#, fuzzy
 msgctxt "SFX_CB_PROPERTY_STRINGARRAY"
 msgid "Number"
 msgstr "ចំនួន"
 
 #. CDgvL
 #: sfx2/inc/dinfdlg.hrc:74
-#, fuzzy
 msgctxt "SFX_CB_PROPERTY_STRINGARRAY"
 msgid "Yes or no"
 msgstr "បាទ ឬ ចាស"
@@ -2253,97 +2223,97 @@ msgstr "ស្លាក"
 #: sfx2/uiconfig/ui/addtargetdialog.ui:8
 msgctxt "addtargetdialog|AddTargetDialog"
 msgid "Add Target"
-msgstr ""
+msgstr "បន្ថែមគោលដៅ"
 
 #. JC8Vd
 #: sfx2/uiconfig/ui/addtargetdialog.ui:88
 msgctxt "addtargetdialog|label_name"
 msgid "Name:"
-msgstr ""
+msgstr "ឈ្មោះ៖"
 
 #. LXpbz
 #: sfx2/uiconfig/ui/addtargetdialog.ui:118
 msgctxt "addtargetdialog|label_type"
 msgid "Type:"
-msgstr ""
+msgstr "ប្រភេទ ៖"
 
 #. Sy2A7
 #: sfx2/uiconfig/ui/addtargetdialog.ui:133
 msgctxt "addtargetdialog|label_content"
 msgid "Content:"
-msgstr ""
+msgstr "មាតិកា"
 
 #. e5sY6
 #: sfx2/uiconfig/ui/addtargetdialog.ui:166
 msgctxt "addtargetdialog|type"
 msgid "Text"
-msgstr ""
+msgstr "អត្ថបទ"
 
 #. dGQqg
 #: sfx2/uiconfig/ui/addtargetdialog.ui:167
 msgctxt "addtargetdialog|type"
 msgid "Regular expression"
-msgstr ""
+msgstr "កន្សោម​ធម្មតា"
 
 #. wgzA4
 #: sfx2/uiconfig/ui/addtargetdialog.ui:168
 msgctxt "addtargetdialog|type"
 msgid "Predefined"
-msgstr ""
+msgstr "កំណត់ជាមុន"
 
 #. nGjTR
 #: sfx2/uiconfig/ui/addtargetdialog.ui:183
 msgctxt "addtargetdialog|label_content_predef"
 msgid "Content:"
-msgstr ""
+msgstr "មាតិកា"
 
 #. 7uQgC
 #: sfx2/uiconfig/ui/addtargetdialog.ui:201
 msgctxt "addtargetdialog|content_predef"
 msgid "Credit card numbers"
-msgstr ""
+msgstr "លេខកាតឥណទាន"
 
 #. jze4C
 #: sfx2/uiconfig/ui/addtargetdialog.ui:202
 msgctxt "addtargetdialog|content_predef"
 msgid "Email addresses"
-msgstr ""
+msgstr "អាសយដ្ឋានអ៊ីមែល"
 
 #. wDQAu
 #: sfx2/uiconfig/ui/addtargetdialog.ui:203
 msgctxt "addtargetdialog|content_predef"
 msgid "IP addresses"
-msgstr ""
+msgstr "អាសយដ្ឋាន IP"
 
 #. CpoEL
 #: sfx2/uiconfig/ui/addtargetdialog.ui:204
 msgctxt "addtargetdialog|content_predef"
 msgid "Dates (Numerical)"
-msgstr ""
+msgstr "កាលបរិច្ឆេទ (លេខ)"
 
 #. 3Nz2x
 #: sfx2/uiconfig/ui/addtargetdialog.ui:205
 msgctxt "addtargetdialog|content_predef"
 msgid "National Insurance Number (UK)"
-msgstr ""
+msgstr "លេខធានារ៉ាប់រងជាតិ (ចក្រភពអង់គ្លេស)"
 
 #. jSAay
 #: sfx2/uiconfig/ui/addtargetdialog.ui:206
 msgctxt "addtargetdialog|content_predef"
 msgid "Social Security Number (US)"
-msgstr ""
+msgstr "លេខសន្តិសុខសង្គម (អាមេរិក)"
 
-#. kdZJN
+#. B95Gn
 #: sfx2/uiconfig/ui/addtargetdialog.ui:231
 msgctxt "addtargetdialog|checkboxCaseSensitive"
-msgid "Match case"
-msgstr ""
+msgid "Case Sensitive"
+msgstr "ប្រកាន់​តួ​អក្សរ​តូច​ធំ"
 
-#. G2u3B
+#. rCTsx
 #: sfx2/uiconfig/ui/addtargetdialog.ui:246
 msgctxt "addtargetdialog|checkboxWholeWords"
-msgid "Whole words only"
-msgstr ""
+msgid "Whole Words Only"
+msgstr "ពាក្យទាំងមូល"
 
 #. JV66c
 #: sfx2/uiconfig/ui/alienwarndialog.ui:7
@@ -2355,7 +2325,7 @@ msgstr "ទ្រង់ទ្រាយ​ឯកសារ​បញ្ជាក់
 #: sfx2/uiconfig/ui/alienwarndialog.ui:13
 msgctxt "alienwarndialog|AlienWarnDialog"
 msgid "This document may contain formatting or content that cannot be saved in the currently selected file format “%FORMATNAME”."
-msgstr ""
+msgstr "ឯកសារនេះអាចមានទ្រង់ទ្រាយឬមាតិកាដែលមិនអាចរក្សាទុកជាទម្រង់ឯកសារដែលបានជ្រើស \"%FORMATNAME\"។"
 
 #. 3YA5c
 #: sfx2/uiconfig/ui/alienwarndialog.ui:14
@@ -2367,17 +2337,16 @@ msgstr "ប្រើ​ទ្រង់ទ្រាយ​ឯកសារ ODF ល�
 #: sfx2/uiconfig/ui/alienwarndialog.ui:25
 msgctxt "alienwarndialog|cancel"
 msgid "Use %DEFAULTEXTENSION _Format"
-msgstr ""
+msgstr "ប្រើទ្រង់ទ្រាយ %DEFAULTEXTENSION _Format"
 
 #. Fzgtz
 #: sfx2/uiconfig/ui/alienwarndialog.ui:40
 msgctxt "alienwarndialog|save"
 msgid "_Use %FORMATNAME Format"
-msgstr "ប្រើ​ទ្រង់ទ្រាយ %FORMATNAME"
+msgstr "_ប្រើ​ទ្រង់ទ្រាយ %FORMATNAME Format"
 
 #. Fgi6S
 #: sfx2/uiconfig/ui/alienwarndialog.ui:65
-#, fuzzy
 msgctxt "alienwarndialog|ask"
 msgid "_Ask when not saving in ODF or default format"
 msgstr "សួរ​ពេល​មិន​រក្សាទុក​ក្នុង​ទ្រង់ទ្រាយ ODF"
@@ -2386,73 +2355,73 @@ msgstr "សួរ​ពេល​មិន​រក្សាទុក​ក្ន
 #: sfx2/uiconfig/ui/autoredactdialog.ui:24
 msgctxt "autoredactdialog|AutoRedactDialog"
 msgid "Automatic Redaction"
-msgstr ""
+msgstr "ប្រតិកម្មដោយស្វ័យប្រវត្តិ"
 
 #. QCidi
-#: sfx2/uiconfig/ui/autoredactdialog.ui:121
+#: sfx2/uiconfig/ui/autoredactdialog.ui:122
 msgctxt "autoredactdialog|target"
 msgid "Target Name"
-msgstr ""
+msgstr "ឈ្មោះគោលដៅ"
 
 #. szYkX
-#: sfx2/uiconfig/ui/autoredactdialog.ui:134
+#: sfx2/uiconfig/ui/autoredactdialog.ui:135
 msgctxt "autoredactdialog|description"
 msgid "Type"
-msgstr ""
+msgstr "ប្រភេទ"
 
 #. udcn4
-#: sfx2/uiconfig/ui/autoredactdialog.ui:147
+#: sfx2/uiconfig/ui/autoredactdialog.ui:148
 msgctxt "autoredactdialog|target"
 msgid "Content"
-msgstr ""
+msgstr "មាតិកា"
 
-#. BBuAc
-#: sfx2/uiconfig/ui/autoredactdialog.ui:160
+#. embFg
+#: sfx2/uiconfig/ui/autoredactdialog.ui:161
 msgctxt "autoredactdialog|target"
-msgid "Match case"
-msgstr ""
+msgid "Case Sensitive"
+msgstr "ប្រកាន់​តួអក្សរ​តូច​ធំ"
 
-#. obHtC
-#: sfx2/uiconfig/ui/autoredactdialog.ui:173
+#. joXcB
+#: sfx2/uiconfig/ui/autoredactdialog.ui:174
 msgctxt "autoredactdialog|target"
-msgid "Whole words"
-msgstr ""
+msgid "Whole Words"
+msgstr "ពាក្យទាំងមូល"
 
 #. 4MVdG
-#: sfx2/uiconfig/ui/autoredactdialog.ui:201
+#: sfx2/uiconfig/ui/autoredactdialog.ui:202
 msgctxt "menuassignpage|contentslabel"
 msgid "_Redaction Targets"
-msgstr ""
+msgstr "គោលដៅប្រតិកម្ម"
 
 #. E4GWo
-#: sfx2/uiconfig/ui/autoredactdialog.ui:221
+#: sfx2/uiconfig/ui/autoredactdialog.ui:224
 msgctxt "autoredactdialog|btnLoadTargets"
 msgid "Load Targets"
-msgstr ""
+msgstr "ផ្ទុកគោលដៅ"
 
 #. tpbYA
-#: sfx2/uiconfig/ui/autoredactdialog.ui:234
+#: sfx2/uiconfig/ui/autoredactdialog.ui:239
 msgctxt "autoredactdialog|btnSaveTargets"
 msgid "Save Targets"
-msgstr ""
+msgstr "រក្សាទុកគោលដៅ"
 
 #. TQg85
-#: sfx2/uiconfig/ui/autoredactdialog.ui:260
+#: sfx2/uiconfig/ui/autoredactdialog.ui:253
 msgctxt "autoredactdialog|add"
 msgid "Add Target"
-msgstr ""
+msgstr "បន្ថែមគោលដៅ"
 
 #. 4TvHR
-#: sfx2/uiconfig/ui/autoredactdialog.ui:273
+#: sfx2/uiconfig/ui/autoredactdialog.ui:268
 msgctxt "autoredactdialog|edit"
 msgid "Edit Target"
-msgstr ""
+msgstr "កែសម្រួលគោលដៅ"
 
 #. knEqb
-#: sfx2/uiconfig/ui/autoredactdialog.ui:286
+#: sfx2/uiconfig/ui/autoredactdialog.ui:282
 msgctxt "autoredactdialog|delete"
 msgid "Delete Target"
-msgstr ""
+msgstr "លុប​គោលដៅ"
 
 #. iLkdK
 #: sfx2/uiconfig/ui/bookmarkdialog.ui:8
@@ -2474,55 +2443,51 @@ msgstr "ចំណាំ៖"
 
 #. 3A3VL
 #: sfx2/uiconfig/ui/bookmarkmenu.ui:12
-#, fuzzy
 msgctxt "bookmarkmenu|display"
 msgid "Display"
 msgstr "បង្ហាញ"
 
 #. VDDCt
 #: sfx2/uiconfig/ui/bookmarkmenu.ui:26
-#, fuzzy
 msgctxt "bookmarkmenu|rename"
 msgid "Rename..."
 msgstr "ប្តូរ​ឈ្មោះ..."
 
 #. fCQ9n
 #: sfx2/uiconfig/ui/bookmarkmenu.ui:34
-#, fuzzy
 msgctxt "bookmarkmenu|delete"
 msgid "Delete"
 msgstr "លុប​"
 
 #. WGFBK
 #: sfx2/uiconfig/ui/charmapcontrol.ui:20
-#, fuzzy
 msgctxt "charmapcontrol|label1"
 msgid "Favorites"
-msgstr "សំណព្វ "
+msgstr "ចូលចិត្ត"
 
 #. HAe2e
-#: sfx2/uiconfig/ui/charmapcontrol.ui:260
+#: sfx2/uiconfig/ui/charmapcontrol.ui:258
 msgctxt "charmapcontrol|label2"
 msgid "Recent"
-msgstr ""
+msgstr "ថ្មីៗ"
 
 #. BQwCQ
-#: sfx2/uiconfig/ui/charmapcontrol.ui:498
+#: sfx2/uiconfig/ui/charmapcontrol.ui:494
 msgctxt "charmapcontrol|specialchardlg"
 msgid "More Characters…"
-msgstr ""
+msgstr "តួអក្សរច្រើនទៀត…"
 
 #. i2ZhQ
 #: sfx2/uiconfig/ui/charviewmenu.ui:12
 msgctxt "charviewmenu|clearchar"
 msgid "Remove"
-msgstr ""
+msgstr "យក​ចេញ"
 
 #. bKHTP
 #: sfx2/uiconfig/ui/charviewmenu.ui:20
 msgctxt "charviewmenu|clearallchar"
 msgid "Clear All"
-msgstr ""
+msgstr "លុបទាំងអស់"
 
 #. Y8jYN
 #: sfx2/uiconfig/ui/checkin.ui:8
@@ -2538,10 +2503,9 @@ msgstr "កំណែ​សំខាន់​ថ្មី"
 
 #. PYDWP
 #: sfx2/uiconfig/ui/checkin.ui:106
-#, fuzzy
 msgctxt "checkin|label2"
 msgid "Version comment:"
-msgstr "មតិយោបល់​​កំណែ"
+msgstr "មតិយោបល់​​ជំនាន់"
 
 #. CEnTA
 #: sfx2/uiconfig/ui/cmisline.ui:48
@@ -2565,101 +2529,49 @@ msgstr "ទេ"
 #: sfx2/uiconfig/ui/custominfopage.ui:14
 msgctxt "custominfopage|add"
 msgid "Add _Property"
-msgstr ""
-
-#. 85KDm
-#: sfx2/uiconfig/ui/custominfopage.ui:22
-msgctxt "custominfopage|extended_tip|add"
-msgid "Click to add a new row to the Properties list."
-msgstr "ចុច​ដើម្បី​បន្ថែម​ជួរដេក​ថ្មី​ទៅ​កាន់​បញ្ជី​លក្ខណសម្បត្តិ ។"
+msgstr "បន្ថែមផលិតផល"
 
 #. aB3bA
-#: sfx2/uiconfig/ui/custominfopage.ui:41
+#: sfx2/uiconfig/ui/custominfopage.ui:36
 msgctxt "custominfopage|name"
 msgid "Name"
 msgstr "ឈ្មោះ"
 
 #. Ja2JC
-#: sfx2/uiconfig/ui/custominfopage.ui:54
+#: sfx2/uiconfig/ui/custominfopage.ui:49
 msgctxt "custominfopage|type"
 msgid "Type"
 msgstr "ប្រភេទ"
 
 #. WxjS6
-#: sfx2/uiconfig/ui/custominfopage.ui:67
+#: sfx2/uiconfig/ui/custominfopage.ui:62
 msgctxt "custominfopage|value"
 msgid "Value"
 msgstr "តម្លៃ"
 
-#. kSFdB
-#: sfx2/uiconfig/ui/custominfopage.ui:115
-msgctxt "custominfopage|extended_tip|properties"
-msgid "Enter your custom contents. You can change the name, type, and contents of each row. You can add or remove rows. The items will be exported as metadata to other file formats."
-msgstr "បញ្ចូល​មតិកា​ផ្ទាល់ខ្លួន ។ អ្នកអាច​ផ្លាស់ប្ដូរ​ឈ្មោះ ប្រភេទ និង​មាតិកា​របស់​ជួរដេក​នីមួយៗ ។ អ្នក​អាច​បន្ថែម ឬ​យក​ជួរដេក​ចេញ ។ ធាតុ​នឹង​ត្រូ​វបាននាំចេញ​ជា​ទិន្នន័យ​មេតា​ទៅកាន់​ទ្រង់ទ្រាយ​ឯកសារ​ផ្សេងៗ ។"
-
-#. au5jH
-#: sfx2/uiconfig/ui/custominfopage.ui:137
-msgctxt "custominfopage|extended_tip|CustomInfoPage"
-msgid "Allows you to assign custom information fields to your document."
-msgstr "អនុញ្ញាត​ឲ្យ​អ្នក​ផ្ដល់​វាល​ព័ត៌មាន​ផ្ទាល់ខ្លួន​ទៅ​ឯកសារ​របស់​អ្នក ។"
-
 #. pxEPn
 #: sfx2/uiconfig/ui/descriptioninfopage.ui:17
-#, fuzzy
 msgctxt "descriptioninfopage|label27"
 msgid "_Title:"
 msgstr "ចំណងជើង"
 
 #. HqzQo
 #: sfx2/uiconfig/ui/descriptioninfopage.ui:31
-#, fuzzy
 msgctxt "descriptioninfopage|label28"
 msgid "_Subject:"
-msgstr "ប្រធានបទ "
+msgstr "ប្រធានបទ"
 
 #. gEGPn
 #: sfx2/uiconfig/ui/descriptioninfopage.ui:45
-#, fuzzy
 msgctxt "descriptioninfopage|label29"
 msgid "_Keywords:"
-msgstr "ពាក្យ​គន្លឹះ "
+msgstr "ពាក្យ​គន្លឹ"
 
 #. Nayo4
 #: sfx2/uiconfig/ui/descriptioninfopage.ui:60
-#, fuzzy
 msgctxt "descriptioninfopage|label30"
 msgid "_Comments:"
 msgstr "មតិយោបល់"
-
-#. qw238
-#: sfx2/uiconfig/ui/descriptioninfopage.ui:77
-msgctxt "descriptioninfopage|extended_tip|title"
-msgid "Enter a title for the document."
-msgstr "បញ្ចូល​ចំណង​ជើង​មួយ​សម្រាប់​ឯកសារ ។"
-
-#. rvZHi
-#: sfx2/uiconfig/ui/descriptioninfopage.ui:93
-msgctxt "descriptioninfopage|extended_tip|subject"
-msgid "Enter a subject for the document. You can use a subject to group documents with similar contents."
-msgstr "បញ្ចូល​ប្រធាន​បទ​មួយ​សម្រាប់​ឯកសារ​ ។ អ្នក​អាច​ប្រើ​​ប្រធាន​បទ​មួយ​ ដើម្បី​ដាក់​ឯកសារ​ដែល​មាន​មាតិកា​ដូច​គ្នា​ជា​ក្រុម​​ ។"
-
-#. FoxGh
-#: sfx2/uiconfig/ui/descriptioninfopage.ui:109
-msgctxt "descriptioninfopage|extended_tip|keywords"
-msgid "Enter the words that you want to use to index the content of your document. Keywords must be separated by commas. A keyword can contain white space characters or semicolons."
-msgstr "បញ្ចូល​ពាក្យ​ដែល​អ្នក​ចង់​ប្រើ​ដើម្បីដាក់​លិបិក្រម​មាតិកា​នៃ​ឯកសារ​របស់​អ្នក ។ ពាក្យ​គន្លឹះ​ត្រូវ​តែ​បំបែក​ដោយ​សញ្ញា(,) ។ ពាក្យ​គន្លឹះ​អាច​មាន​​តួអក្សរ​ចន្លោះមិនឃើញ ឬ​សញ្ញា(;) ។"
-
-#. bo2q7
-#: sfx2/uiconfig/ui/descriptioninfopage.ui:133
-msgctxt "descriptioninfopage|extended_tip|comments"
-msgid "Enter comments to help identify the document."
-msgstr "បញ្ចូលមតិយោបល់​​ដើម្បី​ជួយ​សម្គាល់​ឯកសារ ។ "
-
-#. sGW3Z
-#: sfx2/uiconfig/ui/descriptioninfopage.ui:146
-msgctxt "descriptioninfopage|extended_tip|DescriptionInfoPage"
-msgid "Contains descriptive information about the document."
-msgstr "មាន​ព័ត៌មាន​ពិពណ៌នា​អំពី​ឯកសារ ។"
 
 #. zjFgn
 #: sfx2/uiconfig/ui/documentfontspage.ui:30
@@ -2667,53 +2579,41 @@ msgctxt "documentfontspage|embedFonts"
 msgid "_Embed fonts in the document"
 msgstr "បាន​បង្កប់​ពុម្ពអក្សរ​នៅ​ក្នុង​ឯកសារ"
 
-#. FzuRv
-#: sfx2/uiconfig/ui/documentfontspage.ui:39
-msgctxt "documentfontspage|extended_tip|embedFonts"
-msgid "Mark this box to embed document fonts into the document file, for portability between different computer systems."
-msgstr ""
-
 #. 6rfon
-#: sfx2/uiconfig/ui/documentfontspage.ui:51
+#: sfx2/uiconfig/ui/documentfontspage.ui:46
 msgctxt "documentfontspage|embedUsedFonts"
 msgid "_Only embed fonts that are used in documents"
-msgstr ""
+msgstr "បញ្ចូលតែពុម្ពអក្សរដែលត្រូវបានប្រើក្នុងឯកសារ"
 
 #. zEeJh
-#: sfx2/uiconfig/ui/documentfontspage.ui:73
+#: sfx2/uiconfig/ui/documentfontspage.ui:68
 msgctxt "documentfontspage|fontEmbeddingLabel"
 msgid "Font embedding"
-msgstr ""
+msgstr "បង្កប់ពុម្ពអក្សរ"
 
 #. Gip6V
-#: sfx2/uiconfig/ui/documentfontspage.ui:104
+#: sfx2/uiconfig/ui/documentfontspage.ui:99
 msgctxt "documentfontspage|embedLatinScriptFonts"
 msgid "_Latin fonts"
-msgstr ""
+msgstr "ពុម្ពអក្សរឡាទីន"
 
 #. nFM92
-#: sfx2/uiconfig/ui/documentfontspage.ui:120
+#: sfx2/uiconfig/ui/documentfontspage.ui:115
 msgctxt "documentfontspage|embedAsianScriptFonts"
 msgid "_Asian fonts"
-msgstr ""
+msgstr "ពុម្ពអក្សរអាស៊ាន"
 
 #. nSg9b
-#: sfx2/uiconfig/ui/documentfontspage.ui:136
+#: sfx2/uiconfig/ui/documentfontspage.ui:131
 msgctxt "documentfontspage|embedComplexScriptFonts"
 msgid "_Complex fonts"
-msgstr ""
+msgstr "ពុម្ពអក្សរ ស្មុគស្មាញ"
 
 #. EFytK
-#: sfx2/uiconfig/ui/documentfontspage.ui:158
+#: sfx2/uiconfig/ui/documentfontspage.ui:153
 msgctxt "documentfontspage|fontScriptFrameLabel"
 msgid "Font scripts to embed"
-msgstr ""
-
-#. izc2Y
-#: sfx2/uiconfig/ui/documentfontspage.ui:172
-msgctxt "documentfontspage|extended_tip|DocumentFontsPage"
-msgid "Embed document fonts in the current file."
-msgstr ""
+msgstr "បញ្ចូលអក្សរពុម្ពអក្សរ"
 
 #. CCxGn
 #: sfx2/uiconfig/ui/documentinfopage.ui:18
@@ -2761,99 +2661,73 @@ msgstr "ឯកសារ​ដែល​បាន​ចុះ​ហត្ថលេ
 #: sfx2/uiconfig/ui/documentinfopage.ui:182
 msgctxt "documentinfopage|userdatacb"
 msgid "_Apply user data"
-msgstr "អនុវត្ត​ទិន្នន័យ​អ្នក​ប្រើ "
-
-#. WzBG6
-#: sfx2/uiconfig/ui/documentinfopage.ui:191
-msgctxt "documentinfopage|extended_tip|userdatacb"
-msgid "Saves the user's full name with the file. You can edit the name by choosing Tools - Options - %PRODUCTNAME - User Data."
-msgstr "រក្សា​ទុក​ឈ្មោះ​ពេញ​របស់​អ្នក​ប្រើ​ជា​មួយ​នឹង​ឯកសារ​ ។ អ្នក​អាច​កែ​សម្រួល​ឈ្មោះ​ ដោយ​ជ្រើស​ ឧបករណ៍​ - ជម្រើស​ - %PRODUCTNAME - ទិន្នន័យ​អ្នក​ប្រើ​."
+msgstr "អនុវត្ត​ទិន្នន័យ​អ្នក​ប្រើ"
 
 #. LCDUj
-#: sfx2/uiconfig/ui/documentinfopage.ui:202
+#: sfx2/uiconfig/ui/documentinfopage.ui:197
 msgctxt "documentinfopage|thumbnailsavecb"
 msgid "Save preview image with this document"
-msgstr ""
+msgstr "រក្សាទុករូបភាពមើលជាមុនជាមួយឯកសារនេះ"
 
 #. JFxmP
-#: sfx2/uiconfig/ui/documentinfopage.ui:218
+#: sfx2/uiconfig/ui/documentinfopage.ui:213
 msgctxt "documentinfopage|reset"
 msgid "Reset Properties"
-msgstr ""
-
-#. HrN2U
-#: sfx2/uiconfig/ui/documentinfopage.ui:225
-msgctxt "documentinfopage|extended_tip|reset"
-msgid "Resets the editing time to zero, the creation date to the current date and time, and the version number to 1. The modification and printing dates are also deleted."
-msgstr "កំណត់​ពេល​វេលា​កែសម្រួល​​ទៅ​សូន្យ​​វិញ​ ការ​បង្កើត​កាល​បរិច្ឆេទ​ជា​​ពេល​វេលា​ និង កាល​បរិច្ឆេទ​បច្ចុប្បន្ន​ និង​ លេខ​កំណែ​​​ទៅ​ ១ ។ ​កាល​បរិច្ឆេទ​កែប្រែ​ និង ​​​​បោះពុម្ព​ក៏​ត្រូវ​​បាន​លុប​​ផង​ដែរ ។​"
+msgstr "កំណត់លក្ខណៈសម្បត្តិឡើងវិញ"
 
 #. qeWvU
-#: sfx2/uiconfig/ui/documentinfopage.ui:237
-#, fuzzy
+#: sfx2/uiconfig/ui/documentinfopage.ui:227
 msgctxt "documentinfopage|signature"
 msgid "Di_gital Signatures..."
 msgstr "ហត្ថលេខា​ឌីជីថល..."
 
 #. rEEgJ
-#: sfx2/uiconfig/ui/documentinfopage.ui:256
+#: sfx2/uiconfig/ui/documentinfopage.ui:246
 msgctxt "documentinfopage|label11"
 msgid "_Size:"
 msgstr "ទំហំ៖"
 
 #. WNFYB
-#: sfx2/uiconfig/ui/documentinfopage.ui:269
+#: sfx2/uiconfig/ui/documentinfopage.ui:259
 msgctxt "documentinfopage|showsize"
 msgid "unknown"
 msgstr "មិន​ស្គាល់"
 
 #. EgtLE
-#: sfx2/uiconfig/ui/documentinfopage.ui:284
+#: sfx2/uiconfig/ui/documentinfopage.ui:274
 msgctxt "documentinfopage|label8"
 msgid "_Location:"
 msgstr "ទីតាំង៖"
 
 #. 9xhwo
-#: sfx2/uiconfig/ui/documentinfopage.ui:315
+#: sfx2/uiconfig/ui/documentinfopage.ui:305
 msgctxt "documentinfopage|label7"
 msgid "_Type:"
 msgstr "ប្រភេទ៖"
 
 #. ZLmAo
-#: sfx2/uiconfig/ui/documentinfopage.ui:338
+#: sfx2/uiconfig/ui/documentinfopage.ui:328
 msgctxt "documentinfopage|changepass"
 msgid "Change _Password"
 msgstr "ប្ដូរ​ពាក្យសម្ងាត់​"
 
 #. oqAZE
-#: sfx2/uiconfig/ui/documentinfopage.ui:356
+#: sfx2/uiconfig/ui/documentinfopage.ui:346
 msgctxt "documentinfopage|templateft"
 msgid "Template:"
 msgstr "ពុម្ព ៖"
 
-#. 5pXPV
-#: sfx2/uiconfig/ui/documentinfopage.ui:404
-msgctxt "documentinfopage|extended_tip|nameed"
-msgid "Displays the file name."
-msgstr "បង្ហាញ​ឈ្មោះ​ឯកសារ​ ។"
-
-#. VWjRu
-#: sfx2/uiconfig/ui/documentinfopage.ui:430
-msgctxt "documentinfopage|extended_tip|DocumentInfoPage"
-msgid "Contains basic information about the current file."
-msgstr "មាន​ព័ត៌​មាន​មូល​ដ្ឋាន​អំពី​ឯកសារ​បច្ចុប្បន្ន​ ។"
-
 #. scgsx
 #: sfx2/uiconfig/ui/documentpropertiesdialog.ui:8
-#, fuzzy
 msgctxt "documentpropertiesdialog|DocumentPropertiesDialog"
 msgid "Properties of “%1”"
-msgstr "លក្ខណសម្បត្តិរបស់​ "
+msgstr "លក្ខណៈ​សម្បត្តិ​របស់ %1"
 
 #. iTECQ
 #: sfx2/uiconfig/ui/documentpropertiesdialog.ui:134
 msgctxt "documentpropertiesdialog|general"
 msgid "General "
-msgstr "ទូទៅ"
+msgstr "ទូទៅ "
 
 #. Vggig
 #: sfx2/uiconfig/ui/documentpropertiesdialog.ui:180
@@ -2883,11 +2757,10 @@ msgstr "សុវត្ថិភាព"
 #: sfx2/uiconfig/ui/editdocumentdialog.ui:7
 msgctxt "editdocumentdialog|EditDocumentDialog"
 msgid "Confirm editing of document"
-msgstr ""
+msgstr "បញ្ជាក់ការកែសម្រួលឯកសារ"
 
 #. bdEZG
 #: sfx2/uiconfig/ui/editdocumentdialog.ui:13
-#, fuzzy
 msgctxt "editdocumentdialog|EditDocumentDialog"
 msgid "Are you sure you want to edit the document?"
 msgstr "តើ​អ្នក​ពិតជា​ចង់​លុប​បាតកថា​មែន​ឬ?"
@@ -2896,11 +2769,10 @@ msgstr "តើ​អ្នក​ពិតជា​ចង់​លុប​បា
 #: sfx2/uiconfig/ui/editdocumentdialog.ui:14
 msgctxt "editdocumentdialog|EditDocumentDialog"
 msgid "The original file can be signed without editing the document. Existing signatures on the document will be lost in case of saving an edited version."
-msgstr ""
+msgstr "ឯកសារដើមអាចត្រូវបានចុះហត្ថលេខាដោយមិនចាំបាច់កែសម្រួលឯកសារ។ ហត្ថលេខាដែលមានស្រាប់នៅលើឯកសារនឹងត្រូវបាត់ក្នុងករឯកសារត្រូវបានកែសម្រួល។"
 
 #. wRps5
 #: sfx2/uiconfig/ui/editdocumentdialog.ui:25
-#, fuzzy
 msgctxt "editdocumentdialog|edit"
 msgid "Edit Document"
 msgstr "កែសម្រួល​ឯកសារ"
@@ -2915,7 +2787,7 @@ msgstr "បោះបង់"
 #: sfx2/uiconfig/ui/editdurationdialog.ui:43
 msgctxt "editdurationdialog|EditDurationDialog"
 msgid "Edit Duration"
-msgstr "កែសម្រួល​ថិរវេលា"
+msgstr "កែសម្រួល​ថេរវេលា"
 
 #. 66AnB
 #: sfx2/uiconfig/ui/editdurationdialog.ui:135
@@ -2925,76 +2797,69 @@ msgstr "អវិជ្ជមាន"
 
 #. LeAmz
 #: sfx2/uiconfig/ui/editdurationdialog.ui:153
-#, fuzzy
 msgctxt "editdurationdialog|label1"
 msgid "_Years:"
 msgstr "ឆ្នាំ"
 
 #. kFDdM
 #: sfx2/uiconfig/ui/editdurationdialog.ui:167
-#, fuzzy
 msgctxt "editdurationdialog|label"
 msgid "_Months:"
 msgstr "ខែ"
 
 #. CHLhB
 #: sfx2/uiconfig/ui/editdurationdialog.ui:181
-#, fuzzy
 msgctxt "editdurationdialog|label3"
 msgid "_Days:"
 msgstr "ថ្ងៃ"
 
 #. 2w5Dd
 #: sfx2/uiconfig/ui/editdurationdialog.ui:195
-#, fuzzy
 msgctxt "editdurationdialog|label4"
 msgid "H_ours:"
 msgstr "ម៉ោង"
 
 #. TtWAW
 #: sfx2/uiconfig/ui/editdurationdialog.ui:209
-#, fuzzy
 msgctxt "editdurationdialog|label5"
 msgid "Min_utes:"
 msgstr "នាទី"
 
 #. TieWF
 #: sfx2/uiconfig/ui/editdurationdialog.ui:223
-#, fuzzy
 msgctxt "editdurationdialog|label6"
 msgid "_Seconds:"
 msgstr "វិនាទី"
 
 #. GxEZZ
 #: sfx2/uiconfig/ui/editdurationdialog.ui:237
-#, fuzzy
 msgctxt "editdurationdialog|label7"
 msgid "Millise_conds:"
-msgstr "មិល្លីវិនាទី"
+msgstr "មីលីវិនាទី"
 
 #. FLFW8
 #: sfx2/uiconfig/ui/editdurationdialog.ui:339
 msgctxt "editdurationdialog|label2"
 msgid "Duration"
-msgstr "ថិរវេលា"
+msgstr "ថេរវេលា"
 
 #. 9cAb5
 #: sfx2/uiconfig/ui/errorfindemaildialog.ui:7
 msgctxt "errorfindemaildialog|ErrorFindEmailDialog"
 msgid "No email configuration"
-msgstr ""
+msgstr "គ្មានការកំណត់រចនាសម្ព័ន្ធអ៊ីមែល"
 
 #. cFct7
 #: sfx2/uiconfig/ui/errorfindemaildialog.ui:14
 msgctxt "errorfindemaildialog|ErrorFindEmailDialog"
 msgid "%PRODUCTNAME was unable to find a working email configuration."
-msgstr ""
+msgstr "%PRODUCTNAME មិនអាចរកឃើញការកំណត់រចនាសម្ព័ន្ធអ៊ីមែលដែលដំណើរការទេ។"
 
 #. xQi7X
 #: sfx2/uiconfig/ui/errorfindemaildialog.ui:15
 msgctxt "errorfindemaildialog|ErrorFindEmailDialog"
 msgid "Please save this document locally instead and attach it from within your email client."
-msgstr ""
+msgstr "សូមរក្សាទុកឯកសារនេះជាមូលដ្ឋានជំនួសហើយភ្ជាប់វាពីក្នុងអ៊ីមែលរបស់អ្នក។"
 
 #. DVQUS
 #: sfx2/uiconfig/ui/floatingrecord.ui:7
@@ -3016,7 +2881,6 @@ msgstr "បង្ហាញ"
 
 #. S7ppr
 #: sfx2/uiconfig/ui/helpcontrol.ui:76
-#, fuzzy
 msgctxt "helpcontrol|contents"
 msgid "Contents"
 msgstr "មតិយោបល់"
@@ -3025,7 +2889,7 @@ msgstr "មតិយោបល់"
 #: sfx2/uiconfig/ui/helpcontrol.ui:124
 msgctxt "helpcontrol|index"
 msgid "Index"
-msgstr "លិបិក្រម"
+msgstr "សន្ទស្សន៍"
 
 #. HdGQi
 #: sfx2/uiconfig/ui/helpcontrol.ui:173
@@ -3055,31 +2919,31 @@ msgstr "ពាក្យ​ស្វែងរក"
 #: sfx2/uiconfig/ui/helpmanual.ui:7
 msgctxt "helpmanual|onlinehelpmanual"
 msgid "%PRODUCTNAME Help Not Installed"
-msgstr ""
+msgstr "%PRODUCTNAME ជំនួយមិនត្រូវបានដំឡើង"
 
 #. JBdnz
 #: sfx2/uiconfig/ui/helpmanual.ui:12
 msgctxt "helpmanual|onlinehelpmanual"
 msgid "The %PRODUCTNAME built-in help for current UI language ($UILOCALE) is not installed on your computer."
-msgstr ""
+msgstr "ជំនួយដែលភ្ជាប់មកជាមួយ %PRODUCTNAME សម្រាប់ភាសា UI បច្ចុប្បន្ន ($UILOCALE) មិនត្រូវបានតំឡើងនៅលើកុំព្យូទ័ររបស់អ្នកទេ។"
 
 #. DxMPr
 #: sfx2/uiconfig/ui/helpmanual.ui:13
 msgctxt "helpmanual|onlinehelpmanual"
 msgid "You may either install it from our website or your system’s repositories, or read an online version."
-msgstr ""
+msgstr "អ្នកអាចដំឡើងវាពីគេហទំព័ររបស់យើងឬឃ្លាំងប្រព័ន្ធរបស់អ្នកឬអានឯកសារលើអ៊ីនធឺណេត។"
 
 #. AaeBL
 #: sfx2/uiconfig/ui/helpmanual.ui:23
 msgctxt "helpmanual|website"
 msgid "Read Help Online"
-msgstr ""
+msgstr "អានជំនួយលើអ៊ីនធឺណេត"
 
 #. B2Wzh
 #: sfx2/uiconfig/ui/helpmanual.ui:60
 msgctxt "helpmanual|hidedialog"
 msgid "Do not show this dialog again"
-msgstr ""
+msgstr "កុំបង្ហាញសន្ទនានេះម្តងទៀត"
 
 #. 8FjCk
 #: sfx2/uiconfig/ui/helpsearchpage.ui:29
@@ -3109,47 +2973,40 @@ msgstr "ស្វែងរក​តែ​ក្នុង​ចំណងជើង
 #: sfx2/uiconfig/ui/helpwindow.ui:72
 msgctxt "helpwindow|backward|tooltip_text"
 msgid "Previous Page"
-msgstr ""
+msgstr "ទំព័រ​មុន"
 
 #. Gv3uP
 #: sfx2/uiconfig/ui/helpwindow.ui:84
 msgctxt "helpwindow|forward|tooltip_text"
 msgid "Next Page"
-msgstr ""
+msgstr "ទំព័រ​បន្ទាប់"
 
 #. uaBtK
 #: sfx2/uiconfig/ui/helpwindow.ui:96
 msgctxt "helpwindow|start|tooltip_text"
 msgid "First Page"
-msgstr ""
+msgstr "ទំព័រ​ទី​មួយ"
 
 #. TizVY
 #: sfx2/uiconfig/ui/helpwindow.ui:118
 msgctxt "helpwindow|print|tooltip_text"
 msgid "Print"
-msgstr ""
+msgstr "បោះពុម្ព"
 
 #. 7wgqt
 #: sfx2/uiconfig/ui/helpwindow.ui:130
 msgctxt "helpwindow|bookmarks|tooltip_text"
 msgid "Add to Bookmarks"
-msgstr ""
+msgstr "បន្ថែម​ចំណាំ"
 
 #. qPF9A
 #: sfx2/uiconfig/ui/helpwindow.ui:142
 msgctxt "helpwindow|searchdialog|tooltip_text"
 msgid "Find on this Page"
-msgstr ""
-
-#. VnXxR
-#: sfx2/uiconfig/ui/infobar.ui:65
-msgctxt "infobar|close|tooltip_text"
-msgid "Close Infobar"
-msgstr ""
+msgstr "រក​នៅ​លើ​ទំព័រ​នេះ"
 
 #. DpXCY
 #: sfx2/uiconfig/ui/inputdialog.ui:86
-#, fuzzy
 msgctxt "inputdialog|label"
 msgid "Height:"
 msgstr "កម្ពស់"
@@ -3180,86 +3037,72 @@ msgid ""
 "\n"
 "This product was created by %OOOVENDOR, based on OpenOffice.org, which is Copyright 2000, 2011 Oracle and/or its affiliates. %OOOVENDOR acknowledges all community members, please see http://www.libreoffice.org/ for more details."
 msgstr ""
+"%PRODUCTNAME ត្រូវបានបង្កើតឡើងដែលអាចប្រើបានស្របតាមល័ក្ខខ័ណ្ឌនៃអាជ្ញាប័ណ្ណសាធារណៈ Mozilla, v ។ ២.០ ។ ច្បាប់ថតចំលង MPL អាចទទួលបាននៅ http://mozilla.org/MPL/2.0/ ។\n"
+"\n"
+"សេចក្តីជូនដំណឹងស្តីពីការរក្សាសិទ្ធិនិងលក្ខខណ្ឌអាជ្ញាប័ណ្ណបន្ថែមរបស់ភាគីទីបីត្រូវបានចែងនៅក្នុងឯកសារ LICENSE.html ។ ជ្រើសរើសបង្ហាញអាជ្ញាប័ណ្ណដើម្បីមើលព័ត៌មានលំអិតជាភាសាអង់គ្លេស។\n"
+"\n"
+"រាល់ពាណិជ្ជសញ្ញានិងពាណិជ្ជសញ្ញាដែលបានចុះបញ្ជីដែលបានរៀបរាប់នៅទីនេះគឺជាទ្រព្យសម្បត្តិរបស់ម្ចាស់រៀងៗខ្លួន។\n"
+"\n"
+"រក្សាសិទ្ធិ© ២០០០-២០២០ អ្នកចូលរួមរបស់ LibreOffice ។ រក្សា​រ​សិទ្ធ​គ្រប់យ៉ាង។\n"
+"\n"
+"ផលិតផលនេះត្រូវបានបង្កើតឡើងដោយ %OOOVENDOR ផ្អែកលើ OpenOffice.org ដែលរក្សាសិទ្ធិ ២០០០, ឆ្នាំ ២០១១ Oracle និង / ឬសាខារបស់វា។ OOOVENDOR ទទួលស្គាល់សមាជិកសហគមន៍ទាំងអស់សូមមើល http://www.libreoffice.org/ សម្រាប់ព័ត៌មានលម្អិត។"
 
 #. QuVoN
 #: sfx2/uiconfig/ui/linefragment.ui:55
 msgctxt "linefragment|STR_SFX_REMOVE_PROPERTY"
 msgid "Remove Property"
-msgstr ""
+msgstr "លុបទ្រព្យសម្បត្តិ"
 
 #. 8gPai
 #: sfx2/uiconfig/ui/linefragment.ui:144
 msgctxt "linefragment|SFX_ST_EDIT"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. x4Fjd
 #: sfx2/uiconfig/ui/linefragment.ui:180
 msgctxt "linefragment|yes"
 msgid "Yes"
-msgstr ""
+msgstr "បាទ/ចាស"
 
 #. mJFyB
 #: sfx2/uiconfig/ui/linefragment.ui:196
 msgctxt "linefragment|no"
 msgid "No"
-msgstr ""
+msgstr "ទេ"
 
 #. muk9B
-#: sfx2/uiconfig/ui/linkeditdialog.ui:13
+#: sfx2/uiconfig/ui/linkeditdialog.ui:8
 msgctxt "linkeditdialog|title"
 msgid "Modify DDE Link"
-msgstr ""
+msgstr "កែប្រែតំណ DDE"
 
 #. CZn3G
-#: sfx2/uiconfig/ui/linkeditdialog.ui:112
-#, fuzzy
+#: sfx2/uiconfig/ui/linkeditdialog.ui:107
 msgctxt "linkeditdialog|label2"
 msgid "_Application:"
 msgstr "កម្មវិធី"
 
 #. GZsEX
-#: sfx2/uiconfig/ui/linkeditdialog.ui:126
-#, fuzzy
+#: sfx2/uiconfig/ui/linkeditdialog.ui:121
 msgctxt "linkeditdialog|label3"
 msgid "_File:"
 msgstr "ឯកសារ ៖"
 
 #. 6Fx6h
-#: sfx2/uiconfig/ui/linkeditdialog.ui:140
-#, fuzzy
+#: sfx2/uiconfig/ui/linkeditdialog.ui:135
 msgctxt "linkeditdialog|label4"
 msgid "_Category:"
-msgstr "ប្រភេទ​ "
-
-#. hNqRS
-#: sfx2/uiconfig/ui/linkeditdialog.ui:153
-msgctxt "linkeditdialog|extended_tip|app"
-msgid "Lists the application that last saved the source file. %PRODUCTNAME applications have the server name soffice."
-msgstr ""
-
-#. cj9do
-#: sfx2/uiconfig/ui/linkeditdialog.ui:170
-msgctxt "linkeditdialog|extended_tip|file"
-msgid "Path to the source file. Relative paths must be expressed by full URI, for example, with file://."
-msgstr ""
-
-#. cMPNq
-#: sfx2/uiconfig/ui/linkeditdialog.ui:187
-msgctxt "linkeditdialog|extended_tip|category"
-msgid "Lists the section or object that the link refers to in the source file. If you want, you can enter a new section or object here."
-msgstr ""
+msgstr "ប្រភេទ​"
 
 #. hiapi
-#: sfx2/uiconfig/ui/linkeditdialog.ui:208
-#, fuzzy
+#: sfx2/uiconfig/ui/linkeditdialog.ui:188
 msgctxt "linkeditdialog|label1"
 msgid "Modify Link"
 msgstr "កែប្រែ​តំណ"
 
 #. ba2Tn
 #: sfx2/uiconfig/ui/loadtemplatedialog.ui:24
-#, fuzzy
 msgctxt "loadtemplatedialog|LoadTemplateDialog"
 msgid "New"
 msgstr "ថ្មី"
@@ -3270,158 +3113,92 @@ msgctxt "loadtemplatedialog|fromfile"
 msgid "From File..."
 msgstr "ពី​ឯកសារ..."
 
-#. GE236
-#: sfx2/uiconfig/ui/loadtemplatedialog.ui:47
-msgctxt "loadtemplatedialog|extended_tip|fromfile"
-msgid "Locate the file containing the styles that you want to load, and then click Open."
-msgstr "រកទីតាំង​ឯកសារ​ដែល​មាន​រចនាប័ទ្ម ​ដែល​អ្នក​ចង់​ផ្ទុក ហើយ​​បន្ទាប់​មក​ ចុច បើក ។"
-
-#. YCguC
-#: sfx2/uiconfig/ui/loadtemplatedialog.ui:166
-msgctxt "loadtemplatedialog|extended_tip|categories"
-msgid "Lists the available template categories. Click a category to view its contents in the Templates list."
-msgstr "រាយ​បញ្ជី​ប្រភេទ​ពុម្ព​ដែល​មាន ។ ចុច​ប្រភេទ​មួយ​ដើម្បី​មើល​មាតិកា​របស់​វា ក្នុង​បញ្ជី ពុម្ព  ។"
-
 #. PZS7L
-#: sfx2/uiconfig/ui/loadtemplatedialog.ui:179
+#: sfx2/uiconfig/ui/loadtemplatedialog.ui:169
 msgctxt "loadtemplatedialog|label1"
 msgid "Categories"
 msgstr "ប្រភេទ"
 
-#. hkGaT
-#: sfx2/uiconfig/ui/loadtemplatedialog.ui:238
-msgctxt "loadtemplatedialog|extended_tip|templates"
-msgid "Lists the available templates for the selected category."
-msgstr "រាយ​បញ្ជី​ពុម្ព​ដែល​មាន សម្រាប់​ប្រភេទ​ដែល​បាន​ជ្រើស ។"
-
 #. hryGV
-#: sfx2/uiconfig/ui/loadtemplatedialog.ui:251
+#: sfx2/uiconfig/ui/loadtemplatedialog.ui:236
 msgctxt "loadtemplatedialog|label2"
 msgid "Templates"
 msgstr "ពុម្ព"
 
 #. Bm4Mx
-#: sfx2/uiconfig/ui/loadtemplatedialog.ui:272
+#: sfx2/uiconfig/ui/loadtemplatedialog.ui:257
 msgctxt "loadtemplatedialog|text"
 msgid "Te_xt"
 msgstr "អត្ថបទ"
 
-#. VLWfZ
-#: sfx2/uiconfig/ui/loadtemplatedialog.ui:281
-msgctxt "loadtemplatedialog|extended_tip|text"
-msgid "Loads the paragraph and the character styles from the selected document into the current document."
-msgstr "ផ្ទុក​កថាខណ្ឌ និង រចនាប័ទ្ម​តួអក្សរ​ពី​ឯកសារ​ដែល​បាន​ជ្រើស ទៅ​ក្នុង​ឯកសារ​បច្ចុប្បន្ន ។"
-
 #. d2q55
-#: sfx2/uiconfig/ui/loadtemplatedialog.ui:292
+#: sfx2/uiconfig/ui/loadtemplatedialog.ui:272
 msgctxt "loadtemplatedialog|frame"
 msgid "_Frame"
 msgstr "ស៊ុម"
 
-#. 4ZF6u
-#: sfx2/uiconfig/ui/loadtemplatedialog.ui:301
-msgctxt "loadtemplatedialog|extended_tip|frame"
-msgid "Loads the frame styles from the selected document into the current document."
-msgstr "ផ្ទុក​រចនាប័ទ្ម​ស៊ុម​ពី​ឯកសារ​ដែល​បាន​ជ្រើស ទៅ​ក្នុង​ឯកសារ​បច្ចុប្បន្ន ។"
-
 #. GZchA
-#: sfx2/uiconfig/ui/loadtemplatedialog.ui:312
+#: sfx2/uiconfig/ui/loadtemplatedialog.ui:287
 msgctxt "loadtemplatedialog|pages"
 msgid "_Pages"
 msgstr "ទំព័រ"
 
-#. o2C8c
-#: sfx2/uiconfig/ui/loadtemplatedialog.ui:321
-msgctxt "loadtemplatedialog|extended_tip|pages"
-msgid "Loads the page styles from the selected document into the current document."
-msgstr "ផ្ទុក​រចនាប័ទ្ម​ទំព័រ​ពី​ឯកសារ​ដែល​បាន​ជ្រើស ទៅ​ក្នុង​ឯកសារ​បច្ចុប្បន្ន ។"
-
 #. Fc8cn
-#: sfx2/uiconfig/ui/loadtemplatedialog.ui:332
+#: sfx2/uiconfig/ui/loadtemplatedialog.ui:302
 msgctxt "loadtemplatedialog|numbering"
 msgid "N_umbering"
 msgstr "ជា​លេខ"
 
-#. HMyK2
-#: sfx2/uiconfig/ui/loadtemplatedialog.ui:341
-msgctxt "loadtemplatedialog|extended_tip|numbering"
-msgid "Loads the numbering styles from the selected document into the current document."
-msgstr "ផ្ទុក​រចនាប័ទ្ម​លេខរៀង​ពី​ឯកសារ​ដែល​បាន​ជ្រើស ទៅ​ក្នុង​ឯកសារ​បច្ចុប្បន្ន ។"
-
 #. VWzsG
-#: sfx2/uiconfig/ui/loadtemplatedialog.ui:352
+#: sfx2/uiconfig/ui/loadtemplatedialog.ui:317
 msgctxt "loadtemplatedialog|overwrite"
 msgid "_Overwrite"
-msgstr "សរសេរ​ជាន់​លើ"
-
-#. A9ogA
-#: sfx2/uiconfig/ui/loadtemplatedialog.ui:361
-msgctxt "loadtemplatedialog|extended_tip|overwrite"
-msgid "Replaces styles in the current document that have the same name as the styles you are loading."
-msgstr "ជំនួស​រចនាប័ទ្ម​ក្នុង​ឯកសារ​បច្ចុប្បន្ន ដែល​មាន​ឈ្មោះ​ដូច​គ្នា​ទៅ​នឹង​រចនាប័ទ្ម ដែល​អ្នក​កំពុង​ផ្ទុក ។"
+msgstr "សរសេរ​លើស"
 
 #. YrYis
-#: sfx2/uiconfig/ui/loadtemplatedialog.ui:384
+#: sfx2/uiconfig/ui/loadtemplatedialog.ui:344
 msgctxt "loadtemplatedialog|alttitle"
 msgid "Load Styles"
 msgstr "ផ្ទុក​រចនាប័ទ្ម"
 
 #. X5Pi5
-#: sfx2/uiconfig/ui/loadtemplatedialog.ui:420
+#: sfx2/uiconfig/ui/loadtemplatedialog.ui:380
 msgctxt "loadtemplatedialog|label3"
 msgid "Pre_view"
 msgstr "មើល​ជាមុន"
 
-#. hR7cK
-#: sfx2/uiconfig/ui/loadtemplatedialog.ui:426
-msgctxt "loadtemplatedialog|extended_tip|expander"
-msgid "Shows or hides a preview of a selected template."
-msgstr "បង្ហាញ ឬ​លាក់​ការ​មើល​ពុម្ព​ជា​មុន​ដែល​បាន​ជ្រើស។"
-
-#. CRcca
-#: sfx2/uiconfig/ui/loadtemplatedialog.ui:456
-msgctxt "loadtemplatedialog|extended_tip|LoadTemplateDialog"
-msgid "Imports formatting styles from another document or template into the current document."
-msgstr ""
-
 #. EAhup
 #: sfx2/uiconfig/ui/managestylepage.ui:37
-#, fuzzy
 msgctxt "managestylepage|nameft"
 msgid "_Name:"
-msgstr "ឈ្មោះ"
+msgstr "ឈ្មោះ៖"
 
 #. VroAG
 #: sfx2/uiconfig/ui/managestylepage.ui:51
-#, fuzzy
 msgctxt "managestylepage|nextstyleft"
 msgid "Ne_xt style:"
-msgstr "រចនាប័ទ្ម​បន្ទាប់ "
+msgstr "រចនាប័ទ្ម​បន្ទាប់"
 
 #. mJYgm
 #: sfx2/uiconfig/ui/managestylepage.ui:65
-#, fuzzy
 msgctxt "managestylepage|linkedwithft"
 msgid "Inherit from:"
 msgstr "ទទួល​ពី"
 
 #. 9pGL9
 #: sfx2/uiconfig/ui/managestylepage.ui:79
-#, fuzzy
 msgctxt "managestylepage|categoryft"
 msgid "_Category:"
-msgstr "ប្រភេទ​ "
+msgstr "ប្រភេទ​"
 
 #. MMhJQ
 #: sfx2/uiconfig/ui/managestylepage.ui:103
-#, fuzzy
 msgctxt "managestylepage|editstyle"
 msgid "Edit Style"
 msgstr "កែសម្រួល​​រចនាប័ទ្ម​..."
 
 #. 7XGEs
 #: sfx2/uiconfig/ui/managestylepage.ui:127
-#, fuzzy
 msgctxt "managestylepage|editlinkstyle"
 msgid "Edit Style"
 msgstr "កែសម្រួល​​រចនាប័ទ្ម​..."
@@ -3430,7 +3207,7 @@ msgstr "កែសម្រួល​​រចនាប័ទ្ម​..."
 #: sfx2/uiconfig/ui/managestylepage.ui:151
 msgctxt "managestylepage|autoupdate"
 msgid "_AutoUpdate"
-msgstr "ធ្វើ​បច្ចុប្បន្ន​ភាព​ដោយ​ស្វ័យ​ប្រវត្តិ "
+msgstr "ធ្វើ​បច្ចុប្បន្ន​ភាព​ដោយ​ស្វ័យ​ប្រវត្តិ"
 
 #. oTXJz
 #: sfx2/uiconfig/ui/managestylepage.ui:198
@@ -3452,14 +3229,12 @@ msgstr "បង្កើត​រចនាប័ទ្ម"
 
 #. v9veF
 #: sfx2/uiconfig/ui/newstyle.ui:159
-#, fuzzy
 msgctxt "newstyle|stylename-atkobject"
 msgid "Style Name"
 msgstr "ឈ្មោះ​រចនាប័ទ្ម"
 
 #. R3JAg
 #: sfx2/uiconfig/ui/newstyle.ui:176
-#, fuzzy
 msgctxt "newstyle|label1"
 msgid "Style Name"
 msgstr "ឈ្មោះ​រចនាប័ទ្ម"
@@ -3474,310 +3249,181 @@ msgstr "ឯកសារ"
 #: sfx2/uiconfig/ui/optprintpage.ui:37
 msgctxt "optprintpage|printer"
 msgid "_Printer"
-msgstr "ម៉ាស៊ីន​បោះពុម្ព​ "
-
-#. PUG9y
-#: sfx2/uiconfig/ui/optprintpage.ui:47
-msgctxt "extended_tip|printer"
-msgid "Specifies whether the print settings apply to direct printing or to printing to a file."
-msgstr ""
+msgstr "ម៉ាស៊ីន​បោះពុម្ព​"
 
 #. Eyv8g
-#: sfx2/uiconfig/ui/optprintpage.ui:58
+#: sfx2/uiconfig/ui/optprintpage.ui:53
 msgctxt "optprintpage|file"
 msgid "Print to _file"
-msgstr "បោះពុម្ព​ទៅ​ឯកសារ "
-
-#. TMHvE
-#: sfx2/uiconfig/ui/optprintpage.ui:68
-msgctxt "extended_tip|file"
-msgid "Specifies whether the print settings apply to direct printing or to printing to a file."
-msgstr ""
+msgstr "បោះពុម្ព​ទៅ​ឯកសារ"
 
 #. C8jvp
-#: sfx2/uiconfig/ui/optprintpage.ui:85
+#: sfx2/uiconfig/ui/optprintpage.ui:75
 msgctxt "optprintpage|label4"
 msgid "Settings for"
-msgstr ""
+msgstr "ការកំណត់សម្រាប់"
 
 #. 2T5Af
-#: sfx2/uiconfig/ui/optprintpage.ui:118
+#: sfx2/uiconfig/ui/optprintpage.ui:108
 msgctxt "optprintpage|papersize"
 msgid "P_aper size"
-msgstr "ទំហំ​ក្រដាស "
-
-#. yj4DA
-#: sfx2/uiconfig/ui/optprintpage.ui:127
-msgctxt "extended_tip|papersize"
-msgid "Mark this check box if a certain paper size is needed for printing the current document."
-msgstr "ធីក​ប្រអប់​នេះ បើ​ទំហំ​ក្រដាស​ជាក់លាក់​ត្រូវ​បាន​ទាមទារ​សម្រាប់​ការ​បោះពុម្ព​ឯកសារ​បច្ចុប្បន្ន។"
+msgstr "ទំហំ​ក្រដាស"
 
 #. stDFq
-#: sfx2/uiconfig/ui/optprintpage.ui:138
+#: sfx2/uiconfig/ui/optprintpage.ui:123
 msgctxt "optprintpage|paperorient"
 msgid "Pap_er orientation"
-msgstr "ទិស​ក្រដាស "
-
-#. FdFNk
-#: sfx2/uiconfig/ui/optprintpage.ui:147
-msgctxt "extended_tip|paperorient"
-msgid "Mark this check box if you need a certain paper orientation for printing the current document."
-msgstr "ធីក​ប្រអប់​នេះ​បើ​អ្នក​ត្រូវការ​ទិស​ក្រដាស​ជាក់លាក់​សម្រាប់​ការ​បោះពុម្ព​ឯកសារ​បច្ចុប្បន្ន។"
+msgstr "ទិស​ក្រដាស"
 
 #. L6rtF
-#: sfx2/uiconfig/ui/optprintpage.ui:158
+#: sfx2/uiconfig/ui/optprintpage.ui:138
 msgctxt "optprintpage|trans"
 msgid "_Transparency"
-msgstr "ភាព​ថ្លា "
-
-#. F6nF9
-#: sfx2/uiconfig/ui/optprintpage.ui:167
-msgctxt "extended_tip|trans"
-msgid "Mark this check box if you always want to be warned if transparent objects are contained in the document."
-msgstr "ធីក​ប្រអប់​នេះ បើ​អ្នក​ចង់​បាន​ការ​ព្រមាន​ជានិច្ច ពេល​មាន​វត្ថុ​ថ្លា​នៅ​ក្នុង​ឯកសារ។"
+msgstr "ភាព​ថ្លា"
 
 #. C5jZN
-#: sfx2/uiconfig/ui/optprintpage.ui:184
+#: sfx2/uiconfig/ui/optprintpage.ui:159
 msgctxt "optprintpage|label2"
 msgid "Warnings"
-msgstr ""
+msgstr "ការព្រមាន"
 
 #. PJFLE
-#: sfx2/uiconfig/ui/optprintpage.ui:215
+#: sfx2/uiconfig/ui/optprintpage.ui:190
 msgctxt "optprintpage|reducegrad"
 msgid "Reduce _gradient"
 msgstr "បន្ថយ​ជម្រាល"
 
-#. GC8dk
-#: sfx2/uiconfig/ui/optprintpage.ui:224
-msgctxt "extended_tip|reducegrad"
-msgid "If this field is marked, gradients are printed with reduced quality."
-msgstr "បើ​បាន​ធីក​វាល​នេះ ជម្រាល​នឹង​ត្រូវ​បាន​បោះពុម្ព​ដោយ​បន្ថយ​គុណភាព។"
-
 #. skDME
-#: sfx2/uiconfig/ui/optprintpage.ui:250
-#, fuzzy
+#: sfx2/uiconfig/ui/optprintpage.ui:220
 msgctxt "optprintpage|reducegradstripes"
 msgid "Gradient _stripes:"
-msgstr "ឆ្នូត​ជម្រាល "
-
-#. k8zh7
-#: sfx2/uiconfig/ui/optprintpage.ui:260
-msgctxt "extended_tip|reducegradstripes"
-msgid "Specifies the maximum number of gradient stripes for printing."
-msgstr ""
-
-#. 5HCxT
-#: sfx2/uiconfig/ui/optprintpage.ui:277
-msgctxt "extended_tip|reducegradstep"
-msgid "Specifies the maximum number of gradient stripes for printing."
-msgstr ""
+msgstr "ឆ្នូត​ជម្រាល"
 
 #. W8LE7
-#: sfx2/uiconfig/ui/optprintpage.ui:294
+#: sfx2/uiconfig/ui/optprintpage.ui:254
 msgctxt "optprintpage|reducegradcolor"
 msgid "Intermediate _color"
-msgstr "ពណ៌​មធ្យម "
-
-#. TUbxx
-#: sfx2/uiconfig/ui/optprintpage.ui:304
-msgctxt "extended_tip|reducegradcolor"
-msgid "Specifies that gradients are only printed in a single intermediate color."
-msgstr "បញ្ជាក់​ថា​ជម្រាល​នឹង​ត្រូវ​បាន​បោះពុម្ព​តែ​នៅ​ក្នុង​ពណ៌​មធ្យម​ទោល​ប៉ុណ្ណោះ។"
+msgstr "ពណ៌​មធ្យម"
 
 #. myMLR
-#: sfx2/uiconfig/ui/optprintpage.ui:329
+#: sfx2/uiconfig/ui/optprintpage.ui:284
 msgctxt "optprintpage|label1"
 msgid "Reduce Gradient"
-msgstr ""
-
-#. abbre
-#: sfx2/uiconfig/ui/optprintpage.ui:337
-msgctxt "extended_tip|frame2"
-msgid "Defines which warnings appear before printing begins."
-msgstr "កំណត់​ការ​ព្រមាន​លេចឡើង​មុន​ពេល​ចាប់ផ្ដើម​បោះពុម្ព។"
+msgstr "កាត់បន្ថយជម្រាល"
 
 #. qF2KM
-#: sfx2/uiconfig/ui/optprintpage.ui:375
+#: sfx2/uiconfig/ui/optprintpage.ui:325
 msgctxt "optprintpage|reducebitmapnormal"
 msgid "N_ormal print quality"
-msgstr "គុណភាព​បោះពុម្ព​ធម្មតា "
-
-#. i5T3j
-#: sfx2/uiconfig/ui/optprintpage.ui:385
-msgctxt "extended_tip|reducebitmapnormal"
-msgid "High print quality corresponds to a resolution of 300dpi. Normal print quality corresponds to a resolution of 200dpi. "
-msgstr ""
+msgstr "គុណភាព​បោះពុម្ព​ធម្មតា"
 
 #. EZGK5
-#: sfx2/uiconfig/ui/optprintpage.ui:401
-#, fuzzy
+#: sfx2/uiconfig/ui/optprintpage.ui:346
 msgctxt "optprintpage|reducebitmapresol"
 msgid "Reso_lution:"
-msgstr "គុណភាព​បង្ហាញ "
-
-#. q3aJL
-#: sfx2/uiconfig/ui/optprintpage.ui:411
-msgctxt "extended_tip|reducebitmapresol"
-msgid "Specifies the maximum print quality in dpi. The resolution can only be reduced and not increased."
-msgstr ""
+msgstr "គុណភាព​បង្ហាញ"
 
 #. 6ALtE
-#: sfx2/uiconfig/ui/optprintpage.ui:425
+#: sfx2/uiconfig/ui/optprintpage.ui:365
 msgctxt "optprintpage|reducebitmapdpi"
 msgid "72 DPI"
-msgstr "72 DPI"
+msgstr "៧២ DPI"
 
 #. FgpJ3
-#: sfx2/uiconfig/ui/optprintpage.ui:426
+#: sfx2/uiconfig/ui/optprintpage.ui:366
 msgctxt "optprintpage|reducebitmapdpi"
 msgid "96 DPI"
-msgstr "96 DPI"
+msgstr "៩៦ DPI"
 
 #. d7BqR
-#: sfx2/uiconfig/ui/optprintpage.ui:427
+#: sfx2/uiconfig/ui/optprintpage.ui:367
 msgctxt "optprintpage|reducebitmapdpi"
 msgid "150 DPI (Fax)"
-msgstr "150 DPI (ទូរសារ)"
+msgstr "១៥០ DPI (ទូរសារ)"
 
 #. 46imh
-#: sfx2/uiconfig/ui/optprintpage.ui:428
+#: sfx2/uiconfig/ui/optprintpage.ui:368
 msgctxt "optprintpage|reducebitmapdpi"
 msgid "200 DPI (default)"
-msgstr "200 DPI (លំនាំដើម)"
+msgstr "២០០ DPI (លំនាំដើម)"
 
 #. AsLSp
-#: sfx2/uiconfig/ui/optprintpage.ui:429
+#: sfx2/uiconfig/ui/optprintpage.ui:369
 msgctxt "optprintpage|reducebitmapdpi"
 msgid "300 DPI"
-msgstr "300 DPI"
+msgstr "៣០០ DPI"
 
 #. qZJg5
-#: sfx2/uiconfig/ui/optprintpage.ui:430
+#: sfx2/uiconfig/ui/optprintpage.ui:370
 msgctxt "optprintpage|reducebitmapdpi"
 msgid "600 DPI"
-msgstr "600 DPI"
-
-#. 8KFUc
-#: sfx2/uiconfig/ui/optprintpage.ui:434
-msgctxt "extended_tip|reducebitmapdpi"
-msgid "Specifies the maximum print quality in dpi. The resolution can only be reduced and not increased."
-msgstr ""
+msgstr "៦០០ DPI"
 
 #. YXTXc
-#: sfx2/uiconfig/ui/optprintpage.ui:451
+#: sfx2/uiconfig/ui/optprintpage.ui:386
 msgctxt "optprintpage|reducebitmapoptimal"
 msgid "_High print quality"
-msgstr "គុណភាព​បោះពុម្ព​ខ្ពស់ "
-
-#. BdCpv
-#: sfx2/uiconfig/ui/optprintpage.ui:461
-msgctxt "extended_tip|reducebitmapoptimal"
-msgid "High print quality corresponds to a resolution of 300dpi. Normal print quality corresponds to a resolution of 200dpi. "
-msgstr ""
+msgstr "គុណភាព​បោះពុម្ព​ខ្ពស់"
 
 #. ySmQe
-#: sfx2/uiconfig/ui/optprintpage.ui:480
+#: sfx2/uiconfig/ui/optprintpage.ui:410
 msgctxt "optprintpage|reducebitmap"
 msgid "Reduce _bitmaps"
-msgstr "កាត់​បន្ថយ​រូបភាព​ "
-
-#. nNjfk
-#: sfx2/uiconfig/ui/optprintpage.ui:489
-msgctxt "extended_tip|reducebitmap"
-msgid "Specifies that bitmaps are printed with reduced quality. The resolution can only be reduced and not increased."
-msgstr "បញ្ជាក់​ថា​រូបភាព​ត្រូវ​បាន​បោះពុម្ព​ដោយ​បន្ថយ​គុណភាព។ គុណភាព​បង្ហាញ​គឺ​បានតែ​បន្ថយ​ប៉ុណ្ណោះ មិន​អាច​បង្កើន​បាន​ទេ។"
+msgstr "កាត់​បន្ថយ​រូបភាព​"
 
 #. YxX2s
-#: sfx2/uiconfig/ui/optprintpage.ui:506
+#: sfx2/uiconfig/ui/optprintpage.ui:431
 msgctxt "optprintpage|label1"
 msgid "Reduce Bitmaps"
-msgstr ""
+msgstr "កាត់​បន្ថយ​រូបភាព"
 
 #. B4C76
-#: sfx2/uiconfig/ui/optprintpage.ui:547
+#: sfx2/uiconfig/ui/optprintpage.ui:472
 msgctxt "optprintpage|reducetransauto"
 msgid "Auto_matically"
-msgstr "ដោយ​ស្វ័យប្រវត្តិ "
-
-#. ehRjn
-#: sfx2/uiconfig/ui/optprintpage.ui:557
-msgctxt "extended_tip|reducetransauto"
-msgid "Specifies that the transparency is only printed if the transparent area covers less than a quarter of the entire page."
-msgstr "បញ្ជាក់​ថា​ភាព​ថ្លា​គឺ​ត្រូវ​បាន​បោះពុម្ព​តែ​នៅ​ពេល​ដែល​គម្រប​ផ្ទៃ​ថ្លា​តិច​ជាង​មួយ​ភាគ​បួន​នៃ​ទំព័រ​ទាំងមូល​ប៉ុណ្ណោះ។"
+msgstr "ដោយ​ស្វ័យប្រវត្តិ"
 
 #. K7P4C
-#: sfx2/uiconfig/ui/optprintpage.ui:568
+#: sfx2/uiconfig/ui/optprintpage.ui:488
 msgctxt "optprintpage|reducetransnone"
 msgid "_No transparency"
-msgstr "មិន​ថ្លា "
-
-#. ZuLVY
-#: sfx2/uiconfig/ui/optprintpage.ui:578
-msgctxt "extended_tip|reducetransnone"
-msgid "With this option transparency is never printed."
-msgstr "ជាមួយ​ជម្រើស​ភាព​ថ្លា​នេះ​មិន​ដែល​ត្រូវ​បាន​បោះពុម្ព​ទេ។"
+msgstr "មិន​ថ្លា"
 
 #. 5qQBR
-#: sfx2/uiconfig/ui/optprintpage.ui:597
+#: sfx2/uiconfig/ui/optprintpage.ui:512
 msgctxt "optprintpage|reducetrans"
 msgid "_Reduce transparency"
-msgstr "កាត់​បន្ថយ​ភាព​ថ្លា "
-
-#. yDstT
-#: sfx2/uiconfig/ui/optprintpage.ui:606
-msgctxt "extended_tip|reducetrans"
-msgid "If you mark this field the transparent objects will be printed like normal, non-transparent objects, depending on your selection in the following two option buttons."
-msgstr "បើ​អ្នក​សម្គាល់​វាល​​នេះ វត្ថុ​ថ្លា​នឹង​ត្រូវ​បាន​បោះពុម្ព​ដូច​ធម្មតា វត្ថុ​មិន​ថ្លា អាស្រ័យ​លើ​ជម្រើស​របស់​អ្នក​ក្នុង​ប៊ូតុង​ជម្រើស​ពីរ​ខាង​ក្រោម ។"
+msgstr "កាត់​បន្ថយ​ភាពថ្លា"
 
 #. B5Cpd
-#: sfx2/uiconfig/ui/optprintpage.ui:623
+#: sfx2/uiconfig/ui/optprintpage.ui:533
 msgctxt "optprintpage|label1"
 msgid "Reduce Transparency"
-msgstr ""
+msgstr "កាត់​បន្ថយភាពថ្លា"
 
 #. GAFzh
-#: sfx2/uiconfig/ui/optprintpage.ui:654
-#, fuzzy
+#: sfx2/uiconfig/ui/optprintpage.ui:564
 msgctxt "optprintpage|pdf"
 msgid "_PDF as standard print job format"
 msgstr "PDF ជា​ទ្រង់ទ្រាយ​បោះពុម្ព​ស្តង់ដារ"
 
 #. wm7C7
-#: sfx2/uiconfig/ui/optprintpage.ui:669
+#: sfx2/uiconfig/ui/optprintpage.ui:579
 msgctxt "optprintpage|converttogray"
 msgid "Con_vert colors to grayscale"
-msgstr "បម្លែង​ពណ៌​ទៅ​ជា​មាត្រដ្ឋាន​ប្រផេះ "
-
-#. UNSqH
-#: sfx2/uiconfig/ui/optprintpage.ui:678
-msgctxt "extended_tip|converttogray"
-msgid "Specifies that all colors are printed only as grayscale."
-msgstr "បញ្ជាក់​ថា​ពណ៌​ទាំងអស់​ត្រូវ​បាន​បោះពុម្ព​តែ​ជា​មាត្រដ្ឋាន​ប្រផេះ​ប៉ុណ្ណោះ។"
+msgstr "បម្លែង​ពណ៌​ទៅ​ជា​មាត្រដ្ឋាន​ប្រផេះ"
 
 #. CrFLq
-#: sfx2/uiconfig/ui/optprintpage.ui:689
+#: sfx2/uiconfig/ui/optprintpage.ui:594
 msgctxt "optprintpage|reducebitmaptrans"
 msgid "Include transparent objects"
 msgstr "រួម​បញ្ចូល​វត្ថុ​ថ្លា"
 
-#. FFAFJ
-#: sfx2/uiconfig/ui/optprintpage.ui:698
-msgctxt "extended_tip|reducebitmaptrans"
-msgid "If this field is marked, the reduction in print quality for bitmaps also applies to the transparent areas of objects."
-msgstr "បើ​បាន​ធីក​វាល​នេះ ការ​បន្ថយ​គុណភាព​បោះពុម្ព​សម្រាប់​រូបភាព​ក៏​​នឹង​អនុវត្ត​ផង​ដែរ​ចំពោះ​ផ្ទៃ​ថ្លា​របស់​វត្ថុ។"
-
 #. bWPko
-#: sfx2/uiconfig/ui/optprintpage.ui:715
+#: sfx2/uiconfig/ui/optprintpage.ui:615
 msgctxt "optprintpage|label4"
 msgid "Defaults"
-msgstr ""
-
-#. mMKbc
-#: sfx2/uiconfig/ui/optprintpage.ui:737
-msgctxt "extended_tip|OptPrintPage"
-msgid "Specifies the print setting options."
-msgstr "បញ្ជាក់​ជម្រើស​ការ​កំណត់​បោះពុម្ព ។"
+msgstr "លំនាំដើម"
 
 #. QrtGb
 #: sfx2/uiconfig/ui/password.ui:8
@@ -3809,50 +3455,26 @@ msgctxt "password|pass1ed-atkobject"
 msgid "Password"
 msgstr "ពាក្យសម្ងាត់"
 
-#. yVorz
-#: sfx2/uiconfig/ui/password.ui:165
-msgctxt "password|extended_tip|pass1ed"
-msgid "Type a password. A password is case sensitive."
-msgstr ""
-
-#. kEcVk
-#: sfx2/uiconfig/ui/password.ui:184
-msgctxt "password|extended_tip|confirm1ed"
-msgid "Re-enter the password."
-msgstr "បញ្ចូល​ពាក្យ​សម្ងាត់​ម្តង​ទៀត​​ ។"
-
 #. JBCUB
-#: sfx2/uiconfig/ui/password.ui:201
+#: sfx2/uiconfig/ui/password.ui:195
 msgctxt "password|label1"
 msgid "Password"
 msgstr "ពាក្យសម្ងាត់"
 
 #. zDBUt
-#: sfx2/uiconfig/ui/password.ui:236
+#: sfx2/uiconfig/ui/password.ui:230
 msgctxt "password|pass2ft"
 msgid "Password:"
 msgstr "ពាក្យ​សម្ងាត់ ៖"
 
 #. 8RcEw
-#: sfx2/uiconfig/ui/password.ui:250
+#: sfx2/uiconfig/ui/password.ui:244
 msgctxt "password|confirm2ft"
 msgid "Confirm:"
 msgstr "បញ្ជាក់៖"
 
-#. EkHiq
-#: sfx2/uiconfig/ui/password.ui:270
-msgctxt "password|extended_tip|pass2ed"
-msgid "Type a password. A password is case sensitive."
-msgstr ""
-
-#. c4nGS
-#: sfx2/uiconfig/ui/password.ui:289
-msgctxt "password|extended_tip|confirm2ed"
-msgid "Re-enter the password."
-msgstr "បញ្ចូល​ពាក្យ​សម្ងាត់​ម្តង​ទៀត​​ ។"
-
 #. mCxpj
-#: sfx2/uiconfig/ui/password.ui:306
+#: sfx2/uiconfig/ui/password.ui:290
 msgctxt "password|label2"
 msgid "Second Password"
 msgstr "ពាក្យសម្ងាត់​ទី​ពីរ"
@@ -3865,21 +3487,18 @@ msgstr "ជម្រើស​ម៉ាស៊ីន​បោះពុម្ព"
 
 #. oAzTR
 #: sfx2/uiconfig/ui/querysavedialog.ui:7
-#, fuzzy
 msgctxt "querysavedialog|QuerySaveDialog"
 msgid "Save Document?"
 msgstr "រក្សាទុក​​ឯកសារ?"
 
 #. wFiA8
 #: sfx2/uiconfig/ui/querysavedialog.ui:13
-#, fuzzy
 msgctxt "querysavedialog|QuerySaveDialog"
 msgid "Save changes to document “$(DOC)” before closing?"
 msgstr "រក្សាទុក​ការ​ផ្លាស់ប្ដូរ​ទៅ​ឯកសារ \"$(DOC)\" មុន​ពេល​បិទ?"
 
 #. 7mtVz
 #: sfx2/uiconfig/ui/querysavedialog.ui:14
-#, fuzzy
 msgctxt "querysavedialog|QuerySaveDialog"
 msgid "Your changes will be lost if you don’t save them."
 msgstr "ការ​ផ្លាស់ប្ដូរ​របស់​អ្នក​នឹង​បាត់បង់ ប្រសិនបើ​អ្នក​មិន​រក្សាទុក​ពួកវា។"
@@ -3888,23 +3507,22 @@ msgstr "ការ​ផ្លាស់ប្ដូរ​របស់​អ្ន
 #: sfx2/uiconfig/ui/querysavedialog.ui:25
 msgctxt "querysavedialog|discard"
 msgid "Do_n’t Save"
-msgstr ""
+msgstr "កុំរក្សាទុក"
 
 #. 6WbvE
 #: sfx2/uiconfig/ui/safemodequerydialog.ui:7
 msgctxt "safemodequerydialog|SafeModeQueryDialog"
 msgid "Enter Safe Mode"
-msgstr ""
+msgstr "ចូលរបៀបសុវត្ថិភាព"
 
 #. esgus
 #: sfx2/uiconfig/ui/safemodequerydialog.ui:12
 msgctxt "safemodequerydialog|label"
 msgid "Are you sure you want to restart %PRODUCTNAME and enter safe mode?"
-msgstr ""
+msgstr "តើអ្នកពិតជាចង់ចាប់ផ្តើម %PRODUCTNAME ឡើងវិញហើយចូលរបៀបសុវត្ថិភាព?"
 
 #. DpN8R
 #: sfx2/uiconfig/ui/safemodequerydialog.ui:41
-#, fuzzy
 msgctxt "safemodequerydialog|restart"
 msgid "_Restart"
 msgstr "ស្ដារ"
@@ -3913,50 +3531,25 @@ msgstr "ស្ដារ"
 #: sfx2/uiconfig/ui/saveastemplatedlg.ui:14
 msgctxt "saveastemplatedlg|SaveAsTemplateDialog"
 msgid "Save As Template"
-msgstr ""
+msgstr "រក្សាទុកជាគំរូ"
 
 #. DExAh
 #: sfx2/uiconfig/ui/saveastemplatedlg.ui:101
-#, fuzzy
 msgctxt "saveastemplatedlg|create_label"
 msgid "Template _Name"
 msgstr "ឈ្មោះ​ពុម្ព ៖"
 
-#. Xo6BH
-#: sfx2/uiconfig/ui/saveastemplatedlg.ui:123
-msgctxt "saveastemplatedlg|extended_tip|name_entry"
-msgid "Enter a name for the template."
-msgstr ""
-
 #. izWnA
-#: sfx2/uiconfig/ui/saveastemplatedlg.ui:151
+#: sfx2/uiconfig/ui/saveastemplatedlg.ui:146
 msgctxt "saveastemplatedlg|select_label"
 msgid "Template _Category"
-msgstr ""
-
-#. JBPKb
-#: sfx2/uiconfig/ui/saveastemplatedlg.ui:199
-msgctxt "saveastemplatedlg|extended_tip|categorylb"
-msgid "Select a category in which to save the new template."
-msgstr ""
+msgstr "ប្រភេទគំរូ"
 
 #. wpZGc
-#: sfx2/uiconfig/ui/saveastemplatedlg.ui:219
+#: sfx2/uiconfig/ui/saveastemplatedlg.ui:209
 msgctxt "saveastemplatedlg|defaultcb"
 msgid "_Set as default template"
-msgstr ""
-
-#. syB4y
-#: sfx2/uiconfig/ui/saveastemplatedlg.ui:228
-msgctxt "saveastemplatedlg|extended_tip|defaultcb"
-msgid "The new template will be used as the default template."
-msgstr ""
-
-#. gH8PB
-#: sfx2/uiconfig/ui/saveastemplatedlg.ui:256
-msgctxt "saveastemplatedlg|extended_tip|SaveAsTemplateDialog"
-msgid "Saves the current document as a template."
-msgstr ""
+msgstr "ដាក់ជាលំនាំដើម"
 
 #. 9tSnA
 #: sfx2/uiconfig/ui/searchdialog.ui:8
@@ -3971,134 +3564,97 @@ msgid "_Find"
 msgstr "រក"
 
 #. G5Qc9
-#: sfx2/uiconfig/ui/searchdialog.ui:97
-#, fuzzy
+#: sfx2/uiconfig/ui/searchdialog.ui:98
 msgctxt "searchdialog|label1"
 msgid "_Search for:"
 msgstr "ស្វែងរក"
 
 #. TY5bL
-#: sfx2/uiconfig/ui/searchdialog.ui:122
+#: sfx2/uiconfig/ui/searchdialog.ui:123
 msgctxt "searchdialog|matchcase"
 msgid "Ma_tch case"
 msgstr "ករណី​ដំណូច"
 
 #. B2ksn
-#: sfx2/uiconfig/ui/searchdialog.ui:137
+#: sfx2/uiconfig/ui/searchdialog.ui:138
 msgctxt "searchdialog|wholewords"
 msgid "Whole wor_ds only"
 msgstr "តែ​ពាក្យ​ទាំងមូល"
 
 #. ycWSx
-#: sfx2/uiconfig/ui/searchdialog.ui:152
+#: sfx2/uiconfig/ui/searchdialog.ui:153
 msgctxt "searchdialog|backwards"
 msgid "Bac_kwards"
 msgstr "ថយក្រោយ"
 
 #. C7fSt
-#: sfx2/uiconfig/ui/searchdialog.ui:167
+#: sfx2/uiconfig/ui/searchdialog.ui:168
 msgctxt "searchdialog|wrap"
 msgid "Wrap _around"
-msgstr ""
+msgstr "រុំ ជុំវិញ"
 
 #. onEmh
 #: sfx2/uiconfig/ui/securityinfopage.ui:24
 msgctxt "securityinfopage|readonly"
 msgid "_Open file read-only"
-msgstr "បើក​ឯកសារបានតែ​អាន "
-
-#. HCEUE
-#: sfx2/uiconfig/ui/securityinfopage.ui:34
-msgctxt "securityinfopage|extended_tip|readonly"
-msgid "Select to allow this document to be opened in read-only mode only."
-msgstr "ជ្រើស​ដើម្បី​អនុញ្ញាត​​បើក​ឯកសារ​តែ​ក្នុង​របៀប​បាន​តែ​អាន​ប៉ុណ្ណោះ ។"
+msgstr "បើក​ឯកសារបានតែ​អាន"
 
 #. GvCw9
-#: sfx2/uiconfig/ui/securityinfopage.ui:45
+#: sfx2/uiconfig/ui/securityinfopage.ui:40
 msgctxt "securityinfopage|recordchanges"
 msgid "Record _changes"
-msgstr "កត់ត្រា​ការ​ផ្លាស់ប្ដូរ "
-
-#. pNhop
-#: sfx2/uiconfig/ui/securityinfopage.ui:54
-msgctxt "securityinfopage|extended_tip|recordchanges"
-msgid "Select to enable recording changes. This is the same as Edit - Track Changes - Record."
-msgstr ""
+msgstr "កត់ត្រា​ការ​ផ្លាស់ប្ដូរ"
 
 #. Nv8rA
-#: sfx2/uiconfig/ui/securityinfopage.ui:70
+#: sfx2/uiconfig/ui/securityinfopage.ui:60
 msgctxt "securityinfopage|protect"
 msgid "Protect..."
 msgstr "ការពារ..."
 
-#. 6T6ZP
-#: sfx2/uiconfig/ui/securityinfopage.ui:76
-msgctxt "securityinfopage|extended_tip|protect"
-msgid "Protects the change recording state with a password. If change recording is protected for the current document, the button is named Unprotect. Click Unprotect and type the correct password to disable the protection."
-msgstr "ការពារ​ការ​ប្ដូរ​លក្ខណៈ​កត់ត្រា​ដោយ​ពាក្យសម្ងាត់។ ប្រសិនបើ​ការ​ប្ដូរ​កំណត់ត្រា​ត្រូវ​បាន​ការពារ​សម្រាប់​​ឯកសារ​បច្ចុប្បន្ន នោះ​ប៊ូតុង​នឹង​មាន​ឈ្មោះ​ថា មិន​ការពារ។ ចុច មិន​ការពារ រួច​បញ្ចូល​ពាក្យសម្ងាត់​ត្រឹមត្រូវ​ដើម្បី​​បិទ​ការ​ការពារ។"
-
 #. jgWP4
-#: sfx2/uiconfig/ui/securityinfopage.ui:88
+#: sfx2/uiconfig/ui/securityinfopage.ui:73
 msgctxt "securityinfopage|unprotect"
 msgid "_Unprotect..."
-msgstr "មិនការពារ... "
-
-#. UEdGx
-#: sfx2/uiconfig/ui/securityinfopage.ui:95
-msgctxt "securityinfopage|extended_tip|unprotect"
-msgid "Protects the change recording state with a password. If change recording is protected for the current document, the button is named Unprotect. Click Unprotect and type the correct password to disable the protection."
-msgstr "ការពារ​ការ​ប្ដូរ​លក្ខណៈ​កត់ត្រា​ដោយ​ពាក្យសម្ងាត់។ ប្រសិនបើ​ការ​ប្ដូរ​កំណត់ត្រា​ត្រូវ​បាន​ការពារ​សម្រាប់​​ឯកសារ​បច្ចុប្បន្ន នោះ​ប៊ូតុង​នឹង​មាន​ឈ្មោះ​ថា មិន​ការពារ។ ចុច មិន​ការពារ រួច​បញ្ចូល​ពាក្យសម្ងាត់​ត្រឹមត្រូវ​ដើម្បី​​បិទ​ការ​ការពារ។"
+msgstr "មិនការពារ..."
 
 #. JNezG
-#: sfx2/uiconfig/ui/securityinfopage.ui:119
-#, fuzzy
+#: sfx2/uiconfig/ui/securityinfopage.ui:99
 msgctxt "securityinfopage|label47"
 msgid "File Sharing Options"
 msgstr "ជម្រើស​ចែករំលែក​ឯកសារ"
-
-#. VXrJ5
-#: sfx2/uiconfig/ui/securityinfopage.ui:127
-msgctxt "securityinfopage|extended_tip|SecurityInfoPage"
-msgid "Sets password options for the current document."
-msgstr "កំណត់​ជម្រើស​ពាក្យ​សម្ងាត់​សម្រាប់​ឯកសារ​បច្ចុប្បន្ន​ ។"
 
 #. EDC9x
 #: sfx2/uiconfig/ui/startcenter.ui:18
 msgctxt "startcenter|clear_all"
 msgid "Clear Recent Documents"
-msgstr ""
+msgstr "លុបឯកសារថ្មីៗ"
 
 #. gCfQ9
 #: sfx2/uiconfig/ui/startcenter.ui:39
-#, fuzzy
 msgctxt "startcenter|filter_writer"
 msgid "Writer Templates"
-msgstr "ពុម្ព Writer 8"
+msgstr "ពុម្ពអ្នកនិពន្ធ"
 
 #. kj5ts
 #: sfx2/uiconfig/ui/startcenter.ui:46
-#, fuzzy
 msgctxt "startcenter|filter_calc"
 msgid "Calc Templates"
-msgstr "ពុម្ព Calc 8"
+msgstr "ពុម្ព Calc"
 
 #. HEYvU
 #: sfx2/uiconfig/ui/startcenter.ui:53
-#, fuzzy
 msgctxt "startcenter|filter_impress"
 msgid "Impress Templates"
-msgstr "ពុម្ព Impress 8"
+msgstr "ពុម្ពគួរឱ្យចាប់អារម្មណ៍"
 
 #. uWEpu
 #: sfx2/uiconfig/ui/startcenter.ui:60
-#, fuzzy
 msgctxt "startcenter|filter_draw"
 msgid "Draw Templates"
-msgstr "ពុម្ព Draw 8"
+msgstr "គូរពុម្ព"
 
 #. e3TH8
 #: sfx2/uiconfig/ui/startcenter.ui:73
-#, fuzzy
 msgctxt "startcenter|manage"
 msgid "Manage Templates"
 msgstr "ពុម្ព​របស់​ខ្ញុំ"
@@ -4113,11 +3669,10 @@ msgstr "បើក​ឯកសារ"
 #: sfx2/uiconfig/ui/startcenter.ui:166
 msgctxt "startcenter|open_remote"
 msgid "Remote File_s"
-msgstr ""
+msgstr "ឯកសារពីចម្ងាយ"
 
 #. aoYLW
 #: sfx2/uiconfig/ui/startcenter.ui:198
-#, fuzzy
 msgctxt "startcenter|open_recent"
 msgid "_Recent Files"
 msgstr "ឯកសារ​ថ្មីៗ"
@@ -4136,100 +3691,90 @@ msgstr "បង្កើត៖"
 
 #. SY4iY
 #: sfx2/uiconfig/ui/startcenter.ui:264
-#, fuzzy
 msgctxt "startcenter|writer_all"
 msgid "_Writer Document"
-msgstr "ឯកសារ Writer"
+msgstr "កម្មវិធីសរសេរឯកសារ Writer"
 
 #. Bvz5c
 #: sfx2/uiconfig/ui/startcenter.ui:283
-#, fuzzy
 msgctxt "startcenter|calc_all"
 msgid "_Calc Spreadsheet"
-msgstr "សៀវភៅ​បញ្ជី Calc"
+msgstr "កម្មវិធីសៀវភៅ​បញ្ជី Calc"
 
 #. RxGP6
 #: sfx2/uiconfig/ui/startcenter.ui:302
-#, fuzzy
 msgctxt "startcenter|impress_all"
 msgid "_Impress Presentation"
-msgstr "បទ​បង្ហាញ Impress"
+msgstr "កម្មវិធីធ្វើសម្រាប់បទ​បង្ហាញ Impress"
 
 #. 7fE2M
 #: sfx2/uiconfig/ui/startcenter.ui:321
-#, fuzzy
 msgctxt "startcenter|draw_all"
 msgid "_Draw Drawing"
-msgstr "គំនូរ Draw"
+msgstr "កម្មវិធីសម្រាប់គូរ Draw"
 
 #. 7wn8r
 #: sfx2/uiconfig/ui/startcenter.ui:340
-#, fuzzy
 msgctxt "startcenter|math_all"
 msgid "_Math Formula"
-msgstr "រូបមន្ត Math"
+msgstr "កម្មវិធីរូបមន្ត Math"
 
 #. nnwDC
 #: sfx2/uiconfig/ui/startcenter.ui:359
-#, fuzzy
 msgctxt "startcenter|database_all"
 msgid "_Base Database"
-msgstr "មូលដ្ឋាន​ទិន្នន័យ Base"
+msgstr "កម្មវិធីមូលដ្ឋាន​ទិន្នន័យ Base"
 
 #. ZEDmn
 #: sfx2/uiconfig/ui/startcenter.ui:391
-#, fuzzy
 msgctxt "startcenter|althelplabel"
 msgid "He_lp"
 msgstr "ជំនួយ"
 
 #. oqVes
-#: sfx2/uiconfig/ui/startcenter.ui:447
+#: sfx2/uiconfig/ui/startcenter.ui:464
 msgctxt "startcenter|extensions"
 msgid "E_xtensions"
 msgstr "ផ្នែក​បន្ថែម"
 
 #. rDw4E
-#: sfx2/uiconfig/ui/startcenter.ui:474
+#: sfx2/uiconfig/ui/startcenter.ui:491
 msgctxt "startcenter|label1"
 msgid "Application"
 msgstr "កម្មវិធី"
 
 #. UiDMp
-#: sfx2/uiconfig/ui/startcenter.ui:492
+#: sfx2/uiconfig/ui/startcenter.ui:509
 msgctxt "startcenter|all_recent_label"
 msgid "Recent Files List"
-msgstr ""
+msgstr "បញ្ជីឯកសារថ្មីៗ"
 
 #. kho2B
-#: sfx2/uiconfig/ui/startcenter.ui:505
+#: sfx2/uiconfig/ui/startcenter.ui:522
 msgctxt "startcenter|local_view_label"
 msgid "Templates List"
-msgstr ""
+msgstr "បញ្ជីពុម្ព"
 
 #. UHrAZ
 #: sfx2/uiconfig/ui/stylecontextmenu.ui:12
 msgctxt "stylecontextmenu|new"
 msgid "New..."
-msgstr "ថ្មី​... "
+msgstr "ថ្មី​..."
 
 #. hnLax
 #: sfx2/uiconfig/ui/stylecontextmenu.ui:20
-#, fuzzy
 msgctxt "stylecontextmenu|edit"
 msgid "Modify..."
 msgstr "កែប្រែ​..."
 
 #. TPTqm
 #: sfx2/uiconfig/ui/stylecontextmenu.ui:28
-#, fuzzy
 msgctxt "stylecontextmenu|hide"
 msgid "Hide"
 msgstr "លាក់"
 
 #. mrCMd
 #: sfx2/uiconfig/ui/stylecontextmenu.ui:36
-#, fuzzy
 msgctxt "stylecontextmenu|show"
 msgid "Show"
 msgstr "បង្ហាញ"
@@ -4244,25 +3789,25 @@ msgstr "លុប​..."
 #: sfx2/uiconfig/ui/templatecategorydlg.ui:16
 msgctxt "templatecategorydlg|TemplatesCategoryDialog"
 msgid "Select Category"
-msgstr ""
+msgstr "ជ្រើសរើសប្រភេទ"
 
 #. HXfot
 #: sfx2/uiconfig/ui/templatecategorydlg.ui:107
 msgctxt "templatecategorydlg|select_label"
 msgid "Select from Existing Category"
-msgstr ""
+msgstr "ជ្រើសរើសពីប្រភេទដែលមានស្រាប់"
 
 #. 7eShP
 #: sfx2/uiconfig/ui/templatecategorydlg.ui:177
 msgctxt "templatecategorydlg|create_label"
 msgid "or Create a New Category"
-msgstr ""
+msgstr "ឬបង្កើតប្រភេទថ្មី"
 
 #. nkvQN
 #: sfx2/uiconfig/ui/templatedlg.ui:45
 msgctxt "colsmenu|insert"
 msgid "Reset Default Template"
-msgstr ""
+msgstr "កំណត់ទំព័រគំរូឡើងវិញ"
 
 #. eUWTy
 #: sfx2/uiconfig/ui/templatedlg.ui:61
@@ -4272,7 +3817,6 @@ msgstr "ពុម្ព"
 
 #. 32zsB
 #: sfx2/uiconfig/ui/templatedlg.ui:146
-#, fuzzy
 msgctxt "templatedlg|search_filter|tooltip_text"
 msgid "Search"
 msgstr "ស្វែងរក"
@@ -4287,13 +3831,13 @@ msgstr "ស្វែងរក ..."
 #: sfx2/uiconfig/ui/templatedlg.ui:170
 msgctxt "templatedlg|filter_application|tooltip_text"
 msgid "Filter by Application"
-msgstr ""
+msgstr "ត្រងតាមពាក្យស្នើសុំ"
 
 #. tqVhJ
 #: sfx2/uiconfig/ui/templatedlg.ui:173
 msgctxt "templatedlg|applist"
 msgid "All Applications"
-msgstr ""
+msgstr "ពាក្យសុំទាំងអស់"
 
 #. 4CuhU
 #: sfx2/uiconfig/ui/templatedlg.ui:174
@@ -4315,34 +3859,33 @@ msgstr "ការ​បង្ហាញ"
 
 #. LfUzB
 #: sfx2/uiconfig/ui/templatedlg.ui:177
-#, fuzzy
 msgctxt "templatedlg|applist"
 msgid "Drawings"
-msgstr "គំនូរ"
+msgstr "គូរ"
 
 #. t7zE7
 #: sfx2/uiconfig/ui/templatedlg.ui:191
 msgctxt "templatedlg|filter_folder|tooltip_text"
 msgid "Filter by Category"
-msgstr ""
+msgstr "ត្រងតាមប្រភេទ"
 
 #. 93CGw
 #: sfx2/uiconfig/ui/templatedlg.ui:193
 msgctxt "templatedlg|folderlist"
 msgid "All Categories"
-msgstr ""
+msgstr "ប្រភេទ​ទាំងអស់"
 
 #. NF9wE
 #: sfx2/uiconfig/ui/templatedlg.ui:214
 msgctxt "templatedlg|label1"
 msgid "Filter"
-msgstr "តម្រង"
+msgstr "តម្រង​"
 
 #. j39jM
 #: sfx2/uiconfig/ui/templatedlg.ui:321
 msgctxt "templatedlg|thumbnailviewlabel"
 msgid "Template List"
-msgstr ""
+msgstr "គំរូបញ្ជី"
 
 #. GkjAS
 #: sfx2/uiconfig/ui/templatedlg.ui:343
@@ -4354,24 +3897,22 @@ msgstr "ការ​កំណត់"
 #: sfx2/uiconfig/ui/templatedlg.ui:361
 msgctxt "templatedlg|online_link|tooltip_text"
 msgid "Browse online templates"
-msgstr ""
+msgstr "រកមើលគំរូលើអ៊ីនធឺណេត"
 
 #. rhuYP
 #: sfx2/uiconfig/ui/templatedlg.ui:374
 msgctxt "templatedlg|hidedialogcb"
 msgid "Show this dialog at startup"
-msgstr ""
+msgstr "បង្ហាញប្រអប់នេះនៅពេលចាប់ផ្តើម"
 
 #. EZBF9
 #: sfx2/uiconfig/ui/templatedlg.ui:402
-#, fuzzy
 msgctxt "templatedlg|move_btn"
 msgid "Move"
 msgstr "ផ្លាស់ទី​"
 
 #. xQMAz
 #: sfx2/uiconfig/ui/templatedlg.ui:406
-#, fuzzy
 msgctxt "templatedlg|move_btn|tooltip_text"
 msgid "Move Templates"
 msgstr "ពុម្ព​របស់​ខ្ញុំ"
@@ -4386,18 +3927,16 @@ msgstr "នាំចេញ"
 #: sfx2/uiconfig/ui/templatedlg.ui:423
 msgctxt "templatedlg|export_btn|tooltip_text"
 msgid "Export Templates"
-msgstr ""
+msgstr "នាំចេញគំរូ"
 
 #. PXRa3
 #: sfx2/uiconfig/ui/templatedlg.ui:436
-#, fuzzy
 msgctxt "templatedlg|import_btn"
 msgid "Import"
 msgstr "នាំចូល"
 
 #. Lr9os
 #: sfx2/uiconfig/ui/templatedlg.ui:440
-#, fuzzy
 msgctxt "templatedlg|import_btn|tooltip_text"
 msgid "Import Templates"
 msgstr "ពុម្ព​​ដែល​​បាន​​នាំ​​ចូល"
@@ -4406,61 +3945,55 @@ msgstr "ពុម្ព​​ដែល​​បាន​​នាំ​​ចូ
 #: sfx2/uiconfig/ui/templatepanel.ui:134
 msgctxt "templatepanel|STR_STYLE_FILL_FORMAT_MODE"
 msgid "Fill Format Mode"
-msgstr ""
+msgstr "បំពេញទម្រង់របៀប"
 
 #. GLRFT
 #: sfx2/uiconfig/ui/templatepanel.ui:147
 msgctxt "templatepanel|STR_STYLE_NEW_STYLE_FROM_SELECTION"
 msgid "New Style from Selection"
-msgstr ""
+msgstr "ស្តាយថ្មីពីការជ្រើសរើស"
 
 #. tAdD9
 #: sfx2/uiconfig/ui/templatepanel.ui:160
 msgctxt "templatepanel|STR_STYLE_NEW_STYLE_ACTION"
 msgid "Styles actions"
-msgstr ""
+msgstr "សកម្មភាពស្ទីល"
 
 #. Xk5tD
 #: sfx2/uiconfig/ui/templatepanel.ui:173
 msgctxt "templatepanel|STR_STYLE_UPDATE_STYLE"
 msgid "Update Style"
-msgstr ""
+msgstr "ធ្វើឱ្យទាន់សម័យរចនាប័ទ្ម"
 
 #. irBvi
 #: sfx2/uiconfig/ui/templatepanel.ui:230 sfx2/uiconfig/ui/templatepanel.ui:276
 msgctxt "templatepanel|STR_STYLE_ELEMTLIST"
 msgid "Style List"
-msgstr ""
+msgstr "បញ្ជីរចនាប័ទ្ម"
 
 #. FHud7
 #: sfx2/uiconfig/ui/templatepanel.ui:290
 msgctxt "commontemplate|STR_PREVIEW_CHECKBOX"
 msgid "Show previews"
-msgstr ""
+msgstr "បង្ហាញការមើលជាមុន"
 
 #. p9AWW
 #: sfx2/uiconfig/ui/versioncommentdialog.ui:8
 msgctxt "versioncommentdialog|VersionCommentDialog"
 msgid "Insert Version Comment"
-msgstr "បញ្ចូល​មតិយោបល់​កំណែ"
+msgstr "បញ្ចូលមតិយោបល់"
 
 #. CPwta
 #: sfx2/uiconfig/ui/versioncommentdialog.ui:103
 msgctxt "versioncommentdialog|timestamp"
 msgid "Date and time: "
-msgstr "ពេលវេលា និង​កាលបរិច្ឆេទ៖"
+msgstr "ពេលវេលា និង​កាលបរិច្ឆេទ៖ "
 
 #. 2mDfC
 #: sfx2/uiconfig/ui/versioncommentdialog.ui:115
 msgctxt "versioncommentdialog|author"
 msgid "Saved by: "
-msgstr "បាន​រក្សាទុក​ដោយ៖"
-
-#. T5AY5
-#: sfx2/uiconfig/ui/versioncommentdialog.ui:164
-msgctxt "versioncommentdialog|extended_tip|VersionCommentDialog"
-msgid "Enter a comment here when you are saving a new version. If you clicked Show to open this dialog, you cannot edit the comment."
-msgstr ""
+msgstr "បាន​រក្សាទុក​ដោយ៖ "
 
 #. oBSSb
 #: sfx2/uiconfig/ui/versionscmis.ui:51
@@ -4494,117 +4027,66 @@ msgstr "មតិយោបល់"
 
 #. c2cVg
 #: sfx2/uiconfig/ui/versionscmis.ui:234
-#, fuzzy
 msgctxt "versionscmis|label2"
 msgid "Existing Versions"
 msgstr "កំណែ​មាន​ស្រាប់"
 
 #. A4BT2
-#: sfx2/uiconfig/ui/versionsofdialog.ui:33
+#: sfx2/uiconfig/ui/versionsofdialog.ui:36
 msgctxt "versionsofdialog|cmis"
 msgid "CMIS"
 msgstr "CMIS"
 
-#. EqmYX
-#: sfx2/uiconfig/ui/versionsofdialog.ui:54
-msgctxt "versionsofdialog|extended_tip|delete"
-msgid "Deletes the selected version."
-msgstr "លុប​​កំណែ​ដែល​បាន​ជ្រើស ។"
-
 #. erGHD
-#: sfx2/uiconfig/ui/versionsofdialog.ui:66
+#: sfx2/uiconfig/ui/versionsofdialog.ui:64
 msgctxt "versionsofdialog|compare"
 msgid "_Compare"
 msgstr "ប្រៀបធៀប"
 
-#. TKEzJ
-#: sfx2/uiconfig/ui/versionsofdialog.ui:73
-msgctxt "versionsofdialog|extended_tip|compare"
-msgid "Compare the changes that were made in each version."
-msgstr ""
-
 #. UkbhC
-#: sfx2/uiconfig/ui/versionsofdialog.ui:85
+#: sfx2/uiconfig/ui/versionsofdialog.ui:78
 msgctxt "versionsofdialog|show"
 msgid "_Show..."
 msgstr "បង្ហាញ..."
 
-#. 4SD7F
-#: sfx2/uiconfig/ui/versionsofdialog.ui:92
-msgctxt "versionsofdialog|extended_tip|show"
-msgid "Displays the entire comment for the selected version."
-msgstr "បង្ហាញ​មតិយោបល់​ទាំង​មូល​សម្រាប់​កំណែ​ដែល​បាន​ជ្រើស​ ។​"
-
-#. ASJac
-#: sfx2/uiconfig/ui/versionsofdialog.ui:127
-msgctxt "versionsofdialog|extended_tip|open"
-msgid "Opens the selected version in a read-only window."
-msgstr ""
-
 #. qKnKv
-#: sfx2/uiconfig/ui/versionsofdialog.ui:187
+#: sfx2/uiconfig/ui/versionsofdialog.ui:170
 msgctxt "versionsofdialog|save"
 msgid "Save _New Version"
 msgstr "រក្សាទុក​កំណែ​ថ្មី"
 
-#. gTR6x
-#: sfx2/uiconfig/ui/versionsofdialog.ui:194
-msgctxt "versionsofdialog|extended_tip|save"
-msgid "Saves the current state of the document as a new version. If you want, you can also enter comments in the Insert Version Comment dialog before you save the new version."
-msgstr ""
-
 #. aCeEr
-#: sfx2/uiconfig/ui/versionsofdialog.ui:205
+#: sfx2/uiconfig/ui/versionsofdialog.ui:183
 msgctxt "versionsofdialog|always"
 msgid "_Always save a new version on closing"
 msgstr "រក្សាទុក​កំណែ​ថ្មី​ជានិច្ច នៅ​ពេល​បិទ"
 
-#. GCMVZ
-#: sfx2/uiconfig/ui/versionsofdialog.ui:214
-msgctxt "versionsofdialog|extended_tip|always"
-msgid "If you have made changes to your document, %PRODUCTNAME automatically saves a new version when you close the document."
-msgstr "ប្រសិន​បើ​អ្នក​បាន​ធ្វើ​ការ​ផ្លាស់​ប្តូរ​​​ឯកសារ​របស់​អ្នក​​ %PRODUCTNAME រក្សា​ទុក​កំណែ​ថ្មី​ដោយ​​ស្វ័យ​ប្រវត្តិ​​ ពេល​អ្នក​បិទ​​ឯកសារ​ ។​"
-
 #. vuHjH
-#: sfx2/uiconfig/ui/versionsofdialog.ui:231
-#, fuzzy
+#: sfx2/uiconfig/ui/versionsofdialog.ui:204
 msgctxt "versionsofdialog|label1"
 msgid "New Versions"
 msgstr "កំណែ​ថ្មី"
 
 #. nDGNv
-#: sfx2/uiconfig/ui/versionsofdialog.ui:290
+#: sfx2/uiconfig/ui/versionsofdialog.ui:264
 msgctxt "versionsofdialog|datetime"
 msgid "Date and time"
 msgstr "ពេលវេលា និង​កាលបរិច្ឆេទ"
 
 #. MBoBZ
-#: sfx2/uiconfig/ui/versionsofdialog.ui:303
+#: sfx2/uiconfig/ui/versionsofdialog.ui:277
 msgctxt "versionsofdialog|savedby"
 msgid "Saved by"
 msgstr "បាន​រក្សាទុក​ដោយ"
 
 #. kqEcm
-#: sfx2/uiconfig/ui/versionsofdialog.ui:316
+#: sfx2/uiconfig/ui/versionsofdialog.ui:290
 msgctxt "versionsofdialog|comments"
 msgid "Comments"
 msgstr "មតិយោបល់"
 
-#. GLD85
-#: sfx2/uiconfig/ui/versionsofdialog.ui:327
-msgctxt "versionsofdialog|extended_tip|versions"
-msgid "Lists the existing versions of the current document, the date and the time they were created, the author and the associated comments."
-msgstr "រាយ​កំណែ​ដែល​មាន​ស្រាប់​នៃ​ឯកសារ​បច្ចុប្បន្ន​ កាលបរិច្ឆេទ​ និង ពេល​វេលា​ ដែល​ពួក​វា​ត្រូវ​បាន​បង្កើត​ អ្នក​និពន្ធ​ និង​​មតិយោបល់​ដែល​ទាក់​ទង​​ ។​"
-
 #. EbijK
-#: sfx2/uiconfig/ui/versionsofdialog.ui:346
-#, fuzzy
+#: sfx2/uiconfig/ui/versionsofdialog.ui:315
 msgctxt "versionsofdialog|label2"
 msgid "Existing Versions"
 msgstr "កំណែ​មាន​ស្រាប់"
-
-#. 5BdCA
-#: sfx2/uiconfig/ui/versionsofdialog.ui:381
-msgctxt "versionsofdialog|extended_tip|VersionsOfDialog"
-msgid "Saves and organizes multiple versions of the current document in the same file. You can also open, delete and compare previous versions."
-msgstr ""

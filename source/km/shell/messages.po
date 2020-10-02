@@ -1,22 +1,24 @@
-#. extracted from shell/inc/spsupp
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
-"POT-Creation-Date: 2019-05-22 13:27+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2020-03-10 13:36+0100\n"
+"PO-Revision-Date: 2020-09-07 14:54+0700\n"
+"Last-Translator: Koompi Apps Localization\n"
+"Language: km\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "X-Accelerator-Marker: ~\n"
-"X-Generator: LibreOffice\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-POOTLE-MTIME: 1535975854.000000\n"
+"Language-Team: KOOMPI Apps Localization\n"
 
 #: shell/inc/spsupp/spsuppStrings.hrc:15
 msgctxt "RID_STR_SP_VIEW_OR_EDIT_TITLE"
 msgid "Open Document"
-msgstr ""
+msgstr "បើកឯកសារ"
 
 #: shell/inc/spsupp/spsuppStrings.hrc:16
 msgctxt "RID_STR_SP_VIEW_OR_EDIT_MESSAGE"
@@ -27,18 +29,23 @@ msgid ""
 "\n"
 "Do you want to open it to view or to edit?"
 msgstr ""
+"អ្នកកំពុងបើកឯកសារ\n"
+"\n"
+"  %DOCNAME\n"
+"\n"
+"តើអ្នកចង់បើកវាដើម្បីមើលឬកែសម្រួលទេ?"
 
 #: shell/inc/spsupp/spsuppStrings.hrc:17
 msgctxt "RID_STR_SP_VIEW_OR_EDIT_VIEW"
 msgid "View"
-msgstr ""
+msgstr "មើល"
 
 #: shell/inc/spsupp/spsuppStrings.hrc:18
 msgctxt "RID_STR_SP_VIEW_OR_EDIT_EDIT"
 msgid "Edit"
-msgstr ""
+msgstr "កែសម្រួល"
 
 #: shell/inc/spsupp/spsuppStrings.hrc:19
 msgctxt "RID_STR_SP_VIEW_OR_EDIT_CANCEL"
 msgid "Cancel"
-msgstr ""
+msgstr "មិនយល់ព្រម"

@@ -1,21 +1,19 @@
-#. extracted from sysui/desktop/share
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
-"POT-Creation-Date: 2016-05-07 21:35+0200\n"
-"PO-Revision-Date: 2015-05-12 21:00+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
-"Language-Team: Khmer <support@khmeros.info>\n"
+"POT-Creation-Date: 2020-03-10 13:36+0100\n"
+"PO-Revision-Date: 2020-09-15 09:54+0700\n"
+"Last-Translator: Koompi Apps Localization\n"
 "Language: km\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Accelerator-Marker: ~\n"
-"X-Generator: LibreOffice\n"
-"X-Language: km-KH\n"
-"X-POOTLE-MTIME: 1431464432.000000\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-POOTLE-MTIME: 1535975854.000000\n"
+"Language-Team: KOOMPI Apps Localization\n"
 
 #: documents.ulf
 msgctxt ""
@@ -23,7 +21,7 @@ msgctxt ""
 "text\n"
 "LngText.text"
 msgid "OpenOffice.org 1.0 Text Document"
-msgstr "ឯកសារ​អត្ថបទ OpenOffice.org 1.0"
+msgstr "ឯកសារ​អត្ថបទ OpenOffice.org ១.0"
 
 #: documents.ulf
 msgctxt ""
@@ -31,7 +29,7 @@ msgctxt ""
 "text-template\n"
 "LngText.text"
 msgid "OpenOffice.org 1.0 Text Document Template"
-msgstr "ពុម្ព​ឯកសារ​អត្ថបទ OpenOffice.org 1.0"
+msgstr "គម្រូរ​ឯកសារ​អត្ថបទ OpenOffice.org ១.0"
 
 #: documents.ulf
 msgctxt ""
@@ -39,7 +37,7 @@ msgctxt ""
 "master-document\n"
 "LngText.text"
 msgid "OpenOffice.org 1.0 Master Document"
-msgstr "ឯកសារ​មេ OpenOffice.org 1.0"
+msgstr "ឯកសារ​មេ OpenOffice.org ១.0"
 
 #: documents.ulf
 msgctxt ""
@@ -47,7 +45,7 @@ msgctxt ""
 "formula\n"
 "LngText.text"
 msgid "OpenOffice.org 1.0 Formula"
-msgstr "រូបមន្ត OpenOffice.org 1.0"
+msgstr "រូបមន្ត OpenOffice.org ១.0"
 
 #: documents.ulf
 msgctxt ""
@@ -55,7 +53,7 @@ msgctxt ""
 "presentation\n"
 "LngText.text"
 msgid "OpenOffice.org 1.0 Presentation"
-msgstr "បទ​បង្ហាញ OpenOffice.org 1.0"
+msgstr "បទ​បង្ហាញ OpenOffice.org ១.0"
 
 #: documents.ulf
 msgctxt ""
@@ -63,7 +61,7 @@ msgctxt ""
 "presentation-template\n"
 "LngText.text"
 msgid "OpenOffice.org 1.0 Presentation Template"
-msgstr "ពុម្ព​បទ​បង្ហាញ OpenOffice.org 1.0"
+msgstr "គម្រូរ​បទ​បង្ហាញ OpenOffice.org ១.0"
 
 #: documents.ulf
 msgctxt ""
@@ -71,7 +69,7 @@ msgctxt ""
 "drawing\n"
 "LngText.text"
 msgid "OpenOffice.org 1.0 Drawing"
-msgstr "គំនូរ OpenOffice.org 1.0"
+msgstr "កម្មវិធីគូរ OpenOffice.org ១.0"
 
 #: documents.ulf
 msgctxt ""
@@ -79,7 +77,7 @@ msgctxt ""
 "drawing-template\n"
 "LngText.text"
 msgid "OpenOffice.org 1.0 Drawing Template"
-msgstr "ពុម្ព​គំនូរ OpenOffice.org 1.0"
+msgstr "ពុម្ព​គូរ OpenOffice.org ១.0"
 
 #: documents.ulf
 msgctxt ""
@@ -87,7 +85,7 @@ msgctxt ""
 "spreadsheet\n"
 "LngText.text"
 msgid "OpenOffice.org 1.0 Spreadsheet"
-msgstr "សៀវភៅ​បញ្ជី OpenOffice.org 1.0"
+msgstr "សៀវភៅ​បញ្ជី OpenOffice.org ១.0"
 
 #: documents.ulf
 msgctxt ""
@@ -95,7 +93,7 @@ msgctxt ""
 "spreadsheet-template\n"
 "LngText.text"
 msgid "OpenOffice.org 1.0 Spreadsheet Template"
-msgstr "ពុម្ព​សៀវភៅ​បញ្ជី OpenOffice.org 1.0"
+msgstr "គម្រូរសៀវភៅ​បញ្ជី OpenOffice.org ១.0 Spreadsheet"
 
 #: documents.ulf
 msgctxt ""
@@ -103,7 +101,7 @@ msgctxt ""
 "oasis-text\n"
 "LngText.text"
 msgid "OpenDocument Text"
-msgstr "អត្ថបទ OpenDocument"
+msgstr "បើកឯកសារអត្ថបទ"
 
 #: documents.ulf
 msgctxt ""
@@ -111,7 +109,7 @@ msgctxt ""
 "oasis-text-flat-xml\n"
 "LngText.text"
 msgid "OpenDocument Text (Flat XML)"
-msgstr "OpenDocument Text (Flat XML)"
+msgstr "បើកឯកសារអត្ថបទ (Flat XML)"
 
 #: documents.ulf
 msgctxt ""
@@ -119,7 +117,7 @@ msgctxt ""
 "oasis-text-template\n"
 "LngText.text"
 msgid "OpenDocument Text Template"
-msgstr "ពុម្ព​អត្ថបទ OpenDocument"
+msgstr "បើកឯកសារពុម្ព​អត្ថបទ"
 
 #: documents.ulf
 msgctxt ""
@@ -127,16 +125,15 @@ msgctxt ""
 "oasis-master-document\n"
 "LngText.text"
 msgid "OpenDocument Master Document"
-msgstr "ឯកសារ​មេ OpenDocument"
+msgstr "​បើកឯកសារ ឯកសារមេ"
 
 #: documents.ulf
-#, fuzzy
 msgctxt ""
 "documents.ulf\n"
 "oasis-master-document-template\n"
 "LngText.text"
 msgid "OpenDocument Master Document Template"
-msgstr "ឯកសារ​មេ OpenDocument"
+msgstr "​បើកឯកសារ គម្រូរឯកសារមេ"
 
 #: documents.ulf
 msgctxt ""
@@ -144,7 +141,7 @@ msgctxt ""
 "oasis-formula\n"
 "LngText.text"
 msgid "OpenDocument Formula"
-msgstr "រូបមន្ត OpenDocument"
+msgstr "​បើកឯកសារ រូបមន្ត"
 
 #: documents.ulf
 msgctxt ""
@@ -152,7 +149,7 @@ msgctxt ""
 "oasis-presentation\n"
 "LngText.text"
 msgid "OpenDocument Presentation"
-msgstr "ការ​បង្ហាញ OpenDocument"
+msgstr "​បើកឯកសារ បទបង្ហាញ"
 
 #: documents.ulf
 msgctxt ""
@@ -160,7 +157,7 @@ msgctxt ""
 "oasis-presentation-flat-xml\n"
 "LngText.text"
 msgid "OpenDocument Presentation (Flat XML)"
-msgstr "OpenDocument Presentation (Flat XML)"
+msgstr "បើកបទបង្ហាញឯកសារ (Flat XML)"
 
 #: documents.ulf
 msgctxt ""
@@ -168,7 +165,7 @@ msgctxt ""
 "oasis-presentation-template\n"
 "LngText.text"
 msgid "OpenDocument Presentation Template"
-msgstr "ពុម្ព​ការ​បង្ហាញ​ OpenDocument"
+msgstr "គម្រូរការ​បង្ហាញ​ ​បើកឯកសារ"
 
 #: documents.ulf
 msgctxt ""
@@ -176,7 +173,7 @@ msgctxt ""
 "oasis-drawing\n"
 "LngText.text"
 msgid "OpenDocument Drawing"
-msgstr "គំនូរ OpenDocument"
+msgstr "​បើកឯកសារ គូរ"
 
 #: documents.ulf
 msgctxt ""
@@ -184,7 +181,7 @@ msgctxt ""
 "oasis-drawing-flat-xml\n"
 "LngText.text"
 msgid "OpenDocument Drawing (Flat XML)"
-msgstr "OpenDocument Drawing (Flat XML)"
+msgstr "​បើកឯកសារ កម្មវិធីគូរ (Flat XML)"
 
 #: documents.ulf
 msgctxt ""
@@ -192,7 +189,7 @@ msgctxt ""
 "oasis-drawing-template\n"
 "LngText.text"
 msgid "OpenDocument Drawing Template"
-msgstr "ពុម្ព​គំនូរ OpenDocument"
+msgstr "​បើកឯកសារ ពុម្ព​គូរ"
 
 #: documents.ulf
 msgctxt ""
@@ -200,7 +197,7 @@ msgctxt ""
 "oasis-spreadsheet\n"
 "LngText.text"
 msgid "OpenDocument Spreadsheet"
-msgstr "សៀវភៅ​បញ្ជី OpenDocument"
+msgstr "​បើកឯកសារ សៀវភៅ​បញ្ជី"
 
 #: documents.ulf
 msgctxt ""
@@ -208,7 +205,7 @@ msgctxt ""
 "oasis-spreadsheet-flat-xml\n"
 "LngText.text"
 msgid "OpenDocument Spreadsheet (Flat XML)"
-msgstr "OpenDocument Spreadsheet (Flat XML)"
+msgstr "​បើកឯកសារ សៀវភៅបញ្ជី (Flat XML)"
 
 #: documents.ulf
 msgctxt ""
@@ -216,7 +213,7 @@ msgctxt ""
 "oasis-spreadsheet-template\n"
 "LngText.text"
 msgid "OpenDocument Spreadsheet Template"
-msgstr "ពុម្ព​សៀវភៅ​បញ្ជី OpenDocument"
+msgstr "​បើកឯកសារ គម្រូរសៀវភៅ​បញ្ជី"
 
 #: documents.ulf
 msgctxt ""
@@ -224,7 +221,7 @@ msgctxt ""
 "oasis-database\n"
 "LngText.text"
 msgid "OpenDocument Database"
-msgstr "មូលដ្ឋាន​ទិន្នន័យ OpenDocument"
+msgstr "​បើកឯកសារ មូលដ្ឋាន​ទិន្នន័យ"
 
 #: documents.ulf
 msgctxt ""
@@ -232,7 +229,7 @@ msgctxt ""
 "oasis-web-template\n"
 "LngText.text"
 msgid "HTML Document Template"
-msgstr "ពុម្ព​ឯកសារ​ HTML"
+msgstr "គម្រូរឯកសារ​ HTML"
 
 #: documents.ulf
 msgctxt ""
@@ -240,7 +237,7 @@ msgctxt ""
 "extension\n"
 "LngText.text"
 msgid "%PRODUCTNAME Extension"
-msgstr "ផ្នែក​បន្ថែម %PRODUCTNAME"
+msgstr "%PRODUCTNAME ផ្នែកបន្ថែម"
 
 #: documents.ulf
 msgctxt ""
@@ -288,7 +285,7 @@ msgctxt ""
 "ms-excel-template-12\n"
 "LngText.text"
 msgid "Microsoft Excel Worksheet Template"
-msgstr "ពុម្ព​សន្លឹក​ការងារ Microsoft Excel"
+msgstr "គម្រូរសន្លឹក​ការងារ Microsoft Excel"
 
 #: documents.ulf
 msgctxt ""
@@ -296,7 +293,7 @@ msgctxt ""
 "ms-powerpoint-presentation-12\n"
 "LngText.text"
 msgid "Microsoft PowerPoint Presentation"
-msgstr "ការ​បង្ហាញ Microsoft PowerPoint"
+msgstr "បទបង្ហាញ Microsoft PowerPoint"
 
 #: documents.ulf
 msgctxt ""
@@ -304,7 +301,7 @@ msgctxt ""
 "ms-powerpoint-template-12\n"
 "LngText.text"
 msgid "Microsoft PowerPoint Presentation Template"
-msgstr "ពុម្ព​ការ​បង្ហាញ Microsoft PowerPoint"
+msgstr "គម្រូរបទបង្ហាញ Microsoft PowerPoint"
 
 #: documents.ulf
 msgctxt ""
@@ -320,7 +317,7 @@ msgctxt ""
 "ms-word-template-12\n"
 "LngText.text"
 msgid "Microsoft Word Document Template"
-msgstr "ពុម្ព​ឯកសារ Microsoft Word"
+msgstr "គម្រូរឯកសារ Microsoft Word"
 
 #: documents.ulf
 msgctxt ""
@@ -328,7 +325,7 @@ msgctxt ""
 "openxmlformats-officedocument-presentationml-presentation\n"
 "LngText.text"
 msgid "Microsoft PowerPoint Presentation"
-msgstr "ការ​បង្ហាញ Microsoft PowerPoint"
+msgstr "បទបង្ហាញ Microsoft PowerPoint"
 
 #: documents.ulf
 msgctxt ""
@@ -336,7 +333,7 @@ msgctxt ""
 "openxmlformats-officedocument-presentationml-template\n"
 "LngText.text"
 msgid "Microsoft PowerPoint Presentation Template"
-msgstr "ពុម្ព​ការ​បង្ហាញ Microsoft PowerPoint"
+msgstr "គម្រូរបទបង្ហាញ Microsoft PowerPoint"
 
 #: documents.ulf
 msgctxt ""
@@ -352,7 +349,7 @@ msgctxt ""
 "openxmlformats-officedocument-spreadsheetml-template\n"
 "LngText.text"
 msgid "Microsoft Excel Worksheet Template"
-msgstr "ពុម្ព​សន្លឹក​ការងារ Microsoft Excel"
+msgstr "គម្រូរសន្លឹក​ការងារ Microsoft Excel"
 
 #: documents.ulf
 msgctxt ""
@@ -368,7 +365,7 @@ msgctxt ""
 "openxmlformats-officedocument-wordprocessingml-template\n"
 "LngText.text"
 msgid "Microsoft Word Document Template"
-msgstr "ពុម្ព​ឯកសារ Microsoft Word"
+msgstr "គម្រូរឯកសារ Microsoft Word"
 
 #: documents.ulf
 msgctxt ""
@@ -379,7 +376,6 @@ msgid "Microsoft Excel Worksheet"
 msgstr "សន្លឹក​ការងារ Microsoft Excel"
 
 #: launcher_comment.ulf
-#, fuzzy
 msgctxt ""
 "launcher_comment.ulf\n"
 "writer\n"
@@ -393,7 +389,7 @@ msgctxt ""
 "impress\n"
 "LngText.text"
 msgid "Create and edit presentations for slideshows, meeting and Web pages by using Impress."
-msgstr "បង្កើត និង​កែ​សម្រួល​ការ​បង្ហាញ​សម្រាប់​បង្ហាញ​ស្លាយ កិច្ច​ប្រជុំ និង​ទំព័រ​បណ្តាញ​ដោយ​ប្រើ Impress ។"
+msgstr "បង្កើត និង​កែ​សម្រួល​បទបង្ហាញ​សម្រាប់​ស្លាយ កិច្ច​ប្រជុំ និង​ទំព័រ​វេបដោយ​ប្រើ Impress ។"
 
 #: launcher_comment.ulf
 msgctxt ""
@@ -401,7 +397,7 @@ msgctxt ""
 "draw\n"
 "LngText.text"
 msgid "Create and edit drawings, flow charts, and logos by using Draw."
-msgstr "បង្កើត និង​កែ​សម្រួល​គំនូរ គំនូស​តាង​​លំហូរ និង​រូបសញ្ញា​ដោយ​ប្រើ Draw ។"
+msgstr "បង្កើត និង​កែ​សម្រួល​ការគូរ គំនូស​តាង​​លំហូរ និង​រូបសញ្ញា​ដោយ​ប្រើ Draw ។"
 
 #: launcher_comment.ulf
 msgctxt ""
@@ -433,7 +429,7 @@ msgctxt ""
 "startcenter\n"
 "LngText.text"
 msgid "The office productivity suite compatible to the open and standardized ODF document format. Supported by The Document Foundation."
-msgstr "ឈុតកម្មវិធី​ការិយាល័យ​ឆប​គ្នា​ជា​មួយ​នឹង​ទ្រង់ទ្រាយ​ឯកសារ​ស្តង់ដារ​​ និង​ឥតគិត​ថ្លៃ ODF ។ ដែល​បាន​គាំទ្រ​ដោយ The Document Foundation ។"
+msgstr "ឈុតផលិតភាពការិយាល័យត្រូវគ្នាទៅនឹងទម្រង់ឯកសារអូឌីអូចំហនិងស្តង់ដារ។ គាំទ្រដោយមូលនិធិឯកសារ។"
 
 #: launcher_genericname.ulf
 msgctxt ""
@@ -441,7 +437,7 @@ msgctxt ""
 "writer\n"
 "LngText.text"
 msgid "Word Processor"
-msgstr "កម្មវិធី​វាយ​អត្ថបទ"
+msgstr "កម្មវិធីវាយអត្ថបទ"
 
 #: launcher_genericname.ulf
 msgctxt ""
@@ -449,7 +445,7 @@ msgctxt ""
 "impress\n"
 "LngText.text"
 msgid "Presentation"
-msgstr "ការ​បង្ហាញ"
+msgstr "បទបង្ហាញ"
 
 #: launcher_genericname.ulf
 msgctxt ""
@@ -497,7 +493,7 @@ msgctxt ""
 "xsltfilter\n"
 "LngText.text"
 msgid "XSLT based filters"
-msgstr "តម្រង​មាន​មូលដ្ឋាន​លើ XSLT"
+msgstr "តម្រងដែលមានមូលដ្ឋាន XSLT"
 
 #: launcher_unityquicklist.ulf
 msgctxt ""
@@ -513,7 +509,7 @@ msgctxt ""
 "impress\n"
 "LngText.text"
 msgid "New Presentation"
-msgstr "ការ​បង្ហាញ​ថ្មី"
+msgstr "បទបង្ហាញថ្មី​"
 
 #: launcher_unityquicklist.ulf
 msgctxt ""
@@ -545,4 +541,4 @@ msgctxt ""
 "draw\n"
 "LngText.text"
 msgid "New Drawing"
-msgstr "គំនូរ​ថ្មី"
+msgstr "ការគូរថ្មី"

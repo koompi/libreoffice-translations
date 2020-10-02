@@ -1,20 +1,19 @@
-#. extracted from nlpsolver/help/en/com.sun.star.comp.Calc.NLPSolver
 msgid ""
 msgstr ""
-"Project-Id-Version: com.sun.star.comp.Calc.NLPSolver\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
-"POT-Creation-Date: 2016-11-09 14:10+0100\n"
-"PO-Revision-Date: 2016-12-03 04:25+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
-"Language-Team: Khmer <support@khmeros.info>\n"
+"POT-Creation-Date: 2020-03-10 13:36+0100\n"
+"PO-Revision-Date: 2020-09-04 23:48+0700\n"
+"Last-Translator: Koompi Apps Localization\n"
 "Language: km\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Accelerator-Marker: ~\n"
-"X-Generator: LibreOffice\n"
-"X-POOTLE-MTIME: 1480739104.000000\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-POOTLE-MTIME: 1535975854.000000\n"
+"Language-Team: KOOMPI Apps Localization\n"
 
 #: Options.xhp
 msgctxt ""
@@ -102,7 +101,7 @@ msgctxt ""
 "par_id0503200917103710\n"
 "help.text"
 msgid "When guessing variable bounds, this threshold specifies, how the initial values are shifted to build the bounds. For an example how these values are calculated, please refer to the Manual in the Wiki."
-msgstr "When guessing variable bounds, this threshold specifies, how the initial values are shifted to build the bounds. For an example how these values are calculated, please refer to the Manual in the Wiki."
+msgstr "នៅពេលទាយព្រំដែនអថេរកម្រិតចាប់ផ្ដើមនេះបញ្ជាក់ពីរបៀបដែលតម្លៃដំបូងត្រូវបានផ្លាស់ប្តូរដើម្បីបង្កើតព្រំដែន។ ឧទាហរណ៍អំពីរបៀបដែលតម្លៃទាំងនេះត្រូវបានគណនាសូមយោងលើសៀវភៅណែនាំក្នុងវីគី។"
 
 #: Options.xhp
 msgctxt ""
@@ -110,7 +109,7 @@ msgctxt ""
 "par_id0503200917103740\n"
 "help.text"
 msgid "Use ACR Comparator"
-msgstr "Use ACR Comparator"
+msgstr "ប្រើឧបករណ៍ប្រៀបធៀប ACR"
 
 #: Options.xhp
 msgctxt ""
@@ -118,7 +117,7 @@ msgctxt ""
 "par_id0503200917103766\n"
 "help.text"
 msgid "If <emph>disabled</emph> (default), the BCH Comparator is used. It compares two individuals by first looking at their constraint violations and only if those are equal, it measures their current solution."
-msgstr "If <emph>disabled</emph> (default), the BCH Comparator is used. It compares two individuals by first looking at their constraint violations and only if those are equal, it measures their current solution."
+msgstr "ប្រសិនបើ <emph> បានបិទ </emph> (លំនាំដើម) ឧបករណ៍ប្រៀបធៀប BCH ត្រូវបានប្រើ។ វាប្រៀបធៀបពីរដោយដំបូងមើលការរំលោភបំពានរបស់ពួកគេហើយប្រសិនបើករណីទាំងនោះស្មើគ្នាវាវាស់វែងដំណោះស្រាយបច្ចុប្បន្នរបស់ពួកគេ។"
 
 #: Options.xhp
 msgctxt ""
@@ -126,7 +125,7 @@ msgctxt ""
 "par_id0503200917103744\n"
 "help.text"
 msgid "If <emph>enabled</emph>, the ACR Comparator is used. It compares two individuals dependent on the current iteration and measures their goodness with knowledge about the libraries worst known solutions (in regard to their constraint violations)."
-msgstr "If <emph>enabled</emph>, the ACR Comparator is used. It compares two individuals dependent on the current iteration and measures their goodness with knowledge about the libraries worst known solutions (in regard to their constraint violations)."
+msgstr "ប្រសិនបើ <emph> បើក </emph> ឧបករណ៍ប្រៀបធៀប ACR ត្រូវបានប្រើ។ វាប្រៀបធៀបបុគ្គលពីរនាក់ពឹងផ្អែកលើការនិយាយឡើងវិញនិងវាស់ភាពល្អរបស់ពួកគេជាមួយនឹងចំណេះដឹងអំពីបណ្ណាល័យដំណោះស្រាយដែលត្រូវបានគេស្គាល់អាក្រក់បំផុត (ទាក់ទងនឹងការរំលោភបំពានរបស់ពួកគេ) ។"
 
 #: Options.xhp
 msgctxt ""
@@ -166,7 +165,7 @@ msgctxt ""
 "par_id050320091710377\n"
 "help.text"
 msgid "If this number of individuals found solutions within a close range, the iteration is stopped and the best of these values is chosen as optimal."
-msgstr "If this number of individuals found solutions within a close range, the iteration is stopped and the best of these values is chosen as optimal."
+msgstr "ប្រសិនបើចំនួននៃបុគ្គលនេះបានរកឃើញដំណោះស្រាយនៅក្នុងជួរជិតស្និទ្ធនោះការនិយាយឡើងវិញត្រូវបានបញ្ឈប់ហើយអ្វីដែលល្អបំផុតនៃតម្លៃទាំងនេះត្រូវបានជ្រើសរើសថាល្អបំផុត។"
 
 #: Options.xhp
 msgctxt ""
@@ -174,7 +173,7 @@ msgctxt ""
 "par_id0503200917103762\n"
 "help.text"
 msgid "Stagnation Tolerance"
-msgstr "Stagnation Tolerance"
+msgstr "ភាពអត់ធ្មត់"
 
 #: Options.xhp
 msgctxt ""
@@ -182,7 +181,7 @@ msgctxt ""
 "par_id0503200917103834\n"
 "help.text"
 msgid "Defines in what range solutions are considered “similar”."
-msgstr "Defines in what range solutions are considered “similar”."
+msgstr "កំណត់នៅក្នុងដំណោះស្រាយជួរណាដែលត្រូវបានចាត់ទុកថា \"ស្រដៀងគ្នា\" ។"
 
 #: Options.xhp
 msgctxt ""
@@ -190,7 +189,7 @@ msgctxt ""
 "par_id0503200917103891\n"
 "help.text"
 msgid "Show Enhanced Solver Status"
-msgstr "Show Enhanced Solver Status"
+msgstr "បង្ហាញស្ថានភាពអ្នកដោះស្រាយដែលបានធ្វើឱ្យប្រសើរឡើង"
 
 #: Options.xhp
 msgctxt ""
@@ -206,7 +205,7 @@ msgctxt ""
 "hd_id0603200910392151\n"
 "help.text"
 msgid "DEPS-specific Options"
-msgstr "DEPS-specific Options"
+msgstr "DEPS-ជម្រើសជាក់លាក់"
 
 #: Options.xhp
 msgctxt ""
@@ -214,7 +213,7 @@ msgctxt ""
 "par_id0603200910394232\n"
 "help.text"
 msgid "Agent Switch Rate"
-msgstr "Agent Switch Rate"
+msgstr "អត្រាប្តូរភ្នាក់ងារ"
 
 #: Options.xhp
 msgctxt ""
@@ -222,7 +221,7 @@ msgctxt ""
 "par_id0603200910394248\n"
 "help.text"
 msgid "Specifies the probability for an individual to choose the Differential Evolution strategy."
-msgstr "Specifies the probability for an individual to choose the Differential Evolution strategy."
+msgstr "បញ្ជាក់ប្រូបាប៊ីលីតេសម្រាប់បុគ្គលម្នាក់ៗជ្រើសរើសយុទ្ធសាស្ត្រឌីផេរ៉ង់ស្យែលវិវត្ត។"
 
 #: Options.xhp
 msgctxt ""
@@ -230,7 +229,7 @@ msgctxt ""
 "par_id0603200910394277\n"
 "help.text"
 msgid "DE: Crossover Probability"
-msgstr "DE: Crossover Probability"
+msgstr "DE: ប្រូបាប៊ីលីតេនៃប្រភេទ Crossover"
 
 #: Options.xhp
 msgctxt ""
@@ -238,7 +237,7 @@ msgctxt ""
 "par_id0603200910394280\n"
 "help.text"
 msgid "… defines the probability of the individual being combined with the globally best point. If crossover is not used, the point is assembled from the own memory of the individual."
-msgstr "… defines the probability of the individual being combined with the globally best point. If crossover is not used, the point is assembled from the own memory of the individual."
+msgstr "…កំណត់ប្រូបាប៊ីលីតេនៃបុគ្គលម្នាក់ៗដែលត្រូវបានផ្សំជាមួយចំណុចល្អបំផុតទូទាំងពិភពលោក។ ប្រសិនបើប្រភេទ Crossover មិនត្រូវបានប្រើចំនុចត្រូវបានប្រមូលផ្តុំពីការចងចាំផ្ទាល់ខ្លួនរបស់បុគ្គល។"
 
 #: Options.xhp
 msgctxt ""
@@ -246,7 +245,7 @@ msgctxt ""
 "par_id0603200910394216\n"
 "help.text"
 msgid "DE: Scaling Factor"
-msgstr "DE: Scaling Factor"
+msgstr "DE: កត្តាធ្វើមាត្រដ្ឋាន"
 
 #: Options.xhp
 msgctxt ""
@@ -254,7 +253,7 @@ msgctxt ""
 "par_id060320091039424\n"
 "help.text"
 msgid "During crossover, the scaling factor decides about the “speed” of movement."
-msgstr "During crossover, the scaling factor decides about the “speed” of movement."
+msgstr "ក្នុងអំឡុងពេលឆ្លងកាត់ប្រភេទកត្តាធ្វើមាត្រដ្ឋានសម្រេចចិត្តអំពី \"ល្បឿន\" នៃចលនា។"
 
 #: Options.xhp
 msgctxt ""
@@ -262,7 +261,7 @@ msgctxt ""
 "par_id060320091039421\n"
 "help.text"
 msgid "PS: Constriction Coefficient"
-msgstr "PS: Constriction Coefficient"
+msgstr "PS: មេគុណការចម្លង"
 
 #: Options.xhp
 msgctxt ""
@@ -270,7 +269,7 @@ msgctxt ""
 "par_id0603200910394225\n"
 "help.text"
 msgid "… defines the speed at which the particles/individuals move towards each other."
-msgstr "… defines the speed at which the particles/individuals move towards each other."
+msgstr "…កំណត់ល្បឿនដែលភាគល្អិត / បុគ្គលធ្វើចលនាឆ្ពោះទៅរកគ្នា។"
 
 #: Options.xhp
 msgctxt ""
@@ -278,7 +277,7 @@ msgctxt ""
 "par_id0603200910394222\n"
 "help.text"
 msgid "PS: Cognitive Constant"
-msgstr "PS: Cognitive Constant"
+msgstr "PS: ថេរនៃការយល់ដឹង"
 
 #: Options.xhp
 msgctxt ""
@@ -286,7 +285,7 @@ msgctxt ""
 "par_id0603200910394212\n"
 "help.text"
 msgid "… sets the importance of the own memory (in particular the best reached point so far)."
-msgstr "… sets the importance of the own memory (in particular the best reached point so far)."
+msgstr "…កំណត់សារៈសំខាន់នៃការចងចាំផ្ទាល់ខ្លួន (ជាពិសេសចំណុចឈានដល់ចំណុចល្អបំផុត) ។"
 
 #: Options.xhp
 msgctxt ""
@@ -294,7 +293,7 @@ msgctxt ""
 "par_id0603200910394292\n"
 "help.text"
 msgid "PS: Social Constant"
-msgstr "PS: Social Constant"
+msgstr "PS: ថេរសង្គម"
 
 #: Options.xhp
 msgctxt ""
@@ -302,7 +301,7 @@ msgctxt ""
 "par_id0603200910394284\n"
 "help.text"
 msgid "… sets the importance of the global best point between all particles/individuals."
-msgstr "… sets the importance of the global best point between all particles/individuals."
+msgstr "…កំណត់សារៈសំខាន់នៃចំណុចល្អបំផុតជាសកលរវាងភាគល្អិត / បុគ្គលទាំងអស់។"
 
 #: Options.xhp
 msgctxt ""
@@ -310,7 +309,7 @@ msgctxt ""
 "par_id060320091039425\n"
 "help.text"
 msgid "PS: Mutation Probability"
-msgstr "PS: Mutation Probability"
+msgstr "PS: ការផ្លាស់ប្តូរប្រូបាប"
 
 #: Options.xhp
 msgctxt ""
@@ -318,7 +317,7 @@ msgctxt ""
 "par_id0603200910394272\n"
 "help.text"
 msgid "… defines the probability, that instead of moving a component of the particle towards the best point, it randomly chooses a new value from the valid range for that variable."
-msgstr "… defines the probability, that instead of moving a component of the particle towards the best point, it randomly chooses a new value from the valid range for that variable."
+msgstr "…កំណត់ប្រូបាប៊ីលីតេដែលជំនួសឱ្យការផ្លាស់ប្តូរសមាសធាតុនៃភាគល្អិតឆ្ពោះទៅចំណុចល្អបំផុតវាជ្រើសរើសដោយចៃដន្យនូវតម្លៃថ្មីពីជួរដែលមានសុពលភាពសម្រាប់អថេរនោះ។"
 
 #: Options.xhp
 msgctxt ""
@@ -369,13 +368,12 @@ msgid "Usage"
 msgstr "ការ​ប្រើ"
 
 #: Usage.xhp
-#, fuzzy
 msgctxt ""
 "Usage.xhp\n"
 "par_id0603200910430845\n"
 "help.text"
 msgid "Regardless whether you use DEPS or SCO, you start by going to Tools - Solver and set the Cell to be optimized, the direction to go (minimization, maximization) and the cells to be modified to reach the goal. Then you go to the Options and specify the solver to be used and if necessary adjust the according <link href=\"com.sun.star.comp.Calc.NLPSolver/Options.xhp\">parameters</link>."
-msgstr "Regardless whether you use DEPS or SCO, you start by going to Tools → Solver and set the Cell to be optimized, the direction to go (minimization, maximization) and the cells to be modified to reach the goal. Then you go to the Options and specify the solver to be used and if necessary adjust the according <link href=\"com.sun.star.comp.Calc.NLPSolver/Options.xhp\">parameters</link>."
+msgstr "មិនថាអ្នកប្រើDEPSឬSCO អ្នកចាប់ផ្តើមដោយចូលទៅឧបករណ៍ - អ្នកដោះស្រាយនិងកំណត់ក្រឡាឲ្យត្រូវបានធ្វើឱ្យប្រសើរទិសដៅឈានទៅ (បង្រួមអប្បបរមាពង្រីកអតិបរិមា) និងកោសិកាដែលត្រូវកែប្រែដើម្បីឈានដល់គោលដៅ។ បន្ទាប់មកអ្នកចូលទៅកាន់ជំរើសហើយបញ្ជាក់ពីកម្មវិធីដោះស្រាយដែលត្រូវប្រើហើយបើចាំបាច់ត្រូវកែសម្រួលតាម <link href=\"com.sun.star.comp.Calc.NLPSolver/Options.xhp\"> ប៉ារ៉ាម៉ែត្រ </link> ។"
 
 #: Usage.xhp
 msgctxt ""
@@ -383,7 +381,7 @@ msgctxt ""
 "par_id0603200910430821\n"
 "help.text"
 msgid "There is also a list of constraints you can use to restrict the possible range of solutions or to penalize certain conditions. However, in case of the evolutionary solvers DEPS and SCO, these constraints are also used to specify bounds on the variables of the problem. Due to the random nature of the algorithms, it is <emph>highly recommended</emph> to do so and give upper (and in case \"Assume Non-Negative Variables\" is turned off also lower) bounds for all variables. They don't have to be near the actual solution (which is probably unknown) but should give a rough indication of the expected size (0 ≤ var ≤ 1 or maybe -1000000 ≤ var ≤ 1000000)."
-msgstr "There is also a list of constraints you can use to restrict the possible range of solutions or to penalize certain conditions. However, in case of the evolutionary solvers DEPS and SCO, these constraints are also used to specify bounds on the variables of the problem. Due to the random nature of the algorithms, it is <emph>highly recommended</emph> to do so and give upper (and in case \"Assume Non-Negative Variables\" is turned off also lower) bounds for all variables. They don't have to be near the actual solution (which is probably unknown) but should give a rough indication of the expected size (0 ≤ var ≤ 1 or maybe -1000000 ≤ var ≤ 1000000)."
+msgstr "វាក៏មានបញ្ជីនៃឧបសគ្គដែលអ្នកអាចប្រើដើម្បីកម្រិតជួរនៃដំណោះស្រាយដែលអាចធ្វើបានឬដើម្បីដាក់ទោសលក្ខខណ្ឌជាក់លាក់។ ទោះយ៉ាងណាក៏ដោយក្នុងករណីនៃដំណោះស្រាយវិវត្ត DEPS និង SCO ឧបសគ្គទាំងនេះក៏ត្រូវបានប្រើដើម្បីបញ្ជាក់ពីព្រំដែននៃអថេរនៃបញ្ហា។ ដោយសារតែលក្ខណៈចៃដន្យនៃក្បួនដោះស្រាយវាគឺជា <emph>បានផ្ដល់អនុសាសន៍យ៉ាងខ្លាំង</emph>ដើម្បីធ្វើដូច្នេះនិងផ្តល់ឱ្យខាងលើ (ហើយក្នុងករណី \"សន្មតថាអថេរមិនអវិជ្ជមាន\" ត្រូវបានបិទផងដែរទាប) ព្រំដែនសម្រាប់អថេរទាំងអស់។ ពួកគេមិនចាំបាច់នៅជិតដំណោះស្រាយពិតប្រាកដ (ដែលប្រហែលជាមិនដឹងទេ) ប៉ុន្តែគួរតែផ្តល់នូវការចង្អុលបង្ហាញអំពីទំហំដែលរំពឹងទុក។ (0 ≤ var ≤ 1 ប្រហែល -1000000 ≤ var ≤ 1000000)."
 
 #: Usage.xhp
 msgctxt ""
@@ -391,7 +389,7 @@ msgctxt ""
 "par_id0603200910430873\n"
 "help.text"
 msgid "Bounds are specified by selecting one or more variables (as range) on the left side and entering a numerical value (not a cell or a formula) on the right side. That way you can also choose one or more variables to be <emph>Integer</emph> or <emph>Binary</emph> only."
-msgstr "Bounds are specified by selecting one or more variables (as range) on the left side and entering a numerical value (not a cell or a formula) on the right side. That way you can also choose one or more variables to be <emph>Integer</emph> or <emph>Binary</emph> only."
+msgstr "ព្រំដែនត្រូវបានបញ្ជាក់ដោយជ្រើសរើសអថេរមួយឬច្រើន (ជាជួរ) នៅខាងឆ្វេងហើយបញ្ចូលតម្លៃលេខ (មិនមែនក្រឡាឬរូបមន្ត) នៅជ្រុងខាងស្តាំ។ វិធីនេះអ្នកក៏អាចជ្រើសរើសអថេរមួយរឺច្រើនដែលជា <emph> អាំងតេក្រាល </emph> ឬ <emph> គោលពីរ </emph> ។"
 
 #: help.tree
 msgctxt ""

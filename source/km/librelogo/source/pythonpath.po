@@ -1,20 +1,21 @@
-#. extracted from librelogo/source/pythonpath
 msgid ""
 msgstr ""
-"Project-Id-Version: LibO 40l10n\n"
-"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
-"POT-Creation-Date: 2020-06-29 13:09+0200\n"
-"PO-Revision-Date: 2017-12-11 22:30+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
-"Language-Team: none\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/"
+"enter_bug.cgi?"
+"product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2020-03-10 13:36+0100\n"
+"PO-Revision-Date: 2020-09-04 23:45+0700\n"
+"Last-Translator: Koompi Apps Localization\n"
 "Language: km\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Accelerator-Marker: ~\n"
-"X-Generator: LibreOffice\n"
-"X-POOTLE-MTIME: 1513031436.000000\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-POOTLE-MTIME: 1535975854.000000\n"
+"Language-Team: KOOMPI Apps Localization\n"
 
 #. tFoAo
 #: LibreLogo_en_US.properties
@@ -41,7 +42,7 @@ msgctxt ""
 "TURNLEFT\n"
 "property.text"
 msgid "left|turnleft|lt"
-msgstr "ឆ្វេង|turnleft|lt"
+msgstr "ឆ្វេង|បត់ឆ្វេង|lt"
 
 #. 77BZH
 #: LibreLogo_en_US.properties
@@ -50,7 +51,7 @@ msgctxt ""
 "TURNRIGHT\n"
 "property.text"
 msgid "right|turnright|rt"
-msgstr "ស្ដាំ|turnright|rt"
+msgstr "ស្ដាំ|បត់ស្តាំ|rt"
 
 #. CUWGq
 #: LibreLogo_en_US.properties
@@ -68,7 +69,7 @@ msgctxt ""
 "PENDOWN\n"
 "property.text"
 msgid "pendown|pd"
-msgstr "pendown"
+msgstr "ប៉ោល|pd"
 
 #. BEiyw
 #: LibreLogo_en_US.properties
@@ -275,7 +276,7 @@ msgctxt ""
 "FILLCOLOR\n"
 "property.text"
 msgid "fillcolor|fillcolour|fc"
-msgstr "ពណ៌​បំពេញ|fillcolour|fc"
+msgstr "ពណ៌​បំពេញ|ពណ៌​បំពេញ|fc"
 
 #. PGzDC
 #: LibreLogo_en_US.properties
@@ -311,7 +312,7 @@ msgctxt ""
 "FONTCOLOR\n"
 "property.text"
 msgid "fontcolor|textcolor|textcolour"
-msgstr "ពណ៌​ពុម្ពអក្សរ|textcolor|textcolour"
+msgstr "ពណ៌​ពុម្ពអក្សរ|ពណ៌អត្ថបទ|ពណ៌អត្ថបទ"
 
 #. 3G7jg
 #: LibreLogo_en_US.properties
@@ -320,7 +321,7 @@ msgctxt ""
 "FONTTRANSPARENCY\n"
 "property.text"
 msgid "fonttransparency|texttransparency"
-msgstr ""
+msgstr "តម្លាភាពលារបស់ពុម្ពអក្សរ|តម្លាភាពអត្ថបទ"
 
 #. EPJeZ
 #: LibreLogo_en_US.properties
@@ -329,7 +330,7 @@ msgctxt ""
 "FONTHEIGHT\n"
 "property.text"
 msgid "fontsize|textsize|textheight"
-msgstr "ទំហំ​ពុម្ពអក្សរ|textsize|textheight"
+msgstr "ទំហំ​ពុម្ពអក្សរ|ទំហំអក្សរ|កម្រាស់អត្ថបទ"
 
 #. amtRF
 #: LibreLogo_en_US.properties
@@ -419,7 +420,7 @@ msgctxt ""
 "HIDETURTLE\n"
 "property.text"
 msgid "hideturtle|ht|hideme"
-msgstr "hideturtle|ht|hideme"
+msgstr "លាក់លៀម|ht|លាក់ខ្លួន"
 
 #. pbRce
 #: LibreLogo_en_US.properties
@@ -428,7 +429,7 @@ msgctxt ""
 "SHOWTURTLE\n"
 "property.text"
 msgid "showturtle|st|showme"
-msgstr "showturtle|st|showme"
+msgstr "បង្ហាញអណ្តើក|st|បង្ហាញ​ខ្ញុំ"
 
 #. iEgLZ
 #: LibreLogo_en_US.properties
@@ -437,7 +438,7 @@ msgctxt ""
 "POSITION\n"
 "property.text"
 msgid "position|pos|setpos"
-msgstr "position|pos|setpos"
+msgstr "ទីតាំង |pos|កំណត់ pos"
 
 #. ydeVD
 #: LibreLogo_en_US.properties
@@ -446,7 +447,7 @@ msgctxt ""
 "HEADING\n"
 "property.text"
 msgid "heading|setheading|seth"
-msgstr "heading|setheading|seth"
+msgstr "ក្បាល|ក្បាល|seth"
 
 #. HpQLM
 #: LibreLogo_en_US.properties
@@ -464,7 +465,7 @@ msgctxt ""
 "GROUP\n"
 "property.text"
 msgid "picture|pic"
-msgstr "រូបភាព|pic"
+msgstr "រូបភាព|រូបភាព"
 
 #. HyJKJ
 #: LibreLogo_en_US.properties
@@ -509,7 +510,7 @@ msgctxt ""
 "REPCOUNT\n"
 "property.text"
 msgid "repcount"
-msgstr "repcount"
+msgstr "ចំនួនទឹកប្រាក់"
 
 #. NEdAp
 #: LibreLogo_en_US.properties
@@ -536,7 +537,7 @@ msgctxt ""
 "WHILE\n"
 "property.text"
 msgid "while"
-msgstr "while"
+msgstr "ខណៈពេល"
 
 #. v4dsv
 #: LibreLogo_en_US.properties
@@ -563,7 +564,7 @@ msgctxt ""
 "IF\n"
 "property.text"
 msgid "if"
-msgstr "if"
+msgstr "ប្រសិនបើ"
 
 #. fFrZA
 #: LibreLogo_en_US.properties
@@ -617,7 +618,7 @@ msgctxt ""
 "NOT\n"
 "property.text"
 msgid "not"
-msgstr "not"
+msgstr "មិនមែន"
 
 #. iW2Yh
 #: LibreLogo_en_US.properties
@@ -635,7 +636,7 @@ msgctxt ""
 "OR\n"
 "property.text"
 msgid "or"
-msgstr "or"
+msgstr "ឬ"
 
 #. E9emy
 #: LibreLogo_en_US.properties
@@ -716,7 +717,7 @@ msgctxt ""
 "SQRT\n"
 "property.text"
 msgid "sqrt"
-msgstr "sqrt"
+msgstr "រឹស"
 
 #. rCfuG
 #: LibreLogo_en_US.properties
@@ -734,7 +735,7 @@ msgctxt ""
 "SIN\n"
 "property.text"
 msgid "sin"
-msgstr "sin"
+msgstr "សុីន"
 
 #. V37dC
 #: LibreLogo_en_US.properties
@@ -743,7 +744,7 @@ msgctxt ""
 "COS\n"
 "property.text"
 msgid "cos"
-msgstr "cos"
+msgstr "កូស"
 
 #. irCAi
 #: LibreLogo_en_US.properties
@@ -824,7 +825,7 @@ msgctxt ""
 "RESUB\n"
 "property.text"
 msgid "sub"
-msgstr "sub"
+msgstr "អនុ"
 
 #. EQKA9
 #: LibreLogo_en_US.properties
@@ -842,7 +843,7 @@ msgctxt ""
 "REFINDALL\n"
 "property.text"
 msgid "findall"
-msgstr "findall"
+msgstr "រកទាំងអស់"
 
 #. K3QbE
 #: LibreLogo_en_US.properties
@@ -869,7 +870,7 @@ msgctxt ""
 "PI\n"
 "property.text"
 msgid "pi|π"
-msgstr "pi|π"
+msgstr "ផាយ|π"
 
 #. 6iBXP
 #: LibreLogo_en_US.properties
@@ -968,7 +969,7 @@ msgctxt ""
 "GRAY\n"
 "property.text"
 msgid "gray|grey"
-msgstr "ប្រផះ|grey"
+msgstr "ប្រផះ|ប្រផះ"
 
 #. oAy3e
 #: LibreLogo_en_US.properties
@@ -1166,7 +1167,7 @@ msgctxt ""
 "LIBRELOGO\n"
 "property.text"
 msgid "LibreLogo"
-msgstr "LibreLogo"
+msgstr "និមិត្តសញ្ញា Libre"
 
 #. 8BZVa
 #: LibreLogo_en_US.properties
@@ -1188,7 +1189,6 @@ msgstr "ចែក​នឹង​សូន្យ ។"
 
 #. gjBf3
 #: LibreLogo_en_US.properties
-#, fuzzy
 msgctxt ""
 "LibreLogo_en_US.properties\n"
 "ERR_NAME\n"

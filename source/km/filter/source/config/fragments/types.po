@@ -1,21 +1,21 @@
-#. extracted from filter/source/config/fragments/types
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
-"POT-Creation-Date: 2019-06-03 17:45+0200\n"
-"PO-Revision-Date: 2018-06-04 14:13+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
-"Language-Team: Khmer <support@khmeros.info>\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/"
+"enter_bug.cgi?"
+"product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2020-03-10 13:36+0100\n"
+"PO-Revision-Date: 2020-09-04 22:56+0700\n"
+"Last-Translator: Koompi Apps Localization\n"
 "Language: km\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Accelerator-Marker: ~\n"
-"X-Generator: LibreOffice\n"
-"X-Language: km-KH\n"
-"X-POOTLE-MTIME: 1528121597.000000\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-POOTLE-MTIME: 1535975854.000000\n"
+"Language-Team: KOOMPI Apps Localization\n"
 
 #: MS_Excel_2007_Binary.xcu
 msgctxt ""
@@ -24,7 +24,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Microsoft Excel 2007 Binary"
-msgstr "Microsoft Excel 2007 Binary"
+msgstr "Microsoft Excel ២០០៧ ប្រព័ន្ទគោលពីរ"
 
 #: MS_Excel_2007_VBA_XML.xcu
 msgctxt ""
@@ -33,7 +33,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Microsoft Excel 2007–365 VBA XML"
-msgstr ""
+msgstr "Microsoft Excel ២០០៧–៣៦៥ VBA XML"
 
 #: MS_Excel_2007_XML.xcu
 msgctxt ""
@@ -42,7 +42,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Excel 2007–365"
-msgstr ""
+msgstr "Excel ២០០៧–៣៦៥"
 
 #: MS_Excel_2007_XML_Template.xcu
 msgctxt ""
@@ -51,7 +51,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Excel 2007–365 Template"
-msgstr ""
+msgstr "គំរូ Excel ២០០៧–៣៦៥"
 
 #: MS_PowerPoint_2007_XML.xcu
 msgctxt ""
@@ -60,7 +60,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "PowerPoint 2007–365"
-msgstr ""
+msgstr "PowerPoint ២០០៧–៣៦៥"
 
 #: MS_PowerPoint_2007_XML_AutoPlay.xcu
 msgctxt ""
@@ -69,7 +69,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "PowerPoint 2007–365"
-msgstr ""
+msgstr "PowerPoint ២០០៧–៣៦៥"
 
 #: MS_PowerPoint_2007_XML_Template.xcu
 msgctxt ""
@@ -78,7 +78,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "PowerPoint 2007–365 Template"
-msgstr ""
+msgstr "គំរូ PowerPoint ២០០៧–៣៦៥"
 
 #: MS_PowerPoint_2007_XML_VBA.xcu
 msgctxt ""
@@ -87,7 +87,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "PowerPoint 2007–365 VBA"
-msgstr ""
+msgstr "PowerPoint ២០០៧–៣៦៥ VBA"
 
 #: StarBase.xcu
 msgctxt ""
@@ -96,7 +96,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "OpenDocument Database"
-msgstr "មូលដ្ឋាន​ទិន្នន័យ OpenDocument"
+msgstr "បើកឯកសារ មូលដ្ឋាន​ទិន្នន័យ"
 
 #: StarBaseReport.xcu
 msgctxt ""
@@ -105,7 +105,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "OpenDocument Database Report"
-msgstr "របាយការណ៍​មូលដ្ឋាន​ទិន្នន័យ OpenDocument"
+msgstr "បើកឯកសារ របាយការណ៍​មូលដ្ឋាន​ទិន្នន័យ"
 
 #: StarBaseReportChart.xcu
 msgctxt ""
@@ -114,7 +114,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "StarOffice XML (Base) Report Chart 9"
-msgstr "StarOffice XML (Base) Report Chart 9"
+msgstr "StarOffice XML (មូលដ្ឋាន) គំនូសតាងរបាយការណ៍ ៩"
 
 #: calc8.xcu
 msgctxt ""
@@ -123,7 +123,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Calc 8"
-msgstr "Calc 8"
+msgstr "កម្មវិធីគណនា ៨"
 
 #: calc8_template.xcu
 msgctxt ""
@@ -132,7 +132,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Calc 8 Template"
-msgstr "ពុម្ព Calc 8"
+msgstr "ពុម្ព កម្មវិធីគណនា ៨"
 
 #: calc_ADO_rowset_XML.xcu
 msgctxt ""
@@ -141,7 +141,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "ADO Rowset XML"
-msgstr ""
+msgstr "ជួរដេក ADO  XML"
 
 #: calc_Gnumeric.xcu
 msgctxt ""
@@ -150,7 +150,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Gnumeric Spreadsheet"
-msgstr ""
+msgstr "សៀវភៅបញ្ជី Gnumeric"
 
 #: calc_MS_Excel_2003_XML.xcu
 msgctxt ""
@@ -168,7 +168,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "OpenDocument Spreadsheet (Flat XML)"
-msgstr "OpenDocument Spreadsheet (Flat XML)"
+msgstr "បើកសៀវភៅបញ្ជីឯកសារ (Flat XML)"
 
 #: calc_OOXML.xcu
 msgctxt ""
@@ -195,7 +195,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Chart 8"
-msgstr "Chart 8"
+msgstr "គំនូសតាង ៨"
 
 #: draw8.xcu
 msgctxt ""
@@ -204,7 +204,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Draw 8"
-msgstr "Draw 8"
+msgstr "កម្មវិធីគូរ ៨"
 
 #: draw8_template.xcu
 msgctxt ""
@@ -213,7 +213,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Draw 8 Template"
-msgstr "ពុម្ព Draw 8"
+msgstr "ពុម្ព កម្មវិធីគូរ ៨"
 
 #: draw_ODG_FlatXML.xcu
 msgctxt ""
@@ -222,7 +222,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "OpenDocument Drawing (Flat XML)"
-msgstr "OpenDocument Drawing (Flat XML)"
+msgstr "បើកឯកសារគូរ (Flat XML)"
 
 #: impress8.xcu
 msgctxt ""
@@ -231,7 +231,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Impress 8"
-msgstr "Impress 8"
+msgstr "កម្មវិធី Impress ៨"
 
 #: impress8_template.xcu
 msgctxt ""
@@ -240,7 +240,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Impress 8 Template"
-msgstr "ពុម្ព Impress 8"
+msgstr "ពុម្ព Impress ៨"
 
 #: impress_ODP_FlatXML.xcu
 msgctxt ""
@@ -249,7 +249,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "OpenDocument Presentation (Flat XML)"
-msgstr "OpenDocument Presentation (Flat XML)"
+msgstr "បើកឯកសារបទបង្ហាញ (Flat XML)"
 
 #: impress_OOXML_Presentation_AutoPlay.xcu
 msgctxt ""
@@ -258,7 +258,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Office Open XML Presentation AutoPlay"
-msgstr "Office Open XML Presentation AutoPlay"
+msgstr "ការិយាល័យបើក XML  បទបង្ហាញដោយស្វ័យប្រវត្តិ"
 
 #: math8.xcu
 msgctxt ""
@@ -267,7 +267,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Math 8"
-msgstr "Math 8"
+msgstr "កម្មវិធីគណិត ៨"
 
 #: writer8.xcu
 msgctxt ""
@@ -276,7 +276,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Writer 8"
-msgstr "Writer 8"
+msgstr "កម្មវិធីសរសេរ ៨"
 
 #: writer8_template.xcu
 msgctxt ""
@@ -285,7 +285,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Writer 8 Template"
-msgstr "ពុម្ព Writer 8"
+msgstr "ពុម្ព កម្មវិធីសរសេរ ៨"
 
 #: writer_MS_Word_2003_XML.xcu
 msgctxt ""
@@ -294,7 +294,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Word 2003 XML"
-msgstr ""
+msgstr "Word ២០០៣ XML"
 
 #: writer_MS_Word_2007_XML.xcu
 msgctxt ""
@@ -303,7 +303,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Word 2007–365"
-msgstr ""
+msgstr "Word ២០០៧–៣៦៥"
 
 #: writer_MS_Word_2007_XML_Template.xcu
 msgctxt ""
@@ -312,7 +312,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Word 2007–365 Template"
-msgstr ""
+msgstr "គំរូ Word ២០០៧–៣៦៥"
 
 #: writer_MS_Word_2007_XML_VBA.xcu
 msgctxt ""
@@ -321,7 +321,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Word 2007–365 VBA"
-msgstr ""
+msgstr "Word ២០០៧–៣៦៥ VBA"
 
 #: writer_ODT_FlatXML.xcu
 msgctxt ""
@@ -330,7 +330,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "OpenDocument Text (Flat XML)"
-msgstr "OpenDocument Text (Flat XML)"
+msgstr "អត្ថបទ បើកឯកសារ (XML មានរាងសំប៉ែត)"
 
 #: writerglobal8.xcu
 msgctxt ""
@@ -339,7 +339,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Writer 8 Master Document"
-msgstr "ឯកសារ​មេ​របស់ Writer 8"
+msgstr "ឯកសារ​មេ​របស់ ​កម្មវិធីសរសេរ ៨"
 
 #: writerglobal8_template.xcu
 msgctxt ""
@@ -348,7 +348,7 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Writer 8 Master Document Template"
-msgstr ""
+msgstr "គំរូឯកសារមេ កម្មវិធីសរសេរ ៨"
 
 #: writerweb8_writer_template.xcu
 msgctxt ""
@@ -357,4 +357,4 @@ msgctxt ""
 "UIName\n"
 "value.text"
 msgid "Writer/Web 8 Template"
-msgstr "ពុម្ព Writer/Web 8"
+msgstr "ពុម្ព កម្មវិធីសរសេរ/ គេហទំព័រ ៨"

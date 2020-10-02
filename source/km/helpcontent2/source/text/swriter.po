@@ -1,21 +1,19 @@
-#. extracted from helpcontent2/source/text/swriter
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
-"POT-Creation-Date: 2020-07-21 11:19+0200\n"
-"PO-Revision-Date: 2018-10-21 20:23+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
-"Language-Team: Khmer <support@khmeros.info>\n"
+"POT-Creation-Date: 2020-03-10 13:36+0100\n"
+"PO-Revision-Date: 2020-09-04 23:05+0700\n"
+"Last-Translator: Koompi Apps Localization\n"
 "Language: km\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Accelerator-Marker: ~\n"
-"X-Generator: LibreOffice\n"
-"X-Language: km-KH\n"
-"X-POOTLE-MTIME: 1540153430.000000\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-POOTLE-MTIME: 1535975854.000000\n"
+"Language-Team: KOOMPI Apps Localization\n"
 
 #. P7iNX
 #: classificationbar.xhp
@@ -24,7 +22,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Document Classification"
-msgstr ""
+msgstr "ចំណាត់ថ្នាក់ឯកសារ"
 
 #. NqgkT
 #: classificationbar.xhp
@@ -33,7 +31,7 @@ msgctxt ""
 "hd_id3156324\n"
 "help.text"
 msgid "<variable id=\"classdoc\"><link href=\"text/swriter/classificationbar.xhp\" name=\"Document Classification\">Document Classification</link> </variable>"
-msgstr ""
+msgstr "<variable id=\"classdoc\"><link href=\"text/swriter/classificationbar.xhp\" name=\"Document Classification\"> ចំណាត់ថ្នាក់ឯកសារ</link> </variable>"
 
 #. toEGG
 #: classificationbar.xhp
@@ -42,7 +40,7 @@ msgctxt ""
 "bm_id030820161847569710\n"
 "help.text"
 msgid "<bookmark_value>classification;BAILS levels</bookmark_value>  <bookmark_value>classification;BAF category</bookmark_value>  <bookmark_value>classification;security levels</bookmark_value>  <bookmark_value>classification;document</bookmark_value>  <bookmark_value>classification;classification bar</bookmark_value>  <bookmark_value>document;classification</bookmark_value>"
-msgstr ""
+msgstr "<bookmark_value>ចំណាត់ថ្នាក់;កម្រិតធានា </bookmark_value>  <bookmark_value>ណាត់ថ្នាក់;​ប្រភេទ​BAF</bookmark_value>  <bookmark_value>ចំណាត់ថ្នាក់;កំរិតសុវត្ថិភាព </bookmark_value>  <bookmark_value>ចំណាត់ថ្នាក់;ឯកសារ</bookmark_value>  <bookmark_value>ចំណាត់ថ្នាក់;របារចំណាត់ថ្នាក់</bookmark_value>  <bookmark_value>ឯកសារ;ចំណាត់ថ្នាក់</bookmark_value>"
 
 #. vJRDP
 #: classificationbar.xhp
@@ -51,7 +49,7 @@ msgctxt ""
 "par_id030820161744119967\n"
 "help.text"
 msgid "Document classification and security is an important issue for businesses and governments."
-msgstr ""
+msgstr "ការធ្វើចំណាត់ថ្នាក់ឯកសារនិងសុវត្ថិភាពគឺជាបញ្ហាសំខាន់សម្រាប់អាជីវកម្មនិងរដ្ឋាភិបាល។"
 
 #. o6ZJC
 #: classificationbar.xhp
@@ -60,7 +58,7 @@ msgctxt ""
 "par_id030820161744113553\n"
 "help.text"
 msgid "Information is exchanged between users and organizations that collaborate to pursue a business goal. Where sensitive information is involved, it is assumed that the parties will have agreed what information is sensitive and how such information will be identified and handled. Any recipient of a resource will rely upon the provider of the information to follow the agreed procedures to identify the sensitivity of the information."
-msgstr ""
+msgstr "ព័ត៌មានត្រូវបានផ្លាស់ប្តូររវាងអ្នកប្រើប្រាស់និងអង្គការដែលសហការគ្នាដើម្បីសំរេចគោលដៅអាជីវកម្ម។ នៅពេលដែលព័ត៌មានរសើបពាក់ព័ន្ធវាត្រូវបានគេសន្មត់ថាភាគីទាំងអស់នឹងឯកភាពថាតើព័ត៌មានណាដែលមានលក្ខណៈរសើបនិងរបៀបដែលព័ត៌មានទាំងនោះត្រូវបានកំណត់និងដោះស្រាយ។ អ្នកទទួលធនធានណាមួយនឹងពឹងផ្អែកលើអ្នកផ្តល់ព័ត៌មានឱ្យធ្វើតាមនីតិវិធីដែលបានព្រមព្រៀងគ្នាដើម្បីកំណត់ភាពប្រែប្រួលនៃព័ត៌មាន។"
 
 #. Ds7Zb
 #: classificationbar.xhp
@@ -69,7 +67,7 @@ msgctxt ""
 "par_id030820161744118823\n"
 "help.text"
 msgid "%PRODUCTNAME provides standardized means for such sensitivity information to be expressed and may be used between parties if interoperable systems are to be implemented. It provides a set of standard “fields” that can be used to hold sensitivity information. It does not attempt to define what the contents of these “fields” should be. This approach is an improvement upon the only alternative that exists at the moment, which is for the provider to use an arbitrary means to express sensitivity that may not be useful to a recipient."
-msgstr ""
+msgstr "%PRODUCTNAME ផ្តល់នូវមធ្យោបាយស្តង់ដារសម្រាប់ព័ត៌មានដែលគួរឱ្យចាប់អារម្មណ៍បែបនេះត្រូវបានបង្ហាញហើយអាចត្រូវបានប្រើរវាងភាគីប្រសិនបើប្រព័ន្ធអន្តរប្រតិបត្តិការត្រូវបានអនុវត្ត។ វាផ្តល់នូវសំណុំនៃ“ វាល” ស្តង់ដារដែលអាចត្រូវបានប្រើដើម្បីផ្ទុកព័ត៌មានដែលមានភាពរសើប។ វាមិនព្យាយាមកំណត់នូវខ្លឹមសារនៃ“ វាល” ទាំងនេះទេ។ វិធីសាស្រ្តនេះគឺជាការធ្វើឱ្យប្រសើរឡើងលើជម្រើសតែមួយគត់ដែលមាននៅពេលនេះដែលអ្នកផ្តល់ឱ្យប្រើមធ្យោបាយដែលបំពានដើម្បីបង្ហាញពីភាពរសើបដែលមិនមានប្រយោជន៍សម្រាប់អ្នកទទួល។"
 
 #. J3mB2
 #: classificationbar.xhp
@@ -78,7 +76,7 @@ msgctxt ""
 "par_id030820161744121143\n"
 "help.text"
 msgid "While this standard has been developed with the intent that it would be applicable in any domain of activity, %PRODUCTNAME retained the aerospace and defense industry nomenclature and categories, where sensitivity marking results from national security, export control and intellectual property policies."
-msgstr ""
+msgstr "ខណៈពេលដែលបទដ្ឋាននេះត្រូវបានបង្កើតឡើងដោយមានគោលបំណងថាវាអាចអនុវត្តបាននៅក្នុងដែនសកម្មភាពណាមួយ។ %PRODUCTNAME បានរក្សាឈ្មោះនិងប្រភេទឧស្សាហកម្មការពារដែនអាកាសនិងការពារជាតិដែលជាកន្លែងសម្គាល់ភាពទទួលបានលទ្ធផលពីសន្តិសុខជាតិការគ្រប់គ្រងការនាំចេញនិងគោលនយោបាយកម្មសិទ្ធិបញ្ញា។"
 
 #. mEAHm
 #: classificationbar.xhp
@@ -87,7 +85,7 @@ msgctxt ""
 "par_id030820161744123676\n"
 "help.text"
 msgid "%PRODUCTNAME implemented the open standards produced by <item type=\"acronym\">TSCP</item> (Transglobal Secure Collaboration Participation, Inc.) independent of a specific vendor. Two of them are interesting:"
-msgstr ""
+msgstr "%PRODUCTNAME អនុវត្តស្តង់ដារបើកចំហដែលផលិតដោយ <item type=\"acronym\">  TSCP </item> (Transglobal Secure Cooperation Participation, Inc) ឯករាជ្យពីអ្នកលក់ជាក់លាក់។ ពីរក្នុងចំណោមពួកគេគួរឱ្យចាប់អារម្មណ៍:"
 
 #. FGdfy
 #: classificationbar.xhp
@@ -96,7 +94,7 @@ msgctxt ""
 "par_id030820161744122593\n"
 "help.text"
 msgid "Business Authentication Framework (<item type=\"acronym\">BAF</item>) specifies how to describe the existing policy (which is probably some legal text) in a machine-readable format."
-msgstr ""
+msgstr "ក្របខ័ណ្ឌនៃការផ្ទៀងផ្ទាត់ភាពត្រឹមត្រូវនៃអាជីវកម្ម (<item type=\"acronym\">  BAF </item>) បញ្ជាក់ពីវិធីដើម្បីពិពណ៌នាអំពីគោលនយោបាយដែលមានស្រាប់ (ដែលប្រហែលជាអត្ថបទច្បាប់) ដែលអាចអានបានដោយម៉ាស៊ីន។"
 
 #. hYS6k
 #: classificationbar.xhp
@@ -105,7 +103,7 @@ msgctxt ""
 "par_id030820161744126871\n"
 "help.text"
 msgid "Business Authorization Identification and Labeling Scheme (<item type=\"acronym\">BAILS</item>) specifies how to refer to such a <item type=\"acronym\">BAF</item> policy in a document. The concepts in <item type=\"acronym\">BAILS</item> are so generic that they can be applied to any format that supports document-level user-defined properties."
-msgstr ""
+msgstr "ការកំណត់អត្តសញ្ញាណនិងការអនុញ្ញាតឱ្យធ្វើអាជីវកម្ម (<item type=\"acronym\">BAILS</item>) បញ្ជាក់ពីវិធីដើម្បីយោង <item type=\"acronym\">គោលនយោបាយ BAF </item> នៅក្នុងឯកសារ។ គោលគំនិតនៅក្នុង <item type=\"acronym\">ធានា</item> មានលក្ខណៈទូទៅដែលពួកគេអាចត្រូវបានអនុវត្តទៅទម្រង់ណាមួយដែលគាំទ្រលក្ខណៈសម្បត្តិដែលកំណត់ដោយអ្នកប្រើ។"
 
 #. 6mz7n
 #: classificationbar.xhp
@@ -114,7 +112,7 @@ msgctxt ""
 "hd_id030820161800093929\n"
 "help.text"
 msgid "BAF Categories"
-msgstr ""
+msgstr "ប្រភេទ BAF"
 
 #. WiXYE
 #: classificationbar.xhp
@@ -123,7 +121,7 @@ msgctxt ""
 "bm_id030820161856432825\n"
 "help.text"
 msgid "<bookmark_value>classification;displayed in user interface</bookmark_value>  <bookmark_value>classification;headers and footers</bookmark_value>  <bookmark_value>classification;watermark</bookmark_value>  <bookmark_value>classification;categories</bookmark_value>"
-msgstr ""
+msgstr "<bookmark_value>ចំណាត់ថ្នាក់;បង្ហាញក្នុងចំណុចប្រទាក់អ្នកប្រើ</bookmark_value> <bookmark_value>ការចែកចំណាត់ថ្នាក់​;បឋមកថានិងបាតកថា</bookmark_value><bookmark_value>ការចែកចំណាត់ថ្នាក់;ក្រដាសសម្គាល់ទឹក</bookmark_value>  <bookmark_value>ការចែកចំណាត់ថ្នាក់;ប្រភេទ</bookmark_value>"
 
 #. 3ADDM
 #: classificationbar.xhp
@@ -132,7 +130,7 @@ msgctxt ""
 "par_id030820161800092823\n"
 "help.text"
 msgid "The default BAF categories for %PRODUCTNAME are listed below."
-msgstr ""
+msgstr "ប្រភេទ BAF លំនាំដើមសម្រាប់ %PRODUCTNAME ត្រូវបានរាយខាងក្រោម។"
 
 #. N8CTV
 #: classificationbar.xhp
@@ -141,7 +139,7 @@ msgctxt ""
 "par_id030820161800098142\n"
 "help.text"
 msgid "Only the \"Intellectual Properties\" category will modify the layout of the document with a watermark, fields in the header and footer and an information bar on top of the document area. Each item inserted in the document is controlled by the classification configuration file."
-msgstr ""
+msgstr "មានតែប្រភេទ “កម្មសិទ្ធិបញ្ញា” ប៉ុណ្ណោះដែលនឹងធ្វើការកែប្រែប្លង់ឯកសារជាមួយនឹងគំនូសតាងសម្គាល់ទឹកវាលក្នុងបឋមកថានិងបាតកថានិងរបារព័ត៌មាននៅខាងលើផ្ទៃឯកសារ។ ធាតុនីមួយៗដែលបានបញ្ចូលក្នុងឯកសារត្រូវបានគ្រប់គ្រងដោយឯកសារកំណត់រចនាសម្ព័ន្ធចំណាត់ថ្នាក់។"
 
 #. HJDZH
 #: classificationbar.xhp
@@ -150,7 +148,7 @@ msgctxt ""
 "par_idN106B0\n"
 "help.text"
 msgid "Intellectual Property"
-msgstr ""
+msgstr "កម្មសិទ្ធិបញ្ញា"
 
 #. pGCGZ
 #: classificationbar.xhp
@@ -159,7 +157,7 @@ msgctxt ""
 "par_idN106C0\n"
 "help.text"
 msgid "Intellectual property is a generic term for the nature of the contents of the document. Select this category for general purpose document classification."
-msgstr ""
+msgstr "កម្មសិទ្ធិបញ្ញាគឺជាពាក្យទូទៅមួយសម្រាប់ខ្លឹមសារនៃឯកសារ។ ជ្រើសរើសប្រភេទនេះសម្រាប់ការធ្វើចំណាត់ថ្នាក់ឯកសារគោលបំណងទូទៅ។"
 
 #. Wtdjj
 #: classificationbar.xhp
@@ -168,7 +166,7 @@ msgctxt ""
 "par_idN106CD\n"
 "help.text"
 msgid "National Security"
-msgstr ""
+msgstr "សន្តិសុខជាតិ"
 
 #. vDSmN
 #: classificationbar.xhp
@@ -177,7 +175,7 @@ msgctxt ""
 "par_idN106DD\n"
 "help.text"
 msgid "Selects the category of this document for the national security policy type. The selected category is saved together with the document as BAILS metadata in the file properties and no modifications is carried in the document layout or the user interface."
-msgstr ""
+msgstr "ជ្រើសរើសប្រភេទនៃឯកសារនេះសម្រាប់ប្រភេទគោលនយោបាយសន្តិសុខជាតិ។ ប្រភេទដែលបានជ្រើសរើសត្រូវបានរក្សាទុករួមគ្នាជាមួយឯកសារជាទិន្នន័យមេតា ធានា នៅក្នុងលក្ខណសម្បត្តិឯកសារហើយគ្មានការកែប្រែណាមួយត្រូវបានធ្វើឡើងនៅក្នុងប្លង់ឯកសារឬចំណុចប្រទាក់អ្នកប្រើប្រាស់ទេ។"
 
 #. E7kqD
 #: classificationbar.xhp
@@ -186,7 +184,7 @@ msgctxt ""
 "par_idN106EA\n"
 "help.text"
 msgid "Export Control"
-msgstr ""
+msgstr "ការត្រួតពិនិត្យការនាំចេញ"
 
 #. DC8Yf
 #: classificationbar.xhp
@@ -195,7 +193,7 @@ msgctxt ""
 "par_idN106FA\n"
 "help.text"
 msgid "Selects the category of this document for the export control policy type. The selected category is saved together with the document as BAILS metadata in the file properties and no modifications is carried in the document layout or the user interface."
-msgstr ""
+msgstr "ជ្រើសរើសប្រភេទឯកសារនេះសម្រាប់ប្រភេទគោលការណ៍ត្រួតពិនិត្យការនាំចេញ។ ប្រភេទដែលបានជ្រើសរើសត្រូវបានរក្សាទុករួមគ្នាជាមួយឯកសារជាទិន្នន័យមេតា ធានា នៅក្នុងលក្ខណសម្បត្តិឯកសារហើយគ្មានការកែប្រែណាមួយត្រូវបានធ្វើឡើងនៅក្នុងប្លង់ឯកសារឬចំណុចប្រទាក់អ្នកប្រើប្រាស់ទេ។"
 
 #. iVEDx
 #: classificationbar.xhp
@@ -204,7 +202,7 @@ msgctxt ""
 "par_id030820161800091021\n"
 "help.text"
 msgid "Refer to your corporate data security policy and information security officers for support in document classification."
-msgstr ""
+msgstr "សូមយោងទៅគោលនយោបាយសន្តិសុខទិន្នន័យក្រុមហ៊ុននិងមន្រ្តីសន្តិសុខព័ត៌មានសម្រាប់ការគាំទ្រក្នុងការចាត់ថ្នាក់ឯកសារ។"
 
 #. Dzmda
 #: classificationbar.xhp
@@ -213,7 +211,7 @@ msgctxt ""
 "hd_id030820161747122444\n"
 "help.text"
 msgid "Default levels of classification"
-msgstr ""
+msgstr "កំរិតលំនាំដើមនៃចំណាត់ថ្នាក់"
 
 #. CAfDt
 #: classificationbar.xhp
@@ -222,7 +220,7 @@ msgctxt ""
 "bm_id030820161849574719\n"
 "help.text"
 msgid "<bookmark_value>classification levels;Internal use only</bookmark_value>  <bookmark_value>classification levels;Confidential</bookmark_value>  <bookmark_value>classification levels;General Business</bookmark_value>  <bookmark_value>classification levels;Non-Business</bookmark_value>"
-msgstr ""
+msgstr "<bookmark_value>កំរិតចំណាត់ថ្នាក់;ប្រើតែផ្ទៃក្នុងប៉ុណ្ណោះ</bookmark_value>  <bookmark_valueកំរិតចំណាត់ថ្នាក់;ការសម្ងាត់</bookmark_value>  <bookmark_value>កំរិតចំណាត់ថ្នាក់;អាជីវកម្មទូទៅ</bookmark_value>  <bookmark_value>កំរិតចំណាត់ថ្នាក់;មិនមែនជំនួញ</bookmark_value>"
 
 #. zGVp8
 #: classificationbar.xhp
@@ -231,7 +229,7 @@ msgctxt ""
 "par_id030820161747139337\n"
 "help.text"
 msgid "%PRODUCTNAME provides default levels of document classification (<item type=\"acronym\">BAILS</item>) shown below, sorted by increasing level of business sensitivity:"
-msgstr ""
+msgstr "%PRODUCTNAME ផ្តល់នូវកម្រិតនៃការធ្វើចំណាត់ថ្នាក់ឯកសារតាមលំនាំដើម (<item type=\"acronym\">ធានា</item>) បង្ហាញដូចខាងក្រោម, តម្រៀបតាមការបង្កើនកម្រិតភាពប្រែប្រួលនៃអាជីវកម្ម៖"
 
 #. bhAGA
 #: classificationbar.xhp
@@ -240,7 +238,7 @@ msgctxt ""
 "par_id030820161747135421\n"
 "help.text"
 msgid "<emph>Non-Business</emph>: Information in document has no impact in business, if made public."
-msgstr ""
+msgstr "<emph> មិនមែនពាណិជ្ជកម្ម </emph>៖ ព័ត៌មាននៅក្នុងឯកសារមិនមានផលប៉ះពាល់ដល់អាជីវកម្មទេប្រសិនបើត្រូវផ្សព្វផ្សាយជាសាធារណៈ។"
 
 #. BJAGV
 #: classificationbar.xhp
@@ -249,7 +247,7 @@ msgctxt ""
 "par_id030820161747132341\n"
 "help.text"
 msgid "<emph>General Business</emph>: Minor impact. Information has impact in business, can generate embarrassments, minor damage in brand image, if made public."
-msgstr ""
+msgstr "<emph> អាជីវកម្មទូទៅ </emph>៖ ផលប៉ះពាល់តិចតួច។ ព័ត៌មានមានផលប៉ះពាល់ដល់អាជីវកម្មអាចបង្កើតភាពអាម៉ាស់និងខូចខាតតិចតួចក្នុងរូបភាពយីហោប្រសិនបើត្រូវផ្សព្វផ្សាយជាសាធារណៈ។"
 
 #. xGJN3
 #: classificationbar.xhp
@@ -258,7 +256,7 @@ msgctxt ""
 "par_id030820161747139845\n"
 "help.text"
 msgid "<emph>Confidential</emph>: Modest impact. Information disclosed can damage business brand, can generate negative media coverage and loss of revenue."
-msgstr ""
+msgstr "<emph> ការសម្ងាត់ </emph>៖ ផលប៉ះពាល់តិចតួច។ ព័ត៌មានដែលបានបង្ហាញអាចធ្វើឱ្យខូចយីហោអាជីវកម្មអាចបង្កើតការផ្សព្វផ្សាយតាមប្រព័ន្ធផ្សព្វផ្សាយអវិជ្ជមាននិងការបាត់បង់ប្រាក់ចំណូល។"
 
 #. FaGhw
 #: classificationbar.xhp
@@ -267,7 +265,7 @@ msgctxt ""
 "par_id030820161747138519\n"
 "help.text"
 msgid "<emph>Internal use only</emph>: Major damage. Negative national media, lawsuits, fines, long term brand damages."
-msgstr ""
+msgstr "<emph> ការប្រើប្រាស់ខាងក្នុងតែ </emph>: ការខូចខាតធំៗ ។ ប្រព័ន្ធផ្សព្វផ្សាយជាតិអវិជ្ជមានពាក្យបណ្តឹងការពិន័យការខូតខាតម៉ាកយីហោរយៈពេលវែង។"
 
 #. wTzaa
 #: classificationbar.xhp
@@ -276,7 +274,7 @@ msgctxt ""
 "hd_id030820161747134459\n"
 "help.text"
 msgid "Customizing classification levels."
-msgstr ""
+msgstr "កំណត់កម្រិតចំណាត់ថ្នាក់តាមតម្រូវការ។"
 
 #. z6j8J
 #: classificationbar.xhp
@@ -285,7 +283,7 @@ msgctxt ""
 "bm_id030820161851045883\n"
 "help.text"
 msgid "<bookmark_value>custom;classification levels</bookmark_value>  <bookmark_value>classification levels;customizing</bookmark_value>"
-msgstr ""
+msgstr "<bookmark_value>កែតាមតំរូវការ កំរិតកំណត់ចំណាត់ថ្នាក់</bookmark_value><bookmark_value>កំរិតកំណត់ចំណាត់ថ្នាក់ ការកែតាមតំរូវការ</bookmark_value>"
 
 #. zP3TN
 #: classificationbar.xhp
@@ -294,7 +292,7 @@ msgctxt ""
 "par_id030820161747133280\n"
 "help.text"
 msgid "%PRODUCTNAME allows customization of the levels of classification for your business. To customize the number and the name of the levels, copy the file <item type=\"literal\">example.xml</item> located in <switchinline select=\"sys\"><caseinline select=\"MAC\"><menuitem>%PRODUCTNAME - Preferences</menuitem></caseinline><defaultinline><menuitem>Tools - Options</menuitem></defaultinline></switchinline><menuitem> - LibreOffice - Paths - Classification</menuitem> into a local folder and edit the contents."
-msgstr ""
+msgstr "%PRODUCTNAME អនុញ្ញាតឱ្យប្តូរតាមកម្រិតនៃចំណាត់ថ្នាក់សម្រាប់អាជីវកម្មរបស់អ្នក។ ដើម្បីប្តូរលេខនិងឈ្មោះតាមកំរិតសូមចំលងឯកសារ <item type=\"literal\">example.xml</item> ដែលមានទីតាំងនៅ  <switchinline select=\"sys\"><caseinline select=\"MAC\"><menuitem> %PRODUCTNAME - ចំណូលចិត្ត </menuitem> </caseinline> <defaultinline> <menuitem> ឧបករណ៍ - ជម្រើស </menuitem> </defaultinline> </switchinline> <menuitem> - LibreOffice - ផ្លូវ - ចំណាត់ថ្នាក់ </menuitem> ទៅក្នុងថតមូលដ្ឋាន និងកែសម្រួលមាតិកា។"
 
 #. F3njz
 #: classificationbar.xhp
@@ -303,7 +301,7 @@ msgctxt ""
 "par_id03082016174713477\n"
 "help.text"
 msgid "Use the file with your %PRODUCTNAME locale in the name as example."
-msgstr ""
+msgstr "ប្រើឯកសារជាមួយមូលដ្ឋាន %PRODUCTNAME របស់អ្នកក្នុងឈ្មោះជាឧទាហរណ៍។"
 
 #. rx2Dm
 #: classificationbar.xhp
@@ -312,7 +310,7 @@ msgctxt ""
 "par_id030820161747137522\n"
 "help.text"
 msgid "Save the file and make the adequate changes to the classification path above to access the file."
-msgstr ""
+msgstr "រក្សាទុកឯកសារនិងធ្វើការផ្លាស់ប្តូរឱ្យបានគ្រប់គ្រាន់ចំពោះចំណាត់ថ្នាក់ចំណាត់ថ្នាក់ខាងលើដើម្បីចូលប្រើឯកសារ។"
 
 #. Z2iUo
 #: classificationbar.xhp
@@ -321,7 +319,7 @@ msgctxt ""
 "par_id030820161747135133\n"
 "help.text"
 msgid "Your system administrator can place the file in a network folder and make all users access the classification settings file."
-msgstr ""
+msgstr "អ្នកគ្រប់គ្រងប្រព័ន្ធរបស់អ្នកអាចដាក់ឯកសារនៅក្នុងថតបណ្តាញហើយធ្វើឱ្យអ្នកប្រើទាំងអស់ចូលប្រើឯកសារកំណត់ចំណាត់ថ្នាក់។"
 
 #. 5DSiM
 #: classificationbar.xhp
@@ -330,7 +328,7 @@ msgctxt ""
 "hd_id03082016174713354\n"
 "help.text"
 msgid "Pasting contents in documents with different levels of classification."
-msgstr ""
+msgstr "ការបិទភ្ជាប់មាតិកានៅក្នុងឯកសារដែលមានកំរិតខុសគ្នានៃចំណាត់ថ្នាក់។"
 
 #. WxMFo
 #: classificationbar.xhp
@@ -339,7 +337,7 @@ msgctxt ""
 "bm_id030820161851512902\n"
 "help.text"
 msgid "<bookmark_value>document classification;pasting contents</bookmark_value>"
-msgstr ""
+msgstr "<bookmark_value>ចំណាត់ថ្នាក់សៀវភៅឯកសារមាតិកាដែលបិទភ្ជាប់ </bookmark_value>"
 
 #. NdsxG
 #: classificationbar.xhp
@@ -348,7 +346,7 @@ msgctxt ""
 "par_id030820161747134188\n"
 "help.text"
 msgid "To prevent a breach in the security policy, contents with high classification level pasted to documents with lower classification level are not allowed. %PRODUCTNAME will display a warning message wherever it detects that the contents of the clipboard have higher security classification than the target document."
-msgstr ""
+msgstr "ដើម្បីទប់ស្កាត់ការរំលោភបំពានលើគោលការណ៍សន្តិសុខមាតិកាដែលមានកំរិតចំណាត់ថ្នាក់ខ្ពស់បានបិទភ្ជាប់ទៅនឹងឯកសារដែលមានកំរិតចំណាត់ថ្នាក់ទាបមិនត្រូវបានអនុញ្ញាត។ %PRODUCTNAME នឹងបង្ហាញសារព្រមាននៅកន្លែងណាដែលរកឃើញថាមាតិកានៃក្តារតម្បៀតខ្ទាស់មានចំណាត់ថ្នាក់សុវត្ថិភាពខ្ពស់ជាងឯកសារគោលដៅ។"
 
 #. 9oBUS
 #: classificationbar.xhp
@@ -357,7 +355,7 @@ msgctxt ""
 "hd_id3150342\n"
 "help.text"
 msgid "<link href=\"text/swriter/classificationbar.xhp\" name=\"Classification Bar\">Classification Bar</link>"
-msgstr ""
+msgstr "<link href=\"text/swriter/classificationbar.xhp\" name=\"Classification Bar\">របារចំណាត់ថ្នាក់</link>"
 
 #. fF68i
 #: classificationbar.xhp
@@ -366,7 +364,7 @@ msgctxt ""
 "bm_id030820161853495457\n"
 "help.text"
 msgid "<bookmark_value>Classification toolbar;display</bookmark_value>"
-msgstr ""
+msgstr "<bookmark_value>របាឧបករណ៍ចំណាត់ថ្នាក់ បង្ហាញ</bookmark_value>"
 
 #. gYggL
 #: classificationbar.xhp
@@ -375,7 +373,7 @@ msgctxt ""
 "par_id3150202\n"
 "help.text"
 msgid "<ahelp hid=\".\">The <emph>Classification</emph> bar contains tools to help secure document handling.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".\">  ចំណាត់ថ្នាក់ក្រុម <emph> ចំណាត់ថ្នាក់ </emph> មានឧបករណ៍ដើម្បីជួយដោះស្រាយឯកសារដោយសុវត្ថិភាព។ </ahelp>"
 
 #. FtFz5
 #: classificationbar.xhp
@@ -384,7 +382,7 @@ msgctxt ""
 "par_id030820161754171423\n"
 "help.text"
 msgid "The <emph>Classification</emph> toolbar contains listboxes to help in selecting the security of the document, according to the <item type=\"acronym\">BAF</item> category policy and <item type=\"acronym\">BAILS</item> levels. %PRODUCTNAME will add custom fields in the document properties (<item type=\"menuitem\">File - Properties</item>, <emph>Custom Properties</emph> tab) to store the classification policy as document metadata."
-msgstr ""
+msgstr "របាឧបករណ៍ចំណាត់ថ្នាក់ <emph> ចំណាត់ថ្នាក់ </emph> មានប្រអប់បញ្ជីដើម្បីជួយក្នុងការជ្រើសរើសសុវត្ថិភាពឯកសារយោងតាម <item type=\"acronym\"> BAF គោលការណ៍ប្រភេទ</item> និង <item type=\"acronym\"> ធានា </item> កម្រិត​។ %PRODUCTNAME នឹងបន្ថែមវាលផ្ទាល់ខ្លួននៅក្នុងលក្ខណសម្បត្តិឯកសារ (<item type=\"menuitem\"> ឯកសារ - លក្ខណសម្បត្តិ </item> , <emph>​ ថេបលក្ខណសម្បត្តិផ្ទាល់ខ្លួន </emph>) ដើម្បីរក្សាទុកគោលការណ៍ចាត់ថ្នាក់ជាទិន្នន័យមេតាឯកសារ។"
 
 #. eDVXe
 #: classificationbar.xhp
@@ -393,7 +391,7 @@ msgctxt ""
 "par_id030820161754175408\n"
 "help.text"
 msgid "Go to menu <item type=\"menuitem\">View - Toolbars</item> and select <item type=\"menuitem\">Classification</item>"
-msgstr ""
+msgstr "ចូលទៅកាន់មីនុយ<item type=\"menuitem\"> មើល - របារឧបករណ៍ </item> ហើយជ្រើសរើស <item type=\"menuitem\"> ចំណាត់ថ្នាក់ </item>"
 
 #. WbAuh
 #: classificationbar.xhp
@@ -402,7 +400,7 @@ msgctxt ""
 "par_id030820161818081317\n"
 "help.text"
 msgid "<link href=\"https://www.tscp.org/about-tscp/\"><item type=\"acronym\">TSCP</item> (Transglobal Secure Collaboration Participation, Inc.) website</link>."
-msgstr ""
+msgstr "<link href=\"https://www.tscp.org/about-tscp/\"><item type=\"acronym\">  TSCP </item> (ការចូលរួមនៃកិច្ចសហប្រតិបត្ដិការសុវត្ថិភាព Transglobal, Inc) </link> ។"
 
 #. pTTL8
 #: classificationbar.xhp
@@ -411,7 +409,7 @@ msgctxt ""
 "par_id030820161818082152\n"
 "help.text"
 msgid "<link href=\"https://www.tscp.org/wp-content/uploads/2013/08/TSCP_BAFv1.pdf\">Business Authentication Framework (<item type=\"acronym\">BAF</item>) document (PDF)</link>"
-msgstr ""
+msgstr "<link href=\"https://www.tscp.org/wp-content/uploads/2013/08/TSCP_BAFv1.pdf\"> ក្របខ័ណ្ឌការផ្ទៀងផ្ទាត់ភាពត្រឹមត្រូវអាជីវកម្ម (<item type=\"acronym\">BAF </item>) ឯកសារ ( PDF) </link>"
 
 #. 47rPQ
 #: classificationbar.xhp
@@ -420,7 +418,7 @@ msgctxt ""
 "par_id030820161818085901\n"
 "help.text"
 msgid "<link href=\"http://www.tscp.org/wp-content/uploads/2013/08/TSCP_BAILSv1.pdf\">Business Authorization Identification and Labeling Scheme (<item type=\"acronym\">BAILS</item>) document (PDF)</link>"
-msgstr ""
+msgstr "<link href=\"http://www.tscp.org/wp-content/uploads/2013/08/TSCP_BAILSv1.pdf\">  ការកំណត់អត្តសញ្ញាណនិងការផ្តល់សិទ្ធិធ្វើអាជីវកម្ម (<item type=\"acronym\">ធានា</item> ) ឯកសារ (PDF) </link>"
 
 #. x2qZ6
 #: mailmergetoolbar.xhp
@@ -429,7 +427,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Mail Merge Toolbar"
-msgstr ""
+msgstr "របារឧបករណ៍បញ្ចូលសំបុត្រ"
 
 #. 6B2FA
 #: mailmergetoolbar.xhp
@@ -438,7 +436,7 @@ msgctxt ""
 "hd_id201703240024554113\n"
 "help.text"
 msgid "<link href=\"text/swriter/mailmergetoolbar.xhp\">Mail Merge Toolbar</link>"
-msgstr ""
+msgstr "<link href=\"text/swriter/mailmergetoolbar.xhp\"> របារឧបករណ៍បញ្ចូលសំបុត្រ</link>"
 
 #. HJAAB
 #: mailmergetoolbar.xhp
@@ -447,7 +445,7 @@ msgctxt ""
 "par_id201703240025596148\n"
 "help.text"
 msgid "The Mail Merge Toolbar contains commands for the final steps of the mail merge process."
-msgstr ""
+msgstr "របារឧបករណ៍រួមបញ្ចូលសំបុត្រមានពាក្យបញ្ជាសម្រាប់ជំហានចុងក្រោយនៃដំណើរការសំបុត្រសំណុំបែបបទ។"
 
 #. 9Ecmk
 #: mailmergetoolbar.xhp
@@ -456,7 +454,7 @@ msgctxt ""
 "par_id030820161754175468\n"
 "help.text"
 msgid "Go to menu <item type=\"menuitem\">View - Toolbars</item> and select <item type=\"menuitem\">Mail Merge</item>"
-msgstr ""
+msgstr "ចូលទៅកាន់ មីនុយ <item type=\"menuitem\"> មើល - របារឧបករណ៍ </item> ហើយជ្រើសរើស <item type=\"menuitem\">  សំបុត្ររួមបញ្ចូលគ្នា </item>"
 
 #. BxVvc
 #: mailmergetoolbar.xhp
@@ -465,7 +463,7 @@ msgctxt ""
 "par_idN10559\n"
 "help.text"
 msgid "(Recipient number)"
-msgstr ""
+msgstr "(លេខអ្នកទទួល)"
 
 #. 7GUxk
 #: mailmergetoolbar.xhp
@@ -474,7 +472,7 @@ msgctxt ""
 "par_idN1055A\n"
 "help.text"
 msgid "<ahelp hid=\".\">Enter the address record number of a recipient to preview the mail merge document for the recipient.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".\">​ បញ្ចូលលេខកំណត់ត្រាអាសយដ្ឋានរបស់អ្នកទទួលដើម្បីមើលឯកសារសំបុត្រសំណុំបែបបទសម្រាប់អ្នកទទួលជាមុន។ </ahelp>"
 
 #. qhsJA
 #: mailmergetoolbar.xhp
@@ -483,7 +481,7 @@ msgctxt ""
 "par_idN10604\n"
 "help.text"
 msgid "<ahelp hid=\".\">Use the browse buttons to scroll through the address records.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".\">  ប្រើប៊ូតុងរកមើលដើម្បីអូសមើលកំណត់ត្រាអាសយដ្ឋាន។ </ahelp>"
 
 #. AV749
 #: mailmergetoolbar.xhp
@@ -492,7 +490,7 @@ msgctxt ""
 "par_idN1055D\n"
 "help.text"
 msgid "Exclude recipient"
-msgstr ""
+msgstr "មិនរាប់បញ្ចូលអ្នកទទួល"
 
 #. RBXJC
 #: mailmergetoolbar.xhp
@@ -501,7 +499,7 @@ msgctxt ""
 "par_idN10561\n"
 "help.text"
 msgid "<ahelp hid=\".\">Excludes the current recipient from this mail merge.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".\"> មិនរាប់បញ្ចូលអ្នកទទួលបច្ចុប្បន្នពីការបញ្ចូលសំបុត្រនេះទេ។ </ahelp>"
 
 #. TFyWt
 #: mailmergetoolbar.xhp
@@ -510,7 +508,7 @@ msgctxt ""
 "par_idN10564\n"
 "help.text"
 msgid "Edit Individual Documents"
-msgstr ""
+msgstr "កែសម្រួលឯកសារបុគ្គល"
 
 #. Qm2ty
 #: mailmergetoolbar.xhp
@@ -520,6 +518,8 @@ msgctxt ""
 "help.text"
 msgid "<ahelp hid=\".\">Creates a single merged document with page breaks between each recipient.</ahelp> The names and the addresses of the recipients are contained in the document, which can be customized as needed."
 msgstr ""
+"<ahelp hid=\".\"> បង្កើតឯកសាររួមបញ្ចូលតែមួយជាមួយការបំបែកទំព័ររវាងអ្នកទទួលម្នាក់ៗ។\n"
+"</ahelp> ឈ្មោះនិងអាស័យដ្ឋានរបស់អ្នកទទួលគឺមាននៅក្នុងឯកសារដែលអាចប្តូរតាមតំរូវការ។"
 
 #. 5JFds
 #: main0000.xhp
@@ -564,7 +564,7 @@ msgctxt ""
 "hd_id3149183\n"
 "help.text"
 msgid "Help about the Help"
-msgstr ""
+msgstr "ជំនួយអំពីជំនួយ"
 
 #. aFUnY
 #: main0100.xhp
@@ -663,7 +663,7 @@ msgctxt ""
 "hd_id102920150120456626\n"
 "help.text"
 msgid "<link href=\"text/swriter/02/18130000.xhp\" name=\"Direct Cursor Mode\">Direct Cursor Mode</link>"
-msgstr ""
+msgstr "<link href=\"text/swriter/02/18130000.xhp\" name=\"Direct Cursor Mode\"> របៀបទស្សន៍ទ្រនិចផ្ទាល់</link>"
 
 #. 96mxR
 #: main0102.xhp
@@ -672,7 +672,7 @@ msgctxt ""
 "par_id102920150120459176\n"
 "help.text"
 msgid "Allows a user to click at the beginning, middle, or end of any possible text line on a page and then begin typing."
-msgstr ""
+msgstr "អនុញ្ញាតឱ្យអ្នកប្រើប្រាស់ចុចនៅដើម, ពាក់កណ្តាលឬខាងចុងនៃបន្ទាត់អត្ថបទដែលអាចមាននៅលើទំព័រហើយបន្ទាប់មកចាប់ផ្តើមវាយ។"
 
 #. Hug2v
 #: main0102.xhp
@@ -681,7 +681,7 @@ msgctxt ""
 "hd_id102920150120455108\n"
 "help.text"
 msgid "Go to Page"
-msgstr ""
+msgstr "ទៅកាន់​ទំព័រ"
 
 #. jFEMN
 #: main0102.xhp
@@ -690,7 +690,7 @@ msgctxt ""
 "par_id102920150120456660\n"
 "help.text"
 msgid "Opens the <emph>Navigator</emph> window on the <emph>Page Number</emph> spin button, so you can enter in a page number."
-msgstr ""
+msgstr "បើកផ្ទាំង <emph> កម្មវិធីរុករក </emph> នៅលើប៊ូតុងបង្កើនបន្ថយលេខទំព័រដូច្នេះអ្នកអាចបញ្ចូលលេខទំព័រ។"
 
 #. tBDS3
 #: main0102.xhp
@@ -737,6 +737,15 @@ msgctxt ""
 msgid "<link href=\"text/shared/01/02180000.xhp\" name=\"Links\">Links</link>"
 msgstr "<link href=\"text/shared/01/02180000.xhp\" name=\"Links\">តំណ</link>"
 
+#. C22bV
+#: main0102.xhp
+msgctxt ""
+"main0102.xhp\n"
+"hd_id3156150\n"
+"help.text"
+msgid "<link href=\"text/shared/01/02220000.xhp\" name=\"ImageMap\">ImageMap</link>"
+msgstr "<link href=\"text/shared/01/02220000.xhp\" name=\"ImageMap\">ផែនទី​រូបភាព</link>"
+
 #. pFCu3
 #: main0102.xhp
 msgctxt ""
@@ -744,7 +753,7 @@ msgctxt ""
 "hd_id0914201502131542\n"
 "help.text"
 msgid "<link href=\"text/shared/01/02200000.xhp\" name=\"Object\">Object</link>"
-msgstr "<link href=\"text/shared/01/01020000.xhp\" name=\"Open\">បើក</link>"
+msgstr "<link href=\"text/shared/01/01020000.xhp\" name=\"Open\">វត្ថុ</link>"
 
 #. zRW8E
 #: main0103.xhp
@@ -780,7 +789,7 @@ msgctxt ""
 "par_id102720150703473580\n"
 "help.text"
 msgid "<link href=\"text/swriter/01/03130000.xhp\">Normal</link>"
-msgstr "<link href=\"text/swriter/01/06100000.xhp\">តម្រៀប</link>"
+msgstr "<link href=\"text/swriter/01/06100000.xhp\">ធម្មតា</link>"
 
 #. QDRrz
 #: main0103.xhp
@@ -789,7 +798,7 @@ msgctxt ""
 "par_id102720150703478401\n"
 "help.text"
 msgid "<link href=\"text/swriter/01/03120000.xhp\">Web</link>"
-msgstr "<link href=\"text/swriter/01/06100000.xhp\">តម្រៀប</link>"
+msgstr "<link href=\"text/swriter/01/06100000.xhp\">គេហទំព័រ</link>"
 
 #. nRv2U
 #: main0103.xhp
@@ -798,7 +807,7 @@ msgctxt ""
 "hd_id102720150854015048\n"
 "help.text"
 msgid "Scrollbars"
-msgstr ""
+msgstr "រមូរ"
 
 #. DW3uE
 #: main0103.xhp
@@ -807,7 +816,7 @@ msgctxt ""
 "par_id102720150854017277\n"
 "help.text"
 msgid "Show or hide the horizontal and vertical scroll bars that are used to change the viewable area of a document that doesn't fit within the window."
-msgstr ""
+msgstr "បង្ហាញឬលាក់របាររមូរផ្ដេកនិងបញ្ឈរដែលត្រូវបានប្រើដើម្បីផ្លាស់ប្តូរតំបន់ដែលអាចមើលបាននៃឯកសារដែលមិនសមនឹងបង្អួច។"
 
 #. Qcoew
 #: main0103.xhp
@@ -825,7 +834,7 @@ msgctxt ""
 "par_idN107CA\n"
 "help.text"
 msgid "Shows or hides the borders of table cells that have no set borders. The boundaries are only visible on screen and are not printed."
-msgstr ""
+msgstr "បង្ហាញឬលាក់ស៊ុមរបស់ក្រឡាតារាងដែលគ្មានព្រំដែនកំណត់។ ព្រំដែនអាចមើលឃើញតែលើអេក្រង់ហើយមិនត្រូវបានបោះពុម្ពទេ។"
 
 #. BGHSk
 #: main0103.xhp
@@ -834,7 +843,7 @@ msgctxt ""
 "hd_id102720150854011929\n"
 "help.text"
 msgid "Images and Charts"
-msgstr ""
+msgstr "រូបភាពនិងគំនូសតាង"
 
 #. rFzz3
 #: main0103.xhp
@@ -843,7 +852,7 @@ msgctxt ""
 "par_id102720150854013292\n"
 "help.text"
 msgid "Show or hide graphical objects like images and charts within a document."
-msgstr ""
+msgstr "បង្ហាញឬលាក់វត្ថុក្រាហ្វិកដូចជារូបភាពនិងគំនូសតាងនៅក្នុងឯកសារ។"
 
 #. ewZgE
 #: main0103.xhp
@@ -852,7 +861,7 @@ msgctxt ""
 "hd_id102720150854019880\n"
 "help.text"
 msgid "Comments"
-msgstr ""
+msgstr "យោបល់"
 
 #. hjPDz
 #: main0103.xhp
@@ -861,7 +870,7 @@ msgctxt ""
 "par_id102720150854014989\n"
 "help.text"
 msgid "Show or hide a document's comments and replies to them."
-msgstr ""
+msgstr "បង្ហាញឬលាក់យោបល់របស់ឯកសារនិងឆ្លើយតបទៅពួកគេ។"
 
 #. EWoyn
 #: main0103.xhp
@@ -870,7 +879,7 @@ msgctxt ""
 "hd_id981573492083329\n"
 "help.text"
 msgid "Resolved comments"
-msgstr ""
+msgstr "យោបល់ដែលបានដោះស្រាយ"
 
 #. DGBcc
 #: main0103.xhp
@@ -879,7 +888,7 @@ msgctxt ""
 "par_id331573492076499\n"
 "help.text"
 msgid "Show or hide <link href=\"text/shared/01/04050000.xhp#resolvecomments\" name=\"resolve comments\">resolved comments</link>."
-msgstr ""
+msgstr "បង្ហាញឬលាក់  <link href=\"text/shared/01/04050000.xhp#resolvecomments\" name=\"resolve comments\">មតិយោបល់ដែលបានដោះស្រាយ</link>."
 
 #. EsnVW
 #: main0103.xhp
@@ -888,7 +897,7 @@ msgctxt ""
 "hd_id102720150854018740\n"
 "help.text"
 msgid "Show Whitespace"
-msgstr ""
+msgstr "បង្ហាញ ចន្លោះពណ៌ស"
 
 #. WJ3Vz
 #: main0103.xhp
@@ -897,7 +906,7 @@ msgctxt ""
 "par_id102720150854012820\n"
 "help.text"
 msgid "Displays the document with the top and bottom margins, header and footer and a gap between pages. Uncheck to collapse all the elements above and display document in a contiguous page stream. Hiding whitespace is only possible in Single-page view."
-msgstr ""
+msgstr "បង្ហាញឯកសារដែលមានរឹមខាងលើនិងខាងក្រោមបឋមកថានិងបាតកថានិងគម្លាតរវាងទំព័រ។ ដោះធីកដើម្បីបង្រួមធាតុទាំងអស់ខាងលើនិងបង្ហាញឯកសារនៅក្នុងខ្សែរទំព័រជាប់គ្នា។ ការលាក់ចន្លោះអាចធ្វើទៅបានក្នុងការមើលទំព័រតែមួយ។"
 
 #. eBSCq
 #: main0103.xhp
@@ -906,7 +915,7 @@ msgctxt ""
 "hd_id03302017034826145\n"
 "help.text"
 msgid "Track Changes"
-msgstr ""
+msgstr "តាមដានការផ្លាស់ប្តូរ"
 
 #. 95G2n
 #: main0103.xhp
@@ -915,7 +924,7 @@ msgctxt ""
 "hd_id102720150908397549\n"
 "help.text"
 msgid "<link href=\"text/shared/01/gallery.xhp\">Gallery</link>"
-msgstr ""
+msgstr "<link href=\"text/shared/01/gallery.xhp\"> វិចិត្រសាល</link>"
 
 #. NEqPZ
 #: main0103.xhp
@@ -951,7 +960,7 @@ msgctxt ""
 "par_id3155358\n"
 "help.text"
 msgid "<ahelp hid=\".\">The Insert menu contains commands for inserting new elements in your document. This includes images, media, charts, objects from other applications, hyperlink, comments, symbols, footnotes, and sections.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".\"> ម៉ឺនុយបញ្ចូលមានពាក្យបញ្ជាសម្រាប់បញ្ចូលធាតុថ្មីនៅក្នុងឯកសាររបស់អ្នក។ នេះរួមបញ្ចូលទាំងរូបភាពប្រព័ន្ធផ្សព្វផ្សាយគំនូសតាងវត្ថុពីកម្មវិធីផ្សេងៗតំណខ្ពស់មតិនិមិត្តសញ្ញាលេខយោងនិងផ្នែក។ </ahelp>"
 
 #. paR8F
 #: main0104.xhp
@@ -960,7 +969,7 @@ msgctxt ""
 "hd_id030420160850525240\n"
 "help.text"
 msgid "Page Break"
-msgstr ""
+msgstr "បំបែកទំព័រ"
 
 #. 8z5Gv
 #: main0104.xhp
@@ -969,7 +978,7 @@ msgctxt ""
 "par_id030420160850533104\n"
 "help.text"
 msgid "<ahelp hid=\".uno:InsertPagebreak\">Inserts a manual page break at the current cursor position and places the cursor at the beginning of the next page.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".uno:InsertPagebreak\"> បញ្ចូលការបំបែកទំព័រដោយដៃនៅទីតាំងទស្សន៍ទ្រនិចបច្ចុប្បន្នហើយដាក់ទស្សន៍ទ្រនិចនៅដើមទំព័របន្ទាប់។ </ahelp>"
 
 #. AiHET
 #: main0104.xhp
@@ -996,7 +1005,7 @@ msgctxt ""
 "hd_id030720160706334584\n"
 "help.text"
 msgid "<link href=\"text/shared/02/01140000.xhp#textbox_title\" name=\"Textbox\">Textbox</link>"
-msgstr ""
+msgstr "<link href=\"text/shared/02/01140000.xhp#textbox_title\" name=\"Textbox\"> ប្រអប់អត្ថបទ</link>"
 
 #. zZBZz
 #: main0104.xhp
@@ -1014,7 +1023,7 @@ msgctxt ""
 "hd_id030420161125315689\n"
 "help.text"
 msgid "Horizontal Line"
-msgstr ""
+msgstr "បន្ទាត់ផ្តេក"
 
 #. 7pGUa
 #: main0104.xhp
@@ -1023,7 +1032,7 @@ msgctxt ""
 "par_id030420161125315647\n"
 "help.text"
 msgid "Inserts a horizontal line at the current cursor position."
-msgstr ""
+msgstr "បញ្ចូលបន្ទាត់ផ្ដេកនៅទីតាំងទស្សន៍ទ្រនិចបច្ចុប្បន្ន។"
 
 #. xiCSu
 #: main0104.xhp
@@ -1050,7 +1059,7 @@ msgctxt ""
 "hd_id3149428\n"
 "help.text"
 msgid "<link href=\"text/swriter/01/04190000.xhp\" name=\"File\">Text from File</link>"
-msgstr ""
+msgstr "<link href=\"text/swriter/01/04190000.xhp\" name=\"File\"> អត្ថបទពីឯកសារ</link>"
 
 #. RFwdc
 #: main0104.xhp
@@ -1185,7 +1194,7 @@ msgctxt ""
 "hd_id3149965\n"
 "help.text"
 msgid "<link href=\"text/swriter/01/06060000.xhp\" name=\"Chapter Numbering\">Chapter Numbering</link>"
-msgstr ""
+msgstr "<link href=\"text/swriter/01/06060000.xhp\" name=\"Chapter Numbering\"> លេខជំពូក</link>"
 
 #. QQbkx
 #: main0106.xhp
@@ -1222,15 +1231,6 @@ msgctxt ""
 "help.text"
 msgid "<link href=\"text/shared/01/06040000.xhp\" name=\"AutoCorrect\">AutoCorrect Options</link>"
 msgstr "<link href=\"text/shared/01/06040000.xhp\" name=\"AutoCorrect\">ជម្រើស​កែ​ដោយ​ស្វ័យ​ប្រវត្តិ</link>"
-
-#. qKqMR
-#: main0106.xhp
-msgctxt ""
-"main0106.xhp\n"
-"hd_id3156150\n"
-"help.text"
-msgid "<link href=\"text/shared/01/02220000.xhp\" name=\"ImageMap\">ImageMap</link>"
-msgstr ""
 
 #. VY3FE
 #: main0106.xhp
@@ -1302,7 +1302,7 @@ msgctxt ""
 "par_idN105B5\n"
 "help.text"
 msgid "<link href=\"text/swriter/01/04150000.xhp\">Insert Table</link>"
-msgstr ""
+msgstr "<link href=\"text/swriter/01/04150000.xhp\"> បញ្ចូលតារាង</link>"
 
 #. YCMVU
 #: main0110.xhp
@@ -1383,7 +1383,7 @@ msgctxt ""
 "par_idN1060A\n"
 "help.text"
 msgid "<ahelp hid=\".\">Deletes the current table.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".\">​លុបតារាងបច្ចុប្បន្ន។</ahelp>"
 
 #. TdA3g
 #: main0110.xhp
@@ -1428,7 +1428,7 @@ msgctxt ""
 "par_idN105B3\n"
 "help.text"
 msgid "Select"
-msgstr "ជ្រើស"
+msgstr "ជ្រើសរើស"
 
 #. TA2Qc
 #: main0110.xhp
@@ -1500,7 +1500,7 @@ msgctxt ""
 "par_idN10638\n"
 "help.text"
 msgid "<ahelp hid=\".\">Selects the current cell.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".\">​ជ្រើសក្រឡាបច្ចុប្បន្ន។</ahelp>"
 
 #. ChNkP
 #: main0110.xhp
@@ -1617,7 +1617,7 @@ msgctxt ""
 "par_idN1071D\n"
 "help.text"
 msgid "Break Across Pages"
-msgstr ""
+msgstr "បំបែកទំព័រ"
 
 #. hCuCp
 #: main0110.xhp
@@ -1626,7 +1626,7 @@ msgctxt ""
 "par_idN10720\n"
 "help.text"
 msgid "Allows a page break within the current row."
-msgstr ""
+msgstr "អនុញ្ញាតឱ្យបំបែកទំព័រនៅក្នុងជួរដេកបច្ចុប្បន្ន។"
 
 #. JAcVx
 #: main0110.xhp
@@ -1635,7 +1635,7 @@ msgctxt ""
 "par_idN105FF\n"
 "help.text"
 msgid "Repeat Heading Rows"
-msgstr ""
+msgstr "ធ្វើក្បាលជួរដេកម្តងទៀត"
 
 #. JgUrF
 #: main0110.xhp
@@ -1644,7 +1644,7 @@ msgctxt ""
 "par_idN1072D\n"
 "help.text"
 msgid "<ahelp hid=\".\">Repeats the table headers on subsequent pages if the table spans one or more pages.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".\"> ដាក់ក្បាលតារាងម្តងទៀតលើទំព័របន្តប្រសិនបើតារាងមានទំព័រមួយឬច្រើន។ </ahelp>"
 
 #. kwKdS
 #: main0110.xhp
@@ -1734,7 +1734,7 @@ msgctxt ""
 "par_idN107AC\n"
 "help.text"
 msgid "Opens <link href=\"text/shared/optionen/01040500.xhp\">a dialog</link> where you can specify the format of numbers in the table."
-msgstr ""
+msgstr "បើក <link href=\"text/shared/optionen/01040500.xhp\">​ ប្រអប់ </link> ដែលអ្នកអាចបញ្ជាក់ទ្រង់ទ្រាយលេខនៅក្នុងតារាង។"
 
 #. 9GBWo
 #: main0110.xhp
@@ -1752,7 +1752,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Styles"
-msgstr ""
+msgstr "រចនាប័ទ្ម"
 
 #. uvGcE
 #: main0115.xhp
@@ -1761,7 +1761,7 @@ msgctxt ""
 "par_idN10553\n"
 "help.text"
 msgid "<link href=\"text/swriter/main0115.xhp\">Styles</link>"
-msgstr "<link href=\"text/swriter/main0110.xhp\">តារាង</link>"
+msgstr "<link href=\"text/swriter/main0110.xhp\">រចនាប័ទ្ម</link>"
 
 #. GLxFE
 #: main0115.xhp
@@ -1770,7 +1770,7 @@ msgctxt ""
 "par_idN10563\n"
 "help.text"
 msgid "<ahelp hid=\".\">Contains commands to apply, create, edit, update, load, and manage <link href=\"text/swriter/01/05130000.xhp\" name=\"styles\">styles</link> in a text document.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".\">​ មានផ្ទុកនូវពាក្យបញ្ជាដើម្បីអនុវត្តបង្កើតកែប្រែកែតំរងនិងផ្ទុកនិងគ្រប់គ្រង <link href=\"text/swriter/01/05130000.xhp\" name=\"styles\"> រចនាប័ទ្ម </link> ក្នុង ឯកសារអត្ថបទ។</ahelp>"
 
 #. gsPnE
 #: main0115.xhp
@@ -1779,7 +1779,7 @@ msgctxt ""
 "hd_id121529878513674\n"
 "help.text"
 msgid "Text styles entries"
-msgstr ""
+msgstr "ធាតុរចនាប័ទ្មមអត្ថបទ"
 
 #. DEUQy
 #: main0115.xhp
@@ -1788,7 +1788,7 @@ msgctxt ""
 "par_id411529878520742\n"
 "help.text"
 msgid "The entries includes most common paragraph, character and list styles. Click on the style to apply."
-msgstr ""
+msgstr "ធាតុបញ្ចូលរួមមានកថាខណ្ឌទូទៅបំផុត​ តួអក្សរនិងរចនាប័ទ្មបញ្ជី។ ចុចលើរចនាប័ទ្មដើម្បីអនុវត្ត។"
 
 #. foqCF
 #: main0115.xhp
@@ -1797,7 +1797,7 @@ msgctxt ""
 "par_id451529878529005\n"
 "help.text"
 msgid "You can customize the list of styles entries using menu <link href=\"text/shared/01/06140100.xhp\" name=\"customize menu\"><emph>Tools - Customize</emph></link>. Because custom styles belongs to the actual document, remember to store the customized menu in the document scope."
-msgstr ""
+msgstr "អ្នកអាចប្ដូរតាមបំណងនូវបញ្ជីនៃធាតុរចនាប័ទ្មដោយប្រើម៉ឺនុយ <link href=\"text/shared/01/06140100.xhp\" name=\"customize menu\"><emph> ឧបករណ៍ <emph> ឧបករណ៍ - ប្តូរតាមបំណង </emph> </link> ។ ដោយសារតែស្ទីលទំនៀមទម្លាប់ជាកម្មសិទ្ធិរបស់ឯកសារជាក់ស្តែងសូមចាំថាត្រូវរក្សាទុកម៉ឺនុយដែលបានប្តូរតាមទំហំឯកសារ។"
 
 #. 7kWCz
 #: main0115.xhp
@@ -1806,7 +1806,7 @@ msgctxt ""
 "hd_id991529881414793\n"
 "help.text"
 msgid "Edit Style"
-msgstr ""
+msgstr "កែសម្រួលរចនាប័ទ្ម"
 
 #. yrGy9
 #: main0115.xhp
@@ -1815,7 +1815,7 @@ msgctxt ""
 "par_id111529881420452\n"
 "help.text"
 msgid "Opens the Paragraph Style dialog box of the current paragraph."
-msgstr ""
+msgstr "បើកប្រអប់រចនាប័ទ្មមកថាខណ្ឌនៃកថាខណ្ឌបច្ចុប្បន្ន។"
 
 #. XE62N
 #: main0115.xhp
@@ -1824,7 +1824,7 @@ msgctxt ""
 "hd_id111529881431158\n"
 "help.text"
 msgid "Update Style"
-msgstr ""
+msgstr "ធ្វើឱ្យរចនាប័ទ្មទាន់សម័យ"
 
 #. 5mGuj
 #: main0115.xhp
@@ -1833,7 +1833,7 @@ msgctxt ""
 "par_id971529881437377\n"
 "help.text"
 msgid "Update the paragraph style with the <link href=\"text/shared/00/00000005.xhp#Section7\" name=\"direct formatting\">direct formatting</link> applied to the current paragraph."
-msgstr ""
+msgstr "ធ្វើឱ្យទាន់សម័យរចនាប័ទ្មកថាខណ្ឌដោយប្រើ <link href=\"text/shared/00/00000005.xhp#Section7\" name=\"direct formatting\">ការធ្វើទ្រង់ទ្រាយផ្ទាល់ </link> អនុវត្តទៅកថាខណ្ឌបច្ចុប្បន្ន។"
 
 #. vNA8P
 #: main0115.xhp
@@ -1842,7 +1842,7 @@ msgctxt ""
 "hd_id191529881446409\n"
 "help.text"
 msgid "New style"
-msgstr ""
+msgstr "រចនាប័ទ្មថ្មី"
 
 #. gYvit
 #: main0115.xhp
@@ -1851,7 +1851,7 @@ msgctxt ""
 "par_id331529881457275\n"
 "help.text"
 msgid "Adds a paragraph style with the settings of the current selection. You will be prompted to enter the style name."
-msgstr ""
+msgstr "បន្ថែមរចនាប័ទ្មកថាខណ្ឌជាមួយការកំណត់នៃជម្រើសបច្ចុប្បន្ន។ អ្នកនឹងត្រូវបានបញ្ចូលឱ្យបញ្ចូលឈ្មោះរចនាប័ទ្ម។"
 
 #. w4f6q
 #: main0115.xhp
@@ -1860,7 +1860,7 @@ msgctxt ""
 "hd_id351529881470044\n"
 "help.text"
 msgid "Load Styles"
-msgstr ""
+msgstr "ផ្ទុករចនាប័ទ្ម"
 
 #. gfThj
 #: main0115.xhp
@@ -1869,7 +1869,7 @@ msgctxt ""
 "par_id551529883682302\n"
 "help.text"
 msgid "<link href=\"text/swriter/guide/load_styles.xhp\" name=\"import style\">Import styles</link> from another document or template into the current document."
-msgstr ""
+msgstr "<link href=\"text/swriter/guide/load_styles.xhp\" name=\"import style\">  នាំចូលរចនាប័ទ្ម </link> ពីឯកសារឬពុម្ពផ្សេងទៀតចូលទៅក្នុងឯកសារបច្ចុប្បន្ន។"
 
 #. Fec4Z
 #: main0115.xhp
@@ -1878,7 +1878,7 @@ msgctxt ""
 "hd_id361529881482828\n"
 "help.text"
 msgid "Manage Styles"
-msgstr ""
+msgstr "រៀបចំរចនាប័ទ្ម"
 
 #. FoCBE
 #: main0115.xhp
@@ -1887,7 +1887,7 @@ msgctxt ""
 "par_id901529883673111\n"
 "help.text"
 msgid "Opens the <link href=\"text/swriter/01/05140000.xhp\" name=\"linkname\">Styles deck</link> in the sidebar."
-msgstr ""
+msgstr "បើក  <link href=\"text/swriter/01/05140000.xhp\" name=\"linkname\"> ថ្នាក់រចនាប័ទ្ម </link> នៅក្នុងរបាចំហៀង។"
 
 #. VmXct
 #: main0120.xhp
@@ -1896,7 +1896,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Form Menu"
-msgstr ""
+msgstr "ម៉ឺនុយសំណុំបែបបទ"
 
 #. CdBAU
 #: main0120.xhp
@@ -1905,7 +1905,7 @@ msgctxt ""
 "hd_id111529755027117\n"
 "help.text"
 msgid "<link href=\"text/swriter/main0120.xhp\" name=\"Form menu\">Form</link>"
-msgstr ""
+msgstr "<link href=\"text/swriter/main0120.xhp\" name=\"Form menu\"> សំណុំបែបបទ</link>"
 
 #. LQF4M
 #: main0120.xhp
@@ -1914,7 +1914,7 @@ msgctxt ""
 "par_id991529755027118\n"
 "help.text"
 msgid "<variable id=\"variable name\"><ahelp hid=\"hid path or command\">Contains commands for activate form design mode, open control wizards and insert form controls in your text document.</ahelp></variable>"
-msgstr ""
+msgstr "<variable id=\"variable name\"><ahelp hid=\"hid path or command\"> មានពាក្យបញ្ជាសម្រាប់របៀបរចនាទម្រង់សកម្មបើកអ្នកជំនួយការត្រួតពិនិត្យនិងបញ្ចូលវត្ថុបញ្ជាសំណុំបែបបទក្នុងឯកសារអត្ថបទរបស់អ្នក។ </ahelp></variable>"
 
 #. AdXBE
 #: main0120.xhp
@@ -1923,7 +1923,7 @@ msgctxt ""
 "hd_id551529758534136\n"
 "help.text"
 msgid "Design Mode"
-msgstr ""
+msgstr "របៀបរចនា"
 
 #. BFekR
 #: main0120.xhp
@@ -1932,7 +1932,7 @@ msgctxt ""
 "par_id791529758540932\n"
 "help.text"
 msgid "Enable or disable form design mode."
-msgstr ""
+msgstr "បើកដំណើរការឬបិទដំណើរការរបៀបរចនាទម្រង់។"
 
 #. g2jWn
 #: main0120.xhp
@@ -1941,7 +1941,7 @@ msgctxt ""
 "hd_id121529758546072\n"
 "help.text"
 msgid "Control Wizards"
-msgstr ""
+msgstr "ត្រួតពិនិត្យអ្នកជំនួយការ"
 
 #. 8G87B
 #: main0120.xhp
@@ -1950,7 +1950,7 @@ msgctxt ""
 "par_id271529758552229\n"
 "help.text"
 msgid "Enable or disable control wizards."
-msgstr ""
+msgstr "បើកដំណើរការឬបិទអ្នកជំនួយការត្រួតពិនិត្យ។"
 
 #. CoDTS
 #: main0120.xhp
@@ -1959,7 +1959,7 @@ msgctxt ""
 "hd_id571529784049416\n"
 "help.text"
 msgid "More fields"
-msgstr ""
+msgstr "វាលច្រើនទៀត"
 
 #. cQUuS
 #: main0120.xhp
@@ -1968,7 +1968,7 @@ msgctxt ""
 "par_id951529784060420\n"
 "help.text"
 msgid "Date, time, numerical, currency and pattern form fields."
-msgstr ""
+msgstr "សំណុំបែបបទ កាលបរិច្ឆេទ ម៉ោង លេខ រូបិយប័ណ្ណ និងលំនាំ។"
 
 #. cFn9D
 #: main0120.xhp
@@ -1977,7 +1977,7 @@ msgctxt ""
 "hd_id811529763403256\n"
 "help.text"
 msgid "Automatic Control Focus"
-msgstr ""
+msgstr "ផ្តោតការត្រួតពិនិត្យដោយស្វ័យប្រវត្តិ"
 
 #. SKPin
 #: main0120.xhp
@@ -1986,7 +1986,7 @@ msgctxt ""
 "par_id281529763411414\n"
 "help.text"
 msgid "Enable or disable Automatic Control Focus"
-msgstr ""
+msgstr "បើកដំណើរការឬបិទដំណើរការការត្រួតពិនិត្យការផ្តោតអារម្មណ៍ដោយស្វ័យប្រវត្តិ"
 
 #. 5DRv5
 #: main0200.xhp
@@ -2040,7 +2040,7 @@ msgctxt ""
 "par_id3147762\n"
 "help.text"
 msgid "The Formatting bar contains several text formatting functions."
-msgstr ""
+msgstr "របារធ្វើទ្រង់ទ្រាយមានមុខងារធ្វើទ្រង់ទ្រាយអត្ថបទជាច្រើន។"
 
 #. FUzck
 #: main0202.xhp
@@ -2166,7 +2166,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Image Bar"
-msgstr ""
+msgstr "របាររូបភាព"
 
 #. f3Y2P
 #: main0203.xhp
@@ -2490,7 +2490,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Print Preview"
-msgstr ""
+msgstr "មើលការបោះពុម្ពជាមុន"
 
 #. cFC44
 #: main0210.xhp
@@ -2499,7 +2499,7 @@ msgctxt ""
 "hd_id3145783\n"
 "help.text"
 msgid "<link href=\"text/swriter/main0210.xhp\" name=\"Print Preview\">Print Preview</link>"
-msgstr ""
+msgstr "<link href=\"text/swriter/main0210.xhp\" name=\"Print Preview\">មើលការបោះពុម្ពជាមុន </link>"
 
 #. nQ4Bj
 #: main0210.xhp
@@ -2508,7 +2508,7 @@ msgctxt ""
 "par_id3154253\n"
 "help.text"
 msgid "The <emph>Print Preview</emph> Bar appears when you view the current document in the print preview mode."
-msgstr ""
+msgstr "<emph> ការមើលការបោះពុម្ពជាមុន </emph> លេចឡើងនៅពេលអ្នកមើលឯកសារបច្ចុប្បន្ននៅក្នុងរបៀបមើលការបោះពុម្ព។"
 
 #. WmU6L
 #: main0213.xhp
@@ -2895,7 +2895,7 @@ msgctxt ""
 "par_id3147797\n"
 "help.text"
 msgid "$[officename] Writer also includes such useful features as a <link href=\"text/shared/01/06010000.xhp\" name=\"Spelling\">spellchecker</link>, a <link href=\"text/swriter/guide/using_thesaurus.xhp\" name=\"thesaurus\">thesaurus</link>, <link href=\"text/shared/01/06040000.xhp\" name=\"AutoCorrect\">AutoCorrect</link>, and <link href=\"text/swriter/01/06030000.xhp\" name=\"Hyphenation\">hyphenation</link> as well as a variety of templates for almost every purpose. You can also create your own templates using the wizards."
-msgstr ""
+msgstr "$[officename] អ្នកនិពន្ធក៏រួមបញ្ចូលនូវមុខងារមានប្រយោជន៍ដូចជា <link href=\"text/shared/01/06010000.xhp\" name=\"Spelling\">អ្នកពិនិត្យអក្ខរាវិរុទ្ធ</link>, <link href=\"text/swriter/guide/using_thesaurus.xhp\" name=\"thesaurus\">thesaurus</link>, <link href=\"text/shared/01/06040000.xhp\" name=\"AutoCorrect\">កែស្វ័យប្រវត្តិ</link>, and <link href=\"text/swriter/01/06030000.xhp\" name=\"Hyphenation\"> សហសញ្ញា</link>ក៏ដូចជាគំរូផ្សេងៗគ្នាសម្រាប់គោលបំណងស្ទើរតែទាំងអស់។ អ្នកក៏អាចបង្កើតគំរូផ្ទាល់ខ្លួនរបស់អ្នកដោយប្រើអ្នកជំនួយការ។"
 
 #. TCYhh
 #: main0503.xhp
@@ -2913,7 +2913,7 @@ msgctxt ""
 "par_id3147239\n"
 "help.text"
 msgid "$[officename] offers a wide variety of options to design documents. Use the <link href=\"text/swriter/01/05140000.xhp\" name=\"Styles\">Styles window</link> to create, assign and modify styles for paragraphs, individual characters, frames and pages. In addition, the <link href=\"text/swriter/01/02110000.xhp\" name=\"Navigator\">Navigator</link> helps you to quickly move around inside your documents, lets you look at your document in an outline view, and keeps track of the objects that you have inserted into your document."
-msgstr ""
+msgstr "$[officename] ផ្តល់ជូនជំរើសជាច្រើនដើម្បីរចនាឯកសារ។ ប្រើ  <link href=\"text/swriter/01/05140000.xhp\" name=\"Styles\"> បង្អួចរចនាប័ទ្ម </link> ដើម្បីបង្កើតផ្តល់និងកែប្រែស្ទីលសម្រាប់កថាខណ្ឌតួអក្សរនីមួយៗស៊ុមនិងទំព័រ។ លើសពីនេះទៀត <link href=\"text/swriter/01/02110000.xhp\" name=\"Navigator\"> កម្មវិធីរុករក </link> ជួយអ្នកក្នុងការផ្លាស់ទីជុំវិញឯកសាររបស់អ្នកយ៉ាងរហ័សដែលអនុញ្ញាតឱ្យអ្នកមើលឯកសាររបស់អ្នកនៅក្នុងទិដ្ឋភាពគ្រោង និងតាមដានវត្ថុដែលអ្នកបានបញ្ចូលទៅក្នុងឯកសាររបស់អ្នក។"
 
 #. 8ydGS
 #: main0503.xhp
@@ -2940,7 +2940,7 @@ msgctxt ""
 "par_id3145610\n"
 "help.text"
 msgid "$[officename] Writer contains numerous desktop publishing and drawing tools to assist you in creating professionally styled documents, such as brochures, newsletters and invitations. You can format your documents with multi-column layouts, <link href=\"text/swriter/guide/text_frame.xhp\" name=\"frames\">frames</link>, <link href=\"text/swriter/guide/insert_graphic.xhp\" name=\"graphics\">graphics</link>, <link href=\"text/swriter/guide/table_insert.xhp\" name=\"tables\">tables</link>, and other objects."
-msgstr ""
+msgstr "$[officename] អ្នកនិពន្ធមានឧបករណ៍បោះពុម្ពផ្សាយនិងឧបករណ៍គូរលើកុំព្យូទ័រជាច្រើនដើម្បីជួយអ្នកក្នុងការបង្កើតឯកសារដែលមានលក្ខណៈវិជ្ជាជីវៈដូចជាខិត្តប័ណ្ណព្រឹត្តិប័ត្រព័ត៌មាននិងលិខិតអញ្ជើញ។ អ្នកអាចធ្វើទ្រង់ទ្រាយឯកសាររបស់អ្នកជាមួយប្លង់ច្រើនជួរ,  <link href=\"text/swriter/guide/text_frame.xhp\" name=\"frames\">ស៊ុម</link>, <link href=\"text/swriter/guide/insert_graphic.xhp\" name=\"graphics\">ក្រាហ្វិក</link>, <link href=\"text/swriter/guide/table_insert.xhp\" name=\"tables\">តារាង</link>​​ និងវត្ថុផ្សេងទៀត។"
 
 #. EpFCE
 #: main0503.xhp
@@ -2976,7 +2976,7 @@ msgctxt ""
 "par_id3151206\n"
 "help.text"
 msgid "The $[officename] Writer <link href=\"text/shared/02/01140000.xhp\" name=\"drawing tool\">drawing tool</link> lets you create drawings, graphics, legends, and other types of drawings directly in text documents."
-msgstr "<link href=\"text/shared/02/01140000.xhp\" name=\"drawing tool\">ឧបករណ៍​គំនូរ</link> $[officename] Writer អនុញ្ញាត​ឲ្យ​អ្នក​បង្កើត​គំនូរ ក្រាហ្វិក តាង និង គំនូរ​ប្រភេទ​ផ្សេង​ទៀត​ដោយ​ផ្ទាល់​ក្នុង​ឯកសារ​អត្ថបទ ។"
+msgstr "<link href=\"text/shared/02/01140000.xhp\" name=\"drawing tool\">ឧបករណ៍​គំនូរ</link> $[officename] Writer អនុញ្ញាត​ឲ្យ​អ្នក​បង្កើ�������​គំនូរ ក្រាហ្វិក តាង និង គំនូរ​ប្រភេទ​ផ្សេង​ទៀត​ដោយ​ផ្ទាល់​ក្នុង​ឯកសារ​អត្ថបទ ។"
 
 #. 3GNE9
 #: main0503.xhp
@@ -3013,6 +3013,8 @@ msgctxt ""
 "help.text"
 msgid "The program interface is designed so that you can configure it according to your preferences, including customizing icons and menus. You can position various program windows, such as the Styles window or the Navigator as floating windows anywhere on the screen. You can also <link href=\"text/shared/guide/autohide.xhp\" name=\"dock\">dock</link> some windows to the edge of the workspace."
 msgstr ""
+"ចំណុចប្រទាក់កម្មវិធីត្រូវបានរចនាឡើងដូច្នេះអ្នកអាចកំណត់រចនាសម្ព័ន្ធវាតាមចំណង់ចំណូលចិត្តរបស់អ្នករួមទាំងប្តូររូបតំណាងនិងម៉ឺនុយតាមបំណង។ អ្នកអាចដាក់បង្អួចកម្មវិធីផ្សេងៗដូចជាបង្អួចស្តាយឬកម្មវិធីរុករកជាបង្អួចអណ្តែតនៅកន្លែងណាមួយនៅលើអេក្រង់។ អ្នក​ក៏​អាច<link href=\"text/shared/guide/autohide.xhp\" name=\"dock\">ចត</link>\n"
+"បង្អួចខ្លះនៅគែមនៃកន្លែងធ្វើការ។"
 
 #. AApwS
 #: main0503.xhp

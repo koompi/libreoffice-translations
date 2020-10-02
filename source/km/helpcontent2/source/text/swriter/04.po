@@ -1,21 +1,19 @@
-#. extracted from helpcontent2/source/text/swriter/04
 msgid ""
 msgstr ""
-"Project-Id-Version: 04\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
-"POT-Creation-Date: 2020-03-13 12:06+0100\n"
-"PO-Revision-Date: 2017-10-04 11:23+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
-"Language-Team: Khmer <support@khmeros.info>\n"
+"POT-Creation-Date: 2020-03-10 13:36+0100\n"
+"PO-Revision-Date: 2020-09-13 19:24+0700\n"
+"Last-Translator: Koompi Apps Localization\n"
 "Language: km\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Accelerator-Marker: ~\n"
-"X-Generator: LibreOffice\n"
-"X-Language: km-KH\n"
-"X-POOTLE-MTIME: 1507116196.000000\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-POOTLE-MTIME: 1535975854.000000\n"
+"Language-Team: KOOMPI Apps Localization\n"
 
 #. brcGC
 #: 01020000.xhp
@@ -132,7 +130,7 @@ msgctxt ""
 "hd_id3155912\n"
 "help.text"
 msgid "F3"
-msgstr "F3"
+msgstr "ច.៣"
 
 #. pjc6f
 #: 01020000.xhp
@@ -186,7 +184,7 @@ msgctxt ""
 "hd_id3149839\n"
 "help.text"
 msgid "Ctrl+Shift+F4"
-msgstr ""
+msgstr "បញ្ជា (Ctrl) + ប្ដូរ (Shift) + F4"
 
 #. qUKWo
 #: 01020000.xhp
@@ -204,7 +202,7 @@ msgctxt ""
 "hd_id3156096\n"
 "help.text"
 msgid "F5"
-msgstr "F5"
+msgstr "ច.៥"
 
 #. EBCei
 #: 01020000.xhp
@@ -222,7 +220,7 @@ msgctxt ""
 "par_id451547122572675\n"
 "help.text"
 msgid "Shift+F5"
-msgstr ""
+msgstr "ប្តូរ"
 
 #. E4Zqz
 #: 01020000.xhp
@@ -231,7 +229,7 @@ msgctxt ""
 "par_id191547122572675\n"
 "help.text"
 msgid "Moves the cursor to the position that it had when the document was last saved before it was last closed."
-msgstr ""
+msgstr "ផ្លាស់ទីទស្សន៍ទ្រនិចទៅទីតាំងដែលវាមាននៅពេលឯកសារត្រូវបានរក្សាទុកចុងក្រោយមុនពេលវាត្រូវបានបិទចុងក្រោយ។"
 
 #. GEWBz
 #: 01020000.xhp
@@ -240,7 +238,7 @@ msgctxt ""
 "hd_id3153118\n"
 "help.text"
 msgid "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+Shift+F5"
-msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+Shift+F5"
+msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\"> ពាក្យបញ្ជា </caseinline><defaultinline> បញ្ជា (Ctrl) </defaultinline></switchinline> + ប្តូរ + F5"
 
 #. rkGsE
 #: 01020000.xhp
@@ -258,7 +256,7 @@ msgctxt ""
 "hd_id3149647\n"
 "help.text"
 msgid "F7"
-msgstr "F7"
+msgstr "ច.៧"
 
 #. ZKQnV
 #: 01020000.xhp
@@ -267,7 +265,7 @@ msgctxt ""
 "par_id3149957\n"
 "help.text"
 msgid "Spelling"
-msgstr ""
+msgstr "ការប្រកបពាក្យ"
 
 #. BgpGm
 #: 01020000.xhp
@@ -294,7 +292,7 @@ msgctxt ""
 "hd_id3149869\n"
 "help.text"
 msgid "F8"
-msgstr "F8"
+msgstr "F8."
 
 #. T9Nam
 #: 01020000.xhp
@@ -366,7 +364,7 @@ msgctxt ""
 "hd_id3145408\n"
 "help.text"
 msgid "F9"
-msgstr "F9"
+msgstr "ច.៩"
 
 #. bvYwS
 #: 01020000.xhp
@@ -438,7 +436,7 @@ msgctxt ""
 "hd_id3155883\n"
 "help.text"
 msgid "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+F10"
-msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+F10"
+msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\"> ពាក្យបញ្ជា </caseinline><defaultinline> បញ្ជា (Ctrl) </defaultinline></switchinline> + F10"
 
 #. 4fbWp
 #: 01020000.xhp
@@ -456,7 +454,7 @@ msgctxt ""
 "hd_id3148693\n"
 "help.text"
 msgid "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command+T</caseinline><defaultinline>F11</defaultinline></switchinline>"
-msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command+T</caseinline><defaultinline>F11</defaultinline></switchinline>"
+msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\"> ពាក្យបញ្ជា + T </caseinline><defaultinline> F11 </defaultinline></switchinline>"
 
 #. vJsNC
 #: 01020000.xhp
@@ -465,7 +463,7 @@ msgctxt ""
 "par_id3149978\n"
 "help.text"
 msgid "Styles window on/off"
-msgstr ""
+msgstr "បិទ / បើកបង្អួចរចនាប័ទ្ម"
 
 #. icxpB
 #: 01020000.xhp
@@ -492,7 +490,7 @@ msgctxt ""
 "par_id0905200802191980\n"
 "help.text"
 msgid "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+F11"
-msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+F11"
+msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\"> ពាក្យបញ្ជា </caseinline><defaultinline> បញ្ជា (Ctrl) </defaultinline></switchinline> + F11"
 
 #. 8GVhM
 #: 01020000.xhp
@@ -510,7 +508,7 @@ msgctxt ""
 "hd_id3155945\n"
 "help.text"
 msgid "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+Shift+F11"
-msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+Shift+F11"
+msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\"> ពាក្យបញ្ជា </caseinline><defaultinline> បញ្ជា (Ctrl) </defaultinline></switchinline> + ប្តូរ + F11"
 
 #. Qa3bN
 #: 01020000.xhp
@@ -528,7 +526,7 @@ msgctxt ""
 "hd_id3153039\n"
 "help.text"
 msgid "F12"
-msgstr "F12"
+msgstr "ច.១២"
 
 #. S2S9J
 #: 01020000.xhp
@@ -582,7 +580,7 @@ msgctxt ""
 "hd_id3153876\n"
 "help.text"
 msgid "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+Shift+F12"
-msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+Shift+F12"
+msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\"> ពាក្យបញ្ជា </caseinline><defaultinline> បញ្ជា (Ctrl) </defaultinline></switchinline> + ប្តូរ + F12"
 
 #. dGgoN
 #: 01020000.xhp
@@ -627,7 +625,7 @@ msgctxt ""
 "hd_id3149785\n"
 "help.text"
 msgid "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+A"
-msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+A"
+msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\"> ពាក្យបញ្ជា </caseinline><defaultinline> បញ្ជា (Ctrl) </defaultinline></switchinline> + ក"
 
 #. NdbXK
 #: 01020000.xhp
@@ -645,7 +643,7 @@ msgctxt ""
 "hd_id3150239\n"
 "help.text"
 msgid "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+J"
-msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+J"
+msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\"> ពាក្យបញ្ជា </caseinline><defaultinline> បញ្ជា (Ctrl) </defaultinline></switchinline> + ច"
 
 #. HV6WL
 #: 01020000.xhp
@@ -672,7 +670,7 @@ msgctxt ""
 "par_id3150325\n"
 "help.text"
 msgid "Double Underline"
-msgstr "​បន្ទាត់​ក្រោម​​ទ្វេ"
+msgstr "​បន្ទាត់​ក្រោម​​ទ្វ"
 
 #. htUya
 #: 01020000.xhp
@@ -681,7 +679,7 @@ msgctxt ""
 "hd_id3148578\n"
 "help.text"
 msgid "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+E"
-msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+E"
+msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\"> ពាក្យបញ្ជា </caseinline><defaultinline> បញ្ជា (Ctrl) </defaultinline></switchinline> + អ៊ី"
 
 #. Sfbo5
 #: 01020000.xhp
@@ -717,7 +715,7 @@ msgctxt ""
 "hd_id3150940\n"
 "help.text"
 msgid "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+Shift+P"
-msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+Shift+P"
+msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\"> ពាក្យបញ្ជា </caseinline><defaultinline> បញ្ជា (Ctrl) </defaultinline></switchinline> + ប្តូរ + ភី"
 
 #. EWHeR
 #: 01020000.xhp
@@ -726,7 +724,7 @@ msgctxt ""
 "par_id3150965\n"
 "help.text"
 msgid "Superscript"
-msgstr "អក្សរ​តូច​លើ"
+msgstr "អក្សរ​តូច​ល"
 
 #. kgiDH
 #: 01020000.xhp
@@ -735,7 +733,7 @@ msgctxt ""
 "hd_id3154363\n"
 "help.text"
 msgid "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+L"
-msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+L"
+msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\"> ពាក្យបញ្ជា </caseinline><defaultinline> បញ្ជា (Ctrl) </defaultinline></switchinline> + អិល"
 
 #. HQ8KB
 #: 01020000.xhp
@@ -771,7 +769,7 @@ msgctxt ""
 "hd_id3147538\n"
 "help.text"
 msgid "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+Shift+B"
-msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+Shift+B"
+msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\"> ពាក្យបញ្ជា </caseinline><defaultinline> បញ្ជា (Ctrl) </defaultinline></switchinline> + ប្តូរ + ខ"
 
 #. bQAbN
 #: 01020000.xhp
@@ -807,7 +805,7 @@ msgctxt ""
 "par_idN10D39\n"
 "help.text"
 msgid "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+0 (zero)"
-msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+0 (zero)"
+msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\"> ពាក្យបញ្ជា </caseinline><defaultinline> បញ្ជា (Ctrl) </defaultinline></switchinline> +០ (សូន្យ)"
 
 #. 7uEYD
 #: 01020000.xhp
@@ -816,7 +814,7 @@ msgctxt ""
 "par_idN10D64\n"
 "help.text"
 msgid "Apply Text Body paragraph style"
-msgstr ""
+msgstr "អនុវត្តរចនាប័ទ្មកថាខណ្ឌតួអត្ថបទ"
 
 #. dxC7K
 #: 01020000.xhp
@@ -825,7 +823,7 @@ msgctxt ""
 "hd_id3151287\n"
 "help.text"
 msgid "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+1"
-msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+1"
+msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\"> ពាក្យបញ្ជា </caseinline><defaultinline> បញ្ជា (Ctrl) </defaultinline></switchinline> +1"
 
 #. oAKuu
 #: 01020000.xhp
@@ -843,7 +841,7 @@ msgctxt ""
 "hd_id3153751\n"
 "help.text"
 msgid "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+2"
-msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+2"
+msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\"> ពាក្យបញ្ជា </caseinline><defaultinline> បញ្ជា (Ctrl) </defaultinline></switchinline> +២"
 
 #. iDPoL
 #: 01020000.xhp
@@ -861,7 +859,7 @@ msgctxt ""
 "par_idN10DF8\n"
 "help.text"
 msgid "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+3"
-msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+3"
+msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\"> ពាក្យបញ្ជា </caseinline><defaultinline> បញ្ជា (Ctrl) </defaultinline></switchinline> +៣"
 
 #. rQRNS
 #: 01020000.xhp
@@ -879,7 +877,7 @@ msgctxt ""
 "par_idN1550DF8\n"
 "help.text"
 msgid "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+4"
-msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+4"
+msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\"> ពាក្យបញ្ជា </caseinline><defaultinline> បញ្ជា (Ctrl) </defaultinline></switchinline> +៤"
 
 #. CgwGd
 #: 01020000.xhp
@@ -897,7 +895,7 @@ msgctxt ""
 "hd_id3150849\n"
 "help.text"
 msgid "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+5"
-msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+5"
+msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\"> ពាក្យបញ្ជា </caseinline><defaultinline> បញ្ជា (Ctrl) </defaultinline></switchinline> +៥"
 
 #. xTs6C
 #: 01020000.xhp
@@ -933,7 +931,7 @@ msgctxt ""
 "hd_id3155432\n"
 "help.text"
 msgid "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+Hyphen(-)"
-msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+Hyphen(-)"
+msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\"> ពាក្យបញ្ជា </caseinline><defaultinline> បញ្ជា (Ctrl) </defaultinline></switchinline> + សហសញ្ញា (-)"
 
 #. nwFUv
 #: 01020000.xhp
@@ -942,7 +940,7 @@ msgctxt ""
 "par_id3150712\n"
 "help.text"
 msgid "Soft hyphens; hyphenation set by you."
-msgstr ""
+msgstr "សហសញ្ញាទន់; ការដាក់សហសញ្ញាកំណត់ដោយអ្នក។"
 
 #. EFKvp
 #: 01020000.xhp
@@ -960,7 +958,7 @@ msgctxt ""
 "par_id3148394\n"
 "help.text"
 msgid "Non-breaking hyphen (is not used for hyphenation)"
-msgstr ""
+msgstr "សហសញ្ញាមិនបំបែក (មិនត្រូវបានប្រើសម្រាប់ការដាក់សហសញ្ញា)"
 
 #. GbHDz
 #: 01020000.xhp
@@ -987,7 +985,7 @@ msgctxt ""
 "hd_id3147321\n"
 "help.text"
 msgid "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+Shift+Space"
-msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+Shift+Space"
+msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\"> ពាក្យបញ្ជា </caseinline><defaultinline> បញ្ជា (Ctrl) </defaultinline></switchinline> + ប្តូរ + ចន្លោះ"
 
 #. wDzkE
 #: 01020000.xhp
@@ -1032,7 +1030,7 @@ msgctxt ""
 "par_id3149447\n"
 "help.text"
 msgid "Manual page break"
-msgstr "បំបែក​ទំព័រ​ដោយ​ដៃ"
+msgstr "បំបែក​ទំព័រ​ដោយ​ដ"
 
 #. aABQP
 #: 01020000.xhp
@@ -1041,7 +1039,7 @@ msgctxt ""
 "hd_id3146967\n"
 "help.text"
 msgid "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+Shift+Enter"
-msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+Shift+Enter"
+msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\"> ពាក្យបញ្ជា </caseinline><defaultinline> បញ្ជា (Ctrl) </defaultinline></switchinline> + ប្តូរ + បញ្ចូល"
 
 #. smRgr
 #: 01020000.xhp
@@ -1059,7 +1057,7 @@ msgctxt ""
 "hd_id3152906\n"
 "help.text"
 msgid "<switchinline select=\"sys\"><caseinline select=\"MAC\">Option</caseinline><defaultinline>Alt</defaultinline></switchinline>+Enter"
-msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\">Option</caseinline><defaultinline>Alt</defaultinline></switchinline>+Enter"
+msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\"> ជម្រើស </caseinline><defaultinline> ជំនួស </defaultinline></switchinline> + បញ្ចូល"
 
 #. A5Eck
 #: 01020000.xhp
@@ -1077,7 +1075,7 @@ msgctxt ""
 "hd_id3153772\n"
 "help.text"
 msgid "<switchinline select=\"sys\"><caseinline select=\"MAC\">Option</caseinline><defaultinline>Alt</defaultinline></switchinline>+Enter"
-msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\">Option</caseinline><defaultinline>Alt</defaultinline></switchinline>+Enter"
+msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\"> ជម្រើស </caseinline><defaultinline> ជំនួស </defaultinline></switchinline> + បញ្ចូល"
 
 #. rVTr6
 #: 01020000.xhp
@@ -1239,7 +1237,7 @@ msgctxt ""
 "hd_id3154718\n"
 "help.text"
 msgid "Arrow Up"
-msgstr "ព្រួញ​ឡើង​លើ"
+msgstr "ព្រួញ​ឡើង​ល"
 
 #. mMaCL
 #: 01020000.xhp
@@ -1257,7 +1255,7 @@ msgctxt ""
 "hd_id3154750\n"
 "help.text"
 msgid "Shift+Arrow Up"
-msgstr "ប្តូរ (Shift) + ព្រួញ​ឡើង​លើ"
+msgstr "ប្តូរ (Shift) + ព្រួញ​ឡើង​ល"
 
 #. DbihF
 #: 01020000.xhp
@@ -1266,7 +1264,7 @@ msgctxt ""
 "par_id3153199\n"
 "help.text"
 msgid "Selecting lines in an upwards direction"
-msgstr "បន្ទាត់​ដែល​កំពុង​ជ្រើស​ស្ថិត​ក្នុង​ទិសដៅ​ទៅ​លើ"
+msgstr "បន្ទាត់​ដែល​កំពុង​ជ្រើស​ស្ថិត​ក្នុង​ទិសដៅ​ទៅ​ល"
 
 #. VGz9r
 #: 01020000.xhp
@@ -1275,7 +1273,7 @@ msgctxt ""
 "par_id6452528\n"
 "help.text"
 msgid "Ctrl+Arrow Up"
-msgstr "បញ្ជា​(Ctrl)​+​ព្រួញ​ឡើង​លើ"
+msgstr "បញ្ជា​(Ctrl)​+​ព្រួញ​ឡើង​ល"
 
 #. AMkTV
 #: 01020000.xhp
@@ -1527,7 +1525,7 @@ msgctxt ""
 "hd_id3147083\n"
 "help.text"
 msgid "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+PageUp"
-msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+PageUp"
+msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\"> ពាក្យបញ្ជា </caseinline><defaultinline> បញ្ជា (Ctrl) </defaultinline></switchinline> + ទំព័រ"
 
 #. AkRxs
 #: 01020000.xhp
@@ -1536,7 +1534,7 @@ msgctxt ""
 "par_id3153826\n"
 "help.text"
 msgid "Switch cursor between text and header"
-msgstr "ប្តូរ​ទស្សន៍​ទ្រនិច​រវាង អត្ថបទ និង បឋមកថា"
+msgstr "ប្តូរ​ទស្សន៍​ទ្រនិច​រវាង អត្ថបទ និង បឋមកថ"
 
 #. 39Gyb
 #: 01020000.xhp
@@ -1545,7 +1543,7 @@ msgctxt ""
 "hd_id3153846\n"
 "help.text"
 msgid "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+PageDown"
-msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+PageDown"
+msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\"> ពាក្យបញ្ជា </caseinline><defaultinline> បញ្ជា (Ctrl) </defaultinline></switchinline> + គេហទំព័រ"
 
 #. Ge7rN
 #: 01020000.xhp
@@ -1554,7 +1552,7 @@ msgctxt ""
 "par_id3153872\n"
 "help.text"
 msgid "Switch cursor between text and footer"
-msgstr "ប្តូរ​ទស្សន៍​ទ្រនិច​រវាង អត្ថបទ និង បាតកថា"
+msgstr "ប្តូរ​ទស្សន៍​ទ្រនិច​រវាង អត្ថបទ និង បាតកថ"
 
 #. NSvPr
 #: 01020000.xhp
@@ -1581,7 +1579,7 @@ msgctxt ""
 "hd_id3150922\n"
 "help.text"
 msgid "PageUp"
-msgstr "ទំព័រ​លើ"
+msgstr "ទំព័រ​ល"
 
 #. FKrcD
 #: 01020000.xhp
@@ -1590,7 +1588,7 @@ msgctxt ""
 "par_id3157513\n"
 "help.text"
 msgid "Screen page up"
-msgstr "ផ្លាស់ទី​ទំព័រ​អេក្រង់​ឡើង​លើ"
+msgstr "ផ្លាស់ទី​ទំព័រ​អេក្រង់​ឡើង​ល"
 
 #. MURLn
 #: 01020000.xhp
@@ -1716,7 +1714,7 @@ msgctxt ""
 "hd_id3146937\n"
 "help.text"
 msgid "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+Shift+Backspace"
-msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+Shift+Backspace"
+msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\"> ពាក្យបញ្ជា </caseinline><defaultinline> បញ្ជា (Ctrl) </defaultinline></switchinline> + ប្តូរ + ផ្ទៃខាងក្រោយ"
 
 #. m8Ajx
 #: 01020000.xhp
@@ -1734,7 +1732,7 @@ msgctxt ""
 "hd_id3153551\n"
 "help.text"
 msgid "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+Tab"
-msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+Tab"
+msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\"> ពាក្យបញ្ជា </caseinline><defaultinline> បញ្ជា (Ctrl) </defaultinline></switchinline> + ថេប"
 
 #. SDvt2
 #: 01020000.xhp
@@ -1752,7 +1750,7 @@ msgctxt ""
 "hd_id3147360\n"
 "help.text"
 msgid "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+Shift+Tab"
-msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+Shift+Tab"
+msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\"> ពាក្យបញ្ជា </caseinline><defaultinline> បញ្ជា (Ctrl) </defaultinline></switchinline> + ប្តូរ + ថេប"
 
 #. aounX
 #: 01020000.xhp
@@ -1770,7 +1768,7 @@ msgctxt ""
 "hd_id3144447360\n"
 "help.text"
 msgid "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command+Option</caseinline><defaultinline>Ctrl+Alt</defaultinline></switchinline>+Shift+V"
-msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command+Option</caseinline><defaultinline>Ctrl+Alt</defaultinline></switchinline>+Shift+V"
+msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\"> ពាក្យបញ្ជា + ជម្រើស </caseinline><defaultinline> បញ្ជា (Ctrl) + ជំនួស </defaultinline></switchinline> + ប្តូរ + វី"
 
 #. YNcAN
 #: 01020000.xhp
@@ -1797,7 +1795,7 @@ msgctxt ""
 "par_id3150379\n"
 "help.text"
 msgid "Use this combination to quickly dock or undock the Navigator, Styles window, or other windows"
-msgstr ""
+msgstr "ប្រើការរួមបញ្ចូលគ្នានេះដើម្បីភ្ជាប់ឬចតផ្ទាំងកម្មវិធីរុករកបង្អួចរចនាប័ទ្មឬបង្អួចផ្សេងទៀត"
 
 #. PDoHo
 #: 01020000.xhp
@@ -1842,7 +1840,7 @@ msgctxt ""
 "hd_id3153679\n"
 "help.text"
 msgid "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command+Option</caseinline><defaultinline>Ctrl+Alt</defaultinline></switchinline>+Up Arrow"
-msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command+Option</caseinline><defaultinline>Ctrl+Alt</defaultinline></switchinline>+ព្រួញ​ឡើងលើ"
+msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command+Option</caseinline><defaultinline>Ctrl+Alt</defaultinline></switchinline>+ព្រួញ​ឡើងល"
 
 #. beAnG
 #: 01020000.xhp
@@ -1914,7 +1912,7 @@ msgctxt ""
 "hd_id3155369\n"
 "help.text"
 msgid "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+Tab"
-msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+Tab"
+msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\"> ពាក្យបញ្ជា </caseinline><defaultinline> បញ្ជា (Ctrl) </defaultinline></switchinline> + ថេប"
 
 #. 5Hhch
 #: 01020000.xhp
@@ -1977,7 +1975,7 @@ msgctxt ""
 "hd_id3156014\n"
 "help.text"
 msgid "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+A"
-msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+A"
+msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\"> ពាក្យបញ្ជា </caseinline><defaultinline> បញ្ជា (Ctrl) </defaultinline></switchinline> + ក"
 
 #. BfsVp
 #: 01020000.xhp
@@ -1995,7 +1993,7 @@ msgctxt ""
 "hd_id3156069\n"
 "help.text"
 msgid "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+Home"
-msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+Home"
+msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\"> ពាក្យបញ្ជា </caseinline><defaultinline> បញ្ជា (Ctrl) </defaultinline></switchinline> + ផ្ទះ"
 
 #. eYN6q
 #: 01020000.xhp
@@ -2013,7 +2011,7 @@ msgctxt ""
 "hd_id3154308\n"
 "help.text"
 msgid "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+End"
-msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+End"
+msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\"> ពាក្យបញ្ជា </caseinline><defaultinline> បញ្ជា (Ctrl) </defaultinline></switchinline> + បញ្ចប់"
 
 #. GRidi
 #: 01020000.xhp
@@ -2031,7 +2029,7 @@ msgctxt ""
 "hd_id3153255\n"
 "help.text"
 msgid "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+Tab"
-msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+Tab"
+msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\"> ពាក្យបញ្ជា </caseinline><defaultinline> បញ្ជា (Ctrl) </defaultinline></switchinline> + ថេប"
 
 #. 5hBac
 #: 01020000.xhp
@@ -2094,7 +2092,7 @@ msgctxt ""
 "par_id3150818\n"
 "help.text"
 msgid "Like <switchinline select=\"sys\"><caseinline select=\"MAC\">Option</caseinline><defaultinline>Alt</defaultinline></switchinline>, but only the active cell is modified"
-msgstr "ដូច​នឹង <switchinline select=\"sys\"><caseinline select=\"MAC\">Option</caseinline><defaultinline>Alt</defaultinline></switchinline> ដែរ ប៉ុន្តែ​មាន​តែ​ក្រឡា​សកម្ម​ប៉ុណ្ណោះ​ដែល​ត្រូវ​បាន​កែប្រែ"
+msgstr "ដូច​នឹង <switchinline select=\"sys\"><caseinline select=\"MAC\">Option</caseinline><defaultinline>Alt</defaultinline></switchinline> ដែរ ប៉ុន្តែ​មាន​តែ​ក្រឡា​សកម្ម​ប៉ុណ្ណោះ​ដែល​ត្រូវ​បាន​កែប្រ"
 
 #. jF3cF
 #: 01020000.xhp
@@ -2112,7 +2110,7 @@ msgctxt ""
 "par_id3154477\n"
 "help.text"
 msgid "Like <switchinline select=\"sys\"><caseinline select=\"MAC\">Option</caseinline><defaultinline>Alt</defaultinline></switchinline>, but only the active cell is modified"
-msgstr "ដូច​នឹង <switchinline select=\"sys\"><caseinline select=\"MAC\">Option</caseinline><defaultinline>Alt</defaultinline></switchinline> ដែរ ប៉ុន្តែ​មាន​តែ​ក្រឡា​សកម្ម​ប៉ុណ្ណោះ​ដែល​ត្រូវ​បាន​កែប្រែ"
+msgstr "ដូច​នឹង <switchinline select=\"sys\"><caseinline select=\"MAC\">Option</caseinline><defaultinline>Alt</defaultinline></switchinline> ដែរ ប៉ុន្តែ​មាន​តែ​ក្រឡា​សកម្ម​ប៉ុណ្ណោះ​ដែល​ត្រូវ​បាន​កែប្រ"
 
 #. xGCUp
 #: 01020000.xhp
@@ -2130,7 +2128,7 @@ msgctxt ""
 "hd_id3155593\n"
 "help.text"
 msgid "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+Shift+T"
-msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+Shift+T"
+msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\"> ពាក្យបញ្ជា </caseinline><defaultinline> បញ្ជា (Ctrl) </defaultinline></switchinline> + ប្តូរ + T"
 
 #. 3AsRG
 #: 01020000.xhp
@@ -2148,7 +2146,7 @@ msgctxt ""
 "hd_id3147496\n"
 "help.text"
 msgid "Shift+<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+Del"
-msgstr "Shift+<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+Del"
+msgstr "ប្តូរ + <switchinline select=\"sys\"><caseinline select=\"MAC\"> ពាក្យបញ្ជា </caseinline><defaultinline> បញ្ជា (Ctrl) </defaultinline></switchinline> + ដេល"
 
 #. DDBvE
 #: 01020000.xhp
@@ -2220,7 +2218,7 @@ msgctxt ""
 "par_id3149024\n"
 "help.text"
 msgid "Cursor is inside a frame and no text is selected: Escape selects the frame."
-msgstr ""
+msgstr "ទស្សន៍ទ្រនិចស្ថិតនៅក្នុងស៊ុមហើយគ្មានអត្ថបទត្រូវបានជ្រើសរើសទេៈគេចបានជ្រើសរើសស៊ុម។"
 
 #. 9B5YD
 #: 01020000.xhp
@@ -2229,7 +2227,7 @@ msgctxt ""
 "par_id3149039\n"
 "help.text"
 msgid "Frame is selected: Escape clears the cursor from the frame."
-msgstr ""
+msgstr "ស៊ុមត្រូវបានជ្រើសរើស: ការរត់គេចលុបទស្សន៍ទ្រនិចចេញពីស៊ុម។"
 
 #. aCq7z
 #: 01020000.xhp
@@ -2247,7 +2245,7 @@ msgctxt ""
 "par_id3149890\n"
 "help.text"
 msgid "If a frame is selected: positions the cursor to the end of the text in the frame. If you press any key that produces a character on screen, and the document is in edit mode, the character is appended to the text."
-msgstr ""
+msgstr "ប្រសិនបើស៊ុមត្រូវបានជ្រើសរើស: ដាក់ទស្សន៍ទ្រនិចទៅចុងអត្ថបទក្នុងស៊ុម។ ប្រសិនបើអ្នកចុចគ្រាប់ចុចណាមួយដែលបង្កើតតួអក្សរនៅលើអេក្រង់ហើយឯកសារស្ថិតនៅក្នុងរបៀបកែសម្រួលតួអក្សរត្រូវបានបន្ថែមទៅអត្ថបទ។"
 
 #. EHxBu
 #: 01020000.xhp
@@ -2310,7 +2308,7 @@ msgctxt ""
 "hd_id3150129\n"
 "help.text"
 msgid "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+Tab"
-msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+Tab"
+msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\"> ពាក្យបញ្ជា </caseinline><defaultinline> បញ្ជា (Ctrl) </defaultinline></switchinline> + ថេប"
 
 #. 8oD5k
 #: 01020000.xhp

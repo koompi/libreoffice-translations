@@ -1,20 +1,40 @@
-#. extracted from extras/source/gallery/share
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
-"POT-Creation-Date: 2020-06-22 17:23+0200\n"
-"PO-Revision-Date: 2018-02-27 14:49+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Project-Id-"
+"Version: \n"
+"Report-Msgid-Bugs-"
+"To: https://bugs."
+"libreoffice.org/"
+"enter_bug.cgi?"
+"product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: "
+"2020-03-10 "
+"13:36+0100\n"
+"PO-Revision-Date: "
+"2020-09-04 "
+"12:51+0700\n"
+"Last-Translator: "
+"Koompi Apps "
+"Localization\n"
 "Language: km\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: ~\n"
-"X-Generator: LibreOffice\n"
-"X-POOTLE-MTIME: 1519742985.000000\n"
+"Content-Type: text/"
+"plain; "
+"charset=UTF-8\n"
+"Content-Transfer-"
+"Encoding: 8bit\n"
+"Plural-Forms: "
+"nplurals=1; "
+"plural=0;\n"
+"X-Accelerator-"
+"Marker: ~\n"
+"X-Generator: Poedit "
+"2.3.1\n"
+"X-POOTLE-MTIME: "
+"1535975854.000000\n"
+"Language-Team: "
+"KOOMPI Apps "
+"Localization\n"
 
 #. oG3Mq
 #: gallery_names.ulf
@@ -32,7 +52,7 @@ msgctxt ""
 "backgrounds\n"
 "LngText.text"
 msgid "Backgrounds"
-msgstr ""
+msgstr "ប្រវត្តិរូប"
 
 #. kuNKS
 #: gallery_names.ulf
@@ -41,7 +61,7 @@ msgctxt ""
 "bpmn\n"
 "LngText.text"
 msgid "BPMN"
-msgstr ""
+msgstr "BPMN"
 
 #. arWXh
 #: gallery_names.ulf
@@ -59,7 +79,7 @@ msgctxt ""
 "flowchart\n"
 "LngText.text"
 msgid "Flow chart"
-msgstr ""
+msgstr "គំនូសតាងលំហូរ"
 
 #. YSm8F
 #: gallery_names.ulf
@@ -68,7 +88,7 @@ msgctxt ""
 "icons\n"
 "LngText.text"
 msgid "Icons"
-msgstr ""
+msgstr "រូបតំណាង"
 
 #. PCCbZ
 #: gallery_names.ulf
@@ -77,7 +97,7 @@ msgctxt ""
 "network\n"
 "LngText.text"
 msgid "Network"
-msgstr ""
+msgstr "បណ្តាញ"
 
 #. YAZe6
 #: gallery_names.ulf
@@ -86,7 +106,7 @@ msgctxt ""
 "shapes\n"
 "LngText.text"
 msgid "Shapes"
-msgstr ""
+msgstr "រាង"
 
 #. FVHrw
 #: gallery_names.ulf
@@ -95,4 +115,4 @@ msgctxt ""
 "sounds\n"
 "LngText.text"
 msgid "Sounds"
-msgstr "សំឡេង"
+msgstr "សម្លេង"

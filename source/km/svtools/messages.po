@@ -1,100 +1,99 @@
-#. extracted from svtools
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
-"POT-Creation-Date: 2020-09-28 11:22+0200\n"
-"PO-Revision-Date: 2018-11-14 11:40+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2020-03-10 13:36+0100\n"
+"PO-Revision-Date: 2020-09-08 15:57+0700\n"
+"Last-Translator: Koompi Apps Localization\n"
 "Language: km\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Accelerator-Marker: ~\n"
-"X-Generator: LibreOffice\n"
-"X-POOTLE-MTIME: 1542195624.000000\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-POOTLE-MTIME: 1535975854.000000\n"
+"Language-Team: KOOMPI Apps Localization\n"
 
 #. fLdeV
 #. To translators: tdf#125447 use no mnemonic in this string
 #: include/svtools/strings.hrc:26
 msgctxt "STR_UNDO"
 msgid "Undo: "
-msgstr "មិន​ធ្វើ​វិ​ញ ៖"
+msgstr "ត្រលប់ក្រោយ "
 
 #. A66hr
 #. To translators: tdf#125447 use no mnemonic in this string
 #: include/svtools/strings.hrc:28
 msgctxt "STR_REDO"
 msgid "Redo: "
-msgstr ""
+msgstr "ធ្វើ​ម្ដងទៀត ៖ "
 
 #. 2utVD
 #: include/svtools/strings.hrc:29
 msgctxt "STR_REPEAT"
 msgid "~Repeat: "
-msgstr "ធ្វើ​ម្ដងទៀត ៖"
+msgstr "ធ្វើ​ម្ដងទៀត ៖ "
 
 #. 3DCSV
 #: include/svtools/strings.hrc:31
 msgctxt "STR_FORMAT_STRING"
 msgid "Unformatted text"
-msgstr "អត្ថបទ​គ្មាន​ទ្រង់ទ្រាយ"
+msgstr "អត្ថបទទម្រង់ដើម"
 
 #. FaGBp
 #: include/svtools/strings.hrc:32
 msgctxt "STR_FORMAT_ID_STRING_TSVC"
 msgid "Unformatted text (TSV-Calc)"
-msgstr ""
+msgstr "អត្ថបទទម្រង់ដើមប្រភេទ​​​​ TSV-Calc"
 
 #. U29gL
 #: include/svtools/strings.hrc:33
 msgctxt "STR_FORMAT_BITMAP"
 msgid "Bitmap Image (BMP)"
-msgstr ""
+msgstr "រូបភាព​ រូបភាព (BMP)"
 
 #. vnBpN
 #: include/svtools/strings.hrc:34
 msgctxt "STR_FORMAT_GDIMETAFILE"
 msgid "Graphics Device Interface metafile (GDI)"
-msgstr ""
+msgstr "ទិន្នន័យមេតាចំណុចប្រទាក់ឧបករណ៍ក្រាហ្វិក (GDI)"
 
 #. xt4VZ
 #: include/svtools/strings.hrc:35
 msgctxt "STR_FORMAT_RTF"
 msgid "Rich text formatting (RTF)"
-msgstr ""
+msgstr "ទ្រង់ទ្រាយអត្ថបទសំបូរបែប (RTF)"
 
 #. wwEZs
 #: include/svtools/strings.hrc:36
 msgctxt "STR_FORMAT_ID_RICHTEXT"
 msgid "Rich text formatting (Richtext)"
-msgstr ""
+msgstr "ការធ្វើទ្រង់ទ្រាយអត្ថបទសម្បូរបែប (Richtext)"
 
 #. oZgfj
 #: include/svtools/strings.hrc:37
 msgctxt "STR_FORMAT_ID_DRAWING"
 msgid "%PRODUCTNAME drawing format"
-msgstr ""
+msgstr "ទ្រង់ទ្រាយសម្រាប់គូរ %PRODUCTNAME"
 
 #. 84ABF
 #: include/svtools/strings.hrc:38
 msgctxt "STR_FORMAT_ID_SVXB"
 msgid "StarView bitmap/animation (SVXB)"
-msgstr ""
+msgstr "រូបភាពទិដ្ឋភាពផ្កាយ / គំនូរជីវចលរបស់ (SVXB)"
 
 #. CCGwi
 #: include/svtools/strings.hrc:39
 msgctxt "STR_FORMAT_ID_INTERNALLINK_STATE"
 msgid "Status Info from Svx Internal Link"
-msgstr "ស្ថានភាព​ព័ត៌មាន​ពី​​តំណ​ខាង​ក្នុង Svx"
+msgstr "ព័ត៌មានអំពីស្ថានភាពពី Svx តំណខាងក្នុង"
 
 #. 9zJeE
 #: include/svtools/strings.hrc:40
 msgctxt "STR_FORMAT_ID_SOLK"
 msgid "%PRODUCTNAME Link (SOLK)"
-msgstr ""
+msgstr "តំណរបស់ %PRODUCTNAME (SOLK)"
 
 #. CdJBD
 #: include/svtools/strings.hrc:41
@@ -106,67 +105,67 @@ msgstr "កន្លែង​​ចំណាំ Netscape"
 #: include/svtools/strings.hrc:42
 msgctxt "STR_FORMAT_ID_STARSERVER"
 msgid "Star server format"
-msgstr "ទ្រង់ទ្រាយ​ម៉ាស៊ីន​បម្រើ​ Star"
+msgstr "ទ្រង់ទ្រាយម៉ាស៊ីនមេផ្កាយ"
 
 #. afRsn
 #: include/svtools/strings.hrc:43
 msgctxt "STR_FORMAT_ID_STAROBJECT"
 msgid "Star object format"
-msgstr "ទ្រង់ទ្រាយ​វត្ថុ Star"
+msgstr "ទ្រង់ទ្រាយវត្ថុផ្កាយ"
 
 #. VFT89
 #: include/svtools/strings.hrc:44
 msgctxt "STR_FORMAT_ID_APPLETOBJECT"
 msgid "Applet object"
-msgstr "វត្ថុ​អាប់ភ្លេត"
+msgstr "វត្ថុអាប់ភ្លែត"
 
 #. Q4uNb
 #: include/svtools/strings.hrc:45
 msgctxt "STR_FORMAT_ID_PLUGIN_OBJECT"
 msgid "Plug-in object"
-msgstr "វត្ថុ​ជំនួយ"
+msgstr "វត្ថុដោត"
 
 #. CnQhX
 #: include/svtools/strings.hrc:46
 msgctxt "STR_FORMAT_ID_STARWRITER_30"
 msgid "StarWriter 3.0 object"
-msgstr "វត្ថុ StarWriter 3.0"
+msgstr "វត្ថុ StarWriter ៣.០"
 
 #. NWNxG
 #: include/svtools/strings.hrc:47
 msgctxt "STR_FORMAT_ID_STARWRITER_40"
 msgid "StarWriter 4.0 object"
-msgstr "វត្ថុ StarWriter​ 4.0"
+msgstr "វត្ថុ StarWriter ៤.០"
 
 #. XvDZr
 #: include/svtools/strings.hrc:48
 msgctxt "STR_FORMAT_ID_STARWRITER_50"
 msgid "StarWriter 5.0 object"
-msgstr "វត្ថុ StarWriter 5.0"
+msgstr "វត្ថុ StarWriter ៥.០"
 
 #. hFHVx
 #: include/svtools/strings.hrc:49
 msgctxt "STR_FORMAT_ID_STARWRITERWEB_40"
 msgid "StarWriter/Web 4.0 object"
-msgstr "វត្ថុ StarWriter/Web 4.0"
+msgstr "វត្ថុ StarWriter / គេហទំព័រ ៤.០"
 
 #. DpFQA
 #: include/svtools/strings.hrc:50
 msgctxt "STR_FORMAT_ID_STARWRITERWEB_50"
 msgid "StarWriter/Web 5.0 object"
-msgstr "វត្ថុ StarWriter/Web 5.0"
+msgstr "វត្ថុ StarWriter / គេហទំព័រ ៥.០"
 
 #. Ctecy
 #: include/svtools/strings.hrc:51
 msgctxt "STR_FORMAT_ID_STARWRITERGLOB_40"
 msgid "StarWriter/Master 4.0 object"
-msgstr "វត្ថុ StarWriter/Master 4.0"
+msgstr "វត្ថុ StarWriter / មេ ៤.0"
 
 #. WoEVQ
 #: include/svtools/strings.hrc:52
 msgctxt "STR_FORMAT_ID_STARWRITERGLOB_50"
 msgid "StarWriter/Master 5.0 object"
-msgstr "វត្ថុ StarWriter/Master 5.0"
+msgstr "វត្ថុ StarWriter/ មេ ៥.0"
 
 #. oGSK9
 #: include/svtools/strings.hrc:53
@@ -178,19 +177,19 @@ msgstr "វត្ថុ StarDraw"
 #: include/svtools/strings.hrc:54
 msgctxt "STR_FORMAT_ID_STARDRAW_40"
 msgid "StarDraw 4.0 object"
-msgstr "វត្ថុ StarDraw 4.0"
+msgstr "វត្ថុ StarDraw ៤.០"
 
 #. r5rso
 #: include/svtools/strings.hrc:55
 msgctxt "STR_FORMAT_ID_STARIMPRESS_50"
 msgid "StarImpress 5.0 object"
-msgstr "វត្ថុ StarImpress 5.0"
+msgstr "វត្ថុ StarImpress ៥.០"
 
 #. GTKnp
 #: include/svtools/strings.hrc:56
 msgctxt "STR_FORMAT_ID_STARDRAW_50"
 msgid "StarDraw 5.0 object"
-msgstr "វត្ថុ StarDraw 5.0"
+msgstr "វត្ថុ StarDraw ៥.០"
 
 #. kKApU
 #: include/svtools/strings.hrc:57
@@ -202,13 +201,13 @@ msgstr "វត្ថុ StarCalc"
 #: include/svtools/strings.hrc:58
 msgctxt "STR_FORMAT_ID_STARCALC_40"
 msgid "StarCalc  4.0 object"
-msgstr "វត្ថុ StarCalc 4.0"
+msgstr "វត្ថុ StarCalc ៤.០"
 
 #. zzGDB
 #: include/svtools/strings.hrc:59
 msgctxt "STR_FORMAT_ID_STARCALC_50"
 msgid "StarCalc 5.0 object"
-msgstr "វត្ថុ StarCalc 5.0"
+msgstr "វត្ថុ StarCalc ៥.០"
 
 #. YVTqL
 #: include/svtools/strings.hrc:60
@@ -220,13 +219,13 @@ msgstr "វត្ថុ StarChart"
 #: include/svtools/strings.hrc:61
 msgctxt "STR_FORMAT_ID_STARCHART_40"
 msgid "StarChart 4.0 object"
-msgstr "វត្ថុ StarChart 4.0"
+msgstr "វត្ថុ StarChart ៤.០"
 
 #. TG4Mg
 #: include/svtools/strings.hrc:62
 msgctxt "STR_FORMAT_ID_STARCHART_50"
 msgid "StarChart 5.0 object"
-msgstr "វត្ថុ StarChart 5.0"
+msgstr "វត្ថុ StarChart ៥.០"
 
 #. ULov2
 #: include/svtools/strings.hrc:63
@@ -256,61 +255,61 @@ msgstr "វត្ថុ StarMath"
 #: include/svtools/strings.hrc:67
 msgctxt "STR_FORMAT_ID_STARMATH_40"
 msgid "StarMath 4.0 object"
-msgstr "វត្ថុ StarMath 4.0"
+msgstr "វត្ថុ StarMath ៤.០"
 
 #. FGSz4
 #: include/svtools/strings.hrc:68
 msgctxt "STR_FORMAT_ID_STARMATH_50"
 msgid "StarMath 5.0 object"
-msgstr "វត្ថុ StarMath 5.0"
+msgstr "វត្ថុ StarMath ៥.០"
 
 #. eyCtG
 #: include/svtools/strings.hrc:69
 msgctxt "STR_FORMAT_ID_STAROBJECT_PAINTDOC"
 msgid "StarObject Paint object"
-msgstr "វត្ថុ​សម្រាប់​គូរ StarObject"
+msgstr "វត្ថុថ្នាំលាបស្តារប៊ិច"
 
 #. JUZwD
 #: include/svtools/strings.hrc:70
 msgctxt "STR_FORMAT_ID_HTML"
 msgid "HyperText Markup Language (HTML)"
-msgstr ""
+msgstr "ភាសាហាយអ៊ីតធីតសម្គាល់ (HTML)"
 
 #. DoLZM
 #: include/svtools/strings.hrc:71
 msgctxt "STR_FORMAT_ID_HTML_SIMPLE"
 msgid "Stripped HyperText Markup Language (Simple HTML)"
-msgstr ""
+msgstr "ទាញយកភាសាអ៊ីប៊ែតធីបសម្គាល់ (HTML ធម្មតា)"
 
 #. kFsit
 #: include/svtools/strings.hrc:72
 msgctxt "STR_FORMAT_ID_BIFF_5"
 msgid "Microsoft Excel Binary Interchange Format 5.0/95 (Biff5)"
-msgstr ""
+msgstr "ទម្រង់ផ្លាស់ប្តូរប្រព័ន្ធគោលពីររបស់ Microsoft Excel ៥.០ / ៩៥ (Biff5)"
 
 #. KozpE
 #: include/svtools/strings.hrc:73
 msgctxt "STR_FORMAT_ID_BIFF_8"
 msgid "Microsoft Excel Binary Interchange Format 97/2000/XP/2003 (Biff8)"
-msgstr ""
+msgstr "ទ្រង់ទ្រាយផ្លាស់ប្តូរប្រព័ន្ធគោលពីររបស់ Microsoft Excel ៩៧ / ២០០០ / XP / ២០០៣ (Biff8)"
 
 #. ujbwC
 #: include/svtools/strings.hrc:74
 msgctxt "STR_FORMAT_ID_SYLK"
 msgid "Sylk"
-msgstr "Sylk"
+msgstr "ស៊ីល"
 
 #. L6Nn5
 #: include/svtools/strings.hrc:75
 msgctxt "STR_FORMAT_ID_LINK"
 msgid "Dynamic Data Exchange (DDE link)"
-msgstr ""
+msgstr "ការផ្លាស់ប្តូរទិន្នន័យឌីណាមិក (តំណភ្ជាប់ឌីឌីអេ)"
 
 #. E6Ays
 #: include/svtools/strings.hrc:76
 msgctxt "STR_FORMAT_ID_DIF"
 msgid "Data Interchange Format (DIF)"
-msgstr ""
+msgstr "ទំរង់នៃការផ្លាស់ប្តូរទិន្នន័យ (DIF)"
 
 #. XTiAV
 #: include/svtools/strings.hrc:77
@@ -322,19 +321,19 @@ msgstr "វត្ថុ Microsoft Word"
 #: include/svtools/strings.hrc:78
 msgctxt "STR_FORMAT_ID_STAR_FRAMESET_DOC"
 msgid "StarFrameSet object"
-msgstr "វត្ថុ StarFrameSet"
+msgstr "វត្ថុកំណត់ស៊ុមផ្កាយ"
 
 #. iUmYW
 #: include/svtools/strings.hrc:79
 msgctxt "STR_FORMAT_ID_OFFICE_DOC"
 msgid "Office document object"
-msgstr "វត្ថុ​ឯកសារ​ការិយាល័យ"
+msgstr "វត្ថុឯកសារការិយាល័យ"
 
 #. 8NToB
 #: include/svtools/strings.hrc:80
 msgctxt "STR_FORMAT_ID_NOTES_DOCINFO"
 msgid "Notes document info"
-msgstr "ចំណាំ​​ព័ត៌មាន​ឯកសារ"
+msgstr "ឯកសារព័ត៌មាន​ចំណាំ​​"
 
 #. ErG5N
 #: include/svtools/strings.hrc:81
@@ -346,73 +345,73 @@ msgstr "ឯកសារ Sfx"
 #: include/svtools/strings.hrc:82
 msgctxt "STR_FORMAT_ID_STARCHARTDOCUMENT_50"
 msgid "StarChart 5.0 object"
-msgstr "វត្ថុ StarChart 5.0"
+msgstr "វត្ថុ StarChart ៥.០"
 
 #. Pm6K6
 #: include/svtools/strings.hrc:83
 msgctxt "STR_FORMAT_ID_GRAPHOBJ"
 msgid "Graphic object"
-msgstr "វត្ថុ​ក្រាហ្វិក"
+msgstr "វត្ថុក្រាហ្វិក"
 
 #. MFnoA
 #: include/svtools/strings.hrc:84
 msgctxt "STR_FORMAT_ID_STARWRITER_60"
 msgid "OpenOffice.org 1.0 Writer object"
-msgstr "វត្ថុ OpenOffice.org 1.0 Writer"
+msgstr "វត្ថុរបស់ OpenOffice.org ១.០"
 
 #. WuSEB
 #: include/svtools/strings.hrc:85
 msgctxt "STR_FORMAT_ID_STARWRITERWEB_60"
 msgid "OpenOffice.org 1.0 Writer/Web object"
-msgstr "វត្ថុ OpenOffice.org 1.0 Writer/Web"
+msgstr "OpenOffice.org ១.០ អ្នកនិពន្ធ / បណ្តាញវត្ថុ"
 
 #. GZwRa
 #: include/svtools/strings.hrc:86
 msgctxt "STR_FORMAT_ID_STARWRITERGLOB_60"
 msgid "OpenOffice.org 1.0 Writer/Master object"
-msgstr "វត្ថុ OpenOffice.org 1.0 Writer/Master"
+msgstr "OpenOffice.org ១.០ អ្នកនិពន្ធវត្ថុ / មេ"
 
 #. iEkCL
 #: include/svtools/strings.hrc:87
 msgctxt "STR_FORMAT_ID_STARDRAW_60"
 msgid "OpenOffice.org 1.0 Draw object"
-msgstr "វត្ថុ OpenOffice.org 1.0 Draw"
+msgstr "OpenOffice.org ១.០ គូរវត្ថុ"
 
 #. nitPp
 #: include/svtools/strings.hrc:88
 msgctxt "STR_FORMAT_ID_STARIMPRESS_60"
 msgid "OpenOffice.org 1.0 Impress object"
-msgstr "វត្ថុ OpenOffice.org 1.0 Impress"
+msgstr "វត្ថុចំណាប់អារម្មណ៍របស់ OpenOffice.org ១.០"
 
 #. B37DU
 #: include/svtools/strings.hrc:89
 msgctxt "STR_FORMAT_ID_STARCALC_60"
 msgid "OpenOffice.org 1.0 Calc object"
-msgstr "វត្ថុ OpenOffice.org 1.0 Calc"
+msgstr "វត្ថុ OpenOffice.org ១.០ Calc"
 
 #. CHCYo
 #: include/svtools/strings.hrc:90
 msgctxt "STR_FORMAT_ID_STARCHART_60"
 msgid "OpenOffice.org 1.0 Chart object"
-msgstr "វត្ថុ OpenOffice.org 1.0 Chart"
+msgstr "វត្ថុគំនូសតាង OpenOffice.org ១.០"
 
 #. 67SN7
 #: include/svtools/strings.hrc:91
 msgctxt "STR_FORMAT_ID_STARMATH_60"
 msgid "OpenOffice.org 1.0 Math object"
-msgstr "វត្ថុ OpenOffice.org 1.0 Math"
+msgstr "វត្ថុគណិតវិទ្យា OpenOffice.org ១.០"
 
 #. CDeqm
 #: include/svtools/strings.hrc:92
 msgctxt "STR_FORMAT_ID_WMF"
 msgid "Windows metafile"
-msgstr "ឯកសារ​មេតា​របស់​វីនដូ"
+msgstr "មេតាវីនដូ"
 
 #. AeDJM
 #: include/svtools/strings.hrc:93
 msgctxt "STR_FORMAT_ID_DBACCESS_QUERY"
 msgid "Data source object"
-msgstr "វត្ថុ​ប្រភព​ទិន្នន័យ"
+msgstr "វត្ថុប្រភពទិន្នន័យ"
 
 #. AuVFy
 #: include/svtools/strings.hrc:94
@@ -430,7 +429,7 @@ msgstr "សំណួរ SQL"
 #: include/svtools/strings.hrc:96
 msgctxt "STR_FORMAT_ID_DIALOG_60"
 msgid "OpenOffice.org 1.0 dialog"
-msgstr "ប្រអប់ OpenOffice.org 1.0"
+msgstr "ប្រអប់ OpenOffice.org ១.០"
 
 #. YGTkw
 #: include/svtools/strings.hrc:97
@@ -448,25 +447,25 @@ msgstr "ទ្រង់ទ្រាយ HTML ដែល​គ្មានមតិ
 #: include/svtools/strings.hrc:99
 msgctxt "STR_FORMAT_ID_PNG_BITMAP"
 msgid "Portable Network Graphic (PNG)"
-msgstr ""
+msgstr "ក្រាហ្វិកបណ្តាញចល័ត (PNG)"
 
 #. wDxCa
 #: include/svtools/strings.hrc:101
 msgctxt "STR_ERROR_OBJNOCREATE"
 msgid "Object % could not be inserted."
-msgstr "មិន​អាច​បញ្ចូល​វត្ថុ % ។"
+msgstr "មិន​អាច​បញ្ចូល​ទិន្នន័យ % ។"
 
 #. zz7WG
 #: include/svtools/strings.hrc:102
 msgctxt "STR_ERROR_OBJNOCREATE_FROM_FILE"
 msgid "Object from file % could not be inserted."
-msgstr "មិន​អាច​បញ្ចូល​វត្ថុ​ពី​ឯកសារ % ។"
+msgstr "មិន​អាច​បញ្ចូល​ទិន្នន័យពី​ឯកសារ % ។"
 
 #. KXJx2
 #: include/svtools/strings.hrc:103
 msgctxt "STR_FURTHER_OBJECT"
 msgid "Further objects"
-msgstr "វត្ថុ​បន្ថែម"
+msgstr "ទិន្នន័យបន្ថែម"
 
 #. Aoy8t
 #: include/svtools/strings.hrc:104
@@ -532,14 +531,14 @@ msgstr "វចនានុក្រម"
 #: include/svtools/strings.hrc:123
 msgctxt "STR_SVT_COLLATE_PINYIN"
 msgid "Pinyin"
-msgstr "ភីនអ៊ីន"
+msgstr "ភីញីន"
 
 #. v6EtG
 #. chinese sorting algorithm
 #: include/svtools/strings.hrc:125
 msgctxt "STR_SVT_COLLATE_STROKE"
 msgid "Stroke"
-msgstr "ខ្វាច់"
+msgstr "ជំងឺដាច់សរសៃឈាម"
 
 #. jUDEo
 #. chinese sorting algorithm
@@ -560,26 +559,26 @@ msgstr "យូនីកូដ"
 #: include/svtools/strings.hrc:131
 msgctxt "STR_SVT_COLLATE_ZHUYIN"
 msgid "Zhuyin"
-msgstr "ជូអ៊ីន"
+msgstr "ហ្សុយិន"
 
 #. onJwb
 #. phone book sorting algorithm. e.g. German
 #: include/svtools/strings.hrc:133
 msgctxt "STR_SVT_COLLATE_PHONEBOOK"
 msgid "Phone book"
-msgstr "សៀវភៅ​ទូរសព្ទ"
+msgstr "សៀវភៅ​លេខទូរស័ព្ទ"
 
 #. FMEE2
 #: include/svtools/strings.hrc:134
 msgctxt "STR_SVT_COLLATE_PHONETIC_F"
 msgid "Phonetic (alphanumeric first)"
-msgstr "នៃ​សូរសព្ទ (អក្សរក្រម​លេខ ដំបូង)"
+msgstr "សូរសព្ទ (រៀបដាក់អក្សរក្រម​លេខ មុន)"
 
 #. HjF8p
 #: include/svtools/strings.hrc:135
 msgctxt "STR_SVT_COLLATE_PHONETIC_L"
 msgid "Phonetic (alphanumeric last)"
-msgstr "នៃ​សូរសព្ទ (អក្សរក្រម​លេខ ចុង​ក្រោយ)"
+msgstr "សូរសព្ទ (រៀបដាក់អក្សរក្រម​លេខ ក្រោយ)"
 
 #. hDETe
 #. alphanumeric indexentry algorithm
@@ -600,7 +599,7 @@ msgstr "វចនានុក្រម"
 #: include/svtools/strings.hrc:141
 msgctxt "STR_SVT_INDEXENTRY_PINYIN"
 msgid "Pinyin"
-msgstr "ភីនអ៊ីន"
+msgstr "ភីញីន"
 
 #. NuguW
 #. chinese indexentry algorithm
@@ -614,1261 +613,1259 @@ msgstr "រ៉ាឌីកាល់"
 #: include/svtools/strings.hrc:145
 msgctxt "STR_SVT_INDEXENTRY_STROKE"
 msgid "Stroke"
-msgstr "ខ្វាច់"
+msgstr "ជាបែបសរសៃ"
 
 #. AaP7M
 #. chinese indexentry algorithm
 #: include/svtools/strings.hrc:147
 msgctxt "STR_SVT_INDEXENTRY_ZHUYIN"
 msgid "Zhuyin"
-msgstr "ជូអ៊ីន"
+msgstr "ហ្សុយិន"
 
 #. 5qyCq
 #: include/svtools/strings.hrc:148
 msgctxt "STR_SVT_INDEXENTRY_PHONETIC_FS"
 msgid "Phonetic (alphanumeric first, grouped by syllables)"
-msgstr "នៃ​សូរសព្ទ (អក្សរក្រម​លេខ ​ដំបូង​​ រៀប​ជា​ក្រុម​ដោយ​ព្យាង្គ)"
+msgstr "សូរសព្ទ (អក្សរក្រម​លេខ ​ដំបូង​​ រៀប​តាម​ព្យាង្គ)"
 
 #. XZdA3
 #: include/svtools/strings.hrc:149
 msgctxt "STR_SVT_INDEXENTRY_PHONETIC_FC"
 msgid "Phonetic (alphanumeric first, grouped by consonants)"
-msgstr "នៃ​សូរសព្ទ (អក្សរក្រម​លេខ​ ដំបូង​ ​រៀប​ជា​ក្រុម​ដោយ​ព្យញ្ជនៈ)"
+msgstr "សូរសព្ទ (អក្សរក្រម​លេខ ​ដំបូង​​ រៀប​តាម​ព្យញ្ជនៈ)"
 
 #. cYBZQ
 #: include/svtools/strings.hrc:150
 msgctxt "STR_SVT_INDEXENTRY_PHONETIC_LS"
 msgid "Phonetic (alphanumeric last, grouped by syllables)"
-msgstr "នៃ​សូរសព្ទ (​អក្សរក្រម​លេខ ​ចុង​ក្រោយ​ ​រៀប​ជា​ក្រុម​ដោយ​ព្យាង្គ​)"
+msgstr "សូរសព្ទ (អក្សរក្រម​លេខ ​ចុងក្រោយ រៀប​តាម​​ព្យាង្គ​)"
 
 #. kt3PC
 #: include/svtools/strings.hrc:151
 msgctxt "STR_SVT_INDEXENTRY_PHONETIC_LC"
 msgid "Phonetic (alphanumeric last, grouped by consonants)"
-msgstr "នៃ​សូរសព្ទ (អក្សរក្រម​លេខ​ ចុង​ក្រោយ​​ រៀប​ជា​ក្រុម​ដោយ​ព្យញ្ជនៈ)"
+msgstr "សូរសព្ទ (អក្សរក្រម​លេខ ​ចុងក្រោយ រៀប​តាម​​ព្យញ្ជនៈ)"
+
+#. 5Eyy3
+#: include/svtools/strings.hrc:153
+msgctxt "STR_SVT_CALENDAR_TODAY"
+msgid "Today"
+msgstr "ថ្ងៃនេះ"
+
+#. dQdJw
+#: include/svtools/strings.hrc:154
+msgctxt "STR_SVT_CALENDAR_NONE"
+msgid "None"
+msgstr "គ្មាន"
 
 #. KBGLa
-#: include/svtools/strings.hrc:153
+#: include/svtools/strings.hrc:156
 msgctxt "STR_SVT_STYLE_LIGHT"
 msgid "Light"
 msgstr "ស្ដើង"
 
 #. mZkDz
-#: include/svtools/strings.hrc:154
+#: include/svtools/strings.hrc:157
 msgctxt "STR_SVT_STYLE_LIGHT_ITALIC"
 msgid "Light Italic"
 msgstr "ទ្រេត​ស្ដើង"
 
 #. QBxYq
-#: include/svtools/strings.hrc:155
+#: include/svtools/strings.hrc:158
 msgctxt "STR_SVT_STYLE_NORMAL"
 msgid "Regular"
-msgstr "ធម្មតា"
+msgstr "ធម្មត"
 
 #. u5Gop
-#: include/svtools/strings.hrc:156
+#: include/svtools/strings.hrc:159
 msgctxt "STR_SVT_STYLE_NORMAL_ITALIC"
 msgid "Italic"
 msgstr "ទ្រេត"
 
 #. tHu3B
-#: include/svtools/strings.hrc:157
+#: include/svtools/strings.hrc:160
 msgctxt "STR_SVT_STYLE_BOLD"
 msgid "Bold"
 msgstr "ដិត"
 
 #. cbXrP
-#: include/svtools/strings.hrc:158
+#: include/svtools/strings.hrc:161
 msgctxt "STR_SVT_STYLE_BOLD_ITALIC"
 msgid "Bold Italic"
 msgstr "ទ្រេត ដិត"
 
 #. yHZD2
-#: include/svtools/strings.hrc:159
+#: include/svtools/strings.hrc:162
 msgctxt "STR_SVT_STYLE_BLACK"
 msgid "Black"
 msgstr "ខ្មៅ"
 
 #. 4eGUH
-#: include/svtools/strings.hrc:160
+#: include/svtools/strings.hrc:163
 msgctxt "STR_SVT_STYLE_BLACK_ITALIC"
 msgid "Black Italic"
 msgstr "ទ្រេត​ ខ្មៅ"
 
 #. zhoAB
-#: include/svtools/strings.hrc:161
+#: include/svtools/strings.hrc:164
 msgctxt "STR_SVT_STYLE_BOOK"
 msgid "Book"
 msgstr "សៀវភៅ​"
 
 #. sqXRb
-#: include/svtools/strings.hrc:162
+#: include/svtools/strings.hrc:165
 msgctxt "STR_SVT_STYLE_BOLD_OBLIQUE"
 msgid "Bold Oblique"
-msgstr ""
+msgstr "ដាប់ប៊ែលអូលីក"
 
 #. QUBiF
-#: include/svtools/strings.hrc:163
-#, fuzzy
+#: include/svtools/strings.hrc:166
 msgctxt "STR_SVT_STYLE_CONDENSED"
 msgid "Condensed"
 msgstr "ញឹក​"
 
 #. LTVdC
-#: include/svtools/strings.hrc:164
+#: include/svtools/strings.hrc:167
 msgctxt "STR_SVT_STYLE_CONDENSED_BOLD"
 msgid "Condensed Bold"
-msgstr ""
+msgstr "ញឹក​ដិត"
 
 #. Guayv
-#: include/svtools/strings.hrc:165
+#: include/svtools/strings.hrc:168
 msgctxt "STR_SVT_STYLE_CONDENSED_BOLD_ITALIC"
 msgid "Condensed Bold Italic"
-msgstr ""
+msgstr "ញឹក​ដិតទ្រេត"
 
 #. AoubP
-#: include/svtools/strings.hrc:166
+#: include/svtools/strings.hrc:169
 msgctxt "STR_SVT_STYLE_CONDENSED_BOLD_OBLIQUE"
 msgid "Condensed Bold Oblique"
-msgstr ""
+msgstr "ខាប់ដាប់ប៊ែលអូលីក"
 
 #. bpDXQ
-#: include/svtools/strings.hrc:167
+#: include/svtools/strings.hrc:170
 msgctxt "STR_SVT_STYLE_CONDENSED_ITALIC"
 msgid "Condensed Italic"
-msgstr ""
+msgstr "ញឹកទ្រេត"
 
 #. YDMtz
-#: include/svtools/strings.hrc:168
+#: include/svtools/strings.hrc:171
 msgctxt "STR_SVT_STYLE_CONDENSED_OBLIQUE"
 msgid "Condensed Oblique"
-msgstr ""
+msgstr "ខាប់ Oblique"
 
 #. MouF8
-#: include/svtools/strings.hrc:169
+#: include/svtools/strings.hrc:172
 msgctxt "STR_SVT_STYLE_EXTRALIGHT"
 msgid "ExtraLight"
-msgstr ""
+msgstr "ស្តើងមធ្យម"
 
 #. zurf4
-#: include/svtools/strings.hrc:170
+#: include/svtools/strings.hrc:173
 msgctxt "STR_SVT_STYLE_EXTRALIGHT_ITALIC"
 msgid "ExtraLight Italic"
-msgstr ""
+msgstr "ស្តើងខ្លាំង"
 
 #. apfoW
-#: include/svtools/strings.hrc:171
+#: include/svtools/strings.hrc:174
 msgctxt "STR_SVT_STYLE_OBLIQUE"
 msgid "Oblique"
-msgstr ""
+msgstr "ទ្រេត​"
 
 #. TJsAw
-#: include/svtools/strings.hrc:172
-#, fuzzy
+#: include/svtools/strings.hrc:175
 msgctxt "STR_SVT_STYLE_SEMIBOLD"
 msgid "Semibold"
-msgstr "ពាក់កណ្តាលដិត​"
+msgstr "ដិត​មធ្យម"
 
 #. LRtri
-#: include/svtools/strings.hrc:173
+#: include/svtools/strings.hrc:176
 msgctxt "STR_SVT_STYLE_SEMIBOLD_ITALIC"
 msgid "Semibold Italic"
-msgstr ""
+msgstr "ដិត​មធ្យមនិងទ្រេត"
 
 #. bBXFx
-#: include/svtools/strings.hrc:174
+#: include/svtools/strings.hrc:177
 msgctxt "STR_SVT_FONTMAP_BOTH"
 msgid "The same font will be used on both your printer and your screen."
 msgstr "ពុម្ពអក្សរ​ដូច​គ្នា នឹង​ត្រូវ​បាន​ប្រើ​ទាំង​ លើ​ម៉ាស៊ីន​បោះពុម្ព​ និង​​​លើ​អេក្រង់​របស់​អ្នក ។"
 
 #. HFBCn
-#: include/svtools/strings.hrc:175
+#: include/svtools/strings.hrc:178
 msgctxt "STR_SVT_FONTMAP_PRINTERONLY"
 msgid "This is a printer font. The screen image may differ."
 msgstr "នេះ​ជា​ពុម្ពអក្សរ​​​ម៉ាស៊ីន​បោះពុម្ព ​។ រូបភាព​លើ​អេក្រង់​អាច​ខុស​គ្នា ។"
 
 #. iceoL
-#: include/svtools/strings.hrc:176
+#: include/svtools/strings.hrc:179
 msgctxt "STR_SVT_FONTMAP_STYLENOTAVAILABLE"
 msgid "This font style will be simulated or the closest matching style will be used."
-msgstr "រចនាប័ទ្ម​​​ពុម្ពអក្សរ​នេះ​​នឹង​ត្រូវ​បាន​​យក​គំរូ​តាម ឬ រចនាប័ទ្ម​ដែល​ដូច​គ្នា​បំផុត​​ ​នឹង​​​ត្រូវ​​បាន​​​ប្រើ ។"
+msgstr "រចនាបទពុម្ពអក្សរ​នេះ​​នឹង​ត្រូវ​បាន​​យក​គំរូ​តាម ឬ រចនាប័ទ្ម​ដែល​ដូច​គ្នា​បំផុត​​ ​នឹង​​​ត្រូវ​​បាន​​​ប្រើ ។"
 
 #. hBbuZ
-#: include/svtools/strings.hrc:177
+#: include/svtools/strings.hrc:180
 msgctxt "STR_SVT_FONTMAP_NOTAVAILABLE"
 msgid "This font has not been installed. The closest available font will be used."
-msgstr "ទំហំ​ពុម្ពអក្សរ​នេះ​មិន​ត្រូវ​បាន​ដំឡើង ។ ពុម្ពអក្សរ​​​​ដូច​គ្នា​​ដែល​មាន​ នឹង​ត្រូវ​បាន​ប្រើ ។"
+msgstr "ទំហំ​ពុម្ពអក្សរ​នេះ​មិន​ទាន់បាន​ដំឡើងទេ។ ពុម្ពអក្សរ​​​​ដូច​គ្នា​​ដែល​មាន​ នឹង​ត្រូវ​បាន​ប្រើ ។"
 
 #. KCmDe
-#: include/svtools/strings.hrc:179
+#: include/svtools/strings.hrc:182
 msgctxt "STR_TABBAR_PUSHBUTTON_MOVET0HOME"
 msgid "Move To Home"
-msgstr "ផ្លាស់ទី​ទៅ​ដើម"
+msgstr "រុញទៅទំព័រ​ដើម"
 
 #. f6NAc
-#: include/svtools/strings.hrc:180
+#: include/svtools/strings.hrc:183
 msgctxt "STR_TABBAR_PUSHBUTTON_MOVELEFT"
 msgid "Move Left"
-msgstr "ផ្លាស់ទី​ទៅ​ឆ្វេង"
+msgstr "រុញទៅ​ឆ្វេង"
 
 #. nrvoV
-#: include/svtools/strings.hrc:181
+#: include/svtools/strings.hrc:184
 msgctxt "STR_TABBAR_PUSHBUTTON_MOVERIGHT"
 msgid "Move Right"
-msgstr "ផ្លាស់ទី​​ទៅ​ស្ដាំ"
+msgstr "រុញទៅ​ស្ដាំ"
 
 #. ZQgUu
-#: include/svtools/strings.hrc:182
+#: include/svtools/strings.hrc:185
 msgctxt "STR_TABBAR_PUSHBUTTON_MOVETOEND"
 msgid "Move To End"
-msgstr "ផ្លាស់ទី​ទៅ​ចុង"
+msgstr "រុញទៅ​ចុង"
 
 #. mZ4Ln
-#: include/svtools/strings.hrc:183
+#: include/svtools/strings.hrc:186
 msgctxt "STR_TABBAR_PUSHBUTTON_ADDTAB"
 msgid "Add"
 msgstr "បន្ថែម"
 
 #. 4K4AF
-#: include/svtools/strings.hrc:185
+#: include/svtools/strings.hrc:188
 msgctxt "STR_SVT_ACC_RULER_HORZ_NAME"
 msgid "Horizontal Ruler"
 msgstr "បន្ទាត់​ផ្ដេក"
 
 #. PG9qt
-#: include/svtools/strings.hrc:186
+#: include/svtools/strings.hrc:189
 msgctxt "STR_SVT_ACC_RULER_VERT_NAME"
 msgid "Vertical Ruler"
 msgstr "បន្ទាត់បញ្ឈរ"
 
 #. WKngA
-#: include/svtools/strings.hrc:188
+#: include/svtools/strings.hrc:191
 msgctxt "STR_SVT_1BIT_THRESHOLD"
 msgid "1 bit threshold"
-msgstr "កម្រិត​ពន្លឺ ១ ប៊ីត"
+msgstr "កម្រិតពន្លឺ ១ ប៊ីត"
 
 #. dByxQ
-#: include/svtools/strings.hrc:189
+#: include/svtools/strings.hrc:192
 msgctxt "STR_SVT_1BIT_DITHERED"
 msgid "1 bit dithered"
-msgstr "ច្របល់ ១ ប៊ីត"
+msgstr "បង្អាក់បន្តិច"
 
 #. kciH5
-#: include/svtools/strings.hrc:190
+#: include/svtools/strings.hrc:193
 msgctxt "STR_SVT_4BIT_GRAYSCALE"
 msgid "4 bit grayscale"
-msgstr "មាត្រដ្ឋាន​ប្រផេះ ៤ ប៊ីត"
+msgstr "មាត្រដ្ឋានប្រផេះ ៤"
 
 #. TrBvg
-#: include/svtools/strings.hrc:191
+#: include/svtools/strings.hrc:194
 msgctxt "STR_SVT_4BIT_COLOR_PALETTE"
 msgid "4 bit color"
 msgstr "ពណ៌ ៤ ប៊ីត"
 
 #. q6mH9
-#: include/svtools/strings.hrc:192
+#: include/svtools/strings.hrc:195
 msgctxt "STR_SVT_8BIT_GRAYSCALE"
 msgid "8 bit grayscale"
-msgstr "មាត្រដ្ឋាន​ប្រផេះ ៨ ប៊ីត"
+msgstr "មាត្រដ្ឋានប្រផេះ ៨ ប៊ីត"
 
 #. 8u2Zf
-#: include/svtools/strings.hrc:193
+#: include/svtools/strings.hrc:196
 msgctxt "STR_SVT_8BIT_COLOR_PALETTE"
 msgid "8 bit color"
 msgstr "ពណ៌ ៨ ប៊ីត"
 
 #. DZVK4
-#: include/svtools/strings.hrc:194
+#: include/svtools/strings.hrc:197
 msgctxt "STR_SVT_24BIT_TRUE_COLOR"
 msgid "24 bit true color"
-msgstr "ពណ៌​ធម្មជាតិ ២៤ ប៊ីត"
+msgstr "ពណ៌ ២៤ ប៊ីត"
 
 #. Grnub
-#: include/svtools/strings.hrc:195
-#, fuzzy
+#: include/svtools/strings.hrc:198
 msgctxt "STR_SVT_ESTIMATED_SIZE_PIX_1"
 msgid "The image needs about %1 KB of memory."
-msgstr "រូបភាព​ត្រូវការ​អង្គ​ចងចាំ​ប្រហែល %1 គីឡូបៃ ។"
+msgstr "រូបភាព​ត្រូវការ ​ការចងចាំ ​ប្រហែល %1 គីឡូបៃ ។"
 
 #. FCnVT
-#: include/svtools/strings.hrc:196
-#, fuzzy
+#: include/svtools/strings.hrc:199
 msgctxt "STR_SVT_ESTIMATED_SIZE_PIX_2"
 msgid "The image needs about %1 KB of memory, the file size is %2 KB."
-msgstr ""
-"រូបភាព​ត្រូវការ​អង្គ​ចងចាំ​ប្រហែល %1 គីឡូបៃ\n"
-" ទំហំ​ឯកសារ​គឺ %2 គីឡូបៃ ។"
+msgstr "រូបភាពត្រូវការសតិប្រហែល %1 គីឡូបៃទំហំឯកសារគឺ %2 គីឡូបៃ។"
 
 #. CdHU8
-#: include/svtools/strings.hrc:197
+#: include/svtools/strings.hrc:200
 msgctxt "STR_SVT_ESTIMATED_SIZE_VEC"
 msgid "The file size is %1 KB."
 msgstr "ទំហំ​ឯកសារ​គឺ %1 គីឡូបៃ ។"
 
 #. TaCaF
-#: include/svtools/strings.hrc:198
-#, fuzzy
+#: include/svtools/strings.hrc:201
 msgctxt "STR_SVT_HOST"
 msgid "host"
-msgstr "ប្រកាស"
+msgstr "ម៉ាស៊ីន host"
 
 #. ERaxD
-#: include/svtools/strings.hrc:199
-#, fuzzy
+#: include/svtools/strings.hrc:202
 msgctxt "STR_SVT_PORT"
 msgid "port"
-msgstr "តម្រៀប"
+msgstr "ច្រក"
 
 #. W88Be
-#: include/svtools/strings.hrc:200
+#: include/svtools/strings.hrc:203
 msgctxt "STR_SVT_OTHER_CMIS"
 msgid "Other CMIS"
-msgstr ""
+msgstr "CMIS ផ្សេងទៀត"
 
 #. E9JF5
-#: include/svtools/strings.hrc:201
+#: include/svtools/strings.hrc:204
 msgctxt "STR_SVT_PRNDLG_READY"
 msgid "Ready"
 msgstr "រួចរាល់"
 
 #. 6zER8
-#: include/svtools/strings.hrc:202
+#: include/svtools/strings.hrc:205
 msgctxt "STR_SVT_PRNDLG_PAUSED"
 msgid "Paused"
 msgstr "បាន​ផ្អាក"
 
 #. nqqYs
-#: include/svtools/strings.hrc:203
+#: include/svtools/strings.hrc:206
 msgctxt "STR_SVT_PRNDLG_PENDING"
 msgid "Pending deletion"
-msgstr "ការ​លុប​មិន​ទាន់​សម្រេច"
+msgstr "ការ​លុប​មិន​ទាន់​បានសម្រេច"
 
 #. CGn9R
-#: include/svtools/strings.hrc:204
+#: include/svtools/strings.hrc:207
 msgctxt "STR_SVT_PRNDLG_BUSY"
 msgid "Busy"
 msgstr "រវល់"
 
 #. nyGEq
-#: include/svtools/strings.hrc:205
+#: include/svtools/strings.hrc:208
 msgctxt "STR_SVT_PRNDLG_INITIALIZING"
 msgid "Initializing"
 msgstr "កំពុង​ចាប់ផ្តើម"
 
 #. hduW4
-#: include/svtools/strings.hrc:206
+#: include/svtools/strings.hrc:209
 msgctxt "STR_SVT_PRNDLG_WAITING"
 msgid "Waiting"
-msgstr "រង់​ចាំ"
+msgstr "កំពុងរង់​ចាំ"
 
 #. FYGFz
-#: include/svtools/strings.hrc:207
+#: include/svtools/strings.hrc:210
 msgctxt "STR_SVT_PRNDLG_WARMING_UP"
 msgid "Warming up"
-msgstr "កំពុង​កំដៅ"
+msgstr "កំពុង​ត្រៀម"
 
 #. qntFR
-#: include/svtools/strings.hrc:208
+#: include/svtools/strings.hrc:211
 msgctxt "STR_SVT_PRNDLG_PROCESSING"
 msgid "Processing"
 msgstr "កំពុង​ដំណើរការ"
 
 #. tUmmx
-#: include/svtools/strings.hrc:209
+#: include/svtools/strings.hrc:212
 msgctxt "STR_SVT_PRNDLG_PRINTING"
 msgid "Printing"
-msgstr "ការបោះពុម្ព​"
+msgstr "កំពុងបោះពុម្ព​"
 
 #. BMWJx
-#: include/svtools/strings.hrc:210
+#: include/svtools/strings.hrc:213
 msgctxt "STR_SVT_PRNDLG_OFFLINE"
 msgid "Offline"
-msgstr "ក្រៅ​បណ្តាញ"
+msgstr "ក្រៅបណ្ដាញ"
 
 #. drDMK
-#: include/svtools/strings.hrc:211
+#: include/svtools/strings.hrc:214
 msgctxt "STR_SVT_PRNDLG_ERROR"
 msgid "Error"
-msgstr "កំហុស"
+msgstr "មានបញ្ហា"
 
 #. FnMTQ
-#: include/svtools/strings.hrc:212
+#: include/svtools/strings.hrc:215
 msgctxt "STR_SVT_PRNDLG_SERVER_UNKNOWN"
 msgid "Unknown Server"
-msgstr "​​មិន​ស្គាល់​ម៉ាស៊ីន​បម្រើ"
+msgstr "​​មិន​ស្គាល់​ បណ្ដាញ"
 
 #. vuLYa
-#: include/svtools/strings.hrc:213
+#: include/svtools/strings.hrc:216
 msgctxt "STR_SVT_PRNDLG_PAPER_JAM"
 msgid "Paper jam"
 msgstr "ស្ទះ​ក្រដាស"
 
 #. qG4ZG
-#: include/svtools/strings.hrc:214
+#: include/svtools/strings.hrc:217
 msgctxt "STR_SVT_PRNDLG_PAPER_OUT"
 msgid "Not enough paper"
 msgstr "ក្រដាស​មិន​គ្រប់គ្រាន់"
 
 #. bB9PC
-#: include/svtools/strings.hrc:215
+#: include/svtools/strings.hrc:218
 msgctxt "STR_SVT_PRNDLG_MANUAL_FEED"
 msgid "Manual feed"
-msgstr "បន្ថែម​ដោយ​ដៃ"
+msgstr "មតិ​ព័ត៌មាន​ប្រមូល​ដោយដៃ"
 
 #. eMZJo
-#: include/svtools/strings.hrc:216
+#: include/svtools/strings.hrc:219
 msgctxt "STR_SVT_PRNDLG_PAPER_PROBLEM"
 msgid "Paper problem"
 msgstr "បញ្ហា​ក្រដាស"
 
 #. RU3Li
-#: include/svtools/strings.hrc:217
+#: include/svtools/strings.hrc:220
 msgctxt "STR_SVT_PRNDLG_IO_ACTIVE"
 msgid "I/O active"
 msgstr "I/O មាន​សកម្មភាព"
 
 #. VEuAd
-#: include/svtools/strings.hrc:218
+#: include/svtools/strings.hrc:221
 msgctxt "STR_SVT_PRNDLG_OUTPUT_BIN_FULL"
 msgid "Output bin full"
-msgstr "កន្លែង​ផ្ទុក​​ទិន្នផល​​ ពេញ"
+msgstr "លទ្ធផល bin ពេញ"
 
 #. MinDm
-#: include/svtools/strings.hrc:219
+#: include/svtools/strings.hrc:222
 msgctxt "STR_SVT_PRNDLG_TONER_LOW"
 msgid "Toner low"
 msgstr "ទឹកថ្នាំ​តិច"
 
 #. AjnQj
-#: include/svtools/strings.hrc:220
+#: include/svtools/strings.hrc:223
 msgctxt "STR_SVT_PRNDLG_NO_TONER"
 msgid "No toner"
 msgstr "គ្មាន​​ទឹកថ្នាំ"
 
 #. CtvCS
-#: include/svtools/strings.hrc:221
+#: include/svtools/strings.hrc:224
 msgctxt "STR_SVT_PRNDLG_PAGE_PUNT"
 msgid "Delete Page"
-msgstr "លុប​ទំព័រ"
+msgstr "លុបទំព័រចោល"
 
 #. iGWiT
-#: include/svtools/strings.hrc:222
+#: include/svtools/strings.hrc:225
 msgctxt "STR_SVT_PRNDLG_USER_INTERVENTION"
 msgid "User intervention necessary"
-msgstr "ភាព​អន្តរាគមន៍​ចាំបាច់​របស់​អ្នក​ប្រើ"
+msgstr "ត្រវការជំនួយពីអ្នកប្រើប្រាស់"
 
 #. 7xg4W
-#: include/svtools/strings.hrc:223
+#: include/svtools/strings.hrc:226
 msgctxt "STR_SVT_PRNDLG_OUT_OF_MEMORY"
 msgid "Insufficient memory"
-msgstr "អង្គ​ចងចាំ​​មិន​​គ្រប់គ្រាន់"
+msgstr "ការចងចាំមិនគ្រប់គ្រាន់"
 
 #. DcNFt
-#: include/svtools/strings.hrc:224
+#: include/svtools/strings.hrc:227
 msgctxt "STR_SVT_PRNDLG_DOOR_OPEN"
 msgid "Cover open"
-msgstr "គម្រប​ បើក"
+msgstr "គម្រប​បើកចំហរ"
 
 #. CHiEH
-#: include/svtools/strings.hrc:225
+#: include/svtools/strings.hrc:228
 msgctxt "STR_SVT_PRNDLG_POWER_SAVE"
 msgid "Power save mode"
-msgstr "របៀប​សន្សំ​អគ្គិសនី"
+msgstr "កំពុងសន្សំថាមពល"
 
 #. bYbeA
-#: include/svtools/strings.hrc:226
+#: include/svtools/strings.hrc:229
 msgctxt "STR_SVT_PRNDLG_DEFPRINTER"
 msgid "Default printer"
-msgstr "ម៉ាស៊ីន​​​បោះពុម្ព​​​លំនាំ​ដើម"
+msgstr "ម៉ាស៊ីន​​​បោះពុម្ព​​​ទីមួយ"
 
 #. 9QCL5
-#: include/svtools/strings.hrc:227
+#: include/svtools/strings.hrc:230
 msgctxt "STR_SVT_PRNDLG_JOBCOUNT"
 msgid "%d documents"
 msgstr "%d ​ឯកសារ"
 
 #. yobGc
-#: include/svtools/strings.hrc:229
+#: include/svtools/strings.hrc:232
 msgctxt "STR_NO_FIELD_SELECTION"
 msgid "<none>"
-msgstr "<គ្មាន>"
+msgstr "<none>"
 
 #. Fa4nQ
-#: include/svtools/strings.hrc:230
+#: include/svtools/strings.hrc:233
 msgctxt "STR_FIELD_COMPANY"
 msgid "Company"
 msgstr "ក្រុមហ៊ុន"
 
 #. DdDzQ
-#: include/svtools/strings.hrc:231
+#: include/svtools/strings.hrc:234
 msgctxt "STR_FIELD_DEPARTMENT"
 msgid "Department"
 msgstr "នាយកដ្ឋាន"
 
 #. LXmyi
-#: include/svtools/strings.hrc:232
+#: include/svtools/strings.hrc:235
 msgctxt "STR_FIELD_FIRSTNAME"
 msgid "First name"
 msgstr "នាមខ្លួន"
 
 #. 2MkxF
-#: include/svtools/strings.hrc:233
+#: include/svtools/strings.hrc:236
 msgctxt "STR_FIELD_LASTNAME"
 msgid "Last name"
 msgstr "នាមត្រកូល"
 
 #. VyyM6
-#: include/svtools/strings.hrc:234
+#: include/svtools/strings.hrc:237
 msgctxt "STR_FIELD_STREET"
 msgid "Street"
 msgstr "វិថី"
 
 #. wUdSC
-#: include/svtools/strings.hrc:235
+#: include/svtools/strings.hrc:238
 msgctxt "STR_FIELD_COUNTRY"
 msgid "Country"
 msgstr "ប្រទេស"
 
 #. tAg9k
-#: include/svtools/strings.hrc:236
+#: include/svtools/strings.hrc:239
 msgctxt "STR_FIELD_ZIPCODE"
 msgid "ZIP Code"
 msgstr "លេខ​តំបន់"
 
 #. UYGgj
-#: include/svtools/strings.hrc:237
+#: include/svtools/strings.hrc:240
 msgctxt "STR_FIELD_CITY"
 msgid "City"
 msgstr "ទីក្រុង​"
 
 #. vTYyD
-#: include/svtools/strings.hrc:238
+#: include/svtools/strings.hrc:241
 msgctxt "STR_FIELD_TITLE"
 msgid "Title"
 msgstr "ចំណង​ជើង"
 
 #. E7qqB
-#: include/svtools/strings.hrc:239
+#: include/svtools/strings.hrc:242
 msgctxt "STR_FIELD_POSITION"
 msgid "Position"
 msgstr "ទីតាំង​"
 
 #. NiFzB
-#: include/svtools/strings.hrc:240
+#: include/svtools/strings.hrc:243
 msgctxt "STR_FIELD_ADDRFORM"
 msgid "Addr. Form"
-msgstr "សំណុំ​បែបបទ​អាសយដ្ឋាន"
+msgstr "អ្នកបន្ថែម។ សំណុំបែបបទ"
 
 #. CFDX6
-#: include/svtools/strings.hrc:241
+#: include/svtools/strings.hrc:244
 msgctxt "STR_FIELD_INITIALS"
 msgid "Initials"
-msgstr "អាទិ​សង្កេត"
+msgstr "ដំបូង"
 
 #. 2DADo
-#: include/svtools/strings.hrc:242
+#: include/svtools/strings.hrc:245
 msgctxt "STR_FIELD_SALUTATION"
 msgid "Complimentary close"
 msgstr "បញ្ចប់​ដោយ​ការ​គួរសម​"
 
 #. 8MWGd
-#: include/svtools/strings.hrc:243
+#: include/svtools/strings.hrc:246
 msgctxt "STR_FIELD_HOMETEL"
 msgid "Tel: Home"
 msgstr "ទូរស័ព្ទ​ ៖ ផ្ទះ"
 
 #. fX9J4
-#: include/svtools/strings.hrc:244
+#: include/svtools/strings.hrc:247
 msgctxt "STR_FIELD_WORKTEL"
 msgid "Tel: Work"
 msgstr "ទូរស័ព្ទ ៖ កន្លែង​ធ្វើការ"
 
 #. Ss9vd
-#: include/svtools/strings.hrc:245
+#: include/svtools/strings.hrc:248
 msgctxt "STR_FIELD_FAX"
 msgid "Fax"
-msgstr ""
+msgstr "ទូរ​សារ"
 
 #. MgbsU
-#: include/svtools/strings.hrc:246
+#: include/svtools/strings.hrc:249
 msgctxt "STR_FIELD_EMAIL"
 msgid "Email"
-msgstr ""
+msgstr "អ៊ីម៉េល"
 
 #. aHNGY
-#: include/svtools/strings.hrc:247
+#: include/svtools/strings.hrc:250
 msgctxt "STR_FIELD_URL"
 msgid "URL"
 msgstr "URL"
 
 #. CGutA
-#: include/svtools/strings.hrc:248
+#: include/svtools/strings.hrc:251
 msgctxt "STR_FIELD_NOTE"
 msgid "Note"
 msgstr "ចំណាំ"
 
 #. btBDG
-#: include/svtools/strings.hrc:249
+#: include/svtools/strings.hrc:252
 msgctxt "STR_FIELD_USER1"
 msgid "User 1"
-msgstr "អ្នក​ប្រើ 1"
+msgstr "អ្នក​ប្រើទី​​​ ១"
 
 #. A4nkT
-#: include/svtools/strings.hrc:250
+#: include/svtools/strings.hrc:253
 msgctxt "STR_FIELD_USER2"
 msgid "User 2"
-msgstr "អ្នក​ប្រើ 2"
+msgstr "អ្នក​ប្រើទី ២"
 
 #. J48Kt
-#: include/svtools/strings.hrc:251
+#: include/svtools/strings.hrc:254
 msgctxt "STR_FIELD_USER3"
 msgid "User 3"
-msgstr "អ្នក​ប្រើ 3"
+msgstr "អ្នក​ប្រើទី ៣"
 
 #. 3BxjF
-#: include/svtools/strings.hrc:252
+#: include/svtools/strings.hrc:255
 msgctxt "STR_FIELD_USER4"
 msgid "User 4"
-msgstr "អ្នក​ប្រើ 4"
+msgstr "អ្នក​ប្រើទី ៤"
 
 #. tBBKp
-#: include/svtools/strings.hrc:253
+#: include/svtools/strings.hrc:256
 msgctxt "STR_FIELD_ID"
 msgid "ID"
 msgstr "លេខ​សម្គាល់"
 
 #. H3ygA
-#: include/svtools/strings.hrc:254
+#: include/svtools/strings.hrc:257
 msgctxt "STR_FIELD_STATE"
 msgid "State"
-msgstr "ស្ថាន​​ភាព"
+msgstr "រដ្ឆ"
 
 #. xP2AC
-#: include/svtools/strings.hrc:255
+#: include/svtools/strings.hrc:258
 msgctxt "STR_FIELD_OFFICETEL"
 msgid "Tel: Office"
 msgstr "ទូរស័ព្ទ ៖ ការិយាល័យ"
 
 #. P6Vm5
-#: include/svtools/strings.hrc:256
+#: include/svtools/strings.hrc:259
 msgctxt "STR_FIELD_PAGER"
 msgid "Pager"
-msgstr "Pager"
+msgstr "ទំព័រអត្ថាធិប្បាយ"
 
 #. ayErk
-#: include/svtools/strings.hrc:257
+#: include/svtools/strings.hrc:260
 msgctxt "STR_FIELD_MOBILE"
 msgid "Mobile"
-msgstr "ចល័ត"
+msgstr "ទូរស័ព្ទចល័ត"
 
 #. 26wjz
-#: include/svtools/strings.hrc:258
+#: include/svtools/strings.hrc:261
 msgctxt "STR_FIELD_TELOTHER"
 msgid "Tel: Other"
 msgstr "​ទូរស័ព្ទ ៖ ផ្សេង​ទៀត"
 
 #. runZ4
-#: include/svtools/strings.hrc:259
+#: include/svtools/strings.hrc:262
 msgctxt "STR_FIELD_CALENDAR"
 msgid "Calendar"
 msgstr "ប្រតិទិន"
 
 #. 7niGM
-#: include/svtools/strings.hrc:260
+#: include/svtools/strings.hrc:263
 msgctxt "STR_FIELD_INVITE"
 msgid "Invite"
-msgstr "អញ្ជើញ"
+msgstr "លិខិតអញ្ជើញ"
 
 #. Fqcgq
-#: include/svtools/strings.hrc:262
+#: include/svtools/strings.hrc:265
 msgctxt "STR_SVT_DEFAULT_SERVICE_LABEL"
 msgid "$user$'s $service$"
-msgstr ""
+msgstr "$user$'s $service$"
 
 #. 8TFP9
-#: include/svtools/strings.hrc:264
-#, fuzzy
+#: include/svtools/strings.hrc:267
 msgctxt "STR_WARNING_JAVANOTFOUND"
 msgid "%PRODUCTNAME requires a Java runtime environment (JRE) to perform this task. Please install a JRE and restart %PRODUCTNAME."
 msgstr "%PRODUCTNAME ត្រូវការ Java runtime environment (JRE) ដើម្បី​ធ្វើ​ភារកិច្ច​នេះ ។ សូម​ដំឡើង JRE ហើយ​​ចាប់ផ្ដើម %PRODUCTNAME ឡើងវិញ ។"
 
 #. EmFJc
-#: include/svtools/strings.hrc:265
+#: include/svtools/strings.hrc:268
 msgctxt "STR_WARNING_JAVANOTFOUND_WIN"
 msgid "%PRODUCTNAME requires a %BITNESS-bit Java runtime environment (JRE) to perform this task. Please install a JRE and restart %PRODUCTNAME."
-msgstr ""
+msgstr "%PRODUCTNAME ត្រូវការ %BITNESS-bit Java runtime environment (JRE) ដើម្បី​ធ្វើ​ភារកិច្ច​នេះ ។ សូម​ដំឡើង JRE ហើយ​​ចាប់ផ្ដើម %PRODUCTNAME ឡើងវិញ ។"
 
 #. 7Adh2
-#: include/svtools/strings.hrc:266
+#: include/svtools/strings.hrc:269
 msgctxt "STR_WARNING_JAVANOTFOUND_MAC"
 msgid "%PRODUCTNAME requires Oracle's Java Development Kit (JDK) on macOS 10.10 or greater to perform this task. Please install them and restart %PRODUCTNAME."
-msgstr ""
+msgstr "%PRODUCTNAME ត្រូវការ Oracle's Java Development Kit (JDK) on macOS ១0.១0 ដើម្បី​ធ្វើ​ភារកិច្ច​នេះ ។ សូម​ដំឡើងហើយ​​ចាប់ផ្ដើម %PRODUCTNAME ឡើងវិញ ។"
 
 #. 76BEm
-#: include/svtools/strings.hrc:267
-#, fuzzy
+#: include/svtools/strings.hrc:270
 msgctxt "STR_WARNING_INVALIDJAVASETTINGS_MAC"
 msgid "The %PRODUCTNAME configuration has been changed. Under %PRODUCTNAME - Preferences - %PRODUCTNAME - Advanced, select the Java runtime environment you want to have used by %PRODUCTNAME."
-msgstr "ការ​កំណត់​រចនាសម្ព័ន្ធ %PRODUCTNAME ត្រូវ​បាន​ផ្លាស់ប្ដូរ។ នៅ​ក្រោម %PRODUCTNAME - ចំណូលចិត្ត - %PRODUCTNAME - កម្រិត​ខ្ពស់, ជ្រើស​បរិស្ថាន​ដំណើរការ Java ដែល​អ្នក​ចង់​​ឲ្យ​ប្រើ​​ដោយ %PRODUCTNAME ។"
+msgstr "ការកំណត់​រចនាសម្ព័ន្ធ %PRODUCTNAME ត្រូវ​បាន​ផ្លាស់ប្ដូរ។ នៅ​ក្រោម %PRODUCTNAME - ចំណូលចិត្ត - %PRODUCTNAME - កម្រិតខ្ពស់, ជ្រើស​យក​​​ Java runtime environment ដែល​អ្នក​ចង់​​ឲ្យ​ប្រើ​​ដោយ %PRODUCTNAME ។"
 
 #. BZvFF
-#: include/svtools/strings.hrc:268
-#, fuzzy
+#: include/svtools/strings.hrc:271
 msgctxt "STR_WARNING_INVALIDJAVASETTINGS"
 msgid "The %PRODUCTNAME configuration has been changed. Under Tools - Options - %PRODUCTNAME - Advanced, select the Java runtime environment you want to have used by %PRODUCTNAME."
-msgstr "ការ​កំណត់​រចនាសម្ព័ន្ធ %PRODUCTNAME ត្រូវ​បាន​ផ្លាស់ប្ដូរ។ នៅ​ក្រោម​ឧបករណ៍ - ជម្រើស - %PRODUCTNAME - កម្រិត​ខ្ពស់, ជ្រើស​បរិស្ថាន​ដំណើរការ Java ដែល​អ្នក​ចង់​​ឲ្យ​ប្រើ​​ដោយ %PRODUCTNAME ។"
+msgstr "ការកំណត់​រចនាសម្ព័ន្ធ %PRODUCTNAME ត្រូវ​បាន​ផ្លាស់ប្ដូរ។ នៅ​ក្រោម ឧបករណ៍- ជម្រើស- %PRODUCTNAME - កម្រិតខ្ពស់, ជ្រើស​យក​​​ Java runtime environment ដែល​អ្នក​ចង់​​ឲ្យ​ប្រើ​​ដោយ %PRODUCTNAME ។"
 
 #. Tunzz
-#: include/svtools/strings.hrc:269
-#, fuzzy
+#: include/svtools/strings.hrc:272
 msgctxt "STR_ERROR_JVMCREATIONFAILED_MAC"
 msgid "%PRODUCTNAME requires a Java runtime environment (JRE) to perform this task. The selected JRE is defective. Please select another version or install a new JRE and select it under %PRODUCTNAME - Preferences - %PRODUCTNAME - Advanced."
-msgstr "%PRODUCTNAME ត្រូវការ Java runtime environment (JRE) ដើម្បី​ធ្វើ​ភារកិច្ច​នេះ។ JRE ដែល​បាន​ជ្រើស​គឺ​មិន​ពេញលេញ​ឡើយ។ សូម​ជ្រើស​កំណែ​ផ្សេង ឬ​ដំឡើង JRE ថ្មី​មួយ ហើយ​ជ្រើស​វា​ក្រោម - %PRODUCTNAME - ចំណូលចិត្ត - %PRODUCTNAME - កម្រិត​ខ្ពស់។"
+msgstr "%PRODUCTNAME ត្រូវការ Java runtime environment (JRE) ដើម្បី​ធ្វើ​ភារកិច្ច​នេះ។ JRE ដែល​បាន​ជ្រើស​គឺ​មិន​ពេញលេញ​ឡើយ។ សូម​ជ្រើស​កំណែ​ផ្សេង ឬ​ដំឡើង JRE ថ្មី​មួយ ហើយ​ជ្រើស​វា​ក្រោម - %PRODUCTNAME - ចំណូលចិត្ត - %PRODUCTNAME - កម្រិតខ្ពស់។"
 
 #. rKxCS
-#: include/svtools/strings.hrc:270
-#, fuzzy
+#: include/svtools/strings.hrc:273
 msgctxt "STR_ERROR_JVMCREATIONFAILED"
 msgid "%PRODUCTNAME requires a Java runtime environment (JRE) to perform this task. The selected JRE is defective. Please select another version or install a new JRE and select it under Tools - Options - %PRODUCTNAME - Advanced."
-msgstr "%PRODUCTNAME ត្រូវការ Java runtime environment (JRE) ដើម្បី​ធ្វើ​កិច្ចការ​នេះ ។ JRE ដែល​បាន​ជ្រើស​គឺ​មិន​ពេញលេញ​ឡើយ។ សូម​ជ្រើស​កំណែ​ផ្សេង ឬ​ដំឡើង JRE ថ្មី​មួយ ហើយ​ជ្រើស​វា​ក្រោម ឧបករណ៍ - ជម្រើស - %PRODUCTNAME - កម្រិត​ខ្ពស់។"
+msgstr "%PRODUCTNAME ត្រូវការ Java runtime environment (JRE) ដើម្បី​ធ្វើ​កិច្ចការ​នេះ ។ JRE ដែល​បាន​ជ្រើស​គឺ​មិន​ពេញលេញ​ឡើយ។ សូម​ជ្រើស​កំណែ​ផ្សេង ឬ​ដំឡើង JRE ថ្មី​មួយ ហើយ​ជ្រើស​វា​ក្រោម ឧបករណ៍- ជម្រើស - %PRODUCTNAME - កម្រិតខ្ពស់។"
 
 #. QPEUX
-#: include/svtools/strings.hrc:271
+#: include/svtools/strings.hrc:274
 msgctxt "STR_WARNING_JAVANOTFOUND_TITLE"
 msgid "JRE Required"
 msgstr "ត្រូវការ JRE"
 
 #. XD3FG
-#: include/svtools/strings.hrc:272
+#: include/svtools/strings.hrc:275
 msgctxt "STR_WARNING_INVALIDJAVASETTINGS_TITLE"
 msgid "Select JRE"
-msgstr "ជ្រើស JRE"
+msgstr "ជ្រើសយក JRE"
 
 #. WETqJ
-#: include/svtools/strings.hrc:273
+#: include/svtools/strings.hrc:276
 msgctxt "STR_ERROR_JVMCREATIONFAILED_TITLE"
 msgid "JRE is Defective"
 msgstr "JRE មិន​ពេញលេញ"
 
 #. q7s6f
-#: include/svtools/strings.hrc:275
+#: include/svtools/strings.hrc:278
 msgctxt "STR_DESCRIPTION_SOURCEFILE"
 msgid "Source code"
 msgstr "ប្រភព​កូដ"
 
 #. PZmAB
-#: include/svtools/strings.hrc:276
+#: include/svtools/strings.hrc:279
 msgctxt "STR_DESCRIPTION_BOOKMARKFILE"
 msgid "Bookmark file"
 msgstr "ឯកសារ​ចំណាំ"
 
 #. eNRzD
-#: include/svtools/strings.hrc:277
+#: include/svtools/strings.hrc:280
 msgctxt "STR_DESCRIPTION_GRAPHIC_DOC"
 msgid "Graphics"
 msgstr "ក្រាហ្វិក"
 
 #. Enc4X
-#: include/svtools/strings.hrc:278
+#: include/svtools/strings.hrc:281
 msgctxt "STR_DESCRIPTION_CFGFILE"
 msgid "Configuration file"
-msgstr "ឯកសារ​សម្រាប់​កំណត់​រចនាសម្ព័ន្ធ"
+msgstr "ឯកសារ​សម្រាប់​ ការកំណត់​រចនាសម្ព័ន្ធ"
 
 #. sP5AK
-#: include/svtools/strings.hrc:279
+#: include/svtools/strings.hrc:282
 msgctxt "STR_DESCRIPTION_APPLICATION"
 msgid "Application"
 msgstr "កម្មវិធី"
 
 #. jAA7S
-#: include/svtools/strings.hrc:280
+#: include/svtools/strings.hrc:283
 msgctxt "STR_DESCRIPTION_DATABASE_TABLE"
 msgid "Database table"
 msgstr "តារាង​មូលដ្ឋាន​ទិន្នន័យ"
 
 #. CEhUy
-#: include/svtools/strings.hrc:281
+#: include/svtools/strings.hrc:284
 msgctxt "STR_DESCRIPTION_SYSFILE"
 msgid "System file"
-msgstr "ឯកសារ​ប្រព័ន្ធ"
+msgstr "ឯកសារ​ ប្រព័ន្ធ"
 
 #. E2Kzj
-#: include/svtools/strings.hrc:282
+#: include/svtools/strings.hrc:285
 msgctxt "STR_DESCRIPTION_WORD_DOC"
 msgid "MS Word document"
 msgstr "ឯកសារ ​MS Word"
 
 #. BU7Pw
-#: include/svtools/strings.hrc:283
+#: include/svtools/strings.hrc:286
 msgctxt "STR_DESCRIPTION_HELP_DOC"
 msgid "Help file"
 msgstr "ឯកសារ​ជំនួយ"
 
 #. kBbwy
-#: include/svtools/strings.hrc:284
+#: include/svtools/strings.hrc:287
 msgctxt "STR_DESCRIPTION_HTMLFILE"
 msgid "HTML document"
 msgstr "ឯកសារ ​HTML"
 
 #. 6W6tY
-#: include/svtools/strings.hrc:285
+#: include/svtools/strings.hrc:288
 msgctxt "STR_DESCRIPTION_ARCHIVFILE"
 msgid "Archive file"
-msgstr "ឯកសារ​​​ប័ណ្ណសារ"
+msgstr "ឯកសារ​​​ Archive"
 
 #. c9WiE
-#: include/svtools/strings.hrc:286
+#: include/svtools/strings.hrc:289
 msgctxt "STR_DESCRIPTION_LOGFILE"
 msgid "Log file"
 msgstr "ឯកសារ​កំណត់ហេតុ"
 
 #. gBQzN
-#: include/svtools/strings.hrc:287
+#: include/svtools/strings.hrc:290
 msgctxt "STR_DESCRIPTION_SDATABASE_DOC"
 msgid "StarOffice Database"
 msgstr "មូលដ្ឋាន​ទិន្នន័យ StarOffice"
 
 #. J4Pki
-#: include/svtools/strings.hrc:288
+#: include/svtools/strings.hrc:291
 msgctxt "STR_DESCRIPTION_GLOBALDOC"
 msgid "StarWriter 4.0 / 5.0 Master Document"
-msgstr "ឯកសារ​មេ StarWriter 4.0 / 5.0"
+msgstr "ឯកសារ​មេ StarWriter ៤.0 / ៥.0"
 
 #. 33Dez
-#: include/svtools/strings.hrc:289
+#: include/svtools/strings.hrc:292
 msgctxt "STR_DESCRIPTION_SIMAGE_DOC"
 msgid "StarOffice Image"
 msgstr "រូបភាព StarOffice"
 
 #. pcLE6
-#: include/svtools/strings.hrc:290
+#: include/svtools/strings.hrc:293
 msgctxt "STR_DESCRIPTION_TEXTFILE"
 msgid "Text file"
 msgstr "ឯកសារ​អត្ថបទ"
 
 #. 7bMJT
-#: include/svtools/strings.hrc:291
+#: include/svtools/strings.hrc:294
 msgctxt "STR_DESCRIPTION_LINK"
 msgid "Link"
 msgstr "តំណ"
 
 #. hDFtd
-#: include/svtools/strings.hrc:292
+#: include/svtools/strings.hrc:295
 msgctxt "STR_DESCRIPTION_SOFFICE_TEMPLATE_DOC"
 msgid "StarOffice 3.0 - 5.0 Template"
-msgstr "ពុម្ព StarOffice 3.0 - 5.0"
+msgstr "ពុម្ព StarOffice ៣.0 - ៥.0"
 
 #. Xcec2
-#: include/svtools/strings.hrc:293
+#: include/svtools/strings.hrc:296
 msgctxt "STR_DESCRIPTION_EXCEL_DOC"
 msgid "MS Excel document"
 msgstr "ឯកសារ MS Excel"
 
 #. FWiWT
-#: include/svtools/strings.hrc:294
+#: include/svtools/strings.hrc:297
 msgctxt "STR_DESCRIPTION_EXCEL_TEMPLATE_DOC"
 msgid "MS Excel template"
 msgstr "ពុម្ព MS Excel"
 
 #. WBsxH
-#: include/svtools/strings.hrc:295
+#: include/svtools/strings.hrc:298
 msgctxt "STR_DESCRIPTION_BATCHFILE"
 msgid "Batch file"
-msgstr "ឯកសារ​បាច់"
+msgstr "ឯកសារ​ Batch"
 
 #. SPQtV
-#: include/svtools/strings.hrc:296
+#: include/svtools/strings.hrc:299
 msgctxt "STR_DESCRIPTION_FILE"
 msgid "File"
 msgstr "ឯកសារ"
 
 #. Vh78a
-#: include/svtools/strings.hrc:297
+#: include/svtools/strings.hrc:300
 msgctxt "STR_DESCRIPTION_FOLDER"
 msgid "Folder"
 msgstr "ថត"
 
 #. ZK69j
-#: include/svtools/strings.hrc:298
+#: include/svtools/strings.hrc:301
 msgctxt "STR_DESCRIPTION_FACTORY_WRITER"
 msgid "Text Document"
-msgstr "ឯកសារ​​អត្ថបទ"
+msgstr "ឯកសារទូទេ"
 
 #. p2aL6
-#: include/svtools/strings.hrc:299
+#: include/svtools/strings.hrc:302
 msgctxt "STR_DESCRIPTION_FACTORY_CALC"
 msgid "Spreadsheet"
 msgstr "សៀវភៅ​បញ្ជី"
 
 #. SCtHH
-#: include/svtools/strings.hrc:300
+#: include/svtools/strings.hrc:303
 msgctxt "STR_DESCRIPTION_FACTORY_IMPRESS"
 msgid "Presentation"
 msgstr "ការ​បង្ហាញ"
 
 #. 5gtdF
-#: include/svtools/strings.hrc:301
+#: include/svtools/strings.hrc:304
 msgctxt "STR_DESCRIPTION_FACTORY_DRAW"
 msgid "Drawing"
-msgstr "គំនូរ"
+msgstr "សម្រាប់គូរ"
 
 #. suagX
-#: include/svtools/strings.hrc:302
+#: include/svtools/strings.hrc:305
 msgctxt "STR_DESCRIPTION_FACTORY_WRITERWEB"
 msgid "HTML document"
 msgstr "ឯកសារ ​HTML"
 
 #. iLqe2
-#: include/svtools/strings.hrc:303
+#: include/svtools/strings.hrc:306
 msgctxt "STR_DESCRIPTION_FACTORY_GLOBALDOC"
 msgid "Master document"
-msgstr "ឯកសារ​មេ"
+msgstr "ឯកសារ​ Master"
 
 #. FF4fa
-#: include/svtools/strings.hrc:304
+#: include/svtools/strings.hrc:307
 msgctxt "STR_DESCRIPTION_FACTORY_MATH"
 msgid "Formula"
 msgstr "រូបមន្ត"
 
 #. t58zy
-#: include/svtools/strings.hrc:305
+#: include/svtools/strings.hrc:308
 msgctxt "STR_DESCRIPTION_FACTORY_DATABASE"
 msgid "Database"
 msgstr "មូលដ្ឋាន​ទិន្នន័យ"
 
 #. DiNGB
-#: include/svtools/strings.hrc:306
+#: include/svtools/strings.hrc:309
 msgctxt "STR_DESCRIPTION_CALC_TEMPLATE"
 msgid "OpenOffice.org 1.0 Spreadsheet Template"
-msgstr "ពុម្ព OpenOffice.org 1.0 Spreadsheet"
+msgstr "គំរូសៀវភៅបញ្ជី OpenOffice.org ១.០"
 
 #. FYKGV
-#: include/svtools/strings.hrc:307
+#: include/svtools/strings.hrc:310
 msgctxt "STR_DESCRIPTION_DRAW_TEMPLATE"
 msgid "OpenOffice.org 1.0 Drawing Template"
-msgstr "ពុម្ព OpenOffice.org 1.0 Drawing"
+msgstr "គំរូសម្រាប់គូរ OpenOffice.org ១.0"
 
 #. CTUQg
-#: include/svtools/strings.hrc:308
+#: include/svtools/strings.hrc:311
 msgctxt "STR_DESCRIPTION_IMPRESS_TEMPLATE"
 msgid "OpenOffice.org 1.0 Presentation Template"
-msgstr "ពុម្ព OpenOffice.org 1.0 Presentation"
+msgstr "គំរូបទបង្ហាញ OpenOffice.org ១.0"
 
 #. Cbvtx
-#: include/svtools/strings.hrc:309
+#: include/svtools/strings.hrc:312
 msgctxt "STR_DESCRIPTION_WRITER_TEMPLATE"
 msgid "OpenOffice.org 1.0 Text Document Template"
-msgstr "ពុម្ព​ឯកសារ​អត្ថបទ OpenOffice.org 1.0"
+msgstr "គំរូឯកសារអត្ថបទ OpenOffice.org ១.0"
 
 #. FBCWx
-#: include/svtools/strings.hrc:310
+#: include/svtools/strings.hrc:313
 msgctxt "STR_DESCRIPTION_LOCALE_VOLUME"
 msgid "Local drive"
-msgstr "ដ្រាយ​​មូលដ្ឋាន"
+msgstr "ដ្រាយក្នុងស្រុក"
 
 #. MEF3h
-#: include/svtools/strings.hrc:311
+#: include/svtools/strings.hrc:314
 msgctxt "STR_DESCRIPTION_FLOPPY_VOLUME"
 msgid "Disk drive"
-msgstr "ដ្រាយ​ថាស"
+msgstr "ដ្រាយថាស"
 
 #. 55Dof
-#: include/svtools/strings.hrc:312
+#: include/svtools/strings.hrc:315
 msgctxt "STR_DESCRIPTION_CDROM_VOLUME"
 msgid "CD-ROM drive"
-msgstr "ដ្រាយ CD-ROM"
+msgstr "ដ្រាយស៊ីឌីរ៉ូម"
 
 #. 82Acc
-#: include/svtools/strings.hrc:313
+#: include/svtools/strings.hrc:316
 msgctxt "STR_DESCRIPTION_REMOTE_VOLUME"
 msgid "Network connection"
-msgstr "ការ​តភ្ជាប់​​បណ្តាញ"
+msgstr "ការ​តភ្ជាប់​​អ៊ីនធើនេត"
 
 #. 3CBfJ
-#: include/svtools/strings.hrc:314
+#: include/svtools/strings.hrc:317
 msgctxt "STR_DESCRIPTION_POWERPOINT"
 msgid "MS PowerPoint Document"
 msgstr "ឯកសា​រ​ MS PowerPoint"
 
 #. DS7CP
-#: include/svtools/strings.hrc:315
+#: include/svtools/strings.hrc:318
 msgctxt "STR_DESCRIPTION_POWERPOINT_TEMPLATE"
 msgid "MS PowerPoint Template"
 msgstr "ពុម្ព ​MS PowerPoint"
 
 #. syag8
-#: include/svtools/strings.hrc:316
+#: include/svtools/strings.hrc:319
 msgctxt "STR_DESCRIPTION_POWERPOINT_SHOW"
 msgid "MS PowerPoint Show"
-msgstr "ការបង្ហាញ​​ MS PowerPoint  "
+msgstr "ការបង្ហាញ​​ MS PowerPoint"
 
 #. fHGcD
-#: include/svtools/strings.hrc:317
+#: include/svtools/strings.hrc:320
 msgctxt "STR_DESCRIPTION_SXMATH_DOC"
 msgid "OpenOffice.org 1.0 Formula"
-msgstr "រូបមន្ត OpenOffice.org 1.0"
+msgstr "កម្មវីធីរូបមន្ត OpenOffice.org ១.0"
 
 #. CFw78
-#: include/svtools/strings.hrc:318
+#: include/svtools/strings.hrc:321
 msgctxt "STR_DESCRIPTION_SXCHART_DOC"
 msgid "OpenOffice.org 1.0 Chart"
-msgstr "គំនូស​តាង OpenOffice.org 1.0"
+msgstr "កម្មវីធីគំនូស​តាង OpenOffice.org ១.0"
 
 #. tJhDC
-#: include/svtools/strings.hrc:319
+#: include/svtools/strings.hrc:322
 msgctxt "STR_DESCRIPTION_SXDRAW_DOC"
 msgid "OpenOffice.org 1.0 Drawing"
-msgstr "គំនូរ OpenOffice.org 1.0"
+msgstr "កម្មវីធីសម្រាប់គូរ OpenOffice.org ១.0"
 
 #. f9ZNL
-#: include/svtools/strings.hrc:320
+#: include/svtools/strings.hrc:323
 msgctxt "STR_DESCRIPTION_SXCALC_DOC"
 msgid "OpenOffice.org 1.0 Spreadsheet"
-msgstr "សៀវភៅ​បញ្ជី OpenOffice.org 1.0"
+msgstr "កម្មវីធីសៀវភៅ​បញ្ជី OpenOffice.org ១.0"
 
 #. PCBqi
-#: include/svtools/strings.hrc:321
+#: include/svtools/strings.hrc:324
 msgctxt "STR_DESCRIPTION_SXIMPRESS_DOC"
 msgid "OpenOffice.org 1.0 Presentation"
-msgstr "បទ​បង្ហាញ OpenOffice.org 1.0"
+msgstr "កម្មវីធីបទ​បង្ហាញ OpenOffice.org ១.0"
 
 #. Npija
-#: include/svtools/strings.hrc:322
+#: include/svtools/strings.hrc:325
 msgctxt "STR_DESCRIPTION_SXWRITER_DOC"
 msgid "OpenOffice.org 1.0 Text Document"
-msgstr "ឯកសារ​អត្ថបទ OpenOffice.org 1.0"
+msgstr "កម្មវីធីឯកសារ​អត្ថបទ OpenOffice.org ១.0"
 
 #. tVnQQ
-#: include/svtools/strings.hrc:323
+#: include/svtools/strings.hrc:326
 msgctxt "STR_DESCRIPTION_SXGLOBAL_DOC"
 msgid "OpenOffice.org 1.0 Master Document"
-msgstr "ឯកសារ​មេ OpenOffice.org 1.0"
+msgstr "កម្មវីធីឯកសារ​មេ OpenOffice.org ១.0"
 
 #. t6krU
-#: include/svtools/strings.hrc:324
+#: include/svtools/strings.hrc:327
 msgctxt "STR_DESCRIPTION_MATHML_DOC"
 msgid "MathML Document"
 msgstr "ឯកសារ MathML"
 
 #. ims8J
-#: include/svtools/strings.hrc:325
+#: include/svtools/strings.hrc:328
 msgctxt "STR_DESCRIPTION_OO_DATABASE_DOC"
 msgid "OpenDocument Database"
-msgstr "មូលដ្ឋាន​ទិន្នន័យ OpenDocument"
+msgstr "បើកឯកសារ មូលដ្ឋានទិន្នន័យ"
 
 #. oEsdN
-#: include/svtools/strings.hrc:326
+#: include/svtools/strings.hrc:329
 msgctxt "STR_DESCRIPTION_OO_DRAW_DOC"
 msgid "OpenDocument Drawing"
-msgstr "គំនូរ OpenDocument"
+msgstr "បើកឯកសារ គូរ"
 
 #. Bt5dS
-#: include/svtools/strings.hrc:327
+#: include/svtools/strings.hrc:330
 msgctxt "STR_DESCRIPTION_OO_MATH_DOC"
 msgid "OpenDocument Formula"
-msgstr "រូបមន្ត OpenDocument"
+msgstr "បើកឯកសារ រូបមន្ត"
 
 #. sMAZA
-#: include/svtools/strings.hrc:328
+#: include/svtools/strings.hrc:331
 msgctxt "STR_DESCRIPTION_OO_GLOBAL_DOC"
 msgid "OpenDocument Master Document"
-msgstr "ឯកសារ​មេ OpenDocument"
+msgstr "បើកឯកសារ  មេឯកសារ"
 
 #. ufLx7
-#: include/svtools/strings.hrc:329
+#: include/svtools/strings.hrc:332
 msgctxt "STR_DESCRIPTION_OO_IMPRESS_DOC"
 msgid "OpenDocument Presentation"
-msgstr "ការ​បង្ហាញ OpenDocument"
+msgstr "បើកឯកសារ បទបង្ហាញ"
 
 #. TjbnG
-#: include/svtools/strings.hrc:330
+#: include/svtools/strings.hrc:333
 msgctxt "STR_DESCRIPTION_OO_CALC_DOC"
 msgid "OpenDocument Spreadsheet"
-msgstr "សៀវភៅ​បញ្ជី OpenDocument"
+msgstr "សៀវភៅ បញ្ជី ចំហរ"
 
 #. FbCGb
-#: include/svtools/strings.hrc:331
+#: include/svtools/strings.hrc:334
 msgctxt "STR_DESCRIPTION_OO_WRITER_DOC"
 msgid "OpenDocument Text"
-msgstr "អត្ថបទ OpenDocument"
+msgstr "បើកឯកសារ អត្ថបទ"
 
 #. JRP2W
-#: include/svtools/strings.hrc:332
+#: include/svtools/strings.hrc:335
 msgctxt "STR_DESCRIPTION_OO_CALC_TEMPLATE"
 msgid "OpenDocument Spreadsheet Template"
-msgstr "ពុម្ព​សៀវភៅ​បញ្ជី OpenDocument"
+msgstr "បើកឯកសារ គម្រូរសៀវភៅ​បញ្ជី"
 
 #. 3QUto
-#: include/svtools/strings.hrc:333
+#: include/svtools/strings.hrc:336
 msgctxt "STR_DESCRIPTION_OO_DRAW_TEMPLATE"
 msgid "OpenDocument Drawing Template"
-msgstr "ពុម្ព​គំនូរ OpenDocument"
+msgstr "បើកឯកសារ គំរូការគូរ"
 
 #. 5CfAm
-#: include/svtools/strings.hrc:334
+#: include/svtools/strings.hrc:337
 msgctxt "STR_DESCRIPTION_OO_IMPRESS_TEMPLATE"
 msgid "OpenDocument Presentation Template"
-msgstr "ពុម្ព​ការ​បង្ហាញ​ OpenDocument"
+msgstr "បើកឯកសារ គម្រូរបទ​បង្ហាញ​"
 
 #. PBGYD
-#: include/svtools/strings.hrc:335
+#: include/svtools/strings.hrc:338
 msgctxt "STR_DESCRIPTION_OO_WRITER_TEMPLATE"
 msgid "OpenDocument Text Template"
-msgstr "ពុម្ព​អត្ថបទ OpenDocument"
+msgstr "បើកឯកសារ គម្រូរអត្ថបទ"
 
 #. RgRyf
-#: include/svtools/strings.hrc:336
+#: include/svtools/strings.hrc:339
 msgctxt "STR_DESCRIPTION_EXTENSION"
 msgid "%PRODUCTNAME Extension"
-msgstr "ផ្នែក​បន្ថែម %PRODUCTNAME"
+msgstr "ផ្នែកបន្ថែម %PRODUCTNAME"
 
 #. b8JK6
-#: include/svtools/strings.hrc:338
+#: include/svtools/strings.hrc:341
 msgctxt "STR_DESCRIPTION_HUNSPELL"
 msgid "Hunspell SpellChecker"
-msgstr ""
+msgstr "កម្មវិធីពិនិត្យអក្ខរាវិរុទ្ធ Hunspell"
 
 #. do26f
-#: include/svtools/strings.hrc:339
+#: include/svtools/strings.hrc:342
 msgctxt "STR_DESCRIPTION_LIBHYPHEN"
 msgid "Libhyphen Hyphenator"
-msgstr ""
+msgstr "សម្មតិកម្មលីប៊ីទីន"
 
 #. aGFNy
-#: include/svtools/strings.hrc:340
+#: include/svtools/strings.hrc:343
 msgctxt "STR_DESCRIPTION_MYTHES"
 msgid "MyThes Thesaurus"
-msgstr ""
+msgstr "កម្រងវេវចនសព្ទ MyThes"
 
 #. RwS4n
-#: include/svtools/strings.hrc:341
+#: include/svtools/strings.hrc:344
 msgctxt "STR_DESCRIPTION_IGNOREALLLIST"
 msgid "List of Ignored Words"
-msgstr ""
+msgstr "តារាងពាក្យមិនទាន់កែសម្រួល"
 
 #. tBGDJ
 #: svtools/inc/borderline.hrc:17
 msgctxt "RID_SVXSTR_BORDERLINE"
 msgid "None"
-msgstr ""
+msgstr "គ្មាន"
 
 #. Xx4Fb
 #: svtools/inc/borderline.hrc:18
 msgctxt "RID_SVXSTR_BORDERLINE"
 msgid "Solid"
-msgstr ""
+msgstr "ត្រង់"
 
 #. Paqxg
 #: svtools/inc/borderline.hrc:19
 msgctxt "RID_SVXSTR_BORDERLINE"
 msgid "Dotted"
-msgstr ""
+msgstr "ចុចៗ"
 
 #. Bucas
 #: svtools/inc/borderline.hrc:20
 msgctxt "RID_SVXSTR_BORDERLINE"
 msgid "Dashed"
-msgstr ""
+msgstr "ដាច់ ៗ"
 
 #. 6XEca
 #: svtools/inc/borderline.hrc:21
 msgctxt "RID_SVXSTR_BORDERLINE"
 msgid "Double"
-msgstr ""
+msgstr "ខ្សែរពីរ"
 
 #. fB75B
 #: svtools/inc/borderline.hrc:22
 msgctxt "RID_SVXSTR_BORDERLINE"
 msgid "Thin Thick, Small Gap"
-msgstr ""
+msgstr "ស្តើងក្រាស់គម្លាតតូច"
 
 #. MwnWC
 #: svtools/inc/borderline.hrc:23
 msgctxt "RID_SVXSTR_BORDERLINE"
 msgid "Thin Thick, Medium Gap"
-msgstr ""
+msgstr "កម្រាស់ស្តើងចន្លោះមធ្យម"
 
 #. V2QAy
 #: svtools/inc/borderline.hrc:24
 msgctxt "RID_SVXSTR_BORDERLINE"
 msgid "Thin Thick, Large Gap"
-msgstr ""
+msgstr "ស្តើងក្រាស់គម្លាតធំ"
 
 #. 4pwSe
 #: svtools/inc/borderline.hrc:25
 msgctxt "RID_SVXSTR_BORDERLINE"
 msgid "Thick Thin, Small Gap"
-msgstr ""
+msgstr "ក្រាស់ស្តើងគម្លាតតូច"
 
 #. PYjTF
 #: svtools/inc/borderline.hrc:26
 msgctxt "RID_SVXSTR_BORDERLINE"
 msgid "Thick Thin, Medium Gap"
-msgstr ""
+msgstr "ក្រាស់ស្តើងចន្លោះមធ្យម"
 
 #. EYXfK
 #: svtools/inc/borderline.hrc:27
 msgctxt "RID_SVXSTR_BORDERLINE"
 msgid "Thick Thin, Large Gap"
-msgstr ""
+msgstr "ក្រាស់ស្តើងគម្លាតធំ"
 
 #. 7gh6t
 #: svtools/inc/borderline.hrc:28
 msgctxt "RID_SVXSTR_BORDERLINE"
 msgid "Embossed"
-msgstr ""
+msgstr "ក្រឡោត"
 
 #. WK8Yy
 #: svtools/inc/borderline.hrc:29
 msgctxt "RID_SVXSTR_BORDERLINE"
 msgid "Engraved"
-msgstr ""
+msgstr "ឆ្លាក់"
 
 #. NDS6G
 #: svtools/inc/borderline.hrc:30
 msgctxt "RID_SVXSTR_BORDERLINE"
 msgid "Outset"
-msgstr ""
+msgstr "ខាងក្រៅ"
 
 #. 7m7iw
 #: svtools/inc/borderline.hrc:31
 msgctxt "RID_SVXSTR_BORDERLINE"
 msgid "Inset"
-msgstr ""
+msgstr "បញ្ចូល"
 
 #. F9rwV
 #: svtools/inc/borderline.hrc:32
 msgctxt "RID_SVXSTR_BORDERLINE"
 msgid "Fine Dashed"
-msgstr ""
+msgstr "វិចិត្រដាច់ ៗ"
 
 #. GyT7A
 #: svtools/inc/borderline.hrc:33
 msgctxt "RID_SVXSTR_BORDERLINE"
 msgid "Double Thin"
-msgstr ""
+msgstr "ស្តើងពីរខ្សែរ"
 
 #. FyVvE
 #: svtools/inc/borderline.hrc:34
 msgctxt "RID_SVXSTR_BORDERLINE"
 msgid "Dash Dot"
-msgstr ""
+msgstr "ចំណុច​ដាច់ៗ"
 
 #. 7yoVE
 #: svtools/inc/borderline.hrc:35
 msgctxt "RID_SVXSTR_BORDERLINE"
 msgid "Dash Dot Dot"
-msgstr ""
+msgstr "ចំណុច ចំណុច ដាច់ៗ"
 
 #. kAGSe
 #: svtools/inc/errtxt.hrc:29
 msgctxt "RID_ERRCTX"
 msgid "Error"
-msgstr "កំហុស"
+msgstr "មិនដំនើរការ"
 
 #. 2DGhK
 #: svtools/inc/errtxt.hrc:30
-#, fuzzy
 msgctxt "RID_ERRCTX"
 msgid "Warning"
 msgstr "ព្រមាន"
@@ -1877,7 +1874,7 @@ msgstr "ព្រមាន"
 #: svtools/inc/errtxt.hrc:31
 msgctxt "RID_ERRCTX"
 msgid "$(ERR) loading the template $(ARG1)"
-msgstr "$(ERR) ​ផ្ទុក​ពុម្ព $(ARG1)"
+msgstr "$(ERR) ​កំពុងបើកឯកសារ​គម្រូរ $(ARG1)"
 
 #. 7rn79
 #: svtools/inc/errtxt.hrc:32 svtools/inc/errtxt.hrc:33
@@ -1895,7 +1892,7 @@ msgstr "$(ERR) ​បង្ហាញ​ព័ត៌មាន​ឯកសារ�
 #: svtools/inc/errtxt.hrc:35
 msgctxt "RID_ERRCTX"
 msgid "$(ERR) writing document $(ARG1) as template"
-msgstr "$(ERR) ​សរសេរ​ឯកសារ $(ARG1) ជា​ពុម្ព"
+msgstr "$(ERR) ​សរសេរ​ឯកសារ $(ARG1) ជា​ពុម្ពគម្រូរ"
 
 #. HRZZ7
 #: svtools/inc/errtxt.hrc:36
@@ -1913,7 +1910,7 @@ msgstr "$(ERR) ​ចាប់ផ្តើម​កម្មវិធី​គ�
 #: svtools/inc/errtxt.hrc:38
 msgctxt "RID_ERRCTX"
 msgid "$(ERR) loading document $(ARG1)"
-msgstr "$(ERR) ​ផ្ទុក​ឯកសារ $(ARG1)"
+msgstr "$(ERR) ​ត្រៀមបើក​ឯកសារ $(ARG1)"
 
 #. iqGJT
 #: svtools/inc/errtxt.hrc:39 svtools/inc/errtxt.hrc:40
@@ -1925,13 +1922,13 @@ msgstr "$(ERR) ​បង្កើត​ឯកសារ​ថ្មី"
 #: svtools/inc/errtxt.hrc:41
 msgctxt "RID_ERRCTX"
 msgid "$(ERR) expanding entry"
-msgstr "$(ERR) ​ពង្រីក​ធាតុ"
+msgstr "$(ERR) ​ពង្រីក​ ការចូល"
 
 #. E9BVp
 #: svtools/inc/errtxt.hrc:42
 msgctxt "RID_ERRCTX"
 msgid "$(ERR) loading BASIC of document $(ARG1)"
-msgstr "$(ERR) ​ផ្ទុក​ឯកសារ​ BASIC $(ARG1)"
+msgstr "$(ERR) ​ផ្ទុក​ឯកសារ​ មូលដ្ឋានគ្រឹះ $(ARG1)"
 
 #. 7pgmv
 #: svtools/inc/errtxt.hrc:43
@@ -1941,7 +1938,6 @@ msgstr "$(ERR) ​ស្វែងរក​អាសយដ្ឋាន"
 
 #. eE8XY
 #: svtools/inc/errtxt.hrc:49
-#, fuzzy
 msgctxt "RID_ERRHDL"
 msgid "Abort"
 msgstr "បញ្ឈប់"
@@ -1950,62 +1946,61 @@ msgstr "បញ្ឈប់"
 #: svtools/inc/errtxt.hrc:50
 msgctxt "RID_ERRHDL"
 msgid "Nonexistent object"
-msgstr "លែង​មាន​វត្ថុ​ហើយ"
+msgstr "លែង​មាន​"
 
 #. 4srDg
 #: svtools/inc/errtxt.hrc:51
 msgctxt "RID_ERRHDL"
 msgid "Object already exists"
-msgstr "មាន​វត្ថុ​រួច​ហើយ"
+msgstr "មាន​រួច​ហើយ"
 
 #. tz75u
 #: svtools/inc/errtxt.hrc:52
 msgctxt "RID_ERRHDL"
 msgid "Object not accessible"
-msgstr "មិន​អាច​ចូលដំណើរការ​វត្ថុ​បាន​ឡើយ"
+msgstr "មិន​អាច​ចូលបាន​"
 
 #. K8jQD
 #: svtools/inc/errtxt.hrc:53
 msgctxt "RID_ERRHDL"
 msgid "Inadmissible path"
-msgstr "មិន​អាច​ចូល​ផ្លូវ​បាន​ឡើយ"
+msgstr "មិន​អាច​ចូល​បាន​"
 
 #. ev3fM
 #: svtools/inc/errtxt.hrc:54
 msgctxt "RID_ERRHDL"
 msgid "Locking problem"
-msgstr "បញ្ហា​ជាប់​គាំង"
+msgstr "បញ្ហាចាក់សោ"
 
 #. ZTK6Z
 #: svtools/inc/errtxt.hrc:55
 msgctxt "RID_ERRHDL"
 msgid "Wrong parameter"
-msgstr "ខុស​​ប៉ារ៉ាម៉ែត្រ"
+msgstr "ប៉ារ៉ាម៉ែត្រ​មិនត្រឹមត្រូវ"
 
 #. y3R74
 #: svtools/inc/errtxt.hrc:56
 msgctxt "RID_ERRHDL"
 msgid "Resource exhausted"
-msgstr "អស់​​ធនធាន"
+msgstr "ធនធានអស់កំលាំង"
 
 #. UvBGS
 #: svtools/inc/errtxt.hrc:57
 msgctxt "RID_ERRHDL"
 msgid "Action not supported"
-msgstr "មិន​គាំទ្រ​អំពើ"
+msgstr "មិនគាំទ្រសកម្មភាព"
 
 #. m7KBL
 #: svtools/inc/errtxt.hrc:58
-#, fuzzy
 msgctxt "RID_ERRHDL"
 msgid "Read Error"
-msgstr "កំហុស​ការ​អាន"
+msgstr "កំហុស​អាន"
 
 #. vA6ip
 #: svtools/inc/errtxt.hrc:59
 msgctxt "RID_ERRHDL"
 msgid "Write Error"
-msgstr "កំហុស​សរសេរ"
+msgstr "កំហុស​ក្នុងការ​សរសេរ"
 
 #. EjqCg
 #: svtools/inc/errtxt.hrc:60
@@ -2017,13 +2012,13 @@ msgstr "មិន​ស្គាល់"
 #: svtools/inc/errtxt.hrc:61
 msgctxt "RID_ERRHDL"
 msgid "Version Incompatibility"
-msgstr "កំណែ​​មិន​ឆប​គ្នា"
+msgstr "កំណែមិនត្រូវគ្នា"
 
 #. Qekxo
 #: svtools/inc/errtxt.hrc:62 svtools/inc/errtxt.hrc:73
 msgctxt "RID_ERRHDL"
 msgid "General Error"
-msgstr "កំហុស​ទូទៅ"
+msgstr "បញ្ហាទូទៅ"
 
 #. iCMkX
 #: svtools/inc/errtxt.hrc:63
@@ -2035,31 +2030,31 @@ msgstr "ទ្រង់ទ្រាយ​មិន​ត្រឹមត្រូ
 #: svtools/inc/errtxt.hrc:64
 msgctxt "RID_ERRHDL"
 msgid "Error creating object"
-msgstr "កំហុស​ពេល​បង្កើត​វត្ថុ"
+msgstr "មិនអាចបង្កើតបាន"
 
 #. 97NJ3
 #: svtools/inc/errtxt.hrc:65
 msgctxt "RID_ERRHDL"
 msgid "Inadmissible value or data type"
-msgstr "មិន​អាច​ចូល​ទៅ​តម្លៃ ឬ ប្រភេទ​ទិន្នន័យ"
+msgstr "តម្លៃដែលមិនអាចទទួលយកបានឬប្រភេទទិន្នន័យ"
 
 #. KnGEy
 #: svtools/inc/errtxt.hrc:66
 msgctxt "RID_ERRHDL"
 msgid "BASIC runtime error"
-msgstr "កំហុស​ពេល​រត់​ BASIC"
+msgstr "កំហុសពេលរត់មូលដ្ឋាន"
 
 #. 48vBG
 #: svtools/inc/errtxt.hrc:67
 msgctxt "RID_ERRHDL"
 msgid "BASIC syntax error"
-msgstr "កំហុស​វាក្យសម្ពន្ធ ​BASIC"
+msgstr "កំហុសវាក្យសម្ព័ន្ធមូលដ្ឋាន"
 
 #. GLVJG
 #: svtools/inc/errtxt.hrc:74
 msgctxt "RID_ERRHDL"
 msgid "General input/output error."
-msgstr "កំហុស​បញ្ចេញ/បញ្ចូល​ទូទៅ ។"
+msgstr "បញ្ហា បញ្ចូល/ទិន្នផល ទូទៅ"
 
 #. L9a4L
 #: svtools/inc/errtxt.hrc:75
@@ -2071,7 +2066,7 @@ msgstr "ឈ្មោះ​ឯកសារ​មិន​ត្រឹមត្រ
 #: svtools/inc/errtxt.hrc:76
 msgctxt "RID_ERRHDL"
 msgid "Nonexistent file."
-msgstr "លែង​មាន​ឯកសារ​ហើយ ។"
+msgstr "មិនមាន​ឯកសារ​នេះទេ ។"
 
 #. GpnZh
 #: svtools/inc/errtxt.hrc:77
@@ -2083,13 +2078,13 @@ msgstr "មាន​ឯកសារ​រួច​ហើយ ។"
 #: svtools/inc/errtxt.hrc:78
 msgctxt "RID_ERRHDL"
 msgid "The object is not a directory."
-msgstr "វត្ថុ​មិន​មែន​ជា​ថត​ឡើយ ។"
+msgstr "វត្ថុមិនមែនជាថតទេ។"
 
 #. ynXA4
 #: svtools/inc/errtxt.hrc:79
 msgctxt "RID_ERRHDL"
 msgid "The object is not a file."
-msgstr "វត្ថុ​មិន​មែន​ជា​ឯកសារ​ឡើយ ។"
+msgstr "នេះមិន​មែន​ជា​ឯកសារ​ឡើយ ។"
 
 #. BULFP
 #: svtools/inc/errtxt.hrc:80
@@ -2104,20 +2099,20 @@ msgid ""
 "The object cannot be accessed\n"
 "due to insufficient user rights."
 msgstr ""
-"មិន​អាច​ចូលដំណើរការ​វត្ថុ​បាន​ឡើយ\n"
-"ដោយ​សារ​តែ​មាន​សិទ្ធិ​មិន​គ្រប់គ្រាន់ ។"
+"មិន​អាច​ចូលដំណើរការ​បាន​ឡើយ\n"
+"ដោយ​សារ​តែ​មិនមាន​សិទ្ធិ​​គ្រប់គ្រាន់ ។"
 
 #. Dj3F6
 #: svtools/inc/errtxt.hrc:82
 msgctxt "RID_ERRHDL"
 msgid "Sharing violation while accessing the object."
-msgstr "បាន​បំពាន​ការ​ចែក​រំលែក ខណៈ​ពេល​ចូល​ដំណើរការ​វត្ថុ ។"
+msgstr "បាន​បំពាន​ការ​ចែក​រំលែក ខណៈ​ពេល​ចូល​ដំណើរការ​។"
 
 #. tp2ep
 #: svtools/inc/errtxt.hrc:83
 msgctxt "RID_ERRHDL"
 msgid "No more space on device."
-msgstr "លែង​មាន​ទំហំ​ទៀត​ហើយ​លើ​ឧបករណ៍ ។"
+msgstr "លែង​មាន​កន្លែងផ្ទុកលើ​ឧបករណ៍ ។"
 
 #. 6wqWy
 #: svtools/inc/errtxt.hrc:84
@@ -2133,19 +2128,19 @@ msgstr ""
 #: svtools/inc/errtxt.hrc:85
 msgctxt "RID_ERRHDL"
 msgid "This operation is not supported on this operating system."
-msgstr "ប្រតិបត្តិការ​នេះ​មិន​ត្រូវ​បាន​គាំទ្រ​ឡើយ លើ​ប្រព័ន្ធ​ប្រតិបត្តិការ​នេះ ។"
+msgstr "ប្រតិបត្តិការ​នេះ​មិន​ដំនើរការបាននៅ លើ​ប្រព័ន្ធ​ប្រតិបត្តិការ​នេះទេ។"
 
 #. GqPPq
 #: svtools/inc/errtxt.hrc:86
 msgctxt "RID_ERRHDL"
 msgid "There are too many files open."
-msgstr "បាន​បើក​ឯកសារ​ច្រើន​ពេក ។"
+msgstr "មាន​ឯកសារ​កំពុងច្រើន​ពេក ។"
 
 #. pwhJv
 #: svtools/inc/errtxt.hrc:87
 msgctxt "RID_ERRHDL"
 msgid "Data could not be read from the file."
-msgstr "មិន​អាច​អាន​ទិន្នន័យ​ពី​ឯកសារ​បាន​ឡើយ ។"
+msgstr "មិន​អាច​ទទួលយក​ទិន្នន័យ​ពី​ឯកសារ​បាន​ឡើយ ។"
 
 #. eX22x
 #: svtools/inc/errtxt.hrc:88
@@ -2157,25 +2152,25 @@ msgstr "មិន​អាច​សរសេរ​ឯកសារ​បាន​
 #: svtools/inc/errtxt.hrc:89
 msgctxt "RID_ERRHDL"
 msgid "The operation could not be run due to insufficient memory."
-msgstr "មិន​អាច​រត់​ប្រតិបត្តិការ​​បាន​ឡើយ ដោយ​សារ​តែ​មាន​អង្គ​ចងចាំ​មិន​​គ្រប់គ្រាន់ ។"
+msgstr "មិន​អាច​​ប្រតិបត្តិការ​​បាន​ឡើយ ដោយ​សារ​ ការចងចាំ ​​​មិន​​គ្រប់គ្រាន់ ។"
 
 #. QAMnZ
 #: svtools/inc/errtxt.hrc:90
 msgctxt "RID_ERRHDL"
 msgid "The seek operation could not be run."
-msgstr "មិន​អាច​រត់​ប្រតិបត្តិការ​ស្វែងរក​បាន​ឡើយ ។"
+msgstr "ប្រតិបត្តិការស្វែងរកមិនអាចដំណើរការបានទេ។"
 
 #. yjXfb
 #: svtools/inc/errtxt.hrc:91
 msgctxt "RID_ERRHDL"
 msgid "The tell operation could not be run."
-msgstr "មិន​អាច​រត់​ប្រតិបត្តិការ​​​បញ្ជា​បាន​ឡើយ ។"
+msgstr "ប្រតិបត្តិការប្រាប់មិនអាចដំណើរការបានទេ។"
 
 #. mxUE6
 #: svtools/inc/errtxt.hrc:92
 msgctxt "RID_ERRHDL"
 msgid "Incorrect file version."
-msgstr "កំណែ​ឯកសារ​មិន​ត្រឹមត្រូវ ។"
+msgstr "កំណែ ឯកសារ​មិន​ត្រឹមត្រូវ ។"
 
 #. Y77nr
 #: svtools/inc/errtxt.hrc:93
@@ -2193,13 +2188,13 @@ msgstr "ឈ្មោះ​ឯកសារ​មាន​តួអក្សរ​
 #: svtools/inc/errtxt.hrc:95
 msgctxt "RID_ERRHDL"
 msgid "An unknown I/O error has occurred."
-msgstr "កំហុស​បញ្ចេញ/បញ្ចូល​មិន​ស្គាល់​មួយ​បាន​កើតឡើង ។"
+msgstr "បញ្ហា​​​​​ I/O  បានកើតឡើង​​ ។"
 
 #. 4BfhE
 #: svtools/inc/errtxt.hrc:96
 msgctxt "RID_ERRHDL"
 msgid "An invalid attempt was made to access the file."
-msgstr "បាន​ប៉ុនប៉ង​ដោយ​មិន​ត្រឹមត្រូវ ដើម្បី​ចូលដំណើរការ​ឯកសារ ។"
+msgstr "ការប៉ុនប៉ងគ្មានសុពលភាពត្រូវបានធ្វើឡើងដើម្បីចូលប្រើឯកសារ។"
 
 #. Qt2G4
 #: svtools/inc/errtxt.hrc:97
@@ -2211,7 +2206,7 @@ msgstr "មិន​អាច​បង្កើត​ឯកសារ​បាន
 #: svtools/inc/errtxt.hrc:98
 msgctxt "RID_ERRHDL"
 msgid "The operation was started under an invalid parameter."
-msgstr "បាន​ចាប់ផ្ដើម​ប្រតិបត្តិការ​នៅ​ក្រោម​ប៉ារ៉ាម៉ែត្រ​មិន​ត្រឹមត្រូវ​មួយ ។"
+msgstr "ប្រតិបត្តិការនេះត្រូវបានចាប់ផ្តើមក្រោមប៉ារ៉ាម៉ែត្រមិនត្រឹមត្រូវ។"
 
 #. YjRnn
 #: svtools/inc/errtxt.hrc:99
@@ -2223,31 +2218,31 @@ msgstr "បាន​បញ្ឈប់​ប្រតិបត្តិការ
 #: svtools/inc/errtxt.hrc:100
 msgctxt "RID_ERRHDL"
 msgid "Path to the file does not exist."
-msgstr "មិន​មាន​ផ្លូវ​ទៅ​កាន់​ឯកសារ​ឡើយ ។"
+msgstr "មិន​អាចចូល​ទៅ​កាន់​ឯកសារ​ឡើយ ។"
 
 #. hfw2A
 #: svtools/inc/errtxt.hrc:101
 msgctxt "RID_ERRHDL"
 msgid "An object cannot be copied into itself."
-msgstr "មិន​អាច​ចម្លង​វត្ថុ​មួយ​ទៅ​កាន់​ខ្លួន​វា​បាន​ឡើយ ។"
+msgstr "មិន​អាច​ចម្លង​វត្ថុ​មួយ​ទៅ​លើវត្ថុដដែលបាន​ឡើយ ។"
 
 #. YEaEF
 #: svtools/inc/errtxt.hrc:102
 msgctxt "RID_ERRHDL"
 msgid "The specified template could not be found."
-msgstr "មិន​អាច​រកឃើញ​ពុម្ព​ដែល​បាន​បញ្ជាក់​ឡើយ ។"
+msgstr "មិន​អាច​រកឃើញ​គម្រូរ​ដែល​បាន​បញ្ជាក់​ឡើយ ។"
 
 #. TgXUU
 #: svtools/inc/errtxt.hrc:103
 msgctxt "RID_ERRHDL"
 msgid "The file cannot be used as template."
-msgstr "មិន​អាច​ប្រើ​ឯកសារ​ជា​ពុម្ព​បាន​ឡើយ ។"
+msgstr "មិន​អាច​ប្រើ​ឯកសារ​ជា​ពុម្ព​គម្រូរបាន​ឡើយ ។"
 
 #. CBBDi
 #: svtools/inc/errtxt.hrc:104
 msgctxt "RID_ERRHDL"
 msgid "This document has already been opened for editing."
-msgstr "បាន​បើក​ឯកសារ​នេះ​ដើម្បី​កែសម្រួល​រួច​ហើយ ។"
+msgstr "​ឯកសារ​នេះ​កំពុងបើកដើម្បី​កែសម្រួល​ស្រាប់ហើយ ។"
 
 #. NN7hU
 #: svtools/inc/errtxt.hrc:105
@@ -2259,13 +2254,13 @@ msgstr "បាន​បញ្ចូល​ពាក្យ​សម្ងាត់
 #: svtools/inc/errtxt.hrc:106
 msgctxt "RID_ERRHDL"
 msgid "Error reading file."
-msgstr "កំហុស​អាន​ឯកសារ ។"
+msgstr "មានបញ្ហា​​ជាមួយទិន្នន័យឯកសារ ។"
 
 #. TNMfF
 #: svtools/inc/errtxt.hrc:107
 msgctxt "RID_ERRHDL"
 msgid "The document was opened as read-only."
-msgstr "បាន​បើក​ឯកសារ​នេះ​សម្រាប់​តែ​អាន ។"
+msgstr "ឯកសារ​នេះ​សម្រាប់​តែ​អានប៉ុណ្ណោះ ។"
 
 #. kDirB
 #: svtools/inc/errtxt.hrc:108
@@ -2283,7 +2278,7 @@ msgstr "មិន​អាច​ដោះស្រាយ​ឈ្មោះ​ម
 #: svtools/inc/errtxt.hrc:110
 msgctxt "RID_ERRHDL"
 msgid "Could not establish Internet connection to $(ARG1)."
-msgstr "មិន​អាច​បង្កើត​ការ​តភ្ជាប់​អ៊ីនធឺណិត​ទៅកាន់ $(ARG1) បាន​ទេ ។"
+msgstr "មិន​អាច​​តភ្ជាប់​អ៊ីនធឺណិត​ទៅកាន់ $(ARG1) បាន​ទេ ។"
 
 #. DRTMX
 #: svtools/inc/errtxt.hrc:111
@@ -2293,7 +2288,7 @@ msgid ""
 "Server error message: $(ARG1)."
 msgstr ""
 "កំហុស​ក្នុង​ការ​អាន​ទិន្នន័យ​ពី​អ៊ីនធឺណិត ។\n"
-"សារ​កំហុស​ម៉ាស៊ីន​បម្រើ ៖ $(ARG1) ។"
+"សារកំហុសម៉ាស៊ីនមេ៖ $(ARG1) ។"
 
 #. XLR9Z
 #: svtools/inc/errtxt.hrc:112
@@ -2302,20 +2297,20 @@ msgid ""
 "Error transferring data to the Internet.\n"
 "Server error message: $(ARG1)."
 msgstr ""
-"កំហុស​ក្នុង​ការ​ផ្ទេរ​ទិន្នន័យ​ទៅកាន់​អ៊ីនធឺណិត ។\n"
-"សារ​កំហុស​ម៉ាស៊ីន​បម្រើ ៖ $(ARG1) ។"
+"មានបញ្ហា​ក្នុង​ការ​ផ្ទេរ​ទិន្នន័យ​ទៅកាន់​អ៊ីនធឺណិត ។\n"
+"សារកំហុសម៉ាស៊ីនមេ៖ $(ARG1) ។"
 
 #. gdoRd
 #: svtools/inc/errtxt.hrc:113
 msgctxt "RID_ERRHDL"
 msgid "General Internet error has occurred."
-msgstr "កំហុស​អ៊ីនធឺណិត​ទូទៅ​បាន​កើតឡើង ។"
+msgstr "បញ្ហា​អ៊ីនធឺណិត​ទូទៅ​បាន​កើតឡើង ។"
 
 #. Bxx3u
 #: svtools/inc/errtxt.hrc:114
 msgctxt "RID_ERRHDL"
 msgid "The requested Internet data is not available in the cache and cannot be transmitted as the Online mode has not be activated."
-msgstr "ទិន្នន័យ​អ៊ីនធឺណិត​ដែល​បាន​ស្នើ មិន​មាន​នៅ​ក្នុង​ឃ្លាំង​សម្ងាត់ និង​មិន​អាច​ត្រូវ​បាន​បញ្ជូន​ទេ ដោយសារតែ របៀប​លើ​បណ្ដាញ មិន​ត្រូវ​បាន​ធ្វើ​ឲ្យ​សកម្ម ។"
+msgstr "ទិន្នន័យ​អ៊ីនធឺណិត​ដែល​បាន​ស្នើ មិន​មាន​នៅ​ក្នុង​​​ cache និង​មិន​អាច​បញ្ជូន​ទេ ដោយសារតែ របៀបលើអ៊ីនធឺណិត មិន​បើកដំនើរការ ។"
 
 #. PT9qC
 #: svtools/inc/errtxt.hrc:115
@@ -2327,13 +2322,13 @@ msgstr "មិន​អាច​បង្កើត​មាតិកា ។"
 #: svtools/inc/errtxt.hrc:116
 msgctxt "RID_ERRHDL"
 msgid "The file name is too long for the target file system."
-msgstr "ឈ្មោះ​ឯកសារ​វែង​ពេក សម្រាប់​ប្រព័ន្ធ​ឯកសារ​គោលដៅ ​។"
+msgstr "ឈ្មោះ​ឯកសារ​វែង​ពេក សម្រាប់​ ប្រព័ន្ធឯកសារគោលដៅ ​។"
 
 #. MaSoJ
 #: svtools/inc/errtxt.hrc:117
 msgctxt "RID_ERRHDL"
 msgid "The input syntax is invalid."
-msgstr "វាក្យសម្ពន្ធ​ដែល​បាន​បញ្ចូល​មិន​ត្រឹមត្រូវ"
+msgstr "វាក្យសម្ព័ន្ធបញ្ចូលមិនត្រឹមត្រូវ។"
 
 #. rxGnF
 #: svtools/inc/errtxt.hrc:118
@@ -2342,20 +2337,20 @@ msgid ""
 "This document contains attributes that cannot be saved in the selected format.\n"
 "Please save the document in a %PRODUCTNAME %PRODUCTVERSION file format."
 msgstr ""
-"ឯកសារ​នេះ​មាន​គុណលក្ខណៈ ដែល​មិន​អាច​រក្សាទុក​ក្នុង​ទ្រង់ទ្រាយ​ដែល​បាន​ជ្រើស ។​\n"
+"ឯកសារ​នេះ​មាន​ផ្នែកខ្លះ ដែល​មិន​អាច​រក្សាទុក​ក្នុង​ទ្រង់ទ្រាយ​ដែល​បាន​ជ្រើស ។​\n"
 "សូម​រក្សាទុក​ឯកសារ​ក្នុង​ទ្រង់ទ្រាយ​ឯកសារ %PRODUCTNAME %PRODUCTVERSION ។"
 
 #. BCqFD
 #: svtools/inc/errtxt.hrc:119
 msgctxt "RID_ERRHDL"
 msgid "The maximum number of documents that can be opened at the same time has been reached. You need to close one or more documents before you can open a new document."
-msgstr "បាន​ឈានដល់​ចំនួន​អតិបរមា​នៃ​ឯកសារ ដែល​អ្នក​អាច​បើក​ក្នុង​ពេល​ជាមួយ​គ្នា​ហើយ ។ អ្នក​ត្រូវតែ​បិទ​ឯកសារ​មួយ ឬ ច្រើន​សិន​មុន​នឹង​អ្នក​អាច​បើក​ឯកសារ​ថ្មី ។"
+msgstr "ចំនូនឯកសារកំពុងបើកក្នុងពេលតែមួយបាន​ឈានដល់​ចំនួន​អតិបរមា​ហើយ ។ អ្នក​ត្រូវតែ​បិទ​ឯកសារ​មួយ ឬ ច្រើន​សិន​មុន​នឹង​អ្នក​អាច​បើក​ឯកសារ​ថ្មី ។"
 
 #. mfmpc
 #: svtools/inc/errtxt.hrc:120
 msgctxt "RID_ERRHDL"
 msgid "Could not create backup copy."
-msgstr "មិន​អាច​បង្កើត​ច្បាប់​បម្រុង​ទុក ។"
+msgstr "មិន​អាច​បង្កើតឯកសារបម្រុង ​។"
 
 #. RUKWh
 #: svtools/inc/errtxt.hrc:121
@@ -2364,8 +2359,8 @@ msgid ""
 "An attempt was made to execute a macro.\n"
 "For security reasons, macro support is disabled."
 msgstr ""
-"ការ​ព្យាយាម​ត្រូវ​បាន​ធ្វើ​ដើម្បី​ប្រិតិបត្តិ​ម៉ាក្រូ ។\n"
-"សម្រាប់​ហេតុផល​សុវត្ថិភាប ការ​គាំទ្រ​ម៉ាក្រូ​ត្រូវ​បាន​បិទ ។"
+"ការប៉ុនប៉ងធ្វើឡើងដើម្បីប្រតិបត្តិម៉ាក្រូ។ \n"
+" សម្រាប់ហេតុផលសុវត្ថិភាពការគាំទ្រម៉ាក្រូត្រូវបានបិទ។"
 
 #. 24FhM
 #: svtools/inc/errtxt.hrc:122
@@ -2379,7 +2374,7 @@ msgid ""
 msgstr ""
 "ឯកសារ​នេះ​មាន​ម៉ាក្រូ។\n"
 "\n"
-"ម៉ាក្រូ​អាច​មាន​មេរោគ។ ការ​ប្រតិបត្តិ​ម៉ាក្រូត្រូវ​បាន​បិទ ដោយ​សារ​តែ​ការ​កំណត់​សុវត្ថិភាព​ម៉ាសក្រូ​បច្ចុប្បន្ន​នៅក្នុង %PRODUCTNAME - ចំណូល​ចិត្ត - %PRODUCTNAME - វត្ថិភាព។\n"
+"ម៉ាក្រូ​អាច​មាន​មេរោគ។ ការ​ប្រតិបត្តិ​ម៉ាក្រូត្រូវ​បាន​បិទ ដោយ​សារ​តែ​ការ​កំណត់​សុវត្ថិភាព​ម៉ាសក្រូ​បច្ចុប្បន្ន​នៅក្នុង %PRODUCTNAME - ចំណូលចិត្ត -%PRODUCTNAME - សុវត្ថិភាព។\n"
 "\n"
 "ដូច្នេះ មុខងារ​មួយ​ចំនួន​អាច​មិនមាន។"
 
@@ -2395,7 +2390,7 @@ msgid ""
 msgstr ""
 "ឯកសារ​នេះ​មាន​ម៉ាក្រូ ។\n"
 "\n"
-"ម៉ាក្រូ​អាច​មាន​មេរោគ ។ ការ​ប្រតិបត្ត​ម៉ាក្រូ​ត្រូវ​បាន​បិទ​ដោយ​សារ​ការ​កំណត់​សុវត្ថិភាព​ម៉ាក្រូ​បច្ចុប្បន្ន​ក្នុង ឧបករណ៍ - ជម្រើស - %PRODUCTNAME - សុវត្ថិភាព ។\n"
+"ម៉ាក្រូ​អាច​មាន​មេរោគ ។ ការ​ប្រតិបត្ត​ម៉ាក្រូ​ត្រូវ​បាន​បិទ​ដោយ​សារ​ការ​កំណត់​សុវត្ថិភាព​ម៉ាក្រូ​បច្ចុប្បន្ន​ក្នុង ឧបករណ៍ - ជម្រើស -%PRODUCTNAME - សុវត្ថិភាព។\n"
 "\n"
 "ហេតុ​ដូច្នេះ មុខងារ​ខ្លះ​អាច​មិន​មាន ។"
 
@@ -2411,11 +2406,11 @@ msgid ""
 "Execution of macros is disabled for this document.\n"
 " "
 msgstr ""
-"ឯកសារ​ដែលបាន​អ៊ីនគ្រិប​មាន​ស្ទ្រីម​ដែលបាន​អ៊ីនគ្រិប​ដែល​មិន​រំពឹង​ទុក ។\n"
+"ឯកសារ​ដែលបាន​កូដនីយកម្មមានផ្ទុក​ មិនបាបធ្វើកូដនីយកម្ម streams។\n"
 "\n"
-"វា​អាច​ជា​លទ្ធផល​នៃ​ការ​គណនា​ឯកសារ ។\n"
+"វា​អាច​ជា​លទ្ធផល​នៃ​ការធ្វើកំនែទៅលើ​ឯកសារ ។\n"
 "\n"
-"យើង​ផ្ដល់អនុសាសន៍​ថា​ អ្នក​មិន​ទុកចិត្ត​លើខ្លឹមសារ​របស់​ឯកសារ​បច្ចុប្បន្ន​ទេ ។\n"
+"យើង​ណែនាំថា​ អ្នក​មិន​គួរទុកចិត្ត​លើខ្លឹមសារ​របស់​ឯកសារ​បច្ចុប្បន្ន​ទេ ។\n"
 "ការ​ប្រតិបត្តិ​ម៉ាក្រូ​ត្រូវ​បានបិទ​សម្រាប់​ឯកសារ​នេះ ។\n"
 " "
 
@@ -2429,31 +2424,31 @@ msgstr "ប្រវែង​ទិន្នន័យ​មិន​ត្រឹ
 #: svtools/inc/errtxt.hrc:126
 msgctxt "RID_ERRHDL"
 msgid "Function not possible: path contains current directory."
-msgstr "​​មិន​អាច​ធ្វើ​អនុគមន៍ ៖ ផ្លូវ​មាន​ថត​បច្ចុប្បន្ន ។"
+msgstr "​​មិន​អាច​ធ្វើ​សកម្មភាព ៖​​ ផ្លូវមានថតបច្ចុប្បន្ន។"
 
 #. sDMmp
 #: svtools/inc/errtxt.hrc:127
 msgctxt "RID_ERRHDL"
 msgid "Function not possible: device (drive) not identical."
-msgstr "មិន​អាច​ធ្វើ​អនុគមន៍ ៖ មិន​ស្គាល់​ឧបករណ៍ (​ដ្រាយ​) ។"
+msgstr "មិន​អាច​ធ្វើ​សកម្មភាព ៖ មិន​ស្គាល់​ឧបករណ៍ (​drive​) ។"
 
 #. ofvvG
 #: svtools/inc/errtxt.hrc:128
 msgctxt "RID_ERRHDL"
 msgid "Device (drive) not ready."
-msgstr "ឧបករណ៍​ (​ដ្រាយ​) មិន​ទាន់​រួច ។"
+msgstr "ឧបករណ៍​ (​drive​) មិន​ទាន់​រួចរាល់ ។"
 
 #. ALGnm
 #: svtools/inc/errtxt.hrc:129
 msgctxt "RID_ERRHDL"
 msgid "Wrong checksum."
-msgstr ""
+msgstr "ឆែកឆែកខុស។"
 
 #. XVTHm
 #: svtools/inc/errtxt.hrc:130
 msgctxt "RID_ERRHDL"
 msgid "Function not possible: write protected."
-msgstr "មិន​អាច​ធ្វើ​អនុគមន៍​ ៖ ត្រូវ​បាន​ការពារ​មិន​ឲ្យ​សរសេរ​ចូល​ ។"
+msgstr "មិន​អាច​ធ្វើ​សកម្មភាព ៖ ត្រូវ​បាន​ការពារ​មិន​ឲ្យ​សរសេរ​ចូល​ ។"
 
 #. Jfn8d
 #: svtools/inc/errtxt.hrc:131
@@ -2463,54 +2458,49 @@ msgid ""
 "Deactivate sharing mode first."
 msgstr ""
 "ពាក្យ​សម្ងាត់​របស់​សៀវភៅ​បញ្ជី​ដែល​បាន​ចែករំលែក មិនអាច​កំណត់​ ឬ​ផ្លាស់ប្ដូរ​បានទេ ។\n"
-"ធ្វើ​ឲ្យ​របៀប​ចែករំលែក​អសកម្ម​សិន ។"
+"សូមបិទការចែករំលែក​សិន ។"
 
 #. M4EWG
 #: svtools/inc/errtxt.hrc:132
 msgctxt "RID_ERRHDL"
 msgid "File format error found at $(ARG1)(row,col)."
-msgstr ""
+msgstr "បញ្ហាទម្រង់ឯកសារត្រូវបានរកឃើញនៅ​​ $(ARG1)(row,col)។"
 
 #. Di7GD
 #: svtools/inc/errtxt.hrc:133
 msgctxt "RID_ERRHDL"
 msgid "The filter for this file format is disabled in configuration. Please contact your systems administrator."
-msgstr ""
+msgstr "តម្រងសម្រាប់ទ្រង់ទ្រាយឯកសារនេះត្រូវបានបិទនៅក្នុងការកំណត់រចនាសម្ព័ន្ធ។ សូមទាក់ទងអ្នកគ្រប់គ្រងប្រព័ន្ធរបស់អ្នក។"
 
 #. WZiDE
 #: svtools/inc/errtxt.hrc:139
-#, fuzzy
 msgctxt "RID_ERRHDL"
 msgid "General OLE error."
-msgstr "កំហុស OLE ទូទៅ ។"
+msgstr "បញ្ហា OLE ទូទៅ ។"
 
 #. iB8YV
 #: svtools/inc/errtxt.hrc:141
-#, fuzzy
 msgctxt "RID_ERRHDL"
 msgid "The action cannot be executed in the object's current state."
-msgstr "មិន​អាច​ប្រតិបត្តិ​សកម្មភាព ក្នុង​សភាព​បច្ចុប្បន្ន​របស់​វត្ថុ ។"
+msgstr "មិន​អាច​ប្រតិបត្តិ​សកម្មភាព ក្នុង​សភាព​បច្ចុប្បន្ន​ ។"
 
 #. 2fYQF
 #: svtools/inc/errtxt.hrc:143
-#, fuzzy
 msgctxt "RID_ERRHDL"
 msgid "The object does not support any actions."
-msgstr "វត្ថុ​មិន​គាំទ្រ​អំពើ​អ្វី​ទាំងអស់ ។"
+msgstr "វត្ថុមិនគាំទ្រសកម្មភាពណាមួយឡើយ។"
 
 #. B4NVE
 #: svtools/inc/errtxt.hrc:145
-#, fuzzy
 msgctxt "RID_ERRHDL"
 msgid "Object does not support this action."
-msgstr "វត្ថុ​មិន​គាំទ្រ​អំពើ​នេះ​ឡើយ ។"
+msgstr "វត្ថុមិនគាំទ្រសកម្មភាពនេះទេ។"
 
 #. G5peG
 #: svtools/inc/errtxt.hrc:152
-#, fuzzy
 msgctxt "RID_ERRHDL"
 msgid "$(ERR) activating object"
-msgstr "$(ERR) ពេល​កំពុង​ធ្វើ​ឲ្យ​វត្ថុ​មាន​សកម្មភាព"
+msgstr "$(ERR) កំពុង​បើកដំនើរការ​"
 
 #. jGYA8
 #: svtools/inc/langtab.hrc:28
@@ -2534,7 +2524,7 @@ msgstr "លំនាំ​ដើម"
 #: svtools/inc/langtab.hrc:32
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Afrikaans (South Africa)"
-msgstr "អាហ្វ្រីកាអាន (អាហ្វ្រិក​ខាង​ត្បូង)"
+msgstr "អាហ្វ្រីកាន (អាហ្វ្រិក​ខាង​ត្បូង)"
 
 #. TVGco
 #: svtools/inc/langtab.hrc:33
@@ -2708,7 +2698,7 @@ msgstr "អារ៉ាហ្គោន"
 #: svtools/inc/langtab.hrc:61
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Armenian, Eastern (Armenia)"
-msgstr ""
+msgstr "អាមេនី​​  (ខាងកើត)"
 
 #. bacGJ
 #: svtools/inc/langtab.hrc:62
@@ -2732,7 +2722,7 @@ msgstr "អាហ្ស៊ែរបែហ្សង់ ស៊ីរីលីក"
 #: svtools/inc/langtab.hrc:65
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Basque"
-msgstr "​​បាស្កេ"
+msgstr "បាស"
 
 #. dJPsj
 #: svtools/inc/langtab.hrc:66
@@ -2798,7 +2788,7 @@ msgstr "ចិន (ម៉ាកាវ)"
 #: svtools/inc/langtab.hrc:76
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Church Slavic"
-msgstr ""
+msgstr "ឆឺច​ស្លាវិច"
 
 #. cAkoV
 #: svtools/inc/langtab.hrc:77
@@ -3116,7 +3106,7 @@ msgstr "កូរ៉េ (រ៉ុក)"
 #: svtools/inc/langtab.hrc:129
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Latvian"
-msgstr "ឡាតវីយ៉ា"
+msgstr "ឡាតវីយ៉"
 
 #. C4VrT
 #: svtools/inc/langtab.hrc:130
@@ -3236,7 +3226,7 @@ msgstr "រ៉ូម៉ានី (រ៉ូម៉ានី)"
 #: svtools/inc/langtab.hrc:149
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Romanian (Moldova)"
-msgstr " រ៉ូម៉ានី (Moldova)"
+msgstr "រ៉ូម៉ានី (ម៉ុលដាវី)"
 
 #. tJTih
 #: svtools/inc/langtab.hrc:150
@@ -3290,25 +3280,25 @@ msgstr "សែប៊ី ឡាតាំង (ម៉ុងតង់នេហ្ក
 #: svtools/inc/langtab.hrc:158
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Serbian Latin"
-msgstr "ស៊ីប​ឡាតាំង"
+msgstr "សែប៊ី ឡាតាំង"
 
 #. ubCyV
 #: svtools/inc/langtab.hrc:159
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Sidama"
-msgstr "Sidama"
+msgstr "ស៊ីដាម៉ា"
 
 #. 66wdH
 #: svtools/inc/langtab.hrc:160
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Sindhi, Devanagari"
-msgstr ""
+msgstr "ស៊ីនឌី, ឌីវ៉ាណាហ្គារី"
 
 #. RF77g
 #: svtools/inc/langtab.hrc:161
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Sindhi, Arabic"
-msgstr ""
+msgstr "ស៊ីនឌី, អារ៉ាប់"
 
 #. E8DXb
 #: svtools/inc/langtab.hrc:162
@@ -3548,7 +3538,7 @@ msgstr "គីនយ៉ាវាន់ដា (រវ៉ាន់ដា)"
 #: svtools/inc/langtab.hrc:201
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Maori"
-msgstr "Maori"
+msgstr "ម៉ារី"
 
 #. BCRzB
 #: svtools/inc/langtab.hrc:202
@@ -3590,13 +3580,13 @@ msgstr "ម៉ុងហ្គោលី ម៉ុងហ្គោលី"
 #: svtools/inc/langtab.hrc:208
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Interlingua"
-msgstr "Interlingua"
+msgstr "អ៊ីងតឺលីងគ័រ"
 
 #. dBUa9
 #: svtools/inc/langtab.hrc:209
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Bosnian"
-msgstr "បូស្នី"
+msgstr "បូស្នៀ"
 
 #. c29GE
 #: svtools/inc/langtab.hrc:210
@@ -3638,7 +3628,7 @@ msgstr "ឃឺដ​ ភាគ​កណ្ដាល (អ៊ីរ៉ាក់)"
 #: svtools/inc/langtab.hrc:216
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Kurdish, Central (Iran)"
-msgstr "Kurdish, Central (Iran)"
+msgstr "ឃឺដ, កណ្ដាល (អ៊ីរ៉ង់)"
 
 #. CeAFw
 #: svtools/inc/langtab.hrc:217
@@ -3662,7 +3652,7 @@ msgstr "សារឌីនង់"
 #: svtools/inc/langtab.hrc:220
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Dzongkha"
-msgstr "ដុងហ្កា"
+msgstr "ដុងហ្ក"
 
 #. NdNMD
 #: svtools/inc/langtab.hrc:221
@@ -3752,7 +3742,7 @@ msgstr "ស្វាហ្ស៊ី"
 #: svtools/inc/langtab.hrc:235
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Tsonga"
-msgstr "សុងហ្កា"
+msgstr "សុងហ្ក"
 
 #. Fd3yC
 #: svtools/inc/langtab.hrc:236
@@ -3776,13 +3766,13 @@ msgstr "ឃសា"
 #: svtools/inc/langtab.hrc:239
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Sinhala"
-msgstr "ស៊ីនហាឡា"
+msgstr "ស៊ីនហាឡ"
 
 #. MyZBb
 #: svtools/inc/langtab.hrc:240
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Moore"
-msgstr "ម៉ូរ៉េ"
+msgstr "ម៉ូរេ"
 
 #. MuwMr
 #: svtools/inc/langtab.hrc:241
@@ -3896,7 +3886,7 @@ msgstr "ហូសា (ហ្គាណា)"
 #: svtools/inc/langtab.hrc:259
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Éwé"
-msgstr "Éwé"
+msgstr "វ៉ាយ"
 
 #. QWBZG
 #: svtools/inc/langtab.hrc:260
@@ -3908,7 +3898,7 @@ msgstr "អង់គ្លេស (ហ្គាណា)"
 #: svtools/inc/langtab.hrc:261
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Sango"
-msgstr "សង់ហ្គោ"
+msgstr "សង់ហ្គូ"
 
 #. L9sDt
 #: svtools/inc/langtab.hrc:262
@@ -4046,7 +4036,7 @@ msgstr "Sami, Kildin (រុស្ស៊ី)"
 #: svtools/inc/langtab.hrc:284
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Guarani (Paraguay)"
-msgstr ""
+msgstr "ការ៉ានី​​ (ផារ៉ាហ្កាយ)"
 
 #. ESc5d
 #: svtools/inc/langtab.hrc:285
@@ -4076,13 +4066,13 @@ msgstr "សង់តាលី"
 #: svtools/inc/langtab.hrc:289
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Tetun (Timor-Leste)"
-msgstr "Tetun (ទីម័រ-Leste)"
+msgstr "Tetun (ទីម័រខាងកើត)"
 
 #. JzTF8
 #: svtools/inc/langtab.hrc:290
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Turkmen"
-msgstr "ទួគមេនីស្តង់"
+msgstr "ទួគមេន"
 
 #. XbECR
 #: svtools/inc/langtab.hrc:291
@@ -4094,7 +4084,7 @@ msgstr "ម៉ាល់តា"
 #: svtools/inc/langtab.hrc:292
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Tok Pisin"
-msgstr "តុក ពិសាំង"
+msgstr "ថុកពិសិដ្ឋ"
 
 #. kAWUo
 #: svtools/inc/langtab.hrc:293
@@ -4160,7 +4150,7 @@ msgstr "ឡាហ្គាលៀន"
 #: svtools/inc/langtab.hrc:303
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Maore"
-msgstr "ម៉ូរ៉េ"
+msgstr "ម៉ូរ៉"
 
 #. FeuXJ
 #: svtools/inc/langtab.hrc:304
@@ -4178,7 +4168,7 @@ msgstr "តាហិតង់"
 #: svtools/inc/langtab.hrc:306
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Malagasy, Plateau"
-msgstr "ម៉ាឡាហ្គាស៊ី ផ្លាទៀ"
+msgstr "ខ្ពង់រាប ម៉ាឡាហ្គាស៊ី"
 
 #. EVG88
 #: svtools/inc/langtab.hrc:307
@@ -4220,7 +4210,7 @@ msgstr "សាឌីនៀន សាសារ៉េស"
 #: svtools/inc/langtab.hrc:313
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Bafia"
-msgstr "បាហ្វៀ"
+msgstr "បាហ្វី"
 
 #. 598zD
 #: svtools/inc/langtab.hrc:314
@@ -4232,7 +4222,7 @@ msgstr "ហ្គីគូយ៉ូ"
 #: svtools/inc/langtab.hrc:315
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Yoruba"
-msgstr "យរូបា"
+msgstr "យូរូប៉ា"
 
 #. jajFo
 #: svtools/inc/langtab.hrc:316
@@ -4286,7 +4276,7 @@ msgstr "ហៃទី"
 #: svtools/inc/langtab.hrc:324
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Beembe"
-msgstr "ប៉ីមបេ"
+msgstr "ប៉ីមបី"
 
 #. 6Pkbr
 #: svtools/inc/langtab.hrc:325
@@ -4298,7 +4288,7 @@ msgstr "ប៊ែកវែល"
 #: svtools/inc/langtab.hrc:326
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Kituba (Congo)"
-msgstr ""
+msgstr "គីទូបា​ (កុងហ្គោ)"
 
 #. hCFcE
 #: svtools/inc/langtab.hrc:327
@@ -4340,7 +4330,7 @@ msgstr "វីលី"
 #: svtools/inc/langtab.hrc:333
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "KeyID"
-msgstr "KeyID"
+msgstr "ឃីដ"
 
 #. maAoG
 #: svtools/inc/langtab.hrc:334
@@ -4358,13 +4348,13 @@ msgstr "Kyrgyz (ចិន)"
 #: svtools/inc/langtab.hrc:336
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Komi-Zyrian"
-msgstr "Komi-Zyrian"
+msgstr "កូមី - ហ្សីរី"
 
 #. DLxCK
 #: svtools/inc/langtab.hrc:337
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Komi-Permyak"
-msgstr "Komi-Permyak"
+msgstr "កូមិក-Permyak"
 
 #. zRJy3
 #: svtools/inc/langtab.hrc:338
@@ -4376,91 +4366,91 @@ msgstr "Pitjantjatjara"
 #: svtools/inc/langtab.hrc:339
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "English (Malawi)"
-msgstr "អង់គ្លេស (កាណាដា)"
+msgstr "អង់គ្លេស (ម៉ាឡាវី)"
 
 #. BNve6
 #: svtools/inc/langtab.hrc:340
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Erzya"
-msgstr "Erzya"
+msgstr "អេហ្សីយ៉ា"
 
 #. bS6vy
 #: svtools/inc/langtab.hrc:341
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Mari, Meadow"
-msgstr "Mari, Meadow"
+msgstr "ម៉ារី, មេឌី"
 
 #. 2YjMT
 #: svtools/inc/langtab.hrc:342
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Papiamento (Curaçao)"
-msgstr "ប៉ាពៀម៉េនតូ (បូនែ)"
+msgstr "ផូស្វា (ឆូវៅ)"
 
 #. QA2V4
 #: svtools/inc/langtab.hrc:343
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Papiamento (Bonaire)"
-msgstr "Papiamento (Bonaire)"
+msgstr "ផេនដា (បូតា)"
 
 #. vozw6
 #: svtools/inc/langtab.hrc:344
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Khanty"
-msgstr "Khanty"
+msgstr "ខាធី"
 
 #. MBtJM
 #: svtools/inc/langtab.hrc:345
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Livonian"
-msgstr "Livonian"
+msgstr "លីអូឡូន"
 
 #. wNkoh
 #: svtools/inc/langtab.hrc:346
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Moksha"
-msgstr "Moksha"
+msgstr "ម៉ុសសា"
 
 #. uCDU6
 #: svtools/inc/langtab.hrc:347
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Mari, Hill"
-msgstr "Mari, Hill"
+msgstr "ភ្នំ ម៉ារី"
 
 #. JEhY4
 #: svtools/inc/langtab.hrc:348
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Nganasan"
-msgstr "Nganasan"
+msgstr "ណាហ្គាសាន់"
 
 #. hr4pq
 #: svtools/inc/langtab.hrc:349
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Olonets"
-msgstr "Olonets"
+msgstr "អូណូលែត"
 
 #. Arpn4
 #: svtools/inc/langtab.hrc:350
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Veps"
-msgstr "Veps"
+msgstr "វល្លិ"
 
 #. fJ3Ss
 #: svtools/inc/langtab.hrc:351
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Võro"
-msgstr "Võro"
+msgstr "វ៉ូរ៉ូ"
 
 #. HuWCs
 #: svtools/inc/langtab.hrc:352
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Nenets"
-msgstr "Nenets"
+msgstr "នេនណេត"
 
 #. 5Zxgd
 #: svtools/inc/langtab.hrc:353
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Aka (Central African Republic)"
-msgstr ""
+msgstr "អាកា​​ (សាធារណរដ្ឋអាហ្វ្រិកកណ្តាល)"
 
 #. oBDBe
 #: svtools/inc/langtab.hrc:354
@@ -4472,19 +4462,19 @@ msgstr "Aka (កុងហ្គោ)"
 #: svtools/inc/langtab.hrc:355
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Dibole"
-msgstr "Dibole"
+msgstr "ឌីបប៉ូល"
 
 #. cgMCr
 #: svtools/inc/langtab.hrc:356
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Doondo"
-msgstr "Doondo"
+msgstr "ដូដូដូ"
 
 #. FmhF6
 #: svtools/inc/langtab.hrc:357
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Kaamba"
-msgstr "Kaamba"
+msgstr "កាំប៉ា"
 
 #. BBf4G
 #: svtools/inc/langtab.hrc:358
@@ -4496,37 +4486,37 @@ msgstr "Koongo (កុងហ្គោ)"
 #: svtools/inc/langtab.hrc:359
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Kunyi"
-msgstr "Kunyi"
+msgstr "គុននី"
 
 #. wLxHD
 #: svtools/inc/langtab.hrc:360
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Ngungwel"
-msgstr "Ngungwel"
+msgstr "ង៉ុងវែល"
 
 #. 7cvAe
 #: svtools/inc/langtab.hrc:361
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Njyem (Congo)"
-msgstr "Njyem (កុងហ្គោ)"
+msgstr "ណីយែម (កុងហ្គោ)"
 
 #. G2SG8
 #: svtools/inc/langtab.hrc:362
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Punu"
-msgstr "Punu"
+msgstr "ពុន"
 
 #. WjBVL
 #: svtools/inc/langtab.hrc:363
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Suundi"
-msgstr "Suundi"
+msgstr "ស៊ូន់ឌី"
 
 #. 9nAA2
 #: svtools/inc/langtab.hrc:364
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Teke-Kukuya"
-msgstr "Teke-Kukuya"
+msgstr "ទឺកគូគូ"
 
 #. dwdUH
 #: svtools/inc/langtab.hrc:365
@@ -4538,31 +4528,31 @@ msgstr "Tsaangi"
 #: svtools/inc/langtab.hrc:366
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Yaka (Congo)"
-msgstr ""
+msgstr "យ៉ាកា ​​(កុងហ្គោ)"
 
 #. JuMFF
 #: svtools/inc/langtab.hrc:367
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Yaka (Democratic Republic of the Congo)"
-msgstr ""
+msgstr "យ៉ាកា (សាធារណរដ្ឋប្រជាធិបតេយ្យកុងហ្គោ)"
 
 #. NDjGL
 #: svtools/inc/langtab.hrc:368
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Yombe (Congo)"
-msgstr "Yombe (Congo)"
+msgstr "យ៉ុមបេ (កុងហ្គោ)"
 
 #. MvwFr
 #: svtools/inc/langtab.hrc:369
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "N'ko"
-msgstr "N'ko"
+msgstr "ទេ"
 
 #. WFc6C
 #: svtools/inc/langtab.hrc:370
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Udmurt"
-msgstr "Udmurt"
+msgstr "យូឌីត"
 
 #. hEtfX
 #: svtools/inc/langtab.hrc:371
@@ -4628,31 +4618,31 @@ msgstr "ពូអ៊ីណាវ"
 #: svtools/inc/langtab.hrc:381
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Maninkakan, Eastern, Latin"
-msgstr ""
+msgstr "ម៉ានីកាកាន​ខាងកើត ​​ឡាតាំង"
 
 #. Kxi9E
 #: svtools/inc/langtab.hrc:382
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Avar"
-msgstr ""
+msgstr "អាវ៉ារ"
 
 #. zumBa
 #: svtools/inc/langtab.hrc:383
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Cree, Plains, Latin"
-msgstr ""
+msgstr "ការធ្វើដំណើរ, វាលទំនាប, ឡាតាំង"
 
 #. PQqU7
 #: svtools/inc/langtab.hrc:384
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Cree, Plains, Syllabics"
-msgstr ""
+msgstr "ការធ្វើដំណើរ, វាលទំនាប, ព្យាង្គ"
 
 #. kewgf
 #: svtools/inc/langtab.hrc:385
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Lengo"
-msgstr "Lengo"
+msgstr "ឡេងហ្គោ"
 
 #. KtBfE
 #: svtools/inc/langtab.hrc:386
@@ -4664,13 +4654,13 @@ msgstr "បារាំង (Côte d'Ivoire)"
 #: svtools/inc/langtab.hrc:387
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "French (Mali)"
-msgstr ""
+msgstr "បារាំង (ម៉ាលី)"
 
 #. LFLk6
 #: svtools/inc/langtab.hrc:388
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "French (Senegal)"
-msgstr ""
+msgstr "បារាំង​ (សេនេហ្កាល)"
 
 #. mSK3x
 #: svtools/inc/langtab.hrc:389
@@ -4694,43 +4684,40 @@ msgstr "បារាំង (Togo)"
 #: svtools/inc/langtab.hrc:392
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Kven Finnish"
-msgstr ""
+msgstr "ក្រេនហ្វាំងឡង់"
 
 #. zjNcC
 #: svtools/inc/langtab.hrc:393
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Venetian"
-msgstr ""
+msgstr "Venetian"
 
 #. 8EbCs
 #: svtools/inc/langtab.hrc:394
-#, fuzzy
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "English (Gambia)"
 msgstr "អង់គ្លេស (ណាមីប៊ី)"
 
 #. gEd8L
 #: svtools/inc/langtab.hrc:395
-#, fuzzy
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Aranese"
-msgstr "អារ៉ាហ្គោន"
+msgstr "អារ៉ានីស"
 
 #. TaEzQ
 #: svtools/inc/langtab.hrc:396
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Arpitan (France)"
-msgstr ""
+msgstr "អារ៉ាប់ (បារាំង)"
 
 #. s4yFD
 #: svtools/inc/langtab.hrc:397
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Arpitan (Italy)"
-msgstr ""
+msgstr "អារ៉ាប់ (ប្រទេសអ៊ីតាលី)"
 
 #. FvPLF
 #: svtools/inc/langtab.hrc:398
-#, fuzzy
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Arpitan (Switzerland)"
 msgstr "អាល្លឺម៉ង់ (ស្វ៊ីស)"
@@ -4739,263 +4726,289 @@ msgstr "អាល្លឺម៉ង់ (ស្វ៊ីស)"
 #: svtools/inc/langtab.hrc:399
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "English (Botswana)"
-msgstr ""
+msgstr "អង់គ្លេស (បុតស្វាណា)"
 
 #. GZfWN
 #: svtools/inc/langtab.hrc:400
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Interlingue Occidental"
-msgstr ""
+msgstr "អ៊ីស្ត្រូជីនវ័ន"
 
 #. FFkaK
 #: svtools/inc/langtab.hrc:401
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Apatani"
-msgstr ""
+msgstr "អាប៉ូតានី"
 
 #. EHHtS
 #: svtools/inc/langtab.hrc:402
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "English (Mauritius)"
-msgstr ""
+msgstr "អង់គ្លេស (ម៉ូរីស)"
 
 #. atcMq
 #: svtools/inc/langtab.hrc:403
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "French (Mauritius)"
-msgstr ""
+msgstr "បារាំង​ (ម៉ូរីស)"
 
 #. UZ4Pn
 #: svtools/inc/langtab.hrc:404
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Silesian"
-msgstr ""
+msgstr "Silesian"
 
 #. RJDLA
 #: svtools/inc/langtab.hrc:405
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Hungarian (Szekely-Hungarian Rovas)"
-msgstr ""
+msgstr "ហុងគ្រីហុងគ្រី"
 
 #. v3WK8
 #: svtools/inc/langtab.hrc:406
-#, fuzzy
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "English (Malaysia)"
-msgstr "អង់គ្លេស (កាណាដា)"
+msgstr "អង់គ្លេស (ប្រទេសម៉ាឡេស៊ី)"
 
 #. 4sBjT
 #: svtools/inc/langtab.hrc:407
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Manchu"
-msgstr ""
+msgstr "ម៉ាន់ជូ"
 
 #. XH3fY
 #: svtools/inc/langtab.hrc:408
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Xibe"
-msgstr ""
+msgstr "Xibe"
 
 #. oGNdE
 #: svtools/inc/langtab.hrc:409
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Kituba (Democratic Republic of the Congo)"
-msgstr ""
+msgstr "គីទូបា​​ (កុងហ្គោ)"
 
 #. jQF7C
 #: svtools/inc/langtab.hrc:410
-#, fuzzy
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Fon"
-msgstr "ពុម្ព​អក្សរ"
+msgstr "ហ្វុន"
 
 #. cAPXF
 #: svtools/inc/langtab.hrc:411
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Plautdietsch"
-msgstr ""
+msgstr "Plautdietsch"
 
 #. 8LY2A
 #: svtools/inc/langtab.hrc:412
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Armenian, Eastern (Russia)"
-msgstr ""
+msgstr "អាមេនៀខាងកើត ​​​​(​រុស្សី)"
 
 #. ieGNR
 #: svtools/inc/langtab.hrc:413
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Armenian, Eastern (Iran)"
-msgstr ""
+msgstr "អាមេនៀខាងកើត ​​​​(​អ៊ីរ៉ង់)"
 
 #. US8Ga
 #: svtools/inc/langtab.hrc:414
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Armenian, Western (Armenia)"
-msgstr ""
+msgstr "អាមេនៀខាងលិច ​​​​(​អាមេនៀ)"
 
 #. nzbrZ
 #: svtools/inc/langtab.hrc:415
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Armenian, Classical (Armenia)"
-msgstr ""
+msgstr "អាមេនៀដើម ​​​​(​អាមេនៀ)"
 
 #. BDKAa
 #: svtools/inc/langtab.hrc:416
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Malay Arabic (Malaysia)"
-msgstr ""
+msgstr "អារ៉ាបម៉ាឡេ (ម៉ាឡេស៊ី)"
 
 #. AnrGG
 #: svtools/inc/langtab.hrc:417
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Malay Arabic (Brunei Darussalam)"
-msgstr ""
+msgstr "អារ៉ាបម៉ាឡេ  (ប៊្រុយនេ)"
 
 #. utBog
 #: svtools/inc/langtab.hrc:418
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Juǀ’hoan"
-msgstr ""
+msgstr "ជូហូ"
 
 #. jPaAH
 #: svtools/inc/langtab.hrc:419
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Naro"
-msgstr ""
+msgstr "ណារុ"
 
 #. mMVAF
 #: svtools/inc/langtab.hrc:420
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Iloko"
-msgstr ""
+msgstr "អ៊ីឡូកូ"
 
 #. AzGAy
 #: svtools/inc/langtab.hrc:421
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "English (Zambia)"
-msgstr ""
+msgstr "អង់គ្លេស​​​ (ស្សាមបៀ)"
 
 #. 7kkKy
 #: svtools/inc/langtab.hrc:422
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "English (Sri Lanka)"
-msgstr ""
+msgstr "អង់គ្លេស​​​ (ស្រីលង្កា)"
 
 #. xFPXp
 #: svtools/inc/langtab.hrc:423
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "English (Nigeria)"
-msgstr ""
+msgstr "អង់គ្លេស​​​ (នីហ្សេរីយ៉ា)"
 
 #. Up6ab
 #: svtools/inc/langtab.hrc:424
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Kabardian"
-msgstr ""
+msgstr "កាប៊ុល"
 
 #. BiDsR
 #: svtools/inc/langtab.hrc:425
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Guadeloupean Creole French"
-msgstr ""
+msgstr "ហ្គូឌែលពួររ៉ាយបារាំង"
 
 #. 2b2P4
 #: svtools/inc/langtab.hrc:426
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Ligurian"
-msgstr ""
+msgstr "លីហ្គូរីន"
 
 #. 3LvEE
 #: svtools/inc/langtab.hrc:427
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Minangkabau"
-msgstr ""
+msgstr "មីងហ្គោបាប"
 
 #. nDkKR
 #: svtools/inc/langtab.hrc:428
 msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
 msgid "Sundanese"
-msgstr ""
+msgstr "សាន់ដានីស"
 
-#. wGEAB
-#: svtools/inc/langtab.hrc:429
-msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
-msgid "English (Hong Kong)"
-msgstr ""
+#. Fsz7D
+#: svtools/inc/templwin.hrc:41
+msgctxt "STRARY_SVT_DOCINFO"
+msgid "Title"
+msgstr "ចំណង​ជើង"
 
-#. qTMB2
-#: svtools/inc/langtab.hrc:430
-msgctxt "STR_ARR_SVT_LANGUAGE_TABLE"
-msgid "English (Kenya)"
-msgstr ""
+#. zo57j
+#: svtools/inc/templwin.hrc:42
+msgctxt "STRARY_SVT_DOCINFO"
+msgid "By"
+msgstr "ដោយ"
+
+#. Zh8Ni
+#: svtools/inc/templwin.hrc:43
+msgctxt "STRARY_SVT_DOCINFO"
+msgid "Date"
+msgstr "កាល​​បរិច្ឆេទ"
+
+#. eHFA4
+#: svtools/inc/templwin.hrc:44
+msgctxt "STRARY_SVT_DOCINFO"
+msgid "Keywords"
+msgstr "ពាក្យ​គន្លឹ"
+
+#. eYGnQ
+#: svtools/inc/templwin.hrc:45
+msgctxt "STRARY_SVT_DOCINFO"
+msgid "Description"
+msgstr "ពិពណ៌​នា​"
+
+#. Eg2eG
+#: svtools/inc/templwin.hrc:46
+msgctxt "STRARY_SVT_DOCINFO"
+msgid "Type"
+msgstr "ប្រភេទ"
+
+#. hokZy
+#: svtools/inc/templwin.hrc:47
+msgctxt "STRARY_SVT_DOCINFO"
+msgid "Modified on"
+msgstr "កែប្រែ​ន"
+
+#. XMEJb
+#: svtools/inc/templwin.hrc:48
+msgctxt "STRARY_SVT_DOCINFO"
+msgid "Modified by"
+msgstr "កែប្រែ​ដោយ"
+
+#. MWkd5
+#: svtools/inc/templwin.hrc:49
+msgctxt "STRARY_SVT_DOCINFO"
+msgid "Printed on"
+msgstr "បោះពុម្ព​ន"
+
+#. BBEEC
+#: svtools/inc/templwin.hrc:50
+msgctxt "STRARY_SVT_DOCINFO"
+msgid "Printed by"
+msgstr "បោះពុម្ព​ដោយ"
+
+#. VCGe3
+#: svtools/inc/templwin.hrc:51
+msgctxt "STRARY_SVT_DOCINFO"
+msgid "Subject"
+msgstr "ប្រធាន​បទ"
+
+#. HVYdE
+#: svtools/inc/templwin.hrc:52
+msgctxt "STRARY_SVT_DOCINFO"
+msgid "Size"
+msgstr "ទំហំ"
 
 #. fXSja
 #: svtools/uiconfig/ui/addresstemplatedialog.ui:8
 msgctxt "addresstemplatedialog|AddressTemplateDialog"
 msgid "Templates: Address Book Assignment"
-msgstr ""
+msgstr "ពុម្ព៖ ការផ្តល់សៀវភៅអាសយដ្ឋាន"
 
 #. AhGyN
-#: svtools/uiconfig/ui/addresstemplatedialog.ui:106
-#, fuzzy
+#: svtools/uiconfig/ui/addresstemplatedialog.ui:109
 msgctxt "addresstemplatedialog|label33"
 msgid "Data source:"
-msgstr "ប្រភព​ទិន្នន័យ"
+msgstr "ប្រភព​ទិន្នន័យ ៖"
 
 #. FSgAi
-#: svtools/uiconfig/ui/addresstemplatedialog.ui:120
-#, fuzzy
+#: svtools/uiconfig/ui/addresstemplatedialog.ui:123
 msgctxt "addresstemplatedialog|label43"
 msgid "Table:"
-msgstr "តារាង"
-
-#. z3CHk
-#: svtools/uiconfig/ui/addresstemplatedialog.ui:144
-msgctxt "addresstemplatedialog|extended_tip|datasource"
-msgid "Select the data source for your address book."
-msgstr "ជ្រើស​ប្រភព​ទិន្នន័យ​សម្រាប់​សៀវភៅ​អាសយដ្ឋាន​របស់​អ្នក។"
-
-#. UTY6t
-#: svtools/uiconfig/ui/addresstemplatedialog.ui:167
-msgctxt "addresstemplatedialog|extended_tip|datatable"
-msgid "Select the data table for your address book."
-msgstr "ជ្រើស​តារាង​ទិន្នន័យ​សម្រាប់​សៀវភៅ​អាសយដ្ឋាន​របស់​អ្នក។"
+msgstr "តារាង ៖"
 
 #. xkk5e
-#: svtools/uiconfig/ui/addresstemplatedialog.ui:178
+#: svtools/uiconfig/ui/addresstemplatedialog.ui:171
 msgctxt "addresstemplatedialog|admin"
 msgid "_Assign"
-msgstr ""
-
-#. TG8ad
-#: svtools/uiconfig/ui/addresstemplatedialog.ui:185
-msgctxt "addresstemplatedialog|extended_tip|admin"
-msgid "Add a new data source to the Address Book Source list."
-msgstr ""
+msgstr "ជ្រើសរើស"
 
 #. sws8j
-#: svtools/uiconfig/ui/addresstemplatedialog.ui:205
+#: svtools/uiconfig/ui/addresstemplatedialog.ui:193
 msgctxt "addresstemplatedialog|label100"
 msgid "Address Book Source"
-msgstr "ប្រភព​សៀវភៅ​អាសយដ្ឋាន"
+msgstr "ប្រភពសៀវភៅអាសយដ្ឋាន"
 
 #. K4oiz
-#: svtools/uiconfig/ui/addresstemplatedialog.ui:552
+#: svtools/uiconfig/ui/addresstemplatedialog.ui:540
 msgctxt "addresstemplatedialog|label23"
 msgid "Field Assignment"
-msgstr "ការ​ផ្តល់​តម្លៃ​ឲ្យ​វាល​"
-
-#. zEPAf
-#: svtools/uiconfig/ui/addresstemplatedialog.ui:560
-msgctxt "addresstemplatedialog|extended_tip|assign"
-msgid "Select the field in the data table that corresponds to the address book entry."
-msgstr "ជ្រើស​វាល​​ក្នុង​តារាង​ទិន្នន័យ​ដែល​ទាក់ទង​ទៅ​នឹង​ធាតុ​សៀវភៅ​អាសយដ្ឋាន។"
-
-#. qKBRS
-#: svtools/uiconfig/ui/addresstemplatedialog.ui:588
-msgctxt "addresstemplatedialog|extended_tip|AddressTemplateDialog"
-msgid "Edit the field assignments and the data source for your address book."
-msgstr "កែ​សម្រួល​ការ​ផ្តល់​ឲ្យ​វាល​​ និង ប្រភព​ទិន្នន័យ​សម្រាប់​សៀវភៅ​អាស័យ​ដ្ឋានរបស់អ្នក​​ ។"
+msgstr "ការងារនៅទីវាល"
 
 #. vrBni
 #: svtools/uiconfig/ui/fileviewmenu.ui:12
@@ -5006,8 +5019,8 @@ msgstr "លុប"
 #. AJiPc
 #: svtools/uiconfig/ui/fileviewmenu.ui:20
 msgctxt "fileviewmenu|rename"
-msgid "_Rename"
-msgstr "ប្តូរ​ឈ្មោះ "
+msgid "_ប្តូរឈ្មោះ"
+msgstr "ប្តូរឈ្មោះ"
 
 #. puJ5X
 #: svtools/uiconfig/ui/graphicexport.ui:37
@@ -5016,375 +5029,244 @@ msgid "%1 Options"
 msgstr "%1 ជម្រើស"
 
 #. pyd6J
-#: svtools/uiconfig/ui/graphicexport.ui:132
+#: svtools/uiconfig/ui/graphicexport.ui:135
 msgctxt "graphicexport|label5"
 msgid "Width:"
 msgstr "ទទឹង ៖"
 
 #. drQDY
-#: svtools/uiconfig/ui/graphicexport.ui:146
+#: svtools/uiconfig/ui/graphicexport.ui:149
 msgctxt "graphicexport|label6"
 msgid "Height:"
 msgstr "កម្ពស់ ៖"
 
 #. ZWxGB
-#: svtools/uiconfig/ui/graphicexport.ui:160
+#: svtools/uiconfig/ui/graphicexport.ui:163
 msgctxt "graphicexport|resolutionft"
 msgid "Resolution:"
 msgstr "គុណភាព​បង្ហាញ៖"
 
-#. 2rwEJ
-#: svtools/uiconfig/ui/graphicexport.ui:180
-msgctxt "graphicexport|extended_tip|widthmf"
-msgid "Specifies the measurement units."
-msgstr "បញ្ជាក់​ឯកតា​រង្វាស់ ។"
-
-#. BPaB3
-#: svtools/uiconfig/ui/graphicexport.ui:199
-msgctxt "graphicexport|extended_tip|heightmf"
-msgid "Specifies the height."
-msgstr "បញ្ជាក់​កម្ពស់"
-
-#. Da3fv
-#: svtools/uiconfig/ui/graphicexport.ui:217
-msgctxt "graphicexport|extended_tip|resolutionmf"
-msgid "Enter the image resolution. Select the measurement units from the list box."
-msgstr "បញ្ចូល​គុណភាព​បង្ហាញ​រូបភាព ។ ជ្រើស​ឯកតា​​រង្វាស់​ពី​ប្រអប់​បញ្ជី ។"
-
 #. S9aHs
-#: svtools/uiconfig/ui/graphicexport.ui:231
+#: svtools/uiconfig/ui/graphicexport.ui:219
 msgctxt "graphicexport|liststore2"
 msgid "inches"
-msgstr "អ៊ិន្ឈ៍"
+msgstr "អ៊ិញ"
 
 #. dCstP
-#: svtools/uiconfig/ui/graphicexport.ui:232
+#: svtools/uiconfig/ui/graphicexport.ui:220
 msgctxt "graphicexport|liststore2"
 msgid "cm"
 msgstr "ស.ម."
 
 #. X5dLV
-#: svtools/uiconfig/ui/graphicexport.ui:233
+#: svtools/uiconfig/ui/graphicexport.ui:221
 msgctxt "graphicexport|liststore2"
 msgid "mm"
 msgstr "ម.ម."
 
 #. 6vWVJ
-#: svtools/uiconfig/ui/graphicexport.ui:234
+#: svtools/uiconfig/ui/graphicexport.ui:222
 msgctxt "graphicexport|liststore2"
 msgid "points"
 msgstr "ចំណុច"
 
 #. ZqyAj
-#: svtools/uiconfig/ui/graphicexport.ui:235
+#: svtools/uiconfig/ui/graphicexport.ui:223
 msgctxt "graphicexport|liststore2"
 msgid "pixels"
 msgstr "ភីកសែល"
 
-#. QL8mE
-#: svtools/uiconfig/ui/graphicexport.ui:239
-msgctxt "graphicexport|extended_tip|widthlb"
-msgid "Specifies the width."
-msgstr "បញ្ជាក់​ទទឹង ។"
-
 #. kYLvv
-#: svtools/uiconfig/ui/graphicexport.ui:253
+#: svtools/uiconfig/ui/graphicexport.ui:236
 msgctxt "graphicexport|liststore1"
 msgid "pixels/cm"
-msgstr "ភីកសែល/ស.ម."
+msgstr "ភីកសែលក្នុងមួយស.ម."
 
 #. zjmFd
-#: svtools/uiconfig/ui/graphicexport.ui:254
+#: svtools/uiconfig/ui/graphicexport.ui:237
 msgctxt "graphicexport|liststore1"
 msgid "pixels/inch"
-msgstr "ភីកសែល/អ៊ិន្ឈ៍"
+msgstr "ភីកសែលក្នុងមួយអ៊ិញ"
 
 #. iMZW3
-#: svtools/uiconfig/ui/graphicexport.ui:255
+#: svtools/uiconfig/ui/graphicexport.ui:238
 msgctxt "graphicexport|liststore1"
 msgid "pixels/meter"
-msgstr "ភីកសែល/ម៉ែត្រ"
-
-#. ND5ki
-#: svtools/uiconfig/ui/graphicexport.ui:259
-msgctxt "graphicexport|extended_tip|resolutionlb"
-msgid "Enter the image resolution. Select the measurement units from the list box."
-msgstr "បញ្ចូល​គុណភាព​បង្ហាញ​រូបភាព ។ ជ្រើស​ឯកតា​​រង្វាស់​ពី​ប្រអប់​បញ្ជី ។"
+msgstr "ភីកសែលក្នុងមួយម៉ែត្រ"
 
 #. ENaqm
-#: svtools/uiconfig/ui/graphicexport.ui:279
+#: svtools/uiconfig/ui/graphicexport.ui:257
 msgctxt "graphicexport|label1"
 msgid "Size"
 msgstr "ទំហំ"
 
-#. Dc5fy
-#: svtools/uiconfig/ui/graphicexport.ui:309
-msgctxt "graphicexport|extended_tip|colordepthlb"
-msgid "Select the color depth from 8 bit grayscale or 24 bit true color."
-msgstr "ជ្រើស​ជម្រៅ​ពណ៌​ពី​​មាត្រដ្ឋាន​ប្រផេះ ៨​​​ ប៊ីត ឬ​ពណ៌​ធម្មជាតិ​ ២៤ ប៊ីត ។"
-
 #. hFaPC
-#: svtools/uiconfig/ui/graphicexport.ui:320
+#: svtools/uiconfig/ui/graphicexport.ui:293
 msgctxt "graphicexport|label2"
 msgid "Color Depth"
 msgstr "ជម្រៅ​ពណ៌"
 
-#. EFn8k
-#: svtools/uiconfig/ui/graphicexport.ui:358
-msgctxt "graphicexport|extended_tip|compressionjpgnf"
-msgid "Sets the quality for the export. Choose from a low quality with minimal file size, up to a high quality and big file size"
-msgstr "កំណត់​គុណភាព​សម្រាប់​នាំចេញ។ ជ្រើស​ពី​គុណភាព​ទាប (ទំហំ​ឯកសារ​តូច) ទៅ​គុណភាព​ខ្ពស់ (ទំហំ​ឯកសារ​ធំ)"
-
 #. Tk5y2
-#: svtools/uiconfig/ui/graphicexport.ui:389
+#: svtools/uiconfig/ui/graphicexport.ui:357
 msgctxt "graphicexport|label9"
 msgid "Quality"
 msgstr "គុណភាព"
 
-#. AHkNV
-#: svtools/uiconfig/ui/graphicexport.ui:427
-msgctxt "graphicexport|extended_tip|compressionpngnf"
-msgid "Sets the compression for the export. A high compression means a smaller, but slower to load image."
-msgstr "កំណត់​ការ​បង្ហាប់​សម្រាប់​ការ​នាំចេញ។ A ការ​បង្ហាប់​ខ្ពស់ បាន​តូច ប៉ុន្តែ​យឺត​ក្នុង​ការ​ផ្ទុក​រូបភាព។"
-
 #. f4LYz
-#: svtools/uiconfig/ui/graphicexport.ui:458
+#: svtools/uiconfig/ui/graphicexport.ui:421
 msgctxt "graphicexport|label"
 msgid "Compression"
-msgstr "ការ​បង្ហាប់"
+msgstr "ការបង្ហាប់"
 
 #. hQadL
-#: svtools/uiconfig/ui/graphicexport.ui:484
-#, fuzzy
+#: svtools/uiconfig/ui/graphicexport.ui:447
 msgctxt "graphicexport|rlecb"
 msgid "RLE encoding"
-msgstr "ការ​អ៊ិនកូដ RLE"
-
-#. DqpKW
-#: svtools/uiconfig/ui/graphicexport.ui:494
-msgctxt "graphicexport|extended_tip|rlecb"
-msgid "Applies RLE (Run Length Encoding) to the BMP graphics."
-msgstr "អនុវត្ត RLE (ដំណើរការ​ការ​អ៊ិនកូដ​ប្រវែង) ទៅកាន់​ក្រាហ្វិក BMP ។"
+msgstr "ការអ៊ិនកូដ RLE"
 
 #. EA7BF
-#: svtools/uiconfig/ui/graphicexport.ui:505
+#: svtools/uiconfig/ui/graphicexport.ui:463
 msgctxt "graphicexport|label3"
 msgid "Compression"
-msgstr "ការ​បង្ហាប់"
+msgstr "ការបង្ហាប់"
 
 #. qiLZK
-#: svtools/uiconfig/ui/graphicexport.ui:531
+#: svtools/uiconfig/ui/graphicexport.ui:489
 msgctxt "graphicexport|interlacedcb"
 msgid "Interlaced"
-msgstr "ត្របាញ់"
-
-#. cLvu6
-#: svtools/uiconfig/ui/graphicexport.ui:541
-msgctxt "graphicexport|extended_tip|interlacedcb"
-msgid "Specifies whether the graphic is to be saved in interlaced mode."
-msgstr "បញ្ជាក់​ថា​តើ​ក្រាហ្វិក​ត្រូវ​បាន​រក្សាទុក​នៅ​ក្នុង​របៀប​ត្របាញ់ ។"
+msgstr "វង្វេងស្មារតី"
 
 #. BkbD3
-#: svtools/uiconfig/ui/graphicexport.ui:552
+#: svtools/uiconfig/ui/graphicexport.ui:505
 msgctxt "graphicexport|label12"
 msgid "Mode"
 msgstr "របៀប"
 
 #. Nhj88
-#: svtools/uiconfig/ui/graphicexport.ui:578
+#: svtools/uiconfig/ui/graphicexport.ui:531
 msgctxt "graphicexport|savetransparencycb"
 msgid "Save transparency"
-msgstr "រក្សាទុក​ភាព​ថ្លា"
-
-#. kZ3uW
-#: svtools/uiconfig/ui/graphicexport.ui:588
-msgctxt "graphicexport|extended_tip|savetransparencycb"
-msgid "Specifies whether to save the background of the picture as transparent. Only objects will be visible in the GIF image. Use the Color Replacer to set the transparent color in the picture."
-msgstr "បញ្ជាក់​ថា​តើ ត្រូវ​រក្សាទុក​ផ្ទៃខាងក្រោយ​នៃ​រូបភាព​ជា​ភាព​ថ្លា​​ឬ​អត់​។ តែ​វត្ថុ​ប៉ុណ្ណោះ​ដែល​មើល​ឃើញ​នៅ​ក្នុង​រូបភាព GIF ។ ប្រើ Replacer ដើម្បី​កំណត់​ពណ៌​ថ្លា​ក្នុង​រូបភាព ។ ។"
+msgstr "រក្សាទុកតម្លាភាព"
 
 #. ZPmXf
-#: svtools/uiconfig/ui/graphicexport.ui:599
+#: svtools/uiconfig/ui/graphicexport.ui:547
 msgctxt "graphicexport|labe"
 msgid "Drawing Objects"
-msgstr "វត្ថុគំនូរ"
+msgstr "វត្ថុគូរ"
 
 #. KMCxb
-#: svtools/uiconfig/ui/graphicexport.ui:629
+#: svtools/uiconfig/ui/graphicexport.ui:577
 msgctxt "graphicexport|binarycb"
 msgid "Binary"
-msgstr "គោល​ពីរ"
-
-#. qFTuj
-#: svtools/uiconfig/ui/graphicexport.ui:639
-msgctxt "graphicexport|extended_tip|binarycb"
-msgid "Exports the file in binary format. The resulting file is smaller than a text file."
-msgstr "នាំ​ចេញ​ឯកសារ​ក្នុង​ទ្រង់ទ្រាយ​គោល​ពីរ ។ ឯកសារ​លទ្ធផល​គឺ​តូច​ជាង​ឯកសារ​អត្ថបទ ។"
+msgstr "ទ្វេភាគ"
 
 #. 8cZsH
-#: svtools/uiconfig/ui/graphicexport.ui:650
+#: svtools/uiconfig/ui/graphicexport.ui:593
 msgctxt "graphicexport|textcb"
 msgid "Text"
 msgstr "អត្ថបទ"
 
-#. GFbg2
-#: svtools/uiconfig/ui/graphicexport.ui:660
-msgctxt "graphicexport|extended_tip|textcb"
-msgid "Exports the file in ASCII text format. The resulting file is larger than a binary file."
-msgstr "នាំចេញ​ឯកសារ​ជា​ទ្រង់ទ្រាយ​អត្ថបទ ASCII ។ ប្រភេទ​ឯកសារ​នេះ​គឺ​ធំជាង​ឯកសារ​​គោលពីរ ។​"
-
 #. ECUb9
-#: svtools/uiconfig/ui/graphicexport.ui:677
+#: svtools/uiconfig/ui/graphicexport.ui:615
 msgctxt "graphicexport|label16"
 msgid "Encoding"
-msgstr "ការ​អ៊ិនកូដ"
+msgstr "បំលែង"
 
 #. aeV52
-#: svtools/uiconfig/ui/graphicexport.ui:711
-#, fuzzy
+#: svtools/uiconfig/ui/graphicexport.ui:649
 msgctxt "graphicexport|tiffpreviewcb"
 msgid "Image preview (TIFF)"
 msgstr "មើល​រូបភាព​ជាមុន (TIFF)"
 
-#. H8vtD
-#: svtools/uiconfig/ui/graphicexport.ui:721
-msgctxt "graphicexport|extended_tip|tiffpreviewcb"
-msgid "Specifies whether a preview image is exported in the TIFF format together with the actual PostScript file."
-msgstr "បញ្ជាក់​​ថា​តើ​រូបភាព​មើល​ជា​មុន​ត្រូវ​បាន​នាំចេញ​ក្នុង​ទ្រង់ទ្រាយ TIFF រួម​ជាមួយ​ឯកសារ PostScript ពិត​ប្រាកដ ។"
-
 #. AeEJu
-#: svtools/uiconfig/ui/graphicexport.ui:732
+#: svtools/uiconfig/ui/graphicexport.ui:665
 msgctxt "graphicexport|epsipreviewcb"
 msgid "Interchange (EPSI)"
-msgstr "ផ្លាស់ប្ដូរ (EPSI)"
-
-#. gLbUQ
-#: svtools/uiconfig/ui/graphicexport.ui:741
-msgctxt "graphicexport|extended_tip|epsipreviewcb"
-msgid "Specifies whether a monochrome preview graphic in EPSI format is exported together with the PostScript file. This format only contains printable characters from the 7-bit ASCII code."
-msgstr "បញ្ជាក់​ថា​តើ​ក្រាហ្វិក​ទិដ្ឋភាព​មួយ​ពណ៌​ក្នុង​ទ្រង់ទ្រាយ EPSI ត្រូវ​បាន​នាំ​ចេញ​ព្រម​ជាមួយ​ឯកសារ PostScript ។ ទ្រង់ទ្រាយ​នេះ​មាន​តែ​តួ​អក្សរ​ដែល​អាច​បោះពុម្ព​បាន​ពី​កូដ ASCII 7 ប៊ីត ។"
+msgstr "ការផ្លាស់ប្តូរ (EPSI)"
 
 #. sRbZb
-#: svtools/uiconfig/ui/graphicexport.ui:758
+#: svtools/uiconfig/ui/graphicexport.ui:686
 msgctxt "graphicexport|label17"
 msgid "Preview"
 msgstr "មើល​ជាមុន"
 
 #. Jfbgx
-#: svtools/uiconfig/ui/graphicexport.ui:788
+#: svtools/uiconfig/ui/graphicexport.ui:716
 msgctxt "graphicexport|color1rb"
 msgid "Color"
 msgstr "ពណ៌"
 
-#. LNHEi
-#: svtools/uiconfig/ui/graphicexport.ui:798
-msgctxt "graphicexport|extended_tip|color1rb"
-msgid "Exports the file in color."
-msgstr "នាំចេញ​ឯកសារ​នៅ​ក្នុង​ពណ៌ ។"
-
 #. VeZFK
-#: svtools/uiconfig/ui/graphicexport.ui:809
+#: svtools/uiconfig/ui/graphicexport.ui:732
 msgctxt "graphicexport|color2rb"
 msgid "Grayscale"
-msgstr "មាត្រដ្ឋាន​ប្រផេះ"
-
-#. TWEx8
-#: svtools/uiconfig/ui/graphicexport.ui:819
-msgctxt "graphicexport|extended_tip|color2rb"
-msgid "Exports the file in grayscale tones."
-msgstr "នាំចេញ​​ឯកសារ​នៅ​ក្នុង​សំឡេង​មាត្រដ្ឋាន​ប្រផេះ ។"
+msgstr "មាត្រដ្ឋាន​ប្រផ"
 
 #. BbSGF
-#: svtools/uiconfig/ui/graphicexport.ui:836
-#, fuzzy
+#: svtools/uiconfig/ui/graphicexport.ui:754
 msgctxt "graphicexport|label18"
 msgid "Color Format"
 msgstr "ទ្រង់ទ្រាយ​ពណ៌"
 
 #. b6J7X
-#: svtools/uiconfig/ui/graphicexport.ui:866
+#: svtools/uiconfig/ui/graphicexport.ui:784
 msgctxt "graphicexport|level1rb"
 msgid "Level 1"
 msgstr "កម្រិត ១"
 
-#. pEcBC
-#: svtools/uiconfig/ui/graphicexport.ui:876
-msgctxt "graphicexport|extended_tip|level1rb"
-msgid "Compression is not available at this level. Select the Level 1 option if your PostScript printer does not offer the capabilities of Level 2."
-msgstr "ការ​បង្ហាប់​មិន​អាច​ប្រើ​បាន​ទេ​នៅ​កម្រិត​នេះ ។ ជ្រើស​ជម្រើស​កម្រិត​ ១ ប្រសិនបើ​​ម៉ាស៊ីន​បោះពុម្ព​ PostScript របស់​អ្នក​មិន​ផ្ដល់​សមត្ថភាព​កម្រិត​ ២ ទេ​នោះ ។"
-
 #. kuCNX
-#: svtools/uiconfig/ui/graphicexport.ui:887
+#: svtools/uiconfig/ui/graphicexport.ui:800
 msgctxt "graphicexport|level2rb"
 msgid "Level 2"
 msgstr "កម្រិត ២"
 
-#. wiWrE
-#: svtools/uiconfig/ui/graphicexport.ui:897
-msgctxt "graphicexport|extended_tip|level2rb"
-msgid "Select the Level 2 option if your output device supports colored bitmaps, palette graphics and compressed graphics."
-msgstr "ជ្រើស​ជម្រើស​កម្រិត​ ២ ប្រសិនបើ​​ឧបករណ៍​​ទិន្នផល​របស់​អ្នក​គាំទ្រ bitmaps ដែល​បាន​ដាក់​ពណ៌ ក្រាហ្វិក​ក្ដារ និង​ក្រាហ្វិក​ដែល​បាន​បង្ហាប់ ។"
-
 #. JUuBZ
-#: svtools/uiconfig/ui/graphicexport.ui:914
+#: svtools/uiconfig/ui/graphicexport.ui:822
 msgctxt "graphicexport|label19"
 msgid "Version"
-msgstr "កំណែ​"
+msgstr "កំណែប្រែ"
 
 #. FjkbL
-#: svtools/uiconfig/ui/graphicexport.ui:944
+#: svtools/uiconfig/ui/graphicexport.ui:852
 msgctxt "graphicexport|compresslzw"
 msgid "LZW encoding"
-msgstr "ការ​អ៊ិនកូដ LZW"
-
-#. 5cYFM
-#: svtools/uiconfig/ui/graphicexport.ui:954
-msgctxt "graphicexport|extended_tip|compresslzw"
-msgid "LZW compression is the compression of a file into a smaller file using a table-based lookup algorithm."
-msgstr "ការ​បង្ហាប់ LZW គឺ​ជា​ការ​បង្ហាប់​​នៃ​ឯកសារ​ទៅ​ជា​ឯកសារ​តូចជាង​ដោយ​ប្រើ​តារាង​​​ដែល​ផ្អែក​លើ​ក្បួន​ដោះស្រាយ ។"
+msgstr "ការអ៊ិនកូដ LZW"
 
 #. vXGXe
-#: svtools/uiconfig/ui/graphicexport.ui:965
+#: svtools/uiconfig/ui/graphicexport.ui:868
 msgctxt "graphicexport|compressnone"
 msgid "None"
 msgstr "គ្មាន"
 
-#. kW3QD
-#: svtools/uiconfig/ui/graphicexport.ui:975
-msgctxt "graphicexport|extended_tip|compressnone"
-msgid "Specifies that you do not wish to use compression."
-msgstr "បញ្ជាក់​ថា​អ្នក​មិន​ចង់​ប្រើ​ការ​បង្ហាប់​ឡើយ ។"
-
 #. ghAqZ
-#: svtools/uiconfig/ui/graphicexport.ui:992
+#: svtools/uiconfig/ui/graphicexport.ui:890
 msgctxt "graphicexport|label20"
 msgid "Compression"
-msgstr "ការ​បង្ហាប់"
+msgstr "ការបង្ហាប់"
 
 #. LmAeC
-#: svtools/uiconfig/ui/graphicexport.ui:1038
+#: svtools/uiconfig/ui/graphicexport.ui:936
 msgctxt "graphicexport|label4"
 msgid "Information"
 msgstr "ព័ត៌មាន"
 
 #. 68xBA
 #: svtools/uiconfig/ui/javadisableddialog.ui:7
-#, fuzzy
 msgctxt "javadisableddialog|JavaDisabledDialog"
 msgid "Enable JRE?"
-msgstr "បើក JRE"
+msgstr "បើក JRE?"
 
 #. s9RtZ
 #: svtools/uiconfig/ui/javadisableddialog.ui:13
-#, fuzzy
 msgctxt "javadisableddialog|JavaDisabledDialog"
 msgid "%PRODUCTNAME requires a Java runtime environment (JRE) to perform this task. However, use of a JRE has been disabled. Do you want to enable the use of a JRE now?"
-msgstr "%PRODUCTNAME ត្រូវការ Java runtime environment (JRE) ដើម្បី​ធ្វើ​កិច្ចការ​នេះ ។ ទោះជាយ៉ាងណាក៏ដោយ ការ​ប្រើ  JRE ត្រូវ​បាន​បិទ ។ តើ​អ្នក​ចង់​បើក​ការ​ប្រើ​ JRE ឥឡូវ​ដែរ​ឬទេ ?"
+msgstr "%PRODUCTNAME ត្រូវការ Java runtime environment (JRE) ដើម្បី​ធ្វើ​កិច្ចការ​នេះ ប៉ុន្តែការ​ប្រើ  JRE ត្រូវ​បាន​បិទ ។ តើ​អ្នក​ចង់​បើក​ការ​ប្រើ​ JRE ឥឡូវ​ដែរ​ឬទេ ?"
 
 #. 9exk9
 #: svtools/uiconfig/ui/linewindow.ui:17
 msgctxt "linewindow|none_line_button"
 msgid "None"
-msgstr ""
+msgstr "គ្មាន"
 
 #. LwyoW
 #: svtools/uiconfig/ui/placeedit.ui:18
@@ -5393,99 +5275,91 @@ msgid "File Services"
 msgstr "សេវាកម្ម​ឯកសារ"
 
 #. sz9uP
-#: svtools/uiconfig/ui/placeedit.ui:110
-#, fuzzy
+#: svtools/uiconfig/ui/placeedit.ui:111
 msgctxt "placeedit|typeLabel"
 msgid "Type:"
-msgstr "ប្រភេទ"
+msgstr "ប្រភេទ ៖"
 
 #. AkqhA
-#: svtools/uiconfig/ui/placeedit.ui:126
+#: svtools/uiconfig/ui/placeedit.ui:127
 msgctxt "placeedit|liststore1"
 msgid "WebDAV"
 msgstr "WebDAV"
 
 #. uYEwE
-#: svtools/uiconfig/ui/placeedit.ui:127
+#: svtools/uiconfig/ui/placeedit.ui:128
 msgctxt "placeedit|liststore1"
 msgid "FTP"
 msgstr "FTP"
 
 #. jtCfC
-#: svtools/uiconfig/ui/placeedit.ui:128
+#: svtools/uiconfig/ui/placeedit.ui:129
 msgctxt "placeedit|liststore1"
 msgid "SSH"
 msgstr "SSH"
 
 #. 5aYwy
-#: svtools/uiconfig/ui/placeedit.ui:129
+#: svtools/uiconfig/ui/placeedit.ui:130
 msgctxt "placeedit|liststore1"
 msgid "Windows Share"
-msgstr "ការ​ចែករំលែក Windows"
+msgstr "ចែករំលែកវីនដូ"
 
 #. NFxzA
-#: svtools/uiconfig/ui/placeedit.ui:154
-#, fuzzy
+#: svtools/uiconfig/ui/placeedit.ui:155
 msgctxt "placeedit|hostLabel"
 msgid "Host:"
-msgstr "បង្ហោះ"
+msgstr "ម៉ាស៊ីន៖"
 
 #. YuAy3
-#: svtools/uiconfig/ui/placeedit.ui:168
+#: svtools/uiconfig/ui/placeedit.ui:169
 msgctxt "placeedit|pathLabel"
 msgid "Root:"
-msgstr ""
+msgstr "Root៖"
 
 #. uEUaM
-#: svtools/uiconfig/ui/placeedit.ui:194
-#, fuzzy
+#: svtools/uiconfig/ui/placeedit.ui:195
 msgctxt "placeedit|shareLabel"
 msgid "Share:"
-msgstr "ចែករំលែក"
+msgstr "ចែករំលែក ៖"
 
 #. xJNi8
-#: svtools/uiconfig/ui/placeedit.ui:220
-#, fuzzy
+#: svtools/uiconfig/ui/placeedit.ui:221
 msgctxt "placeedit|repositoryLabel"
 msgid "Repository:"
-msgstr "ឃ្លាំង"
+msgstr "ឃ្លាំង ៖"
 
 #. 6xp54
-#: svtools/uiconfig/ui/placeedit.ui:232
+#: svtools/uiconfig/ui/placeedit.ui:233
 msgctxt "placeedit|webdavs"
 msgid "Secure connection"
-msgstr ""
+msgstr "អ៊ីនធើនេតត្រូវបានភ្ជាប់"
 
 #. B8mT8
-#: svtools/uiconfig/ui/placeedit.ui:249
+#: svtools/uiconfig/ui/placeedit.ui:250
 msgctxt "placeedit|loginLabel"
 msgid "User:"
 msgstr "អ្នកប្រើ៖"
 
 #. jRt98
-#: svtools/uiconfig/ui/placeedit.ui:275
-#, fuzzy
+#: svtools/uiconfig/ui/placeedit.ui:276
 msgctxt "placeedit|nameLabel"
 msgid "Label:"
 msgstr "ស្លាក"
 
 #. 6QfCF
-#: svtools/uiconfig/ui/placeedit.ui:319
-#, fuzzy
+#: svtools/uiconfig/ui/placeedit.ui:320
 msgctxt "placeedit|portLabel"
 msgid "Port:"
-msgstr "ច្រក"
+msgstr "ច្រក៖"
 
 #. 8boor
-#: svtools/uiconfig/ui/placeedit.ui:391
-#, fuzzy
+#: svtools/uiconfig/ui/placeedit.ui:392
 msgctxt "placeedit|passwordLabel"
 msgid "Password:"
 msgstr "ពាក្យ​សម្ងាត់ ៖"
 
 #. DFwBC
-#: svtools/uiconfig/ui/placeedit.ui:414
-#, fuzzy
+#: svtools/uiconfig/ui/placeedit.ui:415
 msgctxt "placeedit|rememberPassword"
 msgid "Remember password"
 msgstr "ចងចាំ​ពាក្យ​សម្ងាត់"
@@ -5502,76 +5376,47 @@ msgctxt "printersetupdialog|options"
 msgid "Options..."
 msgstr "ជម្រើស..."
 
-#. BAnmG
-#: svtools/uiconfig/ui/printersetupdialog.ui:46
-msgctxt "printersetupdialog|extended_tip|options"
-msgid "Opens the Printer Options dialog where you can override the global printer options set on the Tools - Options - %PRODUCTNAME Writer/Web - Print panel for the current document."
-msgstr ""
-
 #. NCVY4
-#: svtools/uiconfig/ui/printersetupdialog.ui:117
-#, fuzzy
+#: svtools/uiconfig/ui/printersetupdialog.ui:112
 msgctxt "printersetupdialog|label2"
 msgid "Name:"
-msgstr "ឈ្មោះ"
+msgstr "ឈ្មោះ ៖"
 
 #. utGE2
-#: svtools/uiconfig/ui/printersetupdialog.ui:131
-#, fuzzy
+#: svtools/uiconfig/ui/printersetupdialog.ui:126
 msgctxt "printersetupdialog|label3"
 msgid "Status:"
-msgstr "ស្ថានភាព"
+msgstr "ស្ថានភាព៖"
 
 #. GxvkC
-#: svtools/uiconfig/ui/printersetupdialog.ui:143
-#, fuzzy
+#: svtools/uiconfig/ui/printersetupdialog.ui:138
 msgctxt "printersetupdialog|label4"
 msgid "Type:"
-msgstr "ប្រភេទ"
+msgstr "ប្រភេទ៖"
 
 #. amoGB
-#: svtools/uiconfig/ui/printersetupdialog.ui:155
-#, fuzzy
+#: svtools/uiconfig/ui/printersetupdialog.ui:150
 msgctxt "printersetupdialog|label5"
 msgid "Location:"
-msgstr "ទី​តាំង"
+msgstr "ទី​តាំង ៖"
 
 #. B66Zc
-#: svtools/uiconfig/ui/printersetupdialog.ui:167
-#, fuzzy
+#: svtools/uiconfig/ui/printersetupdialog.ui:162
 msgctxt "printersetupdialog|label6"
 msgid "Comment:"
-msgstr "មតិយោបល់"
+msgstr "មតិយោបល់ ៖"
 
 #. 3uJUu
-#: svtools/uiconfig/ui/printersetupdialog.ui:225
+#: svtools/uiconfig/ui/printersetupdialog.ui:220
 msgctxt "printersetupdialog|properties"
 msgid "Properties..."
-msgstr "លក្ខណសម្បត្តិ..."
-
-#. DFBtc
-#: svtools/uiconfig/ui/printersetupdialog.ui:231
-msgctxt "printersetupdialog|extended_tip|properties"
-msgid "Changes the printer settings of your operating system for the current document."
-msgstr ""
-
-#. TrFGR
-#: svtools/uiconfig/ui/printersetupdialog.ui:247
-msgctxt "printersetupdialog|extended_tip|name"
-msgid "Lists the installed printers on your operating system. To change the default printer, select a printer name from the list."
-msgstr ""
+msgstr "លក្ខណសម្បត្តិ"
 
 #. XHe8U
-#: svtools/uiconfig/ui/printersetupdialog.ui:264
+#: svtools/uiconfig/ui/printersetupdialog.ui:249
 msgctxt "printersetupdialog|label1"
 msgid "Printer"
 msgstr "ម៉ាស៊ីន​​​​បោះពុម្ព​"
-
-#. sR2LP
-#: svtools/uiconfig/ui/printersetupdialog.ui:289
-msgctxt "printersetupdialog|extended_tip|PrinterSetupDialog"
-msgid "Select the default printer for the current document."
-msgstr ""
 
 #. psFPB
 #: svtools/uiconfig/ui/querydeletedialog.ui:7
@@ -5589,7 +5434,7 @@ msgstr "តើ​អ្នក​ប្រាកដ​ជា​ចង់​លុ
 #: svtools/uiconfig/ui/querydeletedialog.ui:14
 msgctxt "querydeletedialog|QueryDeleteDialog"
 msgid "Entry: %s"
-msgstr "ធាតុ៖ %s"
+msgstr "ការចូល ៖ %s"
 
 #. qKVAA
 #: svtools/uiconfig/ui/querydeletedialog.ui:25
@@ -5617,14 +5462,12 @@ msgstr "ចាប់ផ្ដើម %PRODUCTNAME ឡើងវិញ"
 
 #. yiVVe
 #: svtools/uiconfig/ui/restartdialog.ui:26
-#, fuzzy
 msgctxt "restartdialog|yes"
 msgid "Restart Now"
 msgstr "ចាប់ផ្ដើម​ឡើងវិញ​ឥឡូវ"
 
 #. Dt64N
 #: svtools/uiconfig/ui/restartdialog.ui:41
-#, fuzzy
 msgctxt "restartdialog|no"
 msgid "Restart Later"
 msgstr "ចាប់ផ្ដើម​ឡើងវិញ​ពេល​ក្រោយ"
@@ -5633,101 +5476,94 @@ msgstr "ចាប់ផ្ដើម​ឡើងវិញ​ពេល​ក្រ
 #: svtools/uiconfig/ui/restartdialog.ui:70
 msgctxt "restartdialog|reason_java"
 msgid "For the selected Java runtime environment to work properly, %PRODUCTNAME must be restarted."
-msgstr "ដើម្បីឲ្យ​បរិស្ថាន​ពេលវេលា​ដំណើរការ Java ដែល​បាន​ជ្រើស​ដំណើរការ​ល្អ, %PRODUCTNAME ត្រូវតែ​ចាប់ផ្ដើម​ឡើងវិញ។"
+msgstr "ដើម្បីឲ្យ​ Java runtime environment ដំណើរការ​ល្អ, %PRODUCTNAME ត្រូវតែ​ចាប់ផ្ដើម​ឡើងវិញ។"
 
 #. rv3cE
 #: svtools/uiconfig/ui/restartdialog.ui:85
-#, fuzzy
 msgctxt "restartdialog|reason_mailmerge_install"
 msgid "For mail merge to work properly, %PRODUCTNAME must be restarted."
-msgstr "ដើម្បីឲ្យ​គន្ថនិទ្ទេស​ដំណើរការ​ល្អ, %PRODUCTNAME ត្រូវតែ​ចាប់ផ្ដើម​ឡើងវិញ។"
+msgstr "ដើម្បីឲ្យ​សំបុត្រទៅដំណើរការ​ល្អ, %PRODUCTNAME ត្រូវតែ​ចាប់ផ្ដើម​ឡើងវិញ។"
 
 #. x2ZNk
 #: svtools/uiconfig/ui/restartdialog.ui:100
 msgctxt "restartdialog|reason_pdf"
 msgid "For the modified default print job format to take effect, %PRODUCTNAME must be restarted."
-msgstr "ដើម្បីឲ្យ​ទ្រង់ទ្រាយ​ការងារ​បោះពុម្ព​លំនាំដើម​ដែល​បាន​កែប្រែ​មាន​ប្រសិទ្ធិភាព, %PRODUCTNAME ត្រូវតែ​ចាប់ផ្ដើម​ឡើងវិញ។"
+msgstr "ដើម្បីឲ្យ​បានកែប្រែការងារបោះពុម្ពលំនាំដើមដំនើរការបាន, %PRODUCTNAME ត្រូវតែ​ចាប់ផ្ដើម​ឡើងវិញ។"
 
 #. DuVPb
 #: svtools/uiconfig/ui/restartdialog.ui:115
 msgctxt "restartdialog|reason_bibliography_install"
 msgid "For the bibliography to work properly, %PRODUCTNAME must be restarted."
-msgstr "ដើម្បីឲ្យ​គន្ថនិទ្ទេស​ដំណើរការ​ល្អ, %PRODUCTNAME ត្រូវតែ​ចាប់ផ្ដើម​ឡើងវិញ។"
+msgstr "ដើម្បីឲ្យ​ គន្ថនិទ្ទេស ​ដំណើរការ​ល្អ, %PRODUCTNAME ត្រូវតែ​ចាប់ផ្ដើម​ឡើងវិញ។"
 
 #. WZXc9
 #: svtools/uiconfig/ui/restartdialog.ui:130
-#, fuzzy
 msgctxt "restartdialog|reason_assigning_folders"
 msgid "For the assigned folders and archives to take effect, %PRODUCTNAME must be restarted."
-msgstr "ដើម្បីឲ្យ​ទ្រង់ទ្រាយ​ការងារ​បោះពុម្ព​លំនាំដើម​ដែល​បាន​កែប្រែ​មាន​ប្រសិទ្ធិភាព, %PRODUCTNAME ត្រូវតែ​ចាប់ផ្ដើម​ឡើងវិញ។"
+msgstr "ដើម្បី ឲ្យថតនិងប័ណ្ណសារដែលបានកំណត់មានប្រសិទ្ធិភាព %PRODUCTNAME ត្រូវតែចាប់ផ្តើមឡើងវិញ។"
 
 #. hmir5
 #: svtools/uiconfig/ui/restartdialog.ui:145
-#, fuzzy
 msgctxt "restartdialog|reason_assigning_javaparameters"
 msgid "For the assigned Java parameters to take effect, %PRODUCTNAME must be restarted."
-msgstr "ដើម្បីឲ្យ​ទ្រង់ទ្រាយ​ការងារ​បោះពុម្ព​លំនាំដើម​ដែល​បាន​កែប្រែ​មាន​ប្រសិទ្ធិភាព, %PRODUCTNAME ត្រូវតែ​ចាប់ផ្ដើម​ឡើងវិញ។"
+msgstr "ដើម្បីឲ្យ​ assigned Java parameters ដំណើរការ​, %PRODUCTNAME ត្រូវតែ​ចាប់ផ្ដើម​ឡើងវិញ។"
 
 #. CQyix
 #: svtools/uiconfig/ui/restartdialog.ui:160
-#, fuzzy
 msgctxt "restartdialog|reason_adding_path"
 msgid "For the added path to take effect, %PRODUCTNAME must be restarted."
-msgstr "ដើម្បីឲ្យ​ទ្រង់ទ្រាយ​ការងារ​បោះពុម្ព​លំនាំដើម​ដែល​បាន​កែប្រែ​មាន​ប្រសិទ្ធិភាព, %PRODUCTNAME ត្រូវតែ​ចាប់ផ្ដើម​ឡើងវិញ។"
+msgstr "ដើម្បីឲ្យ​ផ្លូវបន្ថែមដំណើរការ​, %PRODUCTNAME ត្រូវតែ​ចាប់ផ្ដើម​ឡើងវិញ។"
 
 #. SANFq
 #: svtools/uiconfig/ui/restartdialog.ui:175
-#, fuzzy
 msgctxt "restartdialog|reason_language_change"
 msgid "For the updated language settings to take effect, %PRODUCTNAME must be restarted."
-msgstr "ដើម្បីឲ្យ​ទ្រង់ទ្រាយ​ការងារ​បោះពុម្ព​លំនាំដើម​ដែល​បាន​កែប្រែ​មាន​ប្រសិទ្ធិភាព, %PRODUCTNAME ត្រូវតែ​ចាប់ផ្ដើម​ឡើងវិញ។"
+msgstr "ដើម្បីឲ្យ​ កំនែទម្រង់ភាសា ដំណើរការ​, %PRODUCTNAME ត្រូវតែ​ចាប់ផ្ដើម​ឡើងវិញ។"
 
 #. MtNwS
 #: svtools/uiconfig/ui/restartdialog.ui:190
-#, fuzzy
 msgctxt "restartdialog|reason_exp_features"
 msgid "For the modified experimental features to take effect, %PRODUCTNAME must be restarted."
-msgstr "ដើម្បីឲ្យ​ទ្រង់ទ្រាយ​ការងារ​បោះពុម្ព​លំនាំដើម​ដែល​បាន​កែប្រែ​មាន​ប្រសិទ្ធិភាព, %PRODUCTNAME ត្រូវតែ​ចាប់ផ្ដើម​ឡើងវិញ។"
+msgstr "ដើម្បីឲ្យ​ លក្ខណៈពិសេសពិសោធន៍ដែលបានកែប្រែ ដំណើរការ​, %PRODUCTNAME ត្រូវតែ​ចាប់ផ្ដើម​ឡើងវិញ។"
 
 #. T7Cuz
 #: svtools/uiconfig/ui/restartdialog.ui:205
-#, fuzzy
 msgctxt "restartdialog|reason_extension_install"
 msgid "For the extension to work properly, %PRODUCTNAME must be restarted."
-msgstr "ដើម្បីឲ្យ​គន្ថនិទ្ទេស​ដំណើរការ​ល្អ, %PRODUCTNAME ត្រូវតែ​ចាប់ផ្ដើម​ឡើងវិញ។"
+msgstr "ដើម្បីឲ្យ​ផ្នែកបន្ថែមដំណើរការ​, %PRODUCTNAME ត្រូវតែ​ចាប់ផ្ដើម​ឡើងវិញ។"
+
+#. 8WEDo
+#: svtools/uiconfig/ui/restartdialog.ui:220
+msgctxt "restartdialog|reason_opengl"
+msgid "For the OpenGL changes to take effect, %PRODUCTNAME must be restarted."
+msgstr "ដើម្បីឲ្យ​កំណែប្រែ  OpenGL ដំណើរការ​, %PRODUCTNAME ត្រូវតែ​ចាប់ផ្ដើម​ឡើងវិញ។"
 
 #. AGbvD
-#: svtools/uiconfig/ui/restartdialog.ui:220
+#: svtools/uiconfig/ui/restartdialog.ui:235
 msgctxt "restartdialog|reason_opencl"
 msgid "For the OpenCL changes to take effect, %PRODUCTNAME must be restarted."
-msgstr ""
+msgstr "ដើម្បីឲ្យ​កំណែប្រែ​ OpenCL ដំណើរការ​, %PRODUCTNAME ត្រូវតែ​ចាប់ផ្ដើម​ឡើងវិញ។"
 
 #. sGe6v
-#: svtools/uiconfig/ui/restartdialog.ui:235
+#: svtools/uiconfig/ui/restartdialog.ui:250
 msgctxt "restartdialog|reason_threading"
 msgid "For the multi-threaded calculation changes to take effect, %PRODUCTNAME must be restarted."
-msgstr ""
+msgstr "ដើម្បីឲ្យ​ការគណនា​ ពហុខ្សែ ដំណើរការ​, %PRODUCTNAME ត្រូវតែ​ចាប់ផ្ដើម​ឡើងវិញ។"
 
 #. nUonf
-#: svtools/uiconfig/ui/restartdialog.ui:250
+#: svtools/uiconfig/ui/restartdialog.ui:265
 msgctxt "restartdialog|reason_mscompatible_formsmenu"
 msgid "For restructuring the Form menu, %PRODUCTNAME must be restarted."
-msgstr ""
+msgstr "ដើម្បីកែទម្រង់​មីនុយ សំណុំបែបបទ, %PRODUCTNAME ត្រូវតែ​ចាប់ផ្ដើម​ឡើងវិញ។"
 
 #. weAzr
-#: svtools/uiconfig/ui/restartdialog.ui:265
+#: svtools/uiconfig/ui/restartdialog.ui:280
 msgctxt "restartdialog|label"
 msgid "Do you want to restart %PRODUCTNAME now?"
 msgstr "តើ​អ្នក​ចង់​ចាប់ផ្ដើម %PRODUCTNAME ឡើងវិញ​ឥឡូវ​ឬ?"
 
 #. fpc8k
-#: svtools/uiconfig/ui/restartdialog.ui:279
+#: svtools/uiconfig/ui/restartdialog.ui:294
 msgctxt "restartdialog|reason_skia"
 msgid "For the Skia changes to take effect, %PRODUCTNAME must be restarted."
-msgstr ""
-
-#. v9FjK
-#: svtools/uiconfig/ui/thineditcontrol.ui:63
-msgctxt "thineditcontrol|button"
-msgid "Pick Date"
-msgstr ""
+msgstr "ដើម្បីឲ្យ​កំណែប្រែ​ Skia ដំណើរការ​, %PRODUCTNAME ត្រូវតែ​ចាប់ផ្ដើម​ឡើងវិញ។"

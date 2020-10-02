@@ -1,20 +1,19 @@
-#. extracted from reportdesign/inc
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
-"POT-Creation-Date: 2020-04-18 14:18+0200\n"
-"PO-Revision-Date: 2018-01-15 20:25+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2020-03-10 13:36+0100\n"
+"PO-Revision-Date: 2020-09-05 22:59+0700\n"
+"Last-Translator: Koompi Apps Localization\n"
 "Language: km\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Accelerator-Marker: ~\n"
-"X-Generator: LibreOffice\n"
-"X-POOTLE-MTIME: 1516047933.000000\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-POOTLE-MTIME: 1535975854.000000\n"
+"Language-Team: KOOMPI Apps Localization\n"
 
 #. FBVr9
 #: reportdesign/inc/stringarray.hrc:17
@@ -24,77 +23,66 @@ msgstr "គ្មាន"
 
 #. 2VDzY
 #: reportdesign/inc/stringarray.hrc:18
-#, fuzzy
 msgctxt "RID_STR_FORCENEWPAGE_CONST"
 msgid "Before Section"
 msgstr "មុន​ផ្នែក"
 
 #. BBUjQ
 #: reportdesign/inc/stringarray.hrc:19
-#, fuzzy
 msgctxt "RID_STR_FORCENEWPAGE_CONST"
 msgid "After Section"
 msgstr "បន្ទាប់​ពី​ផ្នែក"
 
 #. FjE6T
 #: reportdesign/inc/stringarray.hrc:20
-#, fuzzy
 msgctxt "RID_STR_FORCENEWPAGE_CONST"
 msgid "Before & After Section"
 msgstr "មុន និង​បន្ទាប់​ពី​ផ្នែក"
 
 #. FiMq7
 #: reportdesign/inc/stringarray.hrc:26
-#, fuzzy
 msgctxt "RID_STR_GROUPKEEPTOGETHER_CONST"
 msgid "Per Page"
 msgstr "ក្នុង​មួយ​ទំព័រ"
 
 #. zemtQ
 #: reportdesign/inc/stringarray.hrc:27
-#, fuzzy
 msgctxt "RID_STR_GROUPKEEPTOGETHER_CONST"
 msgid "Per Column"
 msgstr "ក្នុង​មួយ​ជួរ​ឈរ"
 
 #. PCk4E
 #: reportdesign/inc/stringarray.hrc:33
-#, fuzzy
 msgctxt "RID_STR_REPORTPRINTOPTION_CONST"
 msgid "All Pages"
 msgstr "ទំព័រ​ទាំងអស់"
 
 #. GvoGV
 #: reportdesign/inc/stringarray.hrc:34
-#, fuzzy
 msgctxt "RID_STR_REPORTPRINTOPTION_CONST"
 msgid "Not With Report Header"
 msgstr "បញ្ចូល​បឋមកថា/បាតកថា​របាយការណ៍"
 
 #. wchYh
 #: reportdesign/inc/stringarray.hrc:35
-#, fuzzy
 msgctxt "RID_STR_REPORTPRINTOPTION_CONST"
 msgid "Not With Report Footer"
 msgstr "បញ្ចូល​បឋមកថា/បាតកថា​របាយការណ៍"
 
 #. uvfAP
 #: reportdesign/inc/stringarray.hrc:36
-#, fuzzy
 msgctxt "RID_STR_REPORTPRINTOPTION_CONST"
 msgid "Not With Report Header/Footer"
 msgstr "បញ្ចូល​បឋមកថា/បាតកថា​របាយការណ៍"
 
 #. ZC2oS
 #: reportdesign/inc/stringarray.hrc:42
-#, fuzzy
 msgctxt "RID_STR_TYPE_CONST"
 msgid "Field or Formula"
 msgstr "វាល ឬ​រូបមន្ត"
 
 #. gU579
 #: reportdesign/inc/stringarray.hrc:43
-#, fuzzy
 msgctxt "RID_STR_TYPE_CONST"
 msgid "Function"
 msgstr "មុខងារ"
@@ -107,7 +95,6 @@ msgstr "ច្រាស"
 
 #. kGCKF
 #: reportdesign/inc/stringarray.hrc:45
-#, fuzzy
 msgctxt "RID_STR_TYPE_CONST"
 msgid "User defined Function"
 msgstr "អនុគមន៍​ដែល​បាន​កំណត់​ដោយ​អ្នកប្រើ"
@@ -120,7 +107,6 @@ msgstr "ទេ"
 
 #. rdPYV
 #: reportdesign/inc/stringarray.hrc:52
-#, fuzzy
 msgctxt "RID_STR_BOOL"
 msgid "Yes"
 msgstr "បាទ/ចាស"
@@ -133,14 +119,12 @@ msgstr "ទេ"
 
 #. TDvKY
 #: reportdesign/inc/stringarray.hrc:59
-#, fuzzy
 msgctxt "RID_STR_KEEPTOGETHER_CONST"
 msgid "Whole Group"
 msgstr "ក្រុម​ទាំងមូល"
 
 #. Hc5De
 #: reportdesign/inc/stringarray.hrc:60
-#, fuzzy
 msgctxt "RID_STR_KEEPTOGETHER_CONST"
 msgid "With First Detail"
 msgstr "ដោយមាន​សេចក្ដី​លម្អិត​ដំបូង"
@@ -177,7 +161,6 @@ msgstr "ស្ដាំ"
 
 #. Cvi3X
 #: reportdesign/inc/stringarray.hrc:76
-#, fuzzy
 msgctxt "RID_STR_PARAADJUST_CONST"
 msgid "Block"
 msgstr "ទប់ស្កាត់"
@@ -342,7 +325,7 @@ msgstr "កម្ពស់"
 #: reportdesign/inc/strings.hrc:50
 msgctxt "RID_STR_AUTOGROW"
 msgid "Auto Grow"
-msgstr ""
+msgstr "លូតលាស់ដោយស្វ័យប្រវត្តិ"
 
 #. nBghq
 #: reportdesign/inc/strings.hrc:51
@@ -510,7 +493,7 @@ msgstr "អតិបរមា"
 #: reportdesign/inc/strings.hrc:80
 msgctxt "RID_STR_BRWTITLE_PROPERTIES"
 msgid "Properties: "
-msgstr "លក្ខណសម្បត្តិ ៖"
+msgstr "លក្ខណសម្បត្តិ ៖ "
 
 #. FnkAZ
 #: reportdesign/inc/strings.hrc:81
@@ -619,25 +602,25 @@ msgstr "ផ្លាស់ប្ដូរ​លក្ខណសម្បត្ត
 #: reportdesign/inc/strings.hrc:99
 msgctxt "RID_STR_UNDO_ADD_GROUP_HEADER"
 msgid "Add group header "
-msgstr "បន្ថែម​បឋមកថា​ក្រុម"
+msgstr "បន្ថែម​បឋមកថា​ក្រុម "
 
 #. DgPmD
 #: reportdesign/inc/strings.hrc:100
 msgctxt "RID_STR_UNDO_REMOVE_GROUP_HEADER"
 msgid "Remove group header "
-msgstr "យក​បឋមកថា​ក្រុម​ចេញ"
+msgstr "យក​បឋមកថា​ក្រុម​ចេញ "
 
 #. DENjF
 #: reportdesign/inc/strings.hrc:101
 msgctxt "RID_STR_UNDO_ADD_GROUP_FOOTER"
 msgid "Add group footer "
-msgstr "បន្ថែម​បាតកថា​ក្រុម"
+msgstr "បន្ថែម​បាតកថា​ក្រុម "
 
 #. 5yiAd
 #: reportdesign/inc/strings.hrc:102
 msgctxt "RID_STR_UNDO_REMOVE_GROUP_FOOTER"
 msgid "Remove group footer "
-msgstr "យក​បាតកថា​ក្រុម​ចេញ"
+msgstr "យក​បាតកថា​ក្រុម​ចេញ "
 
 #. nGU7F
 #: reportdesign/inc/strings.hrc:103
@@ -649,7 +632,7 @@ msgstr "បន្ថែម​អនុគមន៍"
 #: reportdesign/inc/strings.hrc:104
 msgctxt "STR_RPT_LABEL"
 msgid "~Report name"
-msgstr "ឈ្មោះ​របាយការណ៍ "
+msgstr "ឈ្មោះ​របាយការណ៍"
 
 #. QeVn7
 #: reportdesign/inc/strings.hrc:105
@@ -1099,7 +1082,7 @@ msgstr "ប្លង់​អាស៊ី"
 #: reportdesign/uiconfig/dbreport/ui/chardialog.ui:324
 msgctxt "chardialog|background"
 msgid "Background"
-msgstr ""
+msgstr "សាវតា"
 
 #. g9KPD
 #: reportdesign/uiconfig/dbreport/ui/chardialog.ui:371
@@ -1115,14 +1098,12 @@ msgstr "ការ​ធ្វើ​ទ្រង់ទ្រាយ​តាម​
 
 #. 4WAsE
 #: reportdesign/uiconfig/dbreport/ui/conditionwin.ui:52
-#, fuzzy
 msgctxt "conditionwin|typeCombobox"
 msgid "Field Value Is"
 msgstr "តម្លៃ​វាល​គឺ"
 
 #. XswwG
 #: reportdesign/uiconfig/dbreport/ui/conditionwin.ui:53
-#, fuzzy
 msgctxt "conditionwin|typeCombobox"
 msgid "Expression Is"
 msgstr "កន្សោមគឺ"
@@ -1171,7 +1152,6 @@ msgstr "ធំជាង​ ឬ​ស្មើ"
 
 #. a6U8p
 #: reportdesign/uiconfig/dbreport/ui/conditionwin.ui:74
-#, fuzzy
 msgctxt "conditionwin|opCombobox"
 msgid "less than or equal to"
 msgstr "តូច​ជាង ឬ​ស្មើ​នឹង"
@@ -1202,21 +1182,18 @@ msgstr "ដិត"
 
 #. xWJCf
 #: reportdesign/uiconfig/dbreport/ui/conditionwin.ui:222
-#, fuzzy
 msgctxt "conditionwin|ToolBoxItem2"
 msgid "Italic"
 msgstr "ទ្រេត"
 
 #. n9Rga
 #: reportdesign/uiconfig/dbreport/ui/conditionwin.ui:235
-#, fuzzy
 msgctxt "conditionwin|ToolBoxItem3"
 msgid "Underline"
 msgstr "គូស​បន្ទាត់​ក្រោម"
 
 #. XeLfz
 #: reportdesign/uiconfig/dbreport/ui/conditionwin.ui:258
-#, fuzzy
 msgctxt "conditionwin|ToolBoxItem4"
 msgid "Background Color"
 msgstr "ពណ៌​ផ្ទៃ​ខាង​ក្រោយ"
@@ -1231,19 +1208,19 @@ msgstr "ពណ៌​ពុម្ព​អក្សរ"
 #: reportdesign/uiconfig/dbreport/ui/conditionwin.ui:284
 msgctxt "conditionwin|ToolBoxItem6"
 msgid "Character Formatting"
-msgstr ""
+msgstr "ការធ្វើទ្រង់ទ្រាយតួអក្សរ"
 
 #. PSCFe
 #: reportdesign/uiconfig/dbreport/ui/conditionwin.ui:363
 msgctxt "conditionwin|removeButton"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #. bpiWB
 #: reportdesign/uiconfig/dbreport/ui/conditionwin.ui:376
 msgctxt "conditionwin|addButton"
 msgid "+"
-msgstr ""
+msgstr "+"
 
 #. EDzgm
 #: reportdesign/uiconfig/dbreport/ui/datetimedialog.ui:8
@@ -1277,7 +1254,6 @@ msgstr "ទ្រង់ទ្រាយ៖"
 
 #. Kf2vH
 #: reportdesign/uiconfig/dbreport/ui/floatingfield.ui:16
-#, fuzzy
 msgctxt "floatingfield|FloatingField"
 msgid "Sorting and Grouping"
 msgstr "ការ​តម្រៀប និង​ដាក់​ជា​ក្រុម"
@@ -1296,42 +1272,36 @@ msgstr "តម្រៀប​តាម​លំដាប់​ចុះ"
 
 #. 8eQMV
 #: reportdesign/uiconfig/dbreport/ui/floatingfield.ui:88
-#, fuzzy
 msgctxt "floatingfield|delete"
 msgid "Remove sorting"
 msgstr "យក​ការ​តម្រៀប​ចេញ"
 
 #. cC8Ep
 #: reportdesign/uiconfig/dbreport/ui/floatingfield.ui:111
-#, fuzzy
 msgctxt "floatingfield|insert"
 msgid "Insert"
 msgstr "បញ្ចូល"
 
 #. AjmhK
 #: reportdesign/uiconfig/dbreport/ui/floatingfield.ui:171
-#, fuzzy
 msgctxt "floatingfield|helptext"
 msgid "Highlight the fields to insert into the selected section of the template, then click Insert or press Enter."
-msgstr "បន្លិច​វាល​ ដើម្បី​បញ្ចូល​ទៅ​ក្នុង​ផ្នែក​ដែល​បានជ្រើស​របស់​ពុម្ព បន្ទាប់​មក​ចុច​បញ្ចូល ឬ​ចុច​គ្រាប់​ចុច​បញ្ចូល (Enter) ។"
+msgstr "បន្លិច​វាល​ ដើម្បី​បញ្ចូល​ទៅ​ក្នុង​ផ្នែក​ដែល​បានជ្រើស​របស់​ពុម្ព បន្ទាប់​មក​ចុច​បញ្ចូល ឬ​ចុច​គ្រាប់​ចុច​បញ្ចូល (Enter)។"
 
 #. DCm75
 #: reportdesign/uiconfig/dbreport/ui/floatingnavigator.ui:19
-#, fuzzy
 msgctxt "floatingnavigator|FloatingNavigator"
 msgid "Report navigator"
 msgstr "កម្មវិធី​រុករក​របាយការណ៍"
 
 #. J7Adn
 #: reportdesign/uiconfig/dbreport/ui/floatingsort.ui:13
-#, fuzzy
 msgctxt "floatingsort|FloatingSort"
 msgid "Sorting and Grouping"
 msgstr "ការ​តម្រៀប និង​ដាក់​ជា​ក្រុម"
 
 #. LRhtG
 #: reportdesign/uiconfig/dbreport/ui/floatingsort.ui:79
-#, fuzzy
 msgctxt "floatingsort|label5"
 msgid "Group actions"
 msgstr "ដាក់សកម្មភាព​ជា​ក្រុម"
@@ -1362,7 +1332,6 @@ msgstr "ក្រុម"
 
 #. GwcRE
 #: reportdesign/uiconfig/dbreport/ui/floatingsort.ui:208
-#, fuzzy
 msgctxt "floatingsort|label6"
 msgid "Sorting"
 msgstr "​តម្រៀប"
@@ -1381,14 +1350,12 @@ msgstr "បាតកថា​ក្រុម"
 
 #. GWWsG
 #: reportdesign/uiconfig/dbreport/ui/floatingsort.ui:250
-#, fuzzy
 msgctxt "floatingsort|label9"
 msgid "Group On"
 msgstr "បើក​ក្រុម"
 
 #. uqrrE
 #: reportdesign/uiconfig/dbreport/ui/floatingsort.ui:264
-#, fuzzy
 msgctxt "floatingsort|label10"
 msgid "Group Interval"
 msgstr "ចន្លោះ​ក្រុម"
@@ -1413,14 +1380,12 @@ msgstr "ចុះ"
 
 #. LsRSa
 #: reportdesign/uiconfig/dbreport/ui/floatingsort.ui:311
-#, fuzzy
 msgctxt "floatingsort|header"
 msgid "Present"
 msgstr "បង្ហាញ"
 
 #. vnGGe
 #: reportdesign/uiconfig/dbreport/ui/floatingsort.ui:312
-#, fuzzy
 msgctxt "floatingsort|header"
 msgid "Not present"
 msgstr "មិន​បង្ហាញ"
@@ -1433,42 +1398,36 @@ msgstr "ទេ"
 
 #. mdUnC
 #: reportdesign/uiconfig/dbreport/ui/floatingsort.ui:328
-#, fuzzy
 msgctxt "floatingsort|keep"
 msgid "Whole Group"
 msgstr "ក្រុម​ទាំងមូល"
 
 #. uCpDA
 #: reportdesign/uiconfig/dbreport/ui/floatingsort.ui:329
-#, fuzzy
 msgctxt "floatingsort|keep"
 msgid "With First Detail"
 msgstr "ដោយមាន​សេចក្ដី​លម្អិត​ដំបូង"
 
 #. A9ESx
 #: reportdesign/uiconfig/dbreport/ui/floatingsort.ui:344
-#, fuzzy
 msgctxt "floatingsort|footer"
 msgid "Present"
 msgstr "បង្ហាញ"
 
 #. a5oHV
 #: reportdesign/uiconfig/dbreport/ui/floatingsort.ui:345
-#, fuzzy
 msgctxt "floatingsort|footer"
 msgid "Not present"
 msgstr "មិន​បង្ហាញ"
 
 #. MYqZY
 #: reportdesign/uiconfig/dbreport/ui/floatingsort.ui:360
-#, fuzzy
 msgctxt "floatingsort|group"
 msgid "Each Value"
 msgstr "តម្លៃ​នីមួយៗ"
 
 #. Aey2X
 #: reportdesign/uiconfig/dbreport/ui/floatingsort.ui:389
-#, fuzzy
 msgctxt "floatingsort|label2"
 msgid "Properties"
 msgstr "លក្ខណសម្បត្តិ ៖"
@@ -1487,35 +1446,30 @@ msgstr "លុប"
 
 #. qYJKV
 #: reportdesign/uiconfig/dbreport/ui/navigatormenu.ui:12
-#, fuzzy
 msgctxt "navigatormenu|sorting"
 msgid "Sorting and Grouping..."
-msgstr "កំពុង​តម្រៀប និង​ដាក់​ជា​ក្រុម..."
+msgstr "កំពុង​តម្រៀប និង​ ដាក់​ជា​ក្រុម..."
 
 #. Sj8Wi
 #: reportdesign/uiconfig/dbreport/ui/navigatormenu.ui:26
-#, fuzzy
 msgctxt "navigatormenu|page"
 msgid "Page Header/Footer..."
 msgstr "បឋមកថា/​បាតកថា​ទំព័រ..."
 
 #. dCNEo
 #: reportdesign/uiconfig/dbreport/ui/navigatormenu.ui:34
-#, fuzzy
 msgctxt "navigatormenu|report"
 msgid "Report Header/Footer..."
 msgstr "បឋមកថា​/បាតកថា​របាយការណ៍..."
 
 #. tDRkM
 #: reportdesign/uiconfig/dbreport/ui/navigatormenu.ui:48
-#, fuzzy
 msgctxt "navigatormenu|function"
 msgid "New Function"
 msgstr "អនុគមន៍​ថ្មី"
 
 #. iunNU
 #: reportdesign/uiconfig/dbreport/ui/navigatormenu.ui:62
-#, fuzzy
 msgctxt "navigatormenu|properties"
 msgid "Properties..."
 msgstr "លក្ខណសម្បត្តិ ៖"

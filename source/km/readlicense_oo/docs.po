@@ -1,21 +1,19 @@
-#. extracted from readlicense_oo/docs
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
-"POT-Creation-Date: 2020-09-07 17:18+0200\n"
-"PO-Revision-Date: 2018-11-12 11:57+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
-"Language-Team: Khmer <support@khmeros.info>\n"
+"POT-Creation-Date: 2020-03-10 13:36+0100\n"
+"PO-Revision-Date: 2020-09-05 22:56+0700\n"
+"Last-Translator: Koompi Apps Localization\n"
 "Language: km\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Accelerator-Marker: ~\n"
-"X-Generator: LibreOffice\n"
-"X-Language: km-KH\n"
-"X-POOTLE-MTIME: 1542023852.000000\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-POOTLE-MTIME: 1535975854.000000\n"
+"Language-Team: KOOMPI Apps Localization\n"
 
 #. q6Gg3
 #: readme.xrm
@@ -33,7 +31,7 @@ msgctxt ""
 "LatestUpdates\n"
 "readmeitem.text"
 msgid "For the latest updates to this readme file, see <a href=\"https://git.libreoffice.org/core/tree/master/README.md\">https://git.libreoffice.org/core/tree/master/README.md</a>"
-msgstr ""
+msgstr "សម្រាប់ការធ្វើបច្ចុប្បន្នភាពចុងក្រោយនៃឯកសារអាននេះសូមមើល <a href=\"https://git.libreoffice.org/core/tree/master/README.md\">https://git.libreoffice.org/core/tree/master/README.md</a>​"
 
 #. PUvpE
 #: readme.xrm
@@ -51,7 +49,7 @@ msgctxt ""
 "A7\n"
 "readmeitem.text"
 msgid "The ${PRODUCTNAME} community is responsible for the development of this product, and invites you to consider participating as a community member. If you are a new user, you can visit the ${PRODUCTNAME} site, where you will find lots of information about the ${PRODUCTNAME} project and the communities that exist around it. Go to <a href=\"https://www.libreoffice.org/\">https://www.libreoffice.org/</a>."
-msgstr ""
+msgstr "សហគមន៍ ${PRODUCTNAME} ទទួលខុសត្រូវចំពោះការអភិវឌ្ឍផលិតផលនេះហើយអញ្ជើញអ្នកឱ្យពិចារណាចូលរួមជាសមាជិកសហគមន៍។ ប្រសិនបើអ្នកជាអ្នកប្រើប្រាស់ថ្មីអ្នកអាចចូលមើលគេហទំព័រ ${PRODUCTNAME} ដែលអ្នកនឹងឃើញព័ត៌មានជាច្រើនអំពីគំរោង ${PRODUCTNAME} និងសហគមន៍ដែលមាននៅជុំវិញវា។ ចូលទៅកាន់ <a href=\"https://www.libreoffice.org/\"> https://www.libreoffice.org/ </a> ។"
 
 #. EVaKB
 #: readme.xrm
@@ -96,7 +94,7 @@ msgctxt ""
 "A13b\n"
 "readmeitem.text"
 msgid "If you appreciate their efforts, and would like to ensure that ${PRODUCTNAME} continues to be available far into the future, please consider contributing to the project - see <a href=\"https://www.documentfoundation.org/contribution/\">https://www.documentfoundation.org/contribution/</a> for details. Everyone can make a contribution of some kind."
-msgstr ""
+msgstr "ប្រសិនបើអ្នកពេញចិត្តនឹងកិច្ចខិតខំប្រឹងប្រែងរបស់ពួកគេហើយចង់ធានាថា ${PRODUCTNAME} នៅតែបន្តមានដល់ពេលអនាគតសូមពិចារណាចូលរួមវិភាគទានដល់គម្រោង - សូមមើល <a href=\"https://www.documentfoundation.org/contribution/\">https://www.documentfoundation.org/contribution/</a> សម្រាប់ព័ត៌មានលម្អិត។ មនុស្សគ្រប់គ្នាអាចចូលរួមវិភាគទានបាន។"
 
 #. B8wNY
 #: readme.xrm
@@ -132,7 +130,7 @@ msgctxt ""
 "macxiOSX\n"
 "readmeitem.text"
 msgid "macOS 10.10 (Yosemite) or higher"
-msgstr ""
+msgstr "macOS ១0.១0 (Yosemite) រឺ ខ្ពស់ជាងនេះ"
 
 #. zfLqy
 #: readme.xrm
@@ -141,7 +139,7 @@ msgctxt ""
 "s2s3sdf21\n"
 "readmeitem.text"
 msgid "Microsoft Windows 7 SP1, 8, 8.1 Update (S14) or 10"
-msgstr ""
+msgstr "Microsoft Windows ៧ SP១, ៨, ៨.១ Update (S១៤) រឺ ១0"
 
 #. kaNFX
 #: readme.xrm
@@ -204,7 +202,7 @@ msgctxt ""
 "s2we35\n"
 "readmeitem.text"
 msgid "Linux Kernel version 3.10 or higher;"
-msgstr ""
+msgstr "Linux Kernel version ៣.១0 រឺ ខ្ពស់ជាងនេះ"
 
 #. pNgKX
 #: readme.xrm
@@ -213,7 +211,7 @@ msgctxt ""
 "s253we\n"
 "readmeitem.text"
 msgid "glibc2 version 2.17 or higher;"
-msgstr ""
+msgstr "glibc២ version ២.១៧ រឺ ខ្ពស់ជាងនេះ"
 
 #. rstw9
 #: readme.xrm
@@ -222,7 +220,7 @@ msgctxt ""
 "s255we\n"
 "readmeitem.text"
 msgid "FreeType version 2.8.0 or higher;"
-msgstr ""
+msgstr "FreeType version ២.៨.០  រឺ ខ្ពស់ជាងនេះ"
 
 #. sJ48T
 #: readme.xrm
@@ -231,7 +229,7 @@ msgctxt ""
 "s256we\n"
 "readmeitem.text"
 msgid "GTK version 3.18 or higher;"
-msgstr ""
+msgstr "GTK version ៣.១៨ រឺ ខ្ពស់ជាងនេះ"
 
 #. nA9h9
 #: readme.xrm
@@ -240,7 +238,7 @@ msgctxt ""
 "wd2dff\n"
 "readmeitem.text"
 msgid "Gnome 3.18 or higher, with the at-spi2 1.32 package (required for support for assistive technology [AT] tools), or another compatible GUI (such as KDE, among others)."
-msgstr ""
+msgstr "Gnome ៣.១៨ ឬខ្ពស់ជាងនេះជាមួយកញ្ចប់ at-spi2 ១.៣២ (តំរូវការសំរាប់ការគាំទ្រសំរាប់ឧបករណ៍ជំនួយ [អេធីអេក]) រឺក៏ GUI ដែលអាចប្រើបានមួយផ្សេងទៀត (ដូចជា KDE ក្នុងចំនោមអ្វីៗផ្សេងទៀត) ។"
 
 #. q9SJs
 #: readme.xrm
@@ -386,14 +384,14 @@ msgctxt ""
 msgid "Right-click within the directory and choose \"Open in Terminal\". A terminal window will open. From the command line of the terminal window, enter the following command (you will be prompted to enter your root user's password before the command will execute):"
 msgstr "ចុច​​ខាង​​ស្ដាំ ខាង​ក្នុង​ថត​ ហើយ​ជ្រើស​​ \"បើក​​ក្នុង​ស្ថានីយ\" ។​ បង្អួច​ស្ថានីយ​នឹង​បើក​ ។​ ពី​បន្ទាត់​ពាក្យ​បញ្ជា​ស្ថានីយ​​របស់​បង្អួច​ស្ថានីយ​​ បញ្ចូល​ពាក្យ​បញ្ជា​ខាង​ក្រោម​​ (អ្នក​នឹង​បាន​ដាក់​ប្រអប់​​បញ្ចូល ដើម្បី​បញ្ចូល​ពាក្យ​សម្ងាត់​អ្នក​ប្រើ​របស់​​អ្នក​ជា​​ root ​មុន​​​ពាក្យ​បញ្ជា​​នឹង​ប្រតិបត្តិ) ។"
 
-#. DSXFr
+#. 5Uuky
 #: readme.xrm
 msgctxt ""
 "readme.xrm\n"
 "rpminstall5\n"
 "readmeitem.text"
-msgid "For Fedora-based systems: sudo dnf install *.rpm"
-msgstr ""
+msgid "For Fedora-based systems: su -c 'yum install *.rpm'"
+msgstr "ប្រព័ន្ធ​ដែល​មាន​មូលដ្ឋាន​លើ​ Fedora​ ៖​ su -c 'yum install *.rpm'"
 
 #. BwvxR
 #: readme.xrm
@@ -429,7 +427,7 @@ msgctxt ""
 "rpminstall7a\n"
 "readmeitem.text"
 msgid "Alternatively, you can use the 'install' script, located in the toplevel directory of this archive to perform an installation as a user. The script will set up ${PRODUCTNAME} to have its own profile for this installation, separated from your normal ${PRODUCTNAME} profile. Note that this will not install the system integration parts such as desktop menu items and desktop MIME type registrations."
-msgstr "ម្យ៉ាង​ទៀត​អ្នក​អាច​ប្រើ​ស្គ្រីប 'install' ដែល​ស្ថិតនៅ​ថត​កម្រិត​លើ​នៃ​ប័ណ្ណសារ​នេះ​ដើម្បី​ដំណើរការ​ការ​ដំឡើង​ជា​អ្នកប្រើ។ ស្គ្រីប​នឹង​រៀបចំ ${PRODUCTNAME} ឲ្យ​មាន​ប្រវត្តិរូប​ផ្ទាល់ខ្លួន​របស់​វា​សម្រាប់​ការ​ដំឡើង​នេះ ផ្សេង​ពី​ប្រវត្តិរូប ${PRODUCTNAME} ធម្មតា​របស់​អ្នក។ ចងចាំ​ថា​វា​នឹង​មិន​ដំឡើង​ផ្នែក​ការ​បញ្ចូល​ប្រព័ន្ធ​ឡើយ ដូចជា​ធាតុ​ម៉ឺនុយ​ផ្ទៃតុ និង​ផ្ទៃតុ​ការ​ចុះឈ្មោះ​ប្រភេទ MIME ។"
+msgstr "ម្យ៉ាង​ទៀត​អ្នក​អាច​ប្រើ​ស្គ្រីប 'ដំឡើង' ដែល​ស្ថិតនៅ​ថត​កម្រិត​លើ​នៃ​ប័ណ្ណសារ​នេះ​ដើម្បី​ដំណើរការ​ការ​ដំឡើង​ជា​អ្នកប្រើ។ ស្គ្រីប​នឹង​រៀបចំ ${PRODUCTNAME} ឲ្យ​មាន​ប្រវត្តិរូប​ផ្ទាល់ខ្លួន​របស់​វា​សម្រាប់​ការ​ដំឡើង​នេះ ផ្សេង​ពី​ប្រវត្តិរូប ${PRODUCTNAME} ធម្មតា​របស់​អ្នក។ ចងចាំ​ថា​វា​នឹង​មិន​ដំឡើង​ផ្នែក​ការ​បញ្ចូល​ប្រព័ន្ធ​ឡើយ ដូចជា​ធាតុ​ម៉ឺនុយ​ផ្ទៃតុ និង​ផ្ទៃតុ​ការ​ចុះឈ្មោះ​ប្រភេទ MIME ។"
 
 #. wx2tD
 #: readme.xrm
@@ -456,7 +454,7 @@ msgctxt ""
 "otherinstall2\n"
 "readmeitem.text"
 msgid "The RPMS (or DEBS, respectively) directory also contains a package named libreoffice${PRODUCTVERSION}-freedesktop-menus-${PRODUCTVERSION}.0.1-1.noarch.rpm (or libreoffice${PRODUCTVERSION}-debian-menus_${PRODUCTVERSION}.0.1-1_all.deb, respectively, or similar). This is a package for all Linux distributions that support the Freedesktop.org specifications/recommendations (<a href=\"https://en.wikipedia.org/wiki/Freedesktop.org\">https://en.wikipedia.org/wiki/Freedesktop.org</a>), and is provided for installation on other Linux distributions not covered in the aforementioned instructions."
-msgstr ""
+msgstr "ថតឯកសារ RPMS (ឬ DEBS រៀងៗខ្លួន) ក៏មានកញ្ចប់ដែលមានឈ្មោះថា libreoffice ${PRODUCTVERSION} -freedes desktop-menus - ${PRODUCTVERSION} ។ } .0.1-1_all.deb រៀងគ្នាឬស្រដៀងគ្នា) ។ នេះគឺជាកញ្ចប់សម្រាប់ការចែកចាយលីនុចទាំងអស់ដែលគាំទ្រការបញ្ជាក់ / អនុសាសន៍របស់ Freedesktop.org (<a href=\"https://en.wikipedia.org/wiki/Freedesktop.org\"> https://en.wikipedia.org/ wiki / Freedesktop.org </a>) និងត្រូវបានផ្តល់ជូនសម្រាប់ដំឡើងនៅលើការចែកចាយលីនុចផ្សេងទៀតដែលមិនមានចែងនៅក្នុងសេចក្តីណែនាំដែលបានរៀបរាប់ខាងលើ។"
 
 #. irqxi
 #: readme.xrm
@@ -521,14 +519,14 @@ msgctxt ""
 msgid "For Debian/Ubuntu-based systems: sudo dpkg -i *.deb"
 msgstr "ប្រព័ន្ធ​ដែល​មាន​មូលដ្ឋាន​លើ​ ដេបៀន​/អ៊ូប៊ុនទូ ៖​ sudo dpkg -i *.deb"
 
-#. qhEUW
+#. QMHS2
 #: readme.xrm
 msgctxt ""
 "readme.xrm\n"
 "linuxlangpack7\n"
 "readmeitem.text"
-msgid "For Fedora-based systems: su -c 'dnf install *.rpm'"
-msgstr ""
+msgid "For Fedora-based systems: su -c 'yum install *.rpm'"
+msgstr "ប្រព័ន្ធ​ដែល​មាន​មូលដ្ឋាន​លើ​ Fedora​ ៖​ su -c 'yum install *.rpm'"
 
 #. nrFRB
 #: readme.xrm
@@ -600,7 +598,7 @@ msgctxt ""
 "naso\n"
 "readmeitem.text"
 msgid "ALPS/Synaptics notebook touchpads in Windows"
-msgstr "touchpad របស់​កុំព្យូទ័រ​យួរដៃ ALPS/Synaptics ក្នុង​វីនដូ"
+msgstr "បន្ទះប៉ះកុំព្យូទ័រយួរដៃ ALPS / Synaptics នៅក្នុងវីនដូ"
 
 #. TNYx3
 #: readme.xrm
@@ -658,7 +656,6 @@ msgstr "គ្រាប់​ចុច​​ផ្លូវ​កាត់"
 
 #. SbwJj
 #: readme.xrm
-#, fuzzy
 msgctxt ""
 "readme.xrm\n"
 "w32e1\n"
@@ -727,7 +724,7 @@ msgctxt ""
 "pji76w1\n"
 "readmeitem.text"
 msgid "When sending a document via 'File - Send - Document as E-mail' or 'Document as PDF Attachment' problems might occur (program crashes or hangs). This is due to the Windows system file \"Mapi\" (Messaging Application Programming Interface) which causes problems in some file versions. Unfortunately, the problem cannot be narrowed down to a certain version number. For more information visit <a href=\"https://www.microsoft.com\">https://www.microsoft.com</a> to search the Microsoft Knowledge Base for \"mapi dll\"."
-msgstr ""
+msgstr "នៅពេលផ្ញើឯកសារតាមរយៈ 'ឯកសារ - ផ្ញើ - ឯកសារជាអ៊ីមែល' ឬ 'ឯកសារជាឯកសារភ្ជាប់ PDF' បញ្ហាអាចនឹងកើតមាន (គាំងកម្មវិធីរឺព្យួរ) ។ នេះដោយសារតែឯកសារប្រព័ន្ធវីនដូឈ្មោះ“ ម៉ាយជី” (អន្តរកម្មកម្មវិធីសរសេរសារ) ដែលបណ្តាលអោយមានបញ្ហានៅក្នុងជំនាន់ឯកសារមួយចំនួន។ ជាអកុសលបញ្ហាមិនអាចត្រូវបានបង្រួមតូចទៅលេខលេខជាក់លាក់ទេ។ សម្រាប់ព័ត៌មានបន្ថែមសូមចូលទៅកាន់ <a href=\"https://www.microsoft.com\"> https://www.microsoft.com </a> ដើម្បីស្វែងរកមូលដ្ឋានចំណេះដឹងរបស់ Microsoft សម្រាប់“ mapi dll” ។"
 
 #. a426D
 #: readme.xrm
@@ -745,7 +742,7 @@ msgctxt ""
 "access7\n"
 "readmeitem.text"
 msgid "For more information on the accessibility features in ${PRODUCTNAME}, see <a href=\"https://www.libreoffice.org/accessibility/\">https://www.libreoffice.org/accessibility/</a>"
-msgstr ""
+msgstr "សម្រាប់ព័ត៌មានបន្ថែមអំពីលក្ខណៈពិសេសភាពងាយស្រួលក្នុង ${PRODUCTNAME} សូមមើល <a href=\"https://www.libreoffice.org/accessibility/\"> https://www.libreoffice.org/accessibility/ </a>"
 
 #. Cumnc
 #: readme.xrm
@@ -763,7 +760,7 @@ msgctxt ""
 "support1\n"
 "readmeitem.text"
 msgid "The <a href=\"https://www.libreoffice.org/get-help/community-support/\">main support page</a> offers various possibilities for help with ${PRODUCTNAME}. Your question may have already been answered - check the Community Forum at <a href=\"https://www.documentfoundation.org/nabble/\">https://www.documentfoundation.org/nabble/</a> or search the archives of the 'users@libreoffice.org' mailing list at <a href=\"https://www.libreoffice.org/lists/users/\">https://www.libreoffice.org/lists/users/</a>. Alternatively, you can send in your questions to <a href=\"mailto:users@libreoffice.org\">users@libreoffice.org</a>. If you like to subscribe to the list (to get email responses), send an empty mail to: <a href=\"mailto:users+subscribe@libreoffice.org\">users+subscribe@libreoffice.org</a>."
-msgstr ""
+msgstr "ទំព័រជំនួយ <a href=\"https://www.libreoffice.org/get-help/community-support/\"> ទំព័រជំនួយចម្បង </a> ផ្តល់ជូននូវលទ្ធភាពផ្សេងៗសម្រាប់ជំនួយ ${PRODUCTNAME} ។ សំណួររបស់អ្នកប្រហែលជាត្រូវបានឆ្លើយរួចហើយ - ពិនិត្យមើលវេទិកាសហគមន៍នៅ <a href=\"https://www.documentfoundation.org/nabble/\"> https://www.documentfoundation.org/nabble/ </a> ឬស្វែងរក បណ្ណសារនៃបញ្ជីសំបុត្ររួមរបស់ 'users@libreoffice.org' នៅ <a href=\"https://www.libreoffice.org/lists/users/\"> https://www.libreoffice.org/lists/users/ < / a> ។ ម៉្យាងវិញទៀតអ្នកអាចផ្ញើសំណួររបស់អ្នកទៅកាន់ <a href=\"mailto:users@libreoffice.org\"> users@libreoffice.org </a> ។ ប្រសិនបើអ្នកចង់ជាវបញ្ជី (ដើម្បីទទួលបានការឆ្លើយតបតាមអ៊ីមែល) សូមផ្ញើសារទទេទៅ៖ <a href=\"mailto:users+subscribe@libreoffice.org\"> អ្នកប្រើប្រាស់+subscribe@libreoffice.org </a> ។"
 
 #. YnDMB
 #: readme.xrm
@@ -772,7 +769,7 @@ msgctxt ""
 "faq\n"
 "readmeitem.text"
 msgid "Also check the FAQ section at <a href=\"https://www.libreoffice.org/get-help/frequently-asked-questions/\">the LibreOffice website</a>."
-msgstr ""
+msgstr "សូមពិនិត្យមើលផ្នែកសំណួរចម្លើយនៅ <a href=\"https://www.libreoffice.org/get-help/frequently-asked-questions/\"> គេហទំព័រ LibreOffice </a> ។"
 
 #. CgBtA
 #: readme.xrm
@@ -790,7 +787,7 @@ msgctxt ""
 "reportbugs1\n"
 "readmeitem.text"
 msgid "Our system for reporting, tracking and solving bugs is currently Bugzilla, hosted at <a href=\"https://bugs.documentfoundation.org/\">https://bugs.documentfoundation.org/</a>. We encourage all users to feel entitled and welcome to report bugs that may arise on your particular platform. Energetic reporting of bugs is one of the most important contributions that the user community can make to the ongoing development and improvement of ${PRODUCTNAME}."
-msgstr ""
+msgstr "ប្រព័ន្ធរបស់យើងសម្រាប់រាយការណ៍តាមដាននិងដោះស្រាយកំហុសបច្ចុប្បន្នគឺប៊្លូហ្សីឡាដែលរៀបចំនៅ <a href=\"https://bugs.documentfoundation.org/\"> https://bugs.documentfoundation.org/ </a> ។ យើងលើកទឹកចិត្តឱ្យអ្នកប្រើប្រាស់ទាំងអស់មានអារម្មណ៍ថាមានសិទ្ធិនិងស្វាគមន៍ក្នុងការរាយការណ៍អំពីកំហុសដែលអាចកើតឡើងនៅលើវេទិកាជាក់លាក់របស់អ្នក។ ការរាយការណ៍កំហុសប្រកបដោយថាមពលគឺជាការចូលរួមដ៏សំខាន់បំផុតមួយដែលសហគមន៍អ្នកប្រើប្រាស់អាចធ្វើឱ្យការអភិវឌ្ឍនិងការធ្វើឱ្យប្រសើរឡើងនៃ ${PRODUCTNAME} ។"
 
 #. WpD2B
 #: readme.xrm
@@ -808,7 +805,7 @@ msgctxt ""
 "gettinginvolved2\n"
 "readmeitem.text"
 msgid "The ${PRODUCTNAME} Community would very much benefit from your active participation in the development of this important open source project."
-msgstr "សហគមន៍ ${PRODUCTNAME} នឹង​ទទួល​បាន​ផល​ប្រយោជន៍​យ៉ាង​ច្រើន​ពី​ការ​ចូលរួម​យ៉ាង​សកម្ម​របស់​អ្នក​ក្នុង​ការ​អភិវឌ្ឍន៍​នៃ​គម្រោង​កូដ​បើក​ចំហ​ដ៏​សំខាន់​នេះ ។"
+msgstr "សហគមន៍ ${PRODUCTNAME} នឹង​ទទួល​បាន​ផល​ប្រយោជន៍​យ៉ាង​ច្រើន​ពី​ការ​ចូលរួមយ៉ាង​សកម្ម​របស់​អ្នក​ក្នុង​ការ​អភិវឌ្ឍន៍​នៃ​គម្រោង​កូដ​បើក​ចំហ​ដ៏​សំខាន់​នេះ ។"
 
 #. kAfhp
 #: readme.xrm
@@ -817,7 +814,7 @@ msgctxt ""
 "gettingimvolved3\n"
 "readmeitem.text"
 msgid "As a user, you are already a valuable part of the suite's development process and we would like to encourage you to take an even more active role with a view to being a long-term contributor to the community. Please join and check out the contributing page at <a href=\"https://www.libreoffice.org/community/get-involved/\">the LibreOffice website</a>."
-msgstr ""
+msgstr "ក្នុងនាមជាអ្នកប្រើប្រាស់អ្នកគឺជាផ្នែកមួយដ៏មានតំលៃនៃដំណើរការអភិវឌ្ឍន៍ឈុតហើយយើងសូមលើកទឹកចិត្តអ្នកអោយមានតួនាទីកាន់តែសកម្មថែមទៀតក្នុងគោលបំណងក្លាយជាអ្នកចូលរួមរយៈពេលវែងដល់សហគមន៍។ សូមចូលរួមនិងពិនិត្យមើលទំព័រដែលចូលរួមនៅ <a href=\"https://www.libreoffice.org/community/get-involved/\"> គេហទំព័រ LibreOffice </a> ។"
 
 #. zfwR2
 #: readme.xrm
@@ -835,7 +832,7 @@ msgctxt ""
 "howtostart1\n"
 "readmeitem.text"
 msgid "The best way to start contributing is to subscribe to one or more of the mailing lists, lurk for a while, and gradually use the mail archives to familiarize yourself with many of the topics covered since the ${PRODUCTNAME} source code was released back in October 2000. When you're comfortable, all you need to do is send an email self-introduction and jump right in. If you are familiar with Open Source Projects, check out our To-Dos list and see if there is anything you would like to help with at <a href=\"https://www.libreoffice.org/community/developers/\">the LibreOffice website</a>."
-msgstr ""
+msgstr "វិធីល្អបំផុតដើម្បីចាប់ផ្តើមចូលរួមវិភាគទានគឺត្រូវជាវបញ្ជីសំបុត្ររួមមួយឬច្រើនដាក់ក្នុងបញ្ជីមួយរយៈហើយប្រើបណ្ណសារអ៊ីមែលដើម្បីស្គាល់ខ្លួនអ្នកជាមួយនឹងប្រធានបទជាច្រើនដែលមានតាំងពីកូដប្រភព ${PRODUCTNAME} ត្រូវបានចេញផ្សាយឡើងវិញ។ នៅពេលដែលអ្នកមានផាសុកភាពអ្វីដែលអ្នកត្រូវធ្វើគឺផ្ញើអ៊ីមែលណែនាំដោយខ្លួនឯងហើយលោតចូលភ្លាម។ ប្រសិនបើអ្នកស៊ាំជាមួយគម្រោងប្រភពកូដចំហសូមពិនិត្យមើលបញ្ជីការងារត្រូវធ្វើរបស់យើងហើយមើលថាតើមានអ្វីដែលអ្នកចង់បានទេ។ ចូលចិត្តជួយនៅ <a href=\"https://www.libreoffice.org/community/developers/\"> គេហទំព័រ LibreOffice </a> ។"
 
 #. LGEzy
 #: readme.xrm
@@ -853,7 +850,7 @@ msgctxt ""
 "subscribe1\n"
 "readmeitem.text"
 msgid "Here are a few of the mailing lists to which you can subscribe at <a href=\"https://www.libreoffice.org/get-help/mailing-lists/\">https://www.libreoffice.org/get-help/mailing-lists/</a>"
-msgstr ""
+msgstr "នេះគឺជាបញ្ជីសំបុត្ររួមដែលអ្នកអាចជាវបាននៅ <a href=\"https://www.libreoffice.org/get-help/mailing-lists/\"> https://www.libreoffice.org/get -help / mailing-list / </a>"
 
 #. FxDPA
 #: readme.xrm
@@ -862,7 +859,7 @@ msgctxt ""
 "subscribelist1\n"
 "readmeitem.text"
 msgid "News: announce@documentfoundation.org *recommended to all users* (light traffic)"
-msgstr "ព័ត៌មាន​ ៖​ announce@documentfoundation.org *recommended to all users* (light traffic)"
+msgstr "ព័ត៌មាន​ ៖​ announce@documentfoundation.org *recommended to all users* (ការចរាចរណ៍ស្រាល)"
 
 #. BcgDM
 #: readme.xrm
@@ -871,7 +868,7 @@ msgctxt ""
 "subscribelist2\n"
 "readmeitem.text"
 msgid "Main user list: users@global.libreoffice.org *easy way to lurk on discussions* (heavy traffic)"
-msgstr "បញ្ជី​អ្នក​ប្រើ​សំខាន់៖ users@global.libreoffice.org *easy way to lurk on discussions* (ចរាចរ​ច្រើន)"
+msgstr "បញ្ជី​អ្នក​ប្រើ​សំខាន់៖ users@global.libreoffice.org *easy way to lurk on discussions* (ការចរាចរ​ច្រើន)"
 
 #. EG5hN
 #: readme.xrm
@@ -880,7 +877,7 @@ msgctxt ""
 "subscribelist3\n"
 "readmeitem.text"
 msgid "Marketing project: marketing@global.libreoffice.org *beyond development* (getting heavy)"
-msgstr "គម្រង​ទីផ្សារ៖ marketing@global.libreoffice.org *beyond development* (getting heavy)"
+msgstr "គម្រង​ទីផ្សារ៖ marketing@global.libreoffice.org *beyond development* (ធ្ងន់)"
 
 #. PbCp3
 #: readme.xrm
@@ -889,7 +886,7 @@ msgctxt ""
 "subscribelist4\n"
 "readmeitem.text"
 msgid "General developer list: libreoffice@lists.freedesktop.org (heavy traffic)"
-msgstr "បញ្ជី​អ្នក​អភិវឌ្ឍ​​ទូទៅ​ ៖​ libreoffice@lists.freedesktop.org (heavy traffic)"
+msgstr "បញ្ជី​អ្នក​អភិវឌ្ឍ​​ទូទៅ​ ៖​ libreoffice@lists.freedesktop.org (ការចរាចរណ៍ធ្ងន់)"
 
 #. MrCBN
 #: readme.xrm

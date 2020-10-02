@@ -1,21 +1,19 @@
-#. extracted from helpcontent2/source/text/sdraw/guide
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
-"POT-Creation-Date: 2020-01-22 13:00+0100\n"
-"PO-Revision-Date: 2018-04-17 15:33+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
-"Language-Team: Khmer <support@khmeros.info>\n"
+"POT-Creation-Date: 2020-03-10 13:36+0100\n"
+"PO-Revision-Date: 2020-09-03 11:21+0700\n"
+"Last-Translator: Koompi Apps Localization\n"
 "Language: km\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Accelerator-Marker: ~\n"
-"X-Generator: LibreOffice\n"
-"X-Language: km-KH\n"
-"X-POOTLE-MTIME: 1523979230.000000\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-POOTLE-MTIME: 1535975854.000000\n"
+"Language-Team: KOOMPI Apps Localization\n"
 
 #. cZbDh
 #: align_arrange.xhp
@@ -78,7 +76,7 @@ msgctxt ""
 "par_id3150327\n"
 "help.text"
 msgid "Choose <item type=\"menuitem\">Shape - Arrange</item> to bring up the context menu and choose one of the arrange options:"
-msgstr ""
+msgstr "ជ្រើសរើសរាង  <<item type=\"menuitem\"> - រៀបចំ </item> ដើម្បីបង្ហាញបរិបទម៉ឺនុយហើយជ្រើសរើសជម្រើសមួយក្នុងចំណោមការរៀបចំ៖"
 
 #. CuUcp
 #: align_arrange.xhp
@@ -150,7 +148,7 @@ msgctxt ""
 "par_id3154253\n"
 "help.text"
 msgid "Choose <item type=\"menuitem\">Shape - Arrange</item> to open the context menu and choose <emph>Behind Object</emph>. The mouse pointer changes to a hand."
-msgstr ""
+msgstr "ជ្រើសរើសរាង<item type=\"menuitem\"> - រៀបចំ </item> ដើម្បីបើកបរិបទម៉ឺនុយហើយជ្រើសរើស <emph> នៅពីក្រោយវត្ថុ </emph> ។ ព្រួញម៉ៅផ្លាស់ប្តូរទៅជាដៃ។"
 
 #. nJDrE
 #: align_arrange.xhp
@@ -159,7 +157,7 @@ msgctxt ""
 "par_id3149126\n"
 "help.text"
 msgid "Click the object behind which you want to place the selected object."
-msgstr "ចុច​លើ​វត្ថុ​ពីក្រោយ ដែល​អ្នក​ចង់​ដាក់​វត្ថុ​ដែលបាន​ជ្រើស ។។"
+msgstr "ចុច​លើ​វត្ថុ​ពីក្រោយ ដែល​អ្នក​ចង់​ដាក់​វត្ថុ​ដែលបាន​ជ្រើស ។"
 
 #. wWeF3
 #: align_arrange.xhp
@@ -186,7 +184,7 @@ msgctxt ""
 "par_id3155114\n"
 "help.text"
 msgid "Choose <item type=\"menuitem\">Shape - Arrange</item> to open the context menu and choose <emph>Reverse</emph>."
-msgstr ""
+msgstr "ជ្រើសរើសរាង <item type=\"menuitem\"> - រៀបចំ </item> ដើម្បីបើកម៉ឺនុយបរិបទហើយជ្រើសរើស <emph> បញ្ច្រាស </emph> ។"
 
 #. D8jUy
 #: align_arrange.xhp
@@ -222,7 +220,7 @@ msgctxt ""
 "par_idN108A7\n"
 "help.text"
 msgid "Choose <item type=\"menuitem\">Shape - Align</item> and select one of the alignment options."
-msgstr ""
+msgstr "ជ្រើសរើសរាង  <item type=\"menuitem\"> - តម្រឹម </item> ហើយជ្រើសរើសជម្រើសតម្រឹមមួយ។"
 
 #. ygENZ
 #: align_arrange.xhp
@@ -258,7 +256,7 @@ msgctxt ""
 "par_idN108D2\n"
 "help.text"
 msgid "Choose <item type=\"menuitem\">Shape - Distribution</item>."
-msgstr ""
+msgstr "ជ្រើសរើសរាង<item type=\"menuitem\">- ចែកចាយ </item> ។"
 
 #. faA9D
 #: align_arrange.xhp
@@ -294,7 +292,7 @@ msgctxt ""
 "bm_id3149263\n"
 "help.text"
 msgid "<bookmark_value>colors; defining</bookmark_value>       <bookmark_value>user-defined colors</bookmark_value>       <bookmark_value>custom colors</bookmark_value>"
-msgstr ""
+msgstr "ពណ៌<bookmark_value>; កំណត់ដោយ</bookmark_value>       <bookmark_value>ពណ៌កំណត់ដោយអ្នកប្រើ</bookmark_value>       <bookmark_value>កំណត់ពណ៌ផ្ទាល់ខ្លួន</bookmark_value>"
 
 #. npVxb
 #: color_define.xhp
@@ -312,7 +310,7 @@ msgctxt ""
 "par_id3154511\n"
 "help.text"
 msgid "Define custom colors and add them to the <emph>Custom</emph> color palette."
-msgstr ""
+msgstr "កំណត់ពណ៌ផ្ទាល់ខ្លួនហើយបន្ថែមវាទៅក្ដារលាយពណ៌ <emph> ផ្ទាល់ខ្លួន </emph> ។"
 
 #. PWNkJ
 #: color_define.xhp
@@ -330,7 +328,7 @@ msgctxt ""
 "par_id3150327\n"
 "help.text"
 msgid "Choose <emph>Format - Area</emph>, click the <emph>Area</emph> tab and press the <emph>Color</emph> button. A table of the predefined palette colors is displayed."
-msgstr ""
+msgstr "ជ្រើស <emph>ទ្រង់ទ្រាយ - ផ្ទៃ </emph> ចុចលើផ្ទាំង <emph> ផ្ទៃ </emph> ហើយចុចប៊ូតុង <emph> ពណ៌ </emph> ។ តារាងនៃពណ៌ក្ដារលាយពណ៌ដែលបានកំណត់ជាមុនត្រូវបានបង្ហាញ។"
 
 #. 5WDjt
 #: color_define.xhp
@@ -339,7 +337,7 @@ msgctxt ""
 "par_id3154657\n"
 "help.text"
 msgid "Custom colors are saved in the <emph>Custom</emph> color palette."
-msgstr ""
+msgstr "ពណ៌ផ្ទាល់ខ្លួនត្រូវបានរក្សាទុកនៅក្នុងក្ដារលាយពណ៌ <emph> ផ្ទាល់ខ្លួន </emph> ។​"
 
 #. DEBQ8
 #: color_define.xhp
@@ -348,7 +346,7 @@ msgctxt ""
 "par_id3166425\n"
 "help.text"
 msgid "Click a color in the table that is similar to the one you want to define. You can select the similar color from any of the available color palettes in the <emph>Colors</emph> area on the left or the <emph>Recent colors</emph> in the list below the color table. The color appears in the <emph>New</emph> preview box to the right of the dialog."
-msgstr ""
+msgstr "ចុចពណ៌នៅក្នុងតារាងដែលស្រដៀងនឹងពណ៌ដែលអ្នកចង់កំណត់។ អ្នកអាចជ្រើសរើសពណ៌ស្រដៀងគ្នាពីក្ដារលាយពណ៌ដែលមាននៅក្នុងផ្ទៃ <emph> ពណ៌ </emph> នៅខាងឆ្វេងឬ <emph> ពណ៌ថ្មីៗ </emph> នៅក្នុងបញ្ជីខាងក្រោមតារាងពណ៌។ ពណ៌លេចចេញនៅក្នុងប្រអប់មើលជាមុន <emph> ថ្មី </emph> នៅខាងស្តាំប្រអប់។​"
 
 #. mr77M
 #: color_define.xhp
@@ -357,7 +355,7 @@ msgctxt ""
 "par_id41522705652544\n"
 "help.text"
 msgid "Click the <emph>Pick</emph> button to open the <link href=\"text/shared/optionen/01010501.xhp\" name=\"linkname\">Pick a Color</link> dialog."
-msgstr ""
+msgstr "ចុចប៊ូតុង <emph> ជ្រើស </emph> ដើម្បីបើក <link href=\"text/shared/optionen/01010501.xhp\" name=\"linkname\">  ជ្រើសរើសប្រអប់ពណ៌ </link> ។​"
 
 #. 69QAE
 #: color_define.xhp
@@ -366,7 +364,7 @@ msgctxt ""
 "par_id4979705\n"
 "help.text"
 msgid "%PRODUCTNAME uses only the RGB color model for printing in color. The RGB values of the selected color are displayed below the preview boxes."
-msgstr ""
+msgstr "% PRODUCTNAME ប្រើតែគំរូពណ៌ RGB សម្រាប់បោះពុម្ពជាពណ៌។ តម្លៃ RGB នៃពណ៌ដែលបានជ្រើសរើសត្រូវបានបង្ហាញនៅខាងក្រោមប្រអប់មើលជាមុន។"
 
 #. ou3sQ
 #: color_define.xhp
@@ -375,7 +373,7 @@ msgctxt ""
 "par_id691522706451849\n"
 "help.text"
 msgid "Press the <emph>Add</emph> button to add the custom color to the <emph>Custom</emph> color palette. A dialog box asking to enter a color name appears. Enter a unique name for the new color within all color names existing in the <emph>Custom</emph> color palette."
-msgstr ""
+msgstr "ចុចប៊ូតុង <emph> បន្ថែម </emph> ដើម្បីបន្ថែមពណ៌ផ្ទាល់ខ្លួនទៅក្ដារលាយពណ៌ <emph> ផ្ទាល់ខ្លួន </emph> ។ ប្រអប់មួយដែលស្នើសុំឱ្យបញ្ចូលឈ្មោះពណ៌លេចចេញមក។ បញ្ចូលឈ្មោះតែមួយគត់សម្រាប់ពណ៌ថ្មីនៅក្នុងឈ្មោះពណ៌ទាំងអស់ដែលមាននៅក្នុងក្ដារលាយពណ៌ <emph> ផ្ទាល់ខ្លួន </emph> ។"
 
 #. E9Gho
 #: color_define.xhp
@@ -384,7 +382,7 @@ msgctxt ""
 "par_id701522707038880\n"
 "help.text"
 msgid "To remove a color from the <emph>Custom</emph> color palette, select the <emph>Custom</emph> color palette in the <emph>Colors</emph> area, select the color to be deleted and click <emph>Delete</emph>."
-msgstr ""
+msgstr "ដើម្បីយកពណ៌ចេញពីក្ដារលាយពណ៌ <emph> ផ្ទាល់ខ្លួន </emph> សូមជ្រើសរើសក្ដារលាយពណ៌ <emph> ផ្ទាល់ខ្លួន </emph> នៅក្នុងតំបន់ <emph> ពណ៌ </emph> ជ្រើសរើសពណ៌ដែលត្រូវលុបហើយចុច <emph> លុប </emph> ។"
 
 #. XstjN
 #: color_define.xhp
@@ -465,7 +463,7 @@ msgctxt ""
 "par_id3145587\n"
 "help.text"
 msgid "Choose <emph>Shape - Combine</emph>."
-msgstr ""
+msgstr "ជ្រើសរើសរាង <emph> - ផ្សំ </emph> ។"
 
 #. rhgSt
 #: combine_etc.xhp
@@ -564,7 +562,7 @@ msgctxt ""
 "par_id3150650\n"
 "help.text"
 msgid "Choose <emph>Shape</emph> and one of the following:"
-msgstr ""
+msgstr "ជ្រើសរើសរាង <emph> </emph> និងមួយក្នុងចំនោមខាងក្រោម៖"
 
 #. KwAnN
 #: combine_etc.xhp
@@ -1473,7 +1471,7 @@ msgctxt ""
 "par_id3155600\n"
 "help.text"
 msgid "Choose <emph>Insert - Image</emph>."
-msgstr ""
+msgstr "ជ្រើសរើសការបញ្ចូល <emph> - រូបភាព </emph> ។"
 
 #. PUNGQ
 #: graphic_insert.xhp
@@ -1482,7 +1480,7 @@ msgctxt ""
 "par_id3150749\n"
 "help.text"
 msgid "Locate the image you want to insert. Select the <emph>Link</emph> check box to insert only a link to the image. If you want to see the image before you insert it, select <emph>Preview</emph>."
-msgstr ""
+msgstr "កំណត់ទីតាំងរូបភាពដែលអ្នកចង់បញ្ចូល។ ជ្រើសរើសប្រអប់ធីក <emph> ភ្ជាប់ </emph> ដើម្បីបញ្ចូលតែតំណភ្ជាប់ទៅនឹងរូបភាពប៉ុណ្ណោះ។ ប្រសិនបើអ្នកចង់ឃើញរូបភាពមុនពេលអ្នកបញ្ចូលវាសូមជ្រើសរើស <ការមើលជាមុន </emph> ។​"
 
 #. APuTg
 #: graphic_insert.xhp
@@ -1491,7 +1489,7 @@ msgctxt ""
 "par_id3155764\n"
 "help.text"
 msgid "After you insert a linked image, do not change the name of the source image or move the source image to another directory."
-msgstr ""
+msgstr "បន្ទាប់ពីអ្នកបញ្ចូលរូបភាពដែលបានភ្ជាប់រួចកុំប្តូរឈ្មោះរូបភាពប្រភពឬផ្លាស់ប្តូររូបភាពប្រភពទៅថតផ្សេងទៀត។"
 
 #. sGcHZ
 #: graphic_insert.xhp
@@ -1500,7 +1498,7 @@ msgctxt ""
 "par_id3150044\n"
 "help.text"
 msgid "Click <emph>Open</emph> to insert the image."
-msgstr ""
+msgstr "ចុចបើក <emph> </emph> ដើម្បីបញ្ចូលរូបភាព។"
 
 #. C9Faj
 #: groups.xhp
@@ -1590,7 +1588,7 @@ msgctxt ""
 "par_id3147346\n"
 "help.text"
 msgid "Select the objects you want to group and choose <emph>Shape - Group - Group</emph>."
-msgstr ""
+msgstr "ជ្រើសរើសវត្ថុដែលអ្នកចង់ដាក់ជាក្រុមហើយជ្រើសរើសរាង <emph> - ក្រុម - ក្រុម </emph> ។​"
 
 #. AYfMA
 #: groups.xhp
@@ -1716,7 +1714,7 @@ msgctxt ""
 "par_id3156383\n"
 "help.text"
 msgid "Right-click and choose <emph>Shape - Connect</emph>."
-msgstr ""
+msgstr "ចុចម៉ៅស្ដាំរួចជ្រើសរើសរាង <emph>- ភ្ជាប់ </emph> ។"
 
 #. 8E32A
 #: join_objects.xhp
@@ -1932,7 +1930,7 @@ msgctxt ""
 "par_id3147338\n"
 "help.text"
 msgid "Press <switchinline select=\"sys\"><caseinline select=\"MAC\"><item type=\"keycode\">Command</item></caseinline><defaultinline><item type=\"keycode\">Ctrl</item></defaultinline></switchinline><item type=\"keycode\">+Enter</item>."
-msgstr ""
+msgstr "ចុច<switchinline select=\"sys\"><caseinline select=\"MAC\"><item type=\"keycode\">ពាក្យបញ្ជា</item></caseinline><defaultinline><item type=\"keycode\">Ctrl</item></defaultinline></switchinline><item type=\"keycode\">+បញ្ចូល</item>.​"
 
 #. cTDYF
 #: keyboard.xhp
@@ -1950,7 +1948,7 @@ msgctxt ""
 "par_id3155962\n"
 "help.text"
 msgid "To return to the document, press <switchinline select=\"sys\"><caseinline select=\"MAC\"><item type=\"keycode\">Command</item></caseinline><defaultinline><item type=\"keycode\">Ctrl</item></defaultinline></switchinline><item type=\"keycode\">+F6</item>."
-msgstr ""
+msgstr "ដើម្បីត្រលប់ទៅឯកសារវិញសូមចុចពាក្យបញ្ជា <switchinline select=\"sys\"><caseinline select=\"MAC\"><item type=\"keycode\"> </item></caseinline><defaultinline><item type=\"keycode\"> (Ctrl) </item></defaultinline></switchinline><item type=\"keycode\">+F6</item>។"
 
 #. gQRPD
 #: keyboard.xhp
@@ -1977,7 +1975,7 @@ msgctxt ""
 "par_id3152990\n"
 "help.text"
 msgid "Press <switchinline select=\"sys\"><caseinline select=\"MAC\"><item type=\"keycode\">Command</item></caseinline><defaultinline><item type=\"keycode\">Ctrl</item></defaultinline></switchinline><item type=\"keycode\">+F6</item> to enter the document."
-msgstr ""
+msgstr "ចុច <switchinline select=\"sys\"><caseinline select=\"MAC\"><item type=\"keycode\">ពាក្យបញ្ជា</item></caseinline><defaultinline><item type=\"keycode\">Ctrl</item></defaultinline></switchinline><item type=\"keycode\">+F6</item>ដើម្បីបញ្ចូលឯកសារ។"
 
 #. auKsz
 #: keyboard.xhp
@@ -1995,7 +1993,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Moving Objects to a Different Layer"
-msgstr ""
+msgstr "ការផ្លាស់ទីវត្ថុទៅស្រទាប់ផ្សេង"
 
 #. VnzC4
 #: layer_move.xhp
@@ -2004,7 +2002,7 @@ msgctxt ""
 "bm_id3150752\n"
 "help.text"
 msgid "<bookmark_value>objects; moving in layers</bookmark_value><bookmark_value>layers; moving objects</bookmark_value><bookmark_value>moving; between layers</bookmark_value>"
-msgstr ""
+msgstr "វត្ថុ<bookmark_value>; ផ្លាស់ទីនៅក្នុងស្រទាប់ </bookmark_value><bookmark_value>layers; ផ្លាស់ទីវត្ថុ</bookmark_value><bookmark_value>ផ្លាស់ទី; រវាងស្រទាប់</bookmark_value>"
 
 #. 8EowS
 #: layer_move.xhp
@@ -2013,7 +2011,7 @@ msgctxt ""
 "hd_id3150752\n"
 "help.text"
 msgid "<variable id=\"layer_move\"><link href=\"text/sdraw/guide/layer_move.xhp\" name=\"Moving Objects to a Different Layer\">Moving Objects to a Different Layer</link></variable>"
-msgstr ""
+msgstr "<variable id=\"layer_move\"><link href=\"text/sdraw/guide/layer_move.xhp\" name=\"ការផ្លាស់ទីវត្ថុទៅស្រទាប់ផ្សេង\">ការផ្លាស់ទីវត្ថុទៅស្រទាប់ផ្សេង</link></variable>"
 
 #. GPgv9
 #: layer_move.xhp
@@ -2022,7 +2020,7 @@ msgctxt ""
 "par_idN10622\n"
 "help.text"
 msgid "Drawings in %PRODUCTNAME Draw support layers."
-msgstr ""
+msgstr "គំនូរក្នុង %PRODUCTNAME គូរស្រទាប់គាំទ្រ។"
 
 #. LugPR
 #: layer_move.xhp
@@ -2031,7 +2029,7 @@ msgctxt ""
 "par_id3148488\n"
 "help.text"
 msgid "Click and hold the object until its edges flash."
-msgstr ""
+msgstr "ចុចនិងសង្កត់វត្ថុរហូតដល់គែមរបស់វាភ្លឺ។"
 
 #. Fd8FL
 #: layer_move.xhp
@@ -2040,7 +2038,7 @@ msgctxt ""
 "par_id3145587\n"
 "help.text"
 msgid "Drag the object to the name tab of the layer you want to move it to."
-msgstr ""
+msgstr "ទាញវត្ថុទៅផ្ទាំងឈ្មោះនៃស្រទាប់ដែលអ្នកចង់ផ្លាស់ទីវាទៅ។"
 
 #. JKcGu
 #: layer_move.xhp
@@ -2049,7 +2047,7 @@ msgctxt ""
 "par_id3148868\n"
 "help.text"
 msgid "Release the object."
-msgstr ""
+msgstr "បញ្ចេញវត្ថុបំណង។"
 
 #. ueWyB
 #: layer_new.xhp
@@ -2058,7 +2056,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Inserting Layers"
-msgstr ""
+msgstr "ការបញ្ចូលស្រទាប់"
 
 #. aJEDz
 #: layer_new.xhp
@@ -2067,7 +2065,7 @@ msgctxt ""
 "bm_id3148797\n"
 "help.text"
 msgid "<bookmark_value>layers; inserting and editing</bookmark_value><bookmark_value>inserting; layers</bookmark_value><bookmark_value>changing;layer properties</bookmark_value>"
-msgstr ""
+msgstr "<bookmark_value>ស្រទាប់; បញ្ចូលនិងកែសម្រួល</bookmark_value><bookmark_value>បញ្ចូល; ស្រទាប់</bookmark_value><bookmark_value>ការផ្លាស់ប្តូរ;លក្ខណៈសម្បត្តិនៃស្រទាប់</bookmark_value>"
 
 #. RVTpB
 #: layer_new.xhp
@@ -2076,7 +2074,7 @@ msgctxt ""
 "hd_id3148797\n"
 "help.text"
 msgid "<variable id=\"layer_new\"><link href=\"text/sdraw/guide/layer_new.xhp\" name=\"Inserting Layers\">Inserting Layers</link></variable>"
-msgstr ""
+msgstr "<variable id=\"layer_new\"><link href=\"text/sdraw/guide/layer_new.xhp\" name=\"Inserting Layers\">ការបញ្ចូលស្រទាប់</link></variable>"
 
 #. q2YZP
 #: layer_new.xhp
@@ -2085,7 +2083,7 @@ msgctxt ""
 "par_idN10614\n"
 "help.text"
 msgid "Drawings in %PRODUCTNAME Draw support layers."
-msgstr ""
+msgstr "គំនូរក្នុង %PRODUCTNAME គូរស្រទាប់គាំទ្រ។"
 
 #. ekzqb
 #: layer_new.xhp
@@ -2094,7 +2092,7 @@ msgctxt ""
 "par_idN10643\n"
 "help.text"
 msgid "Right-click the layer tab area at the bottom."
-msgstr ""
+msgstr "ចុចម៉ៅស្ដាំលើផ្ទៃផ្ទាំងស្រទាប់នៅខាងក្រោម។"
 
 #. Zgqbq
 #: layer_new.xhp
@@ -2103,7 +2101,7 @@ msgctxt ""
 "par_id3153418\n"
 "help.text"
 msgid "Choose <emph>Insert Layer</emph>."
-msgstr ""
+msgstr "ជ្រើសរើស <emph> បញ្ចូលស្រទាប់ </emph> ។"
 
 #. KF4eN
 #: layer_new.xhp
@@ -2112,7 +2110,7 @@ msgctxt ""
 "par_id3155068\n"
 "help.text"
 msgid "Type a name for the layer in the <emph>Name </emph>box."
-msgstr ""
+msgstr "វាយបញ្ជូលឈ្មោះសំរាប់ស្រទាប់នៅក្នុងប្រអប់ <emph> ឈ្មោះ </emph> ។"
 
 #. XpnA9
 #: layer_new.xhp
@@ -2121,7 +2119,7 @@ msgctxt ""
 "par_id3156382\n"
 "help.text"
 msgid "In the <emph>Properties </emph>area, set the options for the layer."
-msgstr ""
+msgstr "នៅក្នុង ​<emph> លក្ខណសម្បត្តិ </emph> កំណត់ជម្រើសសម្រាប់ស្រទាប់។"
 
 #. vvWmv
 #: layer_new.xhp
@@ -2130,7 +2128,7 @@ msgctxt ""
 "par_id3153964\n"
 "help.text"
 msgid "Click <emph>OK</emph>. The new layer automatically becomes the active layer."
-msgstr ""
+msgstr "ចុច <emph> យល់ព្រម </emph> ។ ស្រទាប់ថ្មីក្លាយជាស្រទាប់សកម្ម។"
 
 #. zmf3H
 #: layer_new.xhp
@@ -2139,7 +2137,7 @@ msgctxt ""
 "par_id3154658\n"
 "help.text"
 msgid "To change the properties of a layer, click the name tab of the layer, and then choose <emph>Format - Layer</emph>."
-msgstr ""
+msgstr "ដើម្បីផ្លាស់ប្តូរលក្ខណសម្បត្តិនៃស្រទាប់ចុចលើផ្ទាំងឈ្មោះនៃស្រទាប់ហើយបន្ទាប់មកជ្រើសរើស <emph> ទ្រង់ទ្រាយ - ស្រទាប់ </emph> ។"
 
 #. pcp3u
 #: layer_new.xhp
@@ -2148,7 +2146,7 @@ msgctxt ""
 "par_id3153814\n"
 "help.text"
 msgid "You cannot change the name of or delete a predefined <item type=\"productname\">%PRODUCTNAME</item> Draw layer."
-msgstr ""
+msgstr "អ្នកមិនអាចប្តូរឈ្មោះរឺលុបឈ្មោះ  <item type=\"productname\">%PRODUCTNAME</item>  ស្រទាប់ដែលបានកំណត់ជាមុន។"
 
 #. ogEXM
 #: layer_tipps.xhp
@@ -2157,7 +2155,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Working With Layers"
-msgstr ""
+msgstr "ធ្វើការជាមួយស្រទាប់"
 
 #. XdCXD
 #: layer_tipps.xhp
@@ -2166,7 +2164,7 @@ msgctxt ""
 "bm_id3154013\n"
 "help.text"
 msgid "<bookmark_value>layers;working with</bookmark_value><bookmark_value>locking layers</bookmark_value><bookmark_value>hiding;layers</bookmark_value><bookmark_value>unlocking layers</bookmark_value><bookmark_value>showing;hidden layers</bookmark_value><bookmark_value>selecting;layers</bookmark_value>"
-msgstr ""
+msgstr "<bookmark_value>ស្រទាប់;ធ្វើការជាមួយ</bookmark_value><bookmark_value>ចាក់សោស្រទាប់</bookmark_value><bookmark_value>លាក់; ស្រទាប់</bookmark_value><bookmark_value>ដោះសោស្រទាប់</bookmark_value><bookmark_value>បង្ហាញ; ស្រទាប់ដែលលាក់</bookmark_value><bookmark_value>ការជ្រើសរើស;ស្រទាប់</bookmark_value>"
 
 #. WXmHZ
 #: layer_tipps.xhp
@@ -2175,7 +2173,7 @@ msgctxt ""
 "hd_id3154013\n"
 "help.text"
 msgid "<variable id=\"layer_tipps\"><link href=\"text/sdraw/guide/layer_tipps.xhp\" name=\"Working With Layers\">Working With Layers</link></variable>"
-msgstr ""
+msgstr "<variable id=\"layer_tipps\"><link href=\"text/sdraw/guide/layer_tipps.xhp\" name=\"Working With Layers\"> ធ្វើការជាមួយស្រទាប់ </link> </variable>"
 
 #. DG6Fg
 #: layer_tipps.xhp
@@ -2184,7 +2182,7 @@ msgctxt ""
 "par_idN10706\n"
 "help.text"
 msgid "Drawings in %PRODUCTNAME Draw support layers."
-msgstr ""
+msgstr "គំនូរក្នុង %PRODUCTNAME គូរស្រទាប់គាំទ្រ។"
 
 #. rt4CH
 #: layer_tipps.xhp
@@ -2193,7 +2191,7 @@ msgctxt ""
 "hd_id3154018\n"
 "help.text"
 msgid "Selecting a layer"
-msgstr ""
+msgstr "ការជ្រើសរើសស្រទាប់មួយ"
 
 #. ymWHd
 #: layer_tipps.xhp
@@ -2202,7 +2200,7 @@ msgctxt ""
 "par_id3154484\n"
 "help.text"
 msgid "To select a layer, click the name tab of the layer at the bottom of the workspace."
-msgstr ""
+msgstr "ដើម្បីជ្រើសរើសស្រទាប់ចុចលើផ្ទាំងឈ្មោះនៃស្រទាប់នៅខាងក្រោមកន្លែងធ្វើការ។"
 
 #. Eu6FM
 #: layer_tipps.xhp
@@ -2211,7 +2209,7 @@ msgctxt ""
 "par_idN10767\n"
 "help.text"
 msgid "To edit the properties of a layer, double-click a layer tab."
-msgstr ""
+msgstr "ដើម្បីកែសម្រួលលក្ខណសម្បត្តិនៃស្រទាប់មួយចុចទ្វេដងលើផ្ទាំងស្រទាប់។"
 
 #. gpeRK
 #: layer_tipps.xhp
@@ -2220,7 +2218,7 @@ msgctxt ""
 "hd_id3155445\n"
 "help.text"
 msgid "Hiding layers"
-msgstr ""
+msgstr "លាក់ស្រទាប់"
 
 #. 58ZDz
 #: layer_tipps.xhp
@@ -2229,7 +2227,7 @@ msgctxt ""
 "par_id3154702\n"
 "help.text"
 msgid "Select a layer, and then choose <emph>Format - Layer</emph>."
-msgstr ""
+msgstr "ជ្រើសស្រទាប់មួយហើយបន្ទាប់មកជ្រើសយក <emph> ទ្រង់ទ្រាយ - ស្រទាប់  </emph> ។"
 
 #. GExfg
 #: layer_tipps.xhp
@@ -2238,7 +2236,7 @@ msgctxt ""
 "par_id3145587\n"
 "help.text"
 msgid "In the <emph>Properties </emph>area, clear the <emph>Visible </emph>check box."
-msgstr ""
+msgstr "នៅក្នុងតំបន់ <emph> លក្ខណៈសម្បត្តិ </emph> សូមលុបប្រអប់ធីក <emph> ដែលអាចមើលឃើញ </emph> ។"
 
 #. S94G3
 #: layer_tipps.xhp
@@ -2247,7 +2245,7 @@ msgctxt ""
 "par_id3153912\n"
 "help.text"
 msgid "Click <emph>OK</emph>."
-msgstr ""
+msgstr "ចុច <emph> យល់ព្រម </emph> ។"
 
 #. SYd53
 #: layer_tipps.xhp
@@ -2256,7 +2254,7 @@ msgctxt ""
 "par_id3154762\n"
 "help.text"
 msgid "In the name tab of the layer, the text color of the name changes to blue."
-msgstr ""
+msgstr "នៅក្នុងផ្ទាំងឈ្មោះនៃស្រទាប់ពណ៌អត្ថបទនៃឈ្មោះផ្លាស់ប្តូរទៅជាពណ៌ខៀវ។"
 
 #. QE9VM
 #: layer_tipps.xhp
@@ -2265,7 +2263,7 @@ msgctxt ""
 "par_id3156396\n"
 "help.text"
 msgid "You can make a layer visible or invisible by clicking on its tab while holding down the Shift key."
-msgstr ""
+msgstr "អ្នកអាចធ្វើឱ្យស្រទាប់អាចមើលឃើញឬមើលមិនឃើញដោយចុចលើផ្ទាំងរបស់វាពេលចុចគ្រាប់ចុចប្តូរ (Shift) ។"
 
 #. oLGAc
 #: layer_tipps.xhp
@@ -2274,7 +2272,7 @@ msgctxt ""
 "hd_id3146322\n"
 "help.text"
 msgid "Showing hidden layers"
-msgstr ""
+msgstr "បង្ហាញស្រទាប់ដែលលាក់"
 
 #. gPBRz
 #: layer_tipps.xhp
@@ -2283,7 +2281,7 @@ msgctxt ""
 "par_id3157871\n"
 "help.text"
 msgid "Select a hidden layer, and then choose <emph>Format - Layer</emph>."
-msgstr ""
+msgstr "ជ្រើសរើសស្រទាប់ដែលលាក់ហើយបន្ទាប់មកជ្រើសរើស <emph> ទ្រង់ទ្រាយ - ស្រទាប់ </emph> ។"
 
 #. Hp7EC
 #: layer_tipps.xhp
@@ -2292,7 +2290,7 @@ msgctxt ""
 "par_id3149352\n"
 "help.text"
 msgid "In the <emph>Properties </emph>area, select the <emph>Visible </emph>check box."
-msgstr ""
+msgstr "នៅក្នុងតំបន់ <emph> លក្ខណៈសម្បត្តិ </emph> សូមជ្រើសរើសប្រអប់ធីក <emph> ដែលអាចមើលឃើញ </emph> ។"
 
 #. sRuDf
 #: layer_tipps.xhp
@@ -2301,7 +2299,7 @@ msgctxt ""
 "par_id3153036\n"
 "help.text"
 msgid "Click <emph>OK</emph>."
-msgstr ""
+msgstr "ចុច <emph> យល់ព្រម </emph> ។"
 
 #. eteBC
 #: layer_tipps.xhp
@@ -2310,7 +2308,7 @@ msgctxt ""
 "hd_id3154554\n"
 "help.text"
 msgid "Locking layers"
-msgstr ""
+msgstr "ចាក់សោស្រទាប់"
 
 #. ngA9B
 #: layer_tipps.xhp
@@ -2319,7 +2317,7 @@ msgctxt ""
 "par_id3150864\n"
 "help.text"
 msgid "Select a layer, and then choose <emph>Format - Layer</emph>."
-msgstr ""
+msgstr "ជ្រើសស្រទាប់មួយហើយបន្ទាប់មកជ្រើសយក <emph> ទ្រង់ទ្រាយ - ស្រទាប់ </emph> ។"
 
 #. kAd4B
 #: layer_tipps.xhp
@@ -2328,7 +2326,7 @@ msgctxt ""
 "par_id3150336\n"
 "help.text"
 msgid "In the <emph>Properties</emph> area, select the <emph>Locked </emph>check box."
-msgstr ""
+msgstr "នៅក្នុងតំបន់ <emph> លក្ខណៈសម្បត្តិ </emph> សូមជ្រើសរើសប្រអប់ធីក <emph> ជាប់សោ </emph> ។"
 
 #. VggNV
 #: layer_tipps.xhp
@@ -2337,7 +2335,7 @@ msgctxt ""
 "par_id3153730\n"
 "help.text"
 msgid "Click <emph>OK</emph>."
-msgstr ""
+msgstr "ចុច <emph> យល់ព្រម </emph> ។"
 
 #. FzHMk
 #: layer_tipps.xhp
@@ -2346,7 +2344,7 @@ msgctxt ""
 "par_id3149883\n"
 "help.text"
 msgid "You cannot edit objects on a locked layer."
-msgstr ""
+msgstr "អ្នកមិនអាចកែសម្រួលវត្ថុនៅលើស្រទាប់ចាក់សោបានទេ។"
 
 #. LQxDq
 #: layer_tipps.xhp
@@ -2355,7 +2353,7 @@ msgctxt ""
 "hd_id3145244\n"
 "help.text"
 msgid "Unlocking layers"
-msgstr ""
+msgstr "ដោះសោស្រទាប់"
 
 #. 9RDhe
 #: layer_tipps.xhp
@@ -2364,7 +2362,7 @@ msgctxt ""
 "par_id3145354\n"
 "help.text"
 msgid "Select a locked layer, and then choose <emph>Format - Layer</emph>."
-msgstr ""
+msgstr "ជ្រើសស្រទាប់ចាក់សោហើយបន្ទាប់មកជ្រើសរើស <emph> ទ្រង់ទ្រាយ - ស្រទាប់ </emph> ។"
 
 #. xzL5o
 #: layer_tipps.xhp
@@ -2373,7 +2371,7 @@ msgctxt ""
 "par_id3148393\n"
 "help.text"
 msgid "In the <emph>Properties</emph> area, clear the <emph>Locked </emph>check box."
-msgstr ""
+msgstr "នៅក្នុងតំបន់ <emph> Properties </emph> សូមលុបប្រអប់ធីក <emph> ជាប់សោ </emph> ។"
 
 #. JaFMq
 #: layer_tipps.xhp
@@ -2382,7 +2380,7 @@ msgctxt ""
 "par_id3150467\n"
 "help.text"
 msgid "Click <emph>OK</emph>."
-msgstr ""
+msgstr "ចុច <emph> យល់ព្រម </emph> ។"
 
 #. mWSnc
 #: layers.xhp
@@ -2391,7 +2389,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "About Layers"
-msgstr ""
+msgstr "អំពីស្រទាប់"
 
 #. S84VT
 #: layers.xhp
@@ -2400,7 +2398,7 @@ msgctxt ""
 "bm_id3149018\n"
 "help.text"
 msgid "<bookmark_value>layers; definition</bookmark_value>"
-msgstr ""
+msgstr "<bookmark_value>ស្រទាប់; និយមន័យ</bookmark_value>"
 
 #. BqLiz
 #: layers.xhp
@@ -2409,7 +2407,7 @@ msgctxt ""
 "hd_id3149018\n"
 "help.text"
 msgid "<variable id=\"layers\"><link href=\"text/sdraw/guide/layers.xhp\" name=\"About Layers\">About Layers</link></variable>"
-msgstr ""
+msgstr "<variable id=\"layers\"><link href=\"text/sdraw/guide/layers.xhp\" name=\"About Layers\">អំពីស្រទាប់</link></variable>"
 
 #. RPAJU
 #: layers.xhp
@@ -2418,7 +2416,7 @@ msgctxt ""
 "par_id3146313\n"
 "help.text"
 msgid "Layers allow you to assemble elements on a page that are related. Think of layers as individual workspaces that you can hide from view, hide from printing, or lock."
-msgstr ""
+msgstr "ស្រទាប់អនុញ្ញាតឱ្យអ្នកប្រមូលផ្តុំធាតុនៅលើទំព័រដែលទាក់ទង។ គិតថាស្រទាប់ជាកន្លែងធ្វើការនីមួយៗដែលអ្នកអាចលាក់ពីទិដ្ឋភាពលាក់ពីការបោះពុម្ពឬចាក់សោ។"
 
 #. 4kcNU
 #: layers.xhp
@@ -2427,7 +2425,7 @@ msgctxt ""
 "par_id7036957\n"
 "help.text"
 msgid "Layers do not determine the stacking order of objects on your page, except for the <emph>Controls</emph> layer which is always in front of other layers."
-msgstr ""
+msgstr "ស្រទាប់មិនកំណត់លំដាប់ជង់វត្ថុលើទំព័ររបស់អ្នកទេលើកលែងតែស្រទាប់បញ្ជា <emph> ត្រួតពិនិត្យ </emph> ដែលតែងតែនៅពីមុខស្រទាប់ផ្សេងទៀត។"
 
 #. kTBs7
 #: layers.xhp
@@ -2436,7 +2434,7 @@ msgctxt ""
 "par_id1614734\n"
 "help.text"
 msgid "The stacking order of objects on your page is determined by the sequence in which you add the objects. You can rearrange the stacking order by <item type=\"menuitem\">Shape - Arrange</item>."
-msgstr ""
+msgstr "លំដាប់ជង់នៃវត្ថុនៅលើទំព័ររបស់អ្នកត្រូវបានកំណត់ដោយលំដាប់ដែលអ្នកបន្ថែមវត្ថុ។ អ្នកអាចរៀបចំលំដាប់ជាជង់ដោយ  <item type=\"menuitem\"> រាង - រៀបចំ </item> ។"
 
 #. iH5qN
 #: layers.xhp
@@ -2445,7 +2443,7 @@ msgctxt ""
 "par_id398876\n"
 "help.text"
 msgid "The areas on a layer that do not contain objects are transparent."
-msgstr ""
+msgstr "តំបន់នៅលើស្រទាប់ដែលមិនមានវត្ថុមានតម្លាភាព។"
 
 #. J8FdX
 #: layers.xhp
@@ -2454,7 +2452,7 @@ msgctxt ""
 "par_id3146962\n"
 "help.text"
 msgid "$[officename] Draw provides three default layers:"
-msgstr ""
+msgstr "$ [officename] ការគូរ ផ្តល់នូវលំនាំស្រទាប់ដើមបី៖"
 
 #. 5GCok
 #: layers.xhp
@@ -2463,7 +2461,7 @@ msgctxt ""
 "par_id3153073\n"
 "help.text"
 msgid "Layout"
-msgstr ""
+msgstr "ប្លង់"
 
 #. RNyhU
 #: layers.xhp
@@ -2472,7 +2470,7 @@ msgctxt ""
 "par_id3149053\n"
 "help.text"
 msgid "Controls"
-msgstr ""
+msgstr "ការត្រួតពិនិត្យ"
 
 #. GdLDG
 #: layers.xhp
@@ -2481,7 +2479,7 @@ msgctxt ""
 "par_id3150391\n"
 "help.text"
 msgid "Dimension Lines"
-msgstr ""
+msgstr "បន្ទាត់វិមាត្រ"
 
 #. Xy8FC
 #: layers.xhp
@@ -2490,7 +2488,7 @@ msgctxt ""
 "par_id3156397\n"
 "help.text"
 msgid "You cannot delete or rename the default layers. You can add your own layers by <item type=\"menuitem\">Insert - Layer</item>."
-msgstr ""
+msgstr "អ្នកមិនអាចលុបឬប្តូរឈ្មោះស្រទាប់លំនាំដើមបានទេ។ អ្នកអាចបន្ថែមស្រទាប់ផ្ទាល់ខ្លួនរបស់អ្នកដោយ <item type=\"menuitem\">  បញ្ចូល - ស្រទាប់ </item> ។​"
 
 #. VXoqD
 #: layers.xhp
@@ -2499,7 +2497,7 @@ msgctxt ""
 "par_id3150534\n"
 "help.text"
 msgid "The <emph>Layout</emph> layer is the default workspace. The <emph>Layout</emph> layer determines the location of title, text, and object placeholders on your page."
-msgstr ""
+msgstr "ស្រទាប់ <emph> ប្លង់ </emph> គឺជាកន្លែងធ្វើការលំនាំដើម។ ស្រទាប់ <emph> ប្លង់ </emph> កំណត់ទីតាំងចំណងជើងអត្ថបទនិងកន្លែងដាក់វត្ថុនៅលើទំព័ររបស់អ្នក។​"
 
 #. rZDu2
 #: layers.xhp
@@ -2508,7 +2506,7 @@ msgctxt ""
 "par_id3150742\n"
 "help.text"
 msgid "The <emph>Controls</emph> layer can be used for buttons that have been assigned an action, but that should not be printed. Set the layer's properties to not printable. Objects on the <emph>Controls</emph> layer are always in front of objects on other layers."
-msgstr ""
+msgstr "ស្រទាប់បញ្ជា <emph> ត្រួតពិនិត្យ </emph> អាចត្រូវបានប្រើសម្រាប់ប៊ូតុងដែលត្រូវបានចាត់តាំងសកម្មភាពប៉ុន្តែមិនគួរត្រូវបានបោះពុម្ពទេ។ កំណត់លក្ខណសម្បត្តិរបស់ស្រទាប់ដើម្បីមិនអាចបោះពុម្ពបាន។ វត្ថុនៅលើស្រទាប់ <emph> វត្ថុបញ្ជា </emph> តែងតែស្ថិតនៅពីមុខវត្ថុនៅលើស្រទាប់ផ្សេងទៀត។​"
 
 #. GigUQ
 #: layers.xhp
@@ -2517,7 +2515,7 @@ msgctxt ""
 "par_id3153085\n"
 "help.text"
 msgid "The <emph>Dimension Lines</emph> layer is where you draw, for example, the dimension lines. By switching the layer to show or hide, you can easily switch these lines on and off."
-msgstr ""
+msgstr "ស្រទាប់វិមាត្រ <emph> បន្ទាត់វិមាត្រ </emph> ជាកន្លែងដែលអ្នកគូរឧទាហរណ៍បន្ទាត់វិមាត្រ។ ដោយប្តូរស្រទាប់ដើម្បីបង្ហាញឬលាក់អ្នកអាចបិទនិងបើកខ្សែទាំងនេះបានយ៉ាងងាយស្រួល។​"
 
 #. zDY7B
 #: layers.xhp
@@ -2526,7 +2524,7 @@ msgctxt ""
 "par_id3154507\n"
 "help.text"
 msgid "You can lock a layer to protect its contents, or hide a layer and its contents from view or from printing. When you add a new layer to a page, the layer is added to all of the pages in your document. However, when you add an object to a layer, it is only added to the current page. If you want the object to appear on all of the pages, add the object to the master page (<menuitem>View - Master</menuitem>)."
-msgstr ""
+msgstr "អ្នកអាចចាក់សោស្រទាប់ដើម្បីការពារមាតិការបស់វាឬលាក់ស្រទាប់និងមាតិការបស់វាពីការមើលឬពីការបោះពុម្ព។ នៅពេលអ្នកបន្ថែមស្រទាប់ថ្មីទៅទំព័រមួយស្រទាប់ត្រូវបានបន្ថែមទៅទំព័រទាំងអស់នៅក្នុងឯកសាររបស់អ្នក។ ទោះជាយ៉ាងណាក៏ដោយនៅពេលអ្នកបន្ថែមវត្ថុមួយទៅស្រទាប់វាត្រូវបានបន្ថែមទៅទំព័របច្ចុប្បន្នប៉ុណ្ណោះ។ ប្រសិនបើអ្នកចង់អោយវត្ថុបង្ហាញនៅលើទំព័រទាំងអស់សូមបន្ថែមវត្ថុនោះទៅទំព័រមេ  (<menuitem>មើល - ដើម </menuitem>)."
 
 #. r9Yst
 #: main.xhp
@@ -2535,7 +2533,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Instructions for Using $[officename] Draw"
-msgstr "សេចក្តី​ណែនាំ​ដើម្បី​ប្រើ​ $[officename] Draw"
+msgstr "សេចក្តី​ណែនាំ​ដើម្បី​ប្រើ​ $[officename] ការគូរ"
 
 #. aTz4K
 #: main.xhp
@@ -2544,7 +2542,7 @@ msgctxt ""
 "bm_id3146119\n"
 "help.text"
 msgid "<bookmark_value>Draw instructions</bookmark_value><bookmark_value>instructions; $[officename] Draw</bookmark_value><bookmark_value>Howtos for Draw</bookmark_value>"
-msgstr "<bookmark_value>សេចក្ដី​ណែនាំ Draw</bookmark_value><bookmark_value>សេចក្ដី​ណែនាំ; $[officename] Draw</bookmark_value><bookmark_value>របៀប​សម្រាប់ Draw</bookmark_value>"
+msgstr "<bookmark_value>សេចក្ដី​ណែនាំ Draw</bookmark_value><bookmark_value>សេចក្ដី​ណែនាំ; $[officename] Draw</bookmark_value><bookmark_value>របៀប​សម្រាប់ គូរ</bookmark_value>"
 
 #. N3B9G
 #: main.xhp
@@ -2679,7 +2677,7 @@ msgctxt ""
 "par_id0930200803002463\n"
 "help.text"
 msgid "Right-click the object to open the context menu. Choose <menuitem>Position and Size - Rotation</menuitem> to enter an exact rotation value."
-msgstr ""
+msgstr "ចុចម៉ៅស្ដាំលើវត្ថុដើម្បីបើកម៉ឺនុយបរិបទ។ ជ្រើសរើស <menuitem> ទីតាំងនិងទំហំ - ការបង្វិលបង្វិល </menuitem> ដើម្បីបញ្ចូលតម្លៃបង្វិលជាក់លាក់។"
 
 #. G5NAB
 #: rotate_object.xhp
@@ -2724,7 +2722,7 @@ msgctxt ""
 "bm_id3153144\n"
 "help.text"
 msgid "<bookmark_value>text box</bookmark_value><bookmark_value>inserting;text box</bookmark_value><bookmark_value>copying;text from other documents</bookmark_value><bookmark_value>pasting;text from other documents</bookmark_value><bookmark_value>legends; drawings</bookmark_value>"
-msgstr ""
+msgstr "<bookmark_value>ប្រអប់អត្ថបទ</bookmark_value><bookmark_value>បញ្ចូល; ប្រអប់អត្ថបទ</bookmark_value><bookmark_value>=កំពុងចម្លង;អត្ថបទពីឯកសារផ្សេងទៀត</bookmark_value><bookmark_value>បិទភ្ជាប់;អត្ថបទពីឯកសារផ្សេងទៀត</bookmark_value><bookmark_value>legends; drawings</bookmark_value>"
 
 #. JnXwh
 #: text_enter.xhp
@@ -2805,7 +2803,7 @@ msgctxt ""
 "par_id3155266\n"
 "help.text"
 msgid "Click the <emph>Text</emph> icon<image id=\"img_id3156450\" src=\"cmd/sc_text.png\" width=\"0.1665in\" height=\"0.1665in\"><alt id=\"alt_id3156450\">Icon</alt></image> and move the mouse pointer to where you want to enter the text box."
-msgstr ""
+msgstr "ចុចលើប៊ូតុង <emph>អត្ថបទ</emph> រូបតំណាង <image id=\"img_id3156450\" src=\"cmd/sc_text.png\" width=\"0.1665in\" height=\"0.1665in\"><alt id=\"alt_id3156450\">រូបតំណាង</alt></image>ហើយផ្លាស់ទីព្រួញកណ្តុរទៅកន្លែងដែលអ្នកចង់បញ្ចូលប្រអប់អត្ថបទ។"
 
 #. dLN6f
 #: text_enter.xhp

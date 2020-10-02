@@ -1,55 +1,54 @@
-#. extracted from wizards/com/sun/star/wizards/common
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
-"POT-Creation-Date: 2019-04-24 18:26+0200\n"
-"PO-Revision-Date: 2018-01-15 20:25+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2020-03-10 13:36+0100\n"
+"PO-Revision-Date: 2020-09-08 11:30+0700\n"
+"Last-Translator: Koompi Apps Localization\n"
 "Language: km\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Accelerator-Marker: ~\n"
-"X-Generator: LibreOffice\n"
-"X-POOTLE-MTIME: 1516047940.000000\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-POOTLE-MTIME: 1535975854.000000\n"
+"Language-Team: KOOMPI Apps Localization\n"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:32
 msgctxt "RID_COMMON_START_0"
 msgid "The directory '%1' could not be created.<BR>There may not be enough space left on your hard disk."
-msgstr "មិន​​អាច​​បង្កើត​​ថត '%1' ។​​<BR>​​​​​ប្រហែល​ជា​ទំហំ​ថាស​រឹង​របស់​អ្នក​ មិន​មាន​សល់​គ្រប់គ្រាន់ ។"
+msgstr "មិន​​អាច​​បង្កើត​​ថត '%1' ។​​<BR>​​​​​ប្រហែល​ជា​មិនមានទំហំ​គ្រប់គ្រាន់សម្រាប់ ថាសរឹង របស់អ្នក។"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:33
 msgctxt "RID_COMMON_START_1"
 msgid "The text document could not be created.<BR>Please check if the module 'PRODUCTNAME Writer' is installed."
-msgstr "មិន​អាច​បង្កើត​ឯកសារ​អត្ថបទ​បាន​ទេ ។<BR>សូម​ពិនិត្យ​មើល​បើ​ម៉ូឌុល 'PRODUCTNAME Writer' ត្រូវ​បាន​ដំឡើង ។"
+msgstr "មិន​អាច​បង្កើត​ឯកសារ​អត្ថបទ​បាន​ទេ ។<BR>សូម​ពិនិត្យ​មើល​បើ​ម៉ូឌុល 'PRODUCTNAME Writer' ដែល​បាន​ដំឡើង ។"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:34
 msgctxt "RID_COMMON_START_2"
 msgid "The spreadsheet could not be created.<BR>Please check if the module 'PRODUCTNAME Calc' is installed."
-msgstr "មិន​អាច​បង្កើត​សៀវភៅ​បញ្ជី​បាន​ទេ ។<BR>សូម​ពិនិត្យ​មើល​បើ​ម៉ូឌុល 'PRODUCTNAME Calc' ត្រូវ​បាន​ដំឡើង ។"
+msgstr "មិន​អាច​បង្កើត​សៀវភៅ​បញ្ជី​បាន​ទេ ។<BR>សូម​ពិនិត្យ​មើល​បើ​ម៉ូឌុល 'PRODUCTNAME Calc' ដែល​បាន​ដំឡើង ។"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:35
 msgctxt "RID_COMMON_START_3"
 msgid "The presentation could not be created.<BR>Please check if the module 'PRODUCTNAME Impress' is installed."
-msgstr "មិន​អាច​បង្កើត​ការ​បង្ហាញ​បាន​ទេ ។<BR>សូម​ពិនិត្យ​មើល​បើ​ម៉ូឌុល 'PRODUCTNAME Impress' ត្រូវ​បាន​ដំឡើង ។"
+msgstr "មិន​អាច​បង្កើត​ការ​បង្ហាញ​បាន​ទេ ។<BR>សូម​ពិនិត្យ​មើល​បើ​ម៉ូឌុល 'PRODUCTNAME Impress' ដែល​បាន​​ដំឡើង ។"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:36
 msgctxt "RID_COMMON_START_4"
 msgid "The drawing could not be created.<BR>Please check if the module 'PRODUCTNAME Draw' is installed."
-msgstr "មិន​អាច​បង្កើត​គំនូរ​បាន​ទេ ។<BR>សូម​ពិនិត្យ​មើល​បើ​ម៉ូឌុល 'PRODUCTNAME Draw' ត្រូវ​បាន​ដំឡើង ។"
+msgstr "មិន​អាច​បង្កើត​ការគូរ​បាន​ទេ ។<BR>សូម​ពិនិត្យ​មើល​បើ​ម៉ូឌុល 'PRODUCTNAME Draw' ដែល​បាន​ដំឡើង ។"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:37
 msgctxt "RID_COMMON_START_5"
 msgid "The formula could not be created.<BR>Please check if the module 'PRODUCTNAME Math' is installed."
-msgstr "មិន​អាច​បង្កើត​រូបមន្ត​បាន​ទេ ។<BR>សូម​ពិនិត្យ​មើល​បើ​ម៉ូឌុល 'PRODUCTNAME Math' ត្រូវ​បាន​ដំឡើង ។"
+msgstr "មិន​អាច​បង្កើត​រូបមន្ត​បាន​ទេ ។<BR>សូម​ពិនិត្យ​មើល​បើ​ម៉ូឌុល 'PRODUCTNAME Math' ដែលបានដំឡើង ។"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:38
 msgctxt "RID_COMMON_START_6"
 msgid "The files required could not be found.<BR>Please start the %PRODUCTNAME Setup and choose 'Repair'."
-msgstr "មិន​​អាច​​រកឃើញ​​ឯកសារ​​ដែល​​ទាមទារ ។ ​<BR>​សូម​​ចាប់ផ្តើម '​​​ដំឡើង %PRODUCTNAME' និង​​ជ្រើស​ 'ជួសជុល' ។"
+msgstr "រកមិនឃើញ​​ឯកសារ​​ដែល​​ទាមទារ ។ ​<BR>​សូម​​ចាប់ផ្តើម '​​​ដំឡើង %PRODUCTNAME' និង​​ជ្រើស​ 'ជួសជុល' ។"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:39
 msgctxt "RID_COMMON_START_7"
@@ -64,7 +63,7 @@ msgstr "បាទ"
 #: wizards/com/sun/star/wizards/common/strings.hrc:41
 msgctxt "RID_COMMON_START_9"
 msgid "Yes to All"
-msgstr "បាទ ទាំងអស់"
+msgstr "បានទាំងអស់"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:42
 msgctxt "RID_COMMON_START_10"
@@ -79,12 +78,12 @@ msgstr "បោះបង់"
 #: wizards/com/sun/star/wizards/common/strings.hrc:44
 msgctxt "RID_COMMON_START_12"
 msgid "~Finish"
-msgstr "បញ្ចប់ "
+msgstr "បញ្ចប់"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:45
 msgctxt "RID_COMMON_START_13"
 msgid "< ~Back"
-msgstr "< ថយក្រោយ "
+msgstr "< ថយក្រោយ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:46
 msgctxt "RID_COMMON_START_14"
@@ -92,10 +91,9 @@ msgid "~Next >"
 msgstr "បន្ទាប់ >"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:47
-#, fuzzy
 msgctxt "RID_COMMON_START_15"
 msgid "~Help"
-msgstr "ជំនួយ "
+msgstr "ជំនួយ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:48
 msgctxt "RID_COMMON_START_16"
@@ -115,7 +113,7 @@ msgstr "យល់​​ព្រម​"
 #: wizards/com/sun/star/wizards/common/strings.hrc:51
 msgctxt "RID_COMMON_START_19"
 msgid "The file already exists. Do you want to overwrite it?"
-msgstr "ឯកសារ​មាន​រួច​ហើយ ។ តើ​អ្នក​ចង់​សរសេរ​ជាន់​លើ​វា​ឬ ?"
+msgstr "ឯកសារ​មាន​រួច​ហើយ ។ តើ​អ្នក​ចង់​សរសេរ​ជាន់​លើ​វា​ដែរឬទេ ?"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:52
 msgctxt "RID_COMMON_START_20"
@@ -129,184 +127,184 @@ msgid ""
 "Under 'Tools - Options - %PRODUCTNAME - Paths' click the 'Default' button to reset the paths to the original default settings.\n"
 "Then run the wizard again."
 msgstr ""
-"មិន​អាច​រត់​អ្នកជំនួយការ ពីព្រោះ​ឯកសារ​សំខាន់ មិនត្រូវ​បាន​រកឃើញ ។\n"
-"ក្រោម 'ឧបករណ៍-ជម្រើស- %PRODUCTNAME - ផ្លូវ' ចុចប៊ូតុង 'លំនាំដើម' ដើម្បី​កំណត់​ផ្លូវ​ទៅ​ការ​កំណត់​លំនាំដើម​ឡើង​វិញ ។\n"
-"បន្ទាប់​មក​រត់​អ្នក​ជំនួយការ​ម្តងទៀត ។"
+"ជំនួយការមិនអាចដំណើរការបានទេ ពីព្រោះ​គ្មានឯកសារ​សំខាន់ ។\n"
+"ក្រោម 'ឧបករណ៍-ជម្រើស- %PRODUCTNAME - ផ្លូវ' ចុចប៊ូតុង 'លំនាំដើម' ដើម្បី​កំណត់​ទៅកាន់​ការ​កំណត់​ដើម​ឡើង​វិញ ។\n"
+"បន្ទាប់​មក​​ ជំនួយការ​ឲ្យដំណើរការម្តងទៀត ។"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:56
 msgctxt "RID_LETTERWIZARDDIALOG_START_1"
 msgid "Letter Wizard"
-msgstr "អ្នក​ជំនួយការ សំបុត្រ"
+msgstr "ជំនួយការ សំបុត្រ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:57
 msgctxt "RID_LETTERWIZARDDIALOG_START_2"
 msgid "Label9"
-msgstr "ស្លាក ​៩"
+msgstr "ស្រទាប់ទី៩"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:58
 msgctxt "RID_LETTERWIZARDDIALOG_START_3"
 msgid "~Business Letter"
-msgstr ""
+msgstr "សំបុត្របែបជំនួយ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:59
 msgctxt "RID_LETTERWIZARDDIALOG_START_4"
 msgid "~Formal Personal Letter"
-msgstr ""
+msgstr "សំបុត្រផ្ទាល់ខ្លួនបែបស្តង់ដារ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:60
 msgctxt "RID_LETTERWIZARDDIALOG_START_5"
 msgid "~Personal Letter"
-msgstr ""
+msgstr "សំបុត្រផ្ទាល់ខ្លួន"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:61
 msgctxt "RID_LETTERWIZARDDIALOG_START_6"
 msgid "~Use letterhead paper with pre-printed elements"
-msgstr "ប្រើ​ក្រដាស​ក្បាល​លិខិត​ជាមួយ​ធាតុ​ដែល​បាន​បោះ​ពុម្ព​ជា​មុន"
+msgstr "ការប្រើ​លិខិត​ជាមួយ​ធាតុ​ដែល​បាន​បោះ​ពុម្ព​ជា​មុន"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:62
 msgctxt "RID_LETTERWIZARDDIALOG_START_7"
 msgid "~Logo"
-msgstr "រូប​សញ្ញា "
+msgstr "រូប​សញ្ញា"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:63
 msgctxt "RID_LETTERWIZARDDIALOG_START_8"
 msgid "Return address"
-msgstr "អាសយដ្ឋាន​ត្រឡប់"
+msgstr "អាស័យដ្ឋាន​"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:64
 msgctxt "RID_LETTERWIZARDDIALOG_START_9"
 msgid "~Include footer"
-msgstr "រួម​បញ្ចូល​បាតកថា "
+msgstr "រួម​បញ្ចូល​បាតកថា"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:65
 msgctxt "RID_LETTERWIZARDDIALOG_START_10"
 msgid "~Return address in envelope window"
-msgstr "អាសយដ្ឋាន​ត្រឡប់ ក្នុង​បង្អួច​ស្រោម​សំបុត្រ "
+msgstr "អាស័យដ្ឋាន​ត្រឡប់ តាម​ស្រោម​សំបុត្រ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:66
 msgctxt "RID_LETTERWIZARDDIALOG_START_11"
 msgid "~Logo"
-msgstr "រូប​សញ្ញា "
+msgstr "រូប​សញ្ញា"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:67
 msgctxt "RID_LETTERWIZARDDIALOG_START_12"
 msgid "~Return address in envelope window"
-msgstr "អាសយដ្ឋាន​ត្រឡប់ ក្នុង​បង្អួច​ស្រោម​សំបុត្រ "
+msgstr "អាសយដ្ឋាន​ត្រឡប់ តាមស្រោម​សំបុត្រ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:68
 msgctxt "RID_LETTERWIZARDDIALOG_START_13"
 msgid "Letter signs"
-msgstr ""
+msgstr "ការចុះហត្ថលេខាសំបុត្រ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:69
 msgctxt "RID_LETTERWIZARDDIALOG_START_14"
 msgid "S~ubject line"
-msgstr "បន្ទាត់​ប្រធានបទ "
+msgstr "បន្ទាត់​ប្រធានបទ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:70
 msgctxt "RID_LETTERWIZARDDIALOG_START_15"
 msgid "Salu~tation"
-msgstr "វន្ទនាការ "
+msgstr "វន្ទនាការ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:71
 msgctxt "RID_LETTERWIZARDDIALOG_START_16"
 msgid "Fold ~marks"
-msgstr "ចំណុច​របត់ "
+msgstr "ចំណុច​របត់"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:72
 msgctxt "RID_LETTERWIZARDDIALOG_START_17"
 msgid "~Complimentary close"
-msgstr "បញ្ចប់​ដោយ​ការ​គួរ​សម​ "
+msgstr "បញ្ចប់​ដោយ​ការ​គួរ​សម​"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:73
 msgctxt "RID_LETTERWIZARDDIALOG_START_18"
 msgid "~Footer"
-msgstr "បាតកថា "
+msgstr "បាតកថា"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:74
 msgctxt "RID_LETTERWIZARDDIALOG_START_19"
 msgid "~Use user data for return address"
-msgstr "ប្រើ​ទិន្នន័យ​អ្នក​ប្រើ សម្រាប់​អាសយដ្ឋាន​ត្រឡប់ "
+msgstr "ប្រើ​ទិន្នន័យ​អ្នក​ប្រើ សម្រាប់​អាស័យដ្ឋាន​ផ្ញើរត្រឡប់"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:75
 msgctxt "RID_LETTERWIZARDDIALOG_START_20"
 msgid "~New sender address:"
-msgstr "អាសយដ្ឋាន​អ្នក​ផ្ញើ​ថ្មី ៖ "
+msgstr "អាស័យដ្ឋាន​អ្នក​ផ្ញើ​ថ្មី ៖"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:76
 msgctxt "RID_LETTERWIZARDDIALOG_START_21"
 msgid "Use placeholders for ~recipient's address"
-msgstr "ប្រើ​កន្លែង​ដាក់ សម្រាប់​អាសយដ្ឋាន​អ្នក​ទទួល "
+msgstr "ប្រើ​កន្លែង​ផ្ទុក សម្រាប់​អាស័យដ្ឋាន​អ្នក​ទទួល"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:77
 msgctxt "RID_LETTERWIZARDDIALOG_START_22"
 msgid "Use address database for ~mail merge"
-msgstr "ប្រើ​មូលដ្ឋាន​ទិន្នន័យ​អាសយដ្ឋាន សម្រាប់​សំបុត្រ​សំណុំ​បែបបទ "
+msgstr "ប្រើ​មូលដ្ឋាន​ទិន្នន័យ​អាស័យដ្ឋាន សម្រាប់​សំបុត្រ​សំណុំ​បែបបទ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:78
 msgctxt "RID_LETTERWIZARDDIALOG_START_23"
 msgid "Include ~only on second and following pages"
-msgstr "រួម​បញ្ចូល​តែ​លើ​ទំព័រ​ទី​ពីរ និង​ទំព័រ​ខាង​ក្រោម "
+msgstr "រួម​បញ្ចូល​តែ​លើ​ទំព័រ​ទី​ពីរ និង​ទំព័រ​ខាង​ក្រោម"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:79
 msgctxt "RID_LETTERWIZARDDIALOG_START_24"
 msgid "~Include page number"
-msgstr "រួម​បញ្ចូល​លេខ​ទំព័រ "
+msgstr "រួម​បញ្ចូល​លេខ​ទំព័រ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:80
 msgctxt "RID_LETTERWIZARDDIALOG_START_25"
 msgid "Letter Template"
-msgstr "ពុម្ព​សំបុត្រ"
+msgstr "ពុម្ព​សំបុត្រគំរូ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:81
 msgctxt "RID_LETTERWIZARDDIALOG_START_26"
 msgid "Create a ~letter from this template"
-msgstr "បង្កើត​សំបុត្រ​មួយ​ពី​ពុម្ព​នេះ "
+msgstr "បង្កើត​សំបុត្រ​មួយ​ពី​ពុម្ព​នេះ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:82
 msgctxt "RID_LETTERWIZARDDIALOG_START_27"
 msgid "Make ~manual changes to this letter template"
-msgstr "ធ្វើ​​ការ​ផ្លាស់ប្តូរ​ដោយ​ដៃ ចំពោះ​​ពុម្ព​សំបុត្រ​នេះ "
+msgstr "ធ្វើ​​ការ​ផ្លាស់ប្តូរ​ដោយ​ដៃ ចំពោះ​​ពុម្ព​សំបុត្រ​នេះ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:83
 msgctxt "RID_LETTERWIZARDDIALOG_START_28"
 msgid "Page design"
-msgstr "រចនា​ទំព័រ"
+msgstr "ការរចនាទំព័រ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:84
 msgctxt "RID_LETTERWIZARDDIALOG_START_29"
 msgid "Page design"
-msgstr "រចនា​ទំព័រ"
+msgstr "ការរចនាទំព័រ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:85
 msgctxt "RID_LETTERWIZARDDIALOG_START_30"
 msgid "Page design"
-msgstr "រចនា​ទំព័រ"
+msgstr "ការរចនាទំព័រ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:86
 msgctxt "RID_LETTERWIZARDDIALOG_START_31"
 msgid "This wizard helps you to create a letter template. You can then use the template as the basis for writing letters as often as desired."
-msgstr "អ្នក​ជំនួយការ​នេះ ជួយ​អ្នក​​បង្កើត​ពុម្ព​សំបុត្រ​មួយ ។ បន្ទាប់​មក អ្នក​អាច​ប្រើ​ពុម្ព​ជា​មូលដ្ឋាន​សម្រាប់​សរសេរ​សំបុត្រ តាម​ដែល​អ្នក​ចង់​បាន ។"
+msgstr "​ជំនួយការ​នេះជាអ្នកជួយ​ អ្នក​​បង្កើត​ពុម្ព​សំបុត្រ​មួយ ។ បន្ទាប់​មក អ្នក​អាច​ប្រើ​ពុម្ព​ជាមួយការ​សរសេរ​សំបុត្រមូលដ្ឋាន​ តាម​ដែល​អ្នក​ចង់​បាន ។"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:87
 msgctxt "RID_LETTERWIZARDDIALOG_START_32"
 msgid "~Height:"
-msgstr "កម្ពស់ ៖ "
+msgstr "កម្ពស់ ៖"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:88
 msgctxt "RID_LETTERWIZARDDIALOG_START_33"
 msgid "~Width:"
-msgstr "ទទឹង ៖ "
+msgstr "ទទឹង ៖"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:89
 msgctxt "RID_LETTERWIZARDDIALOG_START_34"
 msgid "S~pacing to left margin:"
-msgstr "គម្លាត​ទៅ​រឹម​ឆ្វេង ៖ "
+msgstr "គម្លាត​ទៅ​រឹម​ឆ្វេង ៖"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:90
 msgctxt "RID_LETTERWIZARDDIALOG_START_35"
 msgid "Spacing ~to top margin:"
-msgstr "គម្លាត​ទៅ​រឹមកំពូល ៖ "
+msgstr "គម្លាត​ទៅ​រឹមកំពូល ៖"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:91
 msgctxt "RID_LETTERWIZARDDIALOG_START_36"
@@ -321,12 +319,12 @@ msgstr "ទទឹង ៖"
 #: wizards/com/sun/star/wizards/common/strings.hrc:93
 msgctxt "RID_LETTERWIZARDDIALOG_START_38"
 msgid "S~pacing to left margin:"
-msgstr "គម្លាត​ទៅ​រឹម​ឆ្វេង ៖ "
+msgstr "គម្លាត​ទៅ​រឹម​ឆ្វេង ៖"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:94
 msgctxt "RID_LETTERWIZARDDIALOG_START_39"
 msgid "Spacing ~to top margin:"
-msgstr "គម្លាត​ទៅ​រឹមកំពូល ៖ "
+msgstr "គម្លាត​ទៅ​រឹមកំពូល ៖"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:95
 msgctxt "RID_LETTERWIZARDDIALOG_START_40"
@@ -336,7 +334,7 @@ msgstr "កម្ពស់ ៖"
 #: wizards/com/sun/star/wizards/common/strings.hrc:96
 msgctxt "RID_LETTERWIZARDDIALOG_START_42"
 msgid "Sender's address"
-msgstr "អាសយដ្ឋាន​អ្នក​ផ្ញើ"
+msgstr "អាស័យដ្ឋាន​អ្នក​ផ្ញើ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:97
 msgctxt "RID_LETTERWIZARDDIALOG_START_43"
@@ -356,7 +354,7 @@ msgstr "លេខ​តំបន់​/​រដ្ឋ​/​រាជធាន�
 #: wizards/com/sun/star/wizards/common/strings.hrc:100
 msgctxt "RID_LETTERWIZARDDIALOG_START_46"
 msgid "Recipient's address"
-msgstr "អាសយដ្ឋាន​អ្នក​ទទួល"
+msgstr "អាស័យដ្ឋាន​អ្នក​ទទួល"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:101
 msgctxt "RID_LETTERWIZARDDIALOG_START_47"
@@ -366,17 +364,17 @@ msgstr "បាតកថា​"
 #: wizards/com/sun/star/wizards/common/strings.hrc:102
 msgctxt "RID_LETTERWIZARDDIALOG_START_48"
 msgid "This wizard creates a letter template which enables you to create multiple letters with the same layout and settings."
-msgstr "អ្នក​ជំនួយការ​នេះ បង្កើត​ពុម្ព​សំបុត្រ​មួយ ដែល​អាច​ឲ្យ​អ្នក​បង្កើត​សំបុត្រ​ច្រើន​ ជាមួយការ​កំណត់ និង​ប្លង់​ដូចគ្នា ។"
+msgstr "ជំនួយការ​នេះជាអ្នកបង្កើត​ពុម្ពគំរូ​សំបុត្រ​មួយ ដែល​អាច​ឲ្យ​អ្នក​បង្កើត​សំបុត្រ​ច្រើន​ ជាមួយការ​កំណត់ និង​ប្លង់​ដូចគ្នា ។"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:103
 msgctxt "RID_LETTERWIZARDDIALOG_START_49"
 msgid "To create another new letter out of the template just navigate to the template location and double-click it."
-msgstr "ដើម្បី​បង្កើត​សំបុត្រ​ថ្មី​ផ្សេង​​ចេញ​ពី​ពុម្ព  គ្រាន់​តែ​ស្វែងរក​ផ្លូវ​ទៅ​កាន់​ទីតាំង​ពុម្ព រួច​ចុច​ពីរ​​ដង​លើ​វា ។"
+msgstr "ដើម្បី​បង្កើត​សំបុត្រ​ថ្មី​ផ្សេង​​ចេញ​ពី​ពុម្ព  អ្នកគ្រាន់​តែ​ទៅ​កាន់​ទីតាំង​ពុម្ព រួច​ចុច​ពីរ​​ដង​លើ​វា ។"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:104
 msgctxt "RID_LETTERWIZARDDIALOG_START_50"
 msgid "Template name:"
-msgstr "ឈ្មោះ​ពុម្ព ៖"
+msgstr "ឈ្មោះ​ពុម្ពគំរូ៖"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:105
 msgctxt "RID_LETTERWIZARDDIALOG_START_51"
@@ -391,7 +389,7 @@ msgstr "តើ​អ្នក​ចង់​ដំណើរការ​​តា
 #: wizards/com/sun/star/wizards/common/strings.hrc:107
 msgctxt "RID_LETTERWIZARDDIALOG_START_53"
 msgid "Please choose the type of letter and page design"
-msgstr "សូម​ជ្រើស​ប្រភេទ​រចនា​សំបុត្រ និង​ទំព័រ ?"
+msgstr "សូម​ជ្រើស​ប្រភេទ​រចនា​នៃសំបុត្រ និង​ទំព័រ ?"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:108
 msgctxt "RID_LETTERWIZARDDIALOG_START_54"
@@ -401,7 +399,7 @@ msgstr "ជ្រើស​ធាតុ​ដែល​​ត្រូវ​បោ
 #: wizards/com/sun/star/wizards/common/strings.hrc:109
 msgctxt "RID_LETTERWIZARDDIALOG_START_55"
 msgid "Specify items already on your letterhead paper"
-msgstr "បញ្ជាក់​ធាតុ​ដែល​មាន​រួច​ហើយ​ លើ​ក្រដាស​ក្បាល​លិខិត​របស់​អ្នក"
+msgstr "បញ្ជាក់​ធាតុ​ដែល​មាន​រួច​ហើយ​ លើ​លិខិត​របស់​អ្នក"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:110
 msgctxt "RID_LETTERWIZARDDIALOG_START_56"
@@ -411,7 +409,7 @@ msgstr "បញ្ជាក់​​លម្អិត​អំពី​ព័ត
 #: wizards/com/sun/star/wizards/common/strings.hrc:111
 msgctxt "RID_LETTERWIZARDDIALOG_START_57"
 msgid "Fill in the information you would like in the footer"
-msgstr "បំពេញ​ព័ត៌មាន​ដែល​អ្នក​ចង់​មាន​ក្នុង​បាតកថា"
+msgstr "បំពេញ​ព័ត៌មាន​ដែល​អ្នក​ចង់​បាន​ក្នុង​បាតកថា"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:112
 msgctxt "RID_LETTERWIZARDDIALOG_START_58"
@@ -441,7 +439,7 @@ msgstr "ការិយាល័យ"
 #: wizards/com/sun/star/wizards/common/strings.hrc:117
 msgctxt "RID_LETTERWIZARDDIALOG_START_63"
 msgid "Bottle"
-msgstr "តូច"
+msgstr "ដប"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:118
 msgctxt "RID_LETTERWIZARDDIALOG_START_64"
@@ -456,7 +454,7 @@ msgstr "តាមនាវា"
 #: wizards/com/sun/star/wizards/common/strings.hrc:120
 msgctxt "RID_LETTERWIZARDDIALOG_START_66"
 msgid "Red Line"
-msgstr "បន្ទាត់​ក្រុម"
+msgstr "បន្ទាត់​ក្រហម"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:123
 msgctxt "RID_LETTERWIZARDSALUTATION_START_1"
@@ -491,22 +489,22 @@ msgstr "អបអរ​សាទរ"
 #: wizards/com/sun/star/wizards/common/strings.hrc:133
 msgctxt "RID_LETTERWIZARDROADMAP_START_1"
 msgid "Page Design"
-msgstr ""
+msgstr "ការរចនាទំព័រ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:134
 msgctxt "RID_LETTERWIZARDROADMAP_START_2"
 msgid "Letterhead Layout"
-msgstr ""
+msgstr "ប្លង់ ក្បាលសំបុត្រ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:135
 msgctxt "RID_LETTERWIZARDROADMAP_START_3"
 msgid "Printed Items"
-msgstr ""
+msgstr "បោះពុម្ពធាតុ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:136
 msgctxt "RID_LETTERWIZARDROADMAP_START_4"
 msgid "Recipient and Sender"
-msgstr ""
+msgstr "អ្នកទទួល និងអ្នកផ្ញើរ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:137
 msgctxt "RID_LETTERWIZARDROADMAP_START_5"
@@ -516,62 +514,62 @@ msgstr "បាតកថា​"
 #: wizards/com/sun/star/wizards/common/strings.hrc:138
 msgctxt "RID_LETTERWIZARDROADMAP_START_6"
 msgid "Name and Location"
-msgstr ""
+msgstr "ឈ្មោះ និងទីតាំង"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:141
 msgctxt "RID_FAXWIZARDDIALOG_START_1"
 msgid "Fax Wizard"
-msgstr "អ្នក​ជំនួយការ ទូរសារ"
+msgstr "ជំនួយការ ទូរសារ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:142
 msgctxt "RID_FAXWIZARDDIALOG_START_2"
 msgid "Label9"
-msgstr "ស្លាក ​៩"
+msgstr "ស្រទាប់ទី៩"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:143
 msgctxt "RID_FAXWIZARDDIALOG_START_3"
 msgid "~Business Fax"
-msgstr "ទូរសារ​ពាណិជ្ជកម្ម "
+msgstr "ទូរសារ​ពាណិជ្ជកម្ម"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:144
 msgctxt "RID_FAXWIZARDDIALOG_START_4"
 msgid "~Personal Fax"
-msgstr "ទូរសារ​ផ្ទាល់​ខ្លួន "
+msgstr "ទូរសារ​ផ្ទាល់​ខ្លួន"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:145
 msgctxt "RID_FAXWIZARDDIALOG_START_5"
 msgid "~Logo"
-msgstr "រូប​សញ្ញា "
+msgstr "រូប​សញ្ញា"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:146
 msgctxt "RID_FAXWIZARDDIALOG_START_6"
 msgid "S~ubject line"
-msgstr "បន្ទាត់​ប្រធានបទ "
+msgstr "បន្ទាត់​ប្រធានបទ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:147
 msgctxt "RID_FAXWIZARDDIALOG_START_7"
 msgid "S~alutation"
-msgstr "វន្ទនាការ "
+msgstr "វន្ទនាការ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:148
 msgctxt "RID_FAXWIZARDDIALOG_START_8"
 msgid "~Complimentary close"
-msgstr "បញ្ចប់​ដោយ​ការ​គួរ​សម​ "
+msgstr "បញ្ចប់​ដោយ​ការ​គួរ​សម​"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:149
 msgctxt "RID_FAXWIZARDDIALOG_START_9"
 msgid "~Footer"
-msgstr "បាតកថា "
+msgstr "បាតកថា"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:150
 msgctxt "RID_FAXWIZARDDIALOG_START_10"
 msgid "~Use user data for return address"
-msgstr "ប្រើ​ទិន្នន័យ​អ្នក​ប្រើ សម្រាប់​អាសយដ្ឋាន​ត្រឡប់ "
+msgstr "ប្រើ​ទិន្នន័យ​អ្នក​ប្រើប្រាស់ សម្រាប់​អាស័យដ្ឋានផ្ញើរ​ត្រឡប់"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:151
 msgctxt "RID_FAXWIZARDDIALOG_START_11"
 msgid "~New return address"
-msgstr "អាសយដ្ឋាន​ត្រឡប់​ថ្មី "
+msgstr "អាស័យដ្ឋាន​​ថ្មី"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:152
 msgctxt "RID_FAXWIZARDDIALOG_START_12"
@@ -581,32 +579,32 @@ msgstr "ពុម្ព​ទូរសារ​របស់​ខ្ញុំ"
 #: wizards/com/sun/star/wizards/common/strings.hrc:153
 msgctxt "RID_FAXWIZARDDIALOG_START_13"
 msgid "Create a ~fax from this template"
-msgstr "បង្កើត​ទូរសារ​មួយ​ពី​ពុម្ព​នេះ "
+msgstr "បង្កើត​ទូរសារ​មួយ​ពី​ពុម្ព​នេះ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:154
 msgctxt "RID_FAXWIZARDDIALOG_START_14"
 msgid "Make ~manual changes to this fax template"
-msgstr "ធ្វើ​ការ​ផ្លាស់ប្តូរ​ដោយ​ដៃ ទៅ​ពុម្ព​ទូរសារ​នេះ "
+msgstr "ធ្វើ​ការ​ផ្លាស់ប្តូរ​ដោយ​ដៃ ទៅ​ពុម្ព​ទូរសារ​នេះ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:155
 msgctxt "RID_FAXWIZARDDIALOG_START_15"
 msgid "Page design"
-msgstr "រចនា​ទំព័រ"
+msgstr "ការរចនាទំព័រ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:156
 msgctxt "RID_FAXWIZARDDIALOG_START_16"
 msgid "Page design"
-msgstr "រចនា​ទំព័រ"
+msgstr "ការរចនា​ទំព័រ៖"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:157
 msgctxt "RID_FAXWIZARDDIALOG_START_17"
 msgid "This wizard helps you to create a fax template. The template can then be used to create a fax whenever needed."
-msgstr "អ្នក​ជំនួយការ​នេះ​ជួយ​អ្នក ដើម្បី​បង្កើត​ពុម្ព​ទូរសារ​មួយ ។ បន្ទាប់​មក​ពុម្ព​អាច​ត្រូវ​បាន​ប្រើ​ ដើម្បី​បង្កើត​ទូរសារ​មួយ តាម​សេចក្តី​ត្រូវការ ។"
+msgstr "ជំនួយការ​នេះ​ជួយ​អ្នក ដើម្បី​បង្កើត​ពុម្ព​ទូរសារ​មួយ ។ ​ពុម្ព​គំរូ​ត្រូវ​បាន​ប្រើ​ ដើម្បី​បង្កើត​ទូរសារ​មួយ តាម​សេចក្តី​ត្រូវការ ។"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:158
 msgctxt "RID_FAXWIZARDDIALOG_START_18"
 msgid "Return address"
-msgstr "អាសយដ្ឋាន​ត្រឡប់"
+msgstr "អាស័យដ្ឋាន​"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:159
 msgctxt "RID_FAXWIZARDDIALOG_START_19"
@@ -631,17 +629,17 @@ msgstr "បាតកថា​"
 #: wizards/com/sun/star/wizards/common/strings.hrc:163
 msgctxt "RID_FAXWIZARDDIALOG_START_23"
 msgid "This wizard creates a fax template which enables you to create multiple faxes with the same layout and settings."
-msgstr "អ្នក​ជំនួយការ​នេះ​បង្កើត​ពុម្ព​ទូរសារ​មួយ ដែល​អាច​ឲ្យ​អ្នក​បង្កើត​ទូរសារច្រើន ជាមួយ​ប្លង់​ និង​ការកំណត់​ដូចគ្នា ។"
+msgstr "​ជំនួយការ​នេះជាអ្នកបង្កើត​ពុម្ព​ទូរសារមួយ ដែល​អ្នកអាចឲ្យអ្នកបង្កើត​រទូរសារច្រើន​ជាមួយ​ប្លង់​ និង​ការ​កំណត់ដែលមានភាព​ដូចគ្នា ។"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:164
 msgctxt "RID_FAXWIZARDDIALOG_START_24"
 msgid "To create another new fax out of the template, go to the location where you saved the template and double-click the file."
-msgstr "ដើម្បី​បង្កើត​ទូរសារ​ថ្មី​ផ្សេង​ទៀត​ចេញ​ពី​ពុម្ព, ទៅ​​កាន់​ទីតាំង​ដែល​អ្នក​រក្សាទុក​ពុម្ព រួច​ចុចពីរ​​ដង​លើ​ឯកសារ ។"
+msgstr "ដើម្បី​បង្កើត​ទូរសារ​ថ្មី​ផ្សេង​ទៀត​ចេញ​ពី​ពុម្ពគំរូ, សូមចូលទៅ​​កាន់​ទីតាំង​ដែល​អ្នក​រក្សាទុក​ពុម្ព រួច​ចុចពីរ​​ដង​លើ​ឯកសារ ។"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:165
 msgctxt "RID_FAXWIZARDDIALOG_START_25"
 msgid "Template name:"
-msgstr ""
+msgstr "ឈ្មោះពុម្ពគំរូ៖"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:166
 msgctxt "RID_FAXWIZARDDIALOG_START_26"
@@ -676,27 +674,27 @@ msgstr "បញ្ចូល​អត្ថបទ សម្រាប់​បា�
 #: wizards/com/sun/star/wizards/common/strings.hrc:172
 msgctxt "RID_FAXWIZARDDIALOG_START_32"
 msgid "Choose a name and save the template"
-msgstr "ជ្រើស​ឈ្មោះ​មួយ និង​រក្សាទុក​ពុម្ព"
+msgstr "ជ្រើស​ឈ្មោះ​មួយ និង​រក្សាទុក​ពុម្ពគំរូ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:173
 msgctxt "RID_FAXWIZARDDIALOG_START_33"
 msgid "Include ~only on second and following pages"
-msgstr "រួម​បញ្ចូល​តែ​លើ​ទំព័រ​ទី​ពីរ និង​ទំព័រ​ខាង​ក្រោម "
+msgstr "រួម​បញ្ចូល​តែ​លើ​ទំព័រ​ទី​ពីរ និង​ទំព័រ​ខាង​ក្រោម"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:174
 msgctxt "RID_FAXWIZARDDIALOG_START_34"
 msgid "~Include page number"
-msgstr "រួម​បញ្ចូល​លេខ​ទំព័រ "
+msgstr "រួម​បញ្ចូល​លេខ​ទំព័រ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:175
 msgctxt "RID_FAXWIZARDDIALOG_START_35"
 msgid "~Date"
-msgstr "កាល​បរិច្ឆេទ "
+msgstr "កាល​បរិច្ឆេទ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:176
 msgctxt "RID_FAXWIZARDDIALOG_START_36"
 msgid "~Type of message"
-msgstr "ប្រភេទ​សារ "
+msgstr "ប្រភេទ​សារ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:177
 msgctxt "RID_FAXWIZARDDIALOG_START_37"
@@ -706,27 +704,27 @@ msgstr "លេខ​​ទូរសារ ៖"
 #: wizards/com/sun/star/wizards/common/strings.hrc:178
 msgctxt "RID_FAXWIZARDDIALOG_START_38"
 msgid "Use placeholders for ~recipient's address"
-msgstr "ប្រើ​កន្លែង​ដាក់ សម្រាប់​អាសយដ្ឋាន​អ្នក​ទទួល "
+msgstr "ប្រើ​កន្លែងផ្ទុក សម្រាប់​អាស័យដ្ឋាន​អ្នក​ទទួល"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:179
 msgctxt "RID_FAXWIZARDDIALOG_START_39"
 msgid "Use address database for ~mail merge"
-msgstr "ប្រើ​មូលដ្ឋាន​ទិន្នន័យ​អាសយដ្ឋាន សម្រាប់​សំបុត្រ​សំណុំ​បែបបទ "
+msgstr "ប្រើ​មូលដ្ឋាន​ទិន្នន័យ​អាស័យដ្ឋាន សម្រាប់​សំបុត្រ​សំណុំ​បែបបទ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:180
 msgctxt "RID_FAXWIZARDDIALOG_START_40"
 msgid "~New return address"
-msgstr "អាសយដ្ឋាន​ត្រឡប់​ថ្មី "
+msgstr "អាស័យដ្ឋាន​ត្រឡប់​ថ្មី"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:181
 msgctxt "RID_FAXWIZARDDIALOG_START_41"
 msgid "To:"
-msgstr "ដល់៖"
+msgstr "ទៅកាន់៖"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:182
 msgctxt "RID_FAXWIZARDDIALOG_START_42"
 msgid "From:"
-msgstr "ពី ៖ "
+msgstr "ពី ៖"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:183
 msgctxt "RID_FAXWIZARDDIALOG_START_43"
@@ -741,7 +739,7 @@ msgstr "ទូរស័ព្ទ៖"
 #: wizards/com/sun/star/wizards/common/strings.hrc:185
 msgctxt "RID_FAXWIZARDDIALOG_START_45"
 msgid "Email:"
-msgstr ""
+msgstr "អ៊ីមែ៉ល៖"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:186
 msgctxt "RID_FAXWIZARDDIALOG_START_46"
@@ -756,12 +754,12 @@ msgstr "ទំព័រ​"
 #: wizards/com/sun/star/wizards/common/strings.hrc:188
 msgctxt "RID_FAXWIZARDDIALOG_START_48"
 msgid "Please inform us if transmission errors occur."
-msgstr "សូម​បញ្ជាក់​យើ​ង ប្រសិន​បើ​មាន​កំហុស​ក្នុង​ការ​បញ្ជូន។"
+msgstr "សូម​បញ្ជាក់​ប្រាប់យើ​ង ប្រសិន​បើ​មាន​បញ្ហាក្នុង​ការ​បញ្ជូន។"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:189
 msgctxt "RID_FAXWIZARDDIALOG_START_49"
 msgid "Bottle"
-msgstr "តូច"
+msgstr "ដប"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:190
 msgctxt "RID_FAXWIZARDDIALOG_START_50"
@@ -826,12 +824,12 @@ msgstr "ជូន​ចំពោះ លោក/លោក​ស្រី ជា​
 #: wizards/com/sun/star/wizards/common/strings.hrc:206
 msgctxt "RID_FAXWIZARDSALUTATION_START_3"
 msgid "Hello,"
-msgstr "សួស្តី "
+msgstr "សួស្តី"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:207
 msgctxt "RID_FAXWIZARDSALUTATION_START_4"
 msgid "Hi,"
-msgstr "សួស្តី "
+msgstr "សួស្តី"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:210
 msgctxt "RID_FAXWIZARDGREETING_START_1"
@@ -856,12 +854,12 @@ msgstr "សេចក្តី​ស្រឡាញ់"
 #: wizards/com/sun/star/wizards/common/strings.hrc:216
 msgctxt "RID_FAXWIZARDROADMAP_START_1"
 msgid "Page Design"
-msgstr ""
+msgstr "ការរចនាទំព័រ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:217
 msgctxt "RID_FAXWIZARDROADMAP_START_2"
 msgid "Items to Include"
-msgstr ""
+msgstr "ធាតុដែលត្រូវបញ្ចូល"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:218
 msgctxt "RID_FAXWIZARDROADMAP_START_3"
@@ -871,22 +869,22 @@ msgstr "អ្នក​ផ្ញើ និង​អ្នក​ទទួល"
 #: wizards/com/sun/star/wizards/common/strings.hrc:219
 msgctxt "RID_FAXWIZARDROADMAP_START_4"
 msgid "Footer"
-msgstr "បាតកថា​"
+msgstr "បាតកថា"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:220
 msgctxt "RID_FAXWIZARDROADMAP_START_5"
 msgid "Name and Location"
-msgstr ""
+msgstr "ឈ្មោះនៃទីតាំង"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:223
 msgctxt "RID_AGENDAWIZARDDIALOG_START_1"
 msgid "Agenda Wizard"
-msgstr "អ្នក​ជំនួយការ​របៀប​វារៈ"
+msgstr "​ជំនួយការ​របៀប​វារៈ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:224
 msgctxt "RID_AGENDAWIZARDDIALOG_START_2"
 msgid "Make ~manual changes to this agenda template"
-msgstr "ធ្វើ​​ការ​ផ្លាស់ប្តូរ​ដោយ​ដៃ ចំពោះ​​ពុម្ព​របៀបវារៈ​នេះ "
+msgstr "ធ្វើ​​ការ​ផ្លាស់ប្តូរ​ដោយ​ដៃ ចំពោះ​​ពុម្ព​របៀបវារៈ​នេះ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:225
 msgctxt "RID_AGENDAWIZARDDIALOG_START_3"
@@ -901,17 +899,17 @@ msgstr "ទីតាំង និង​ឈ្មោះ​ឯកសារ ៖"
 #: wizards/com/sun/star/wizards/common/strings.hrc:227
 msgctxt "RID_AGENDAWIZARDDIALOG_START_5"
 msgid "What do you want to do next?"
-msgstr "តើ​អ្នក​ចង់​ធ្វើ​អ្វី​បន្ត​ទៅ​ទៀត ?"
+msgstr "តើ​អ្នក​ចង់​ធ្វើ​អ្វី​បន្ត​ទៀត ?"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:228
 msgctxt "RID_AGENDAWIZARDDIALOG_START_6"
 msgid "Please choose the page design for the agenda"
-msgstr "សូម​ជ្រើស​រចនា​ទំព័រ សម្រាប់​របៀបវារៈ"
+msgstr "សូម​ជ្រើសរើស​រចនាបទរបស់ទំព័រ សម្រាប់​របៀបវារៈ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:229
 msgctxt "RID_AGENDAWIZARDDIALOG_START_7"
 msgid "Please select the headings you wish to include in your agenda template"
-msgstr "សូម​ជ្រើស​ក្បាល​ដែល​អ្នក​ចង់​បញ្ចូល​ក្នុង​ពុម្ព​របៀប​វារៈ​របស់​អ្នក"
+msgstr "សូម​ជ្រើសរើស​ផ្នែកខាងលើដែល​អ្នក​ចង់​បញ្ចូល​ក្នុង​ពុម្ព​របៀប​វារៈ​របស់​អ្នក"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:230
 msgctxt "RID_AGENDAWIZARDDIALOG_START_8"
@@ -921,7 +919,7 @@ msgstr "សូម​បញ្ចូល​ព័ត៌មាន​ទូទៅ �
 #: wizards/com/sun/star/wizards/common/strings.hrc:231
 msgctxt "RID_AGENDAWIZARDDIALOG_START_9"
 msgid "Please specify items for the agenda"
-msgstr "សូម​បញ្ជាក់​​លម្អិត​អំពី​វត្ថុ​ទាំងឡាយ សម្រាប់​របៀបវារៈ"
+msgstr "សូម​ផ្ទៀងផ្ទាត់ធាតុ​ទាំងឡាយ សម្រាប់​របៀបវារៈ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:232
 msgctxt "RID_AGENDAWIZARDDIALOG_START_10"
@@ -931,7 +929,7 @@ msgstr "សូម​ជ្រើស​ឈ្មោះ​ដែល​អ្នក
 #: wizards/com/sun/star/wizards/common/strings.hrc:233
 msgctxt "RID_AGENDAWIZARDDIALOG_START_11"
 msgid "Choose a name and save the template"
-msgstr "ជ្រើស​ឈ្មោះ​មួយ និង​រក្សាទុក​ពុម្ព"
+msgstr "ជ្រើស​រើសឈ្មោះ​មួយ និងធ្វើការ​រក្សាទុក​ពុម្ព"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:234
 msgctxt "RID_AGENDAWIZARDDIALOG_START_12"
@@ -941,7 +939,7 @@ msgstr "រួម​បញ្ចូល​សំណុំ​បែប​បទ �
 #: wizards/com/sun/star/wizards/common/strings.hrc:235
 msgctxt "RID_AGENDAWIZARDDIALOG_START_13"
 msgid "This wizard helps you to create an agenda template. The template can then be used to create an agenda whenever needed."
-msgstr "អ្នក​ជំនួយការ​នេះ​ជួយ​អ្នក ដើម្បី​​បង្កើត​ពុម្ព​របៀបវារៈ​មួយ ។ បន្ទាប់​មក​ពុម្ព​អាច​ត្រូវ​បាន​ប្រើ​ ដើម្បី​បង្កើត​របៀបវារៈ​មួយ តាម​សេចក្តី​ត្រូវការ ។"
+msgstr "ជំនួយការ​នេះ​ជា​អ្នកជួយអ្នក ដើម្បី​​បង្កើត​ពុម្ព​របៀបវារៈ​មួយ ។ ​ពុម្ព​អាច​ប្រើ​ដើម្បី​បង្កើត​របៀបវារៈ​មួយ តាម​សេចក្តី​ត្រូវការរបស់អ្នក ។"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:236
 msgctxt "RID_AGENDAWIZARDDIALOG_START_14"
@@ -961,7 +959,7 @@ msgstr "ទីតាំង៖​"
 #: wizards/com/sun/star/wizards/common/strings.hrc:239
 msgctxt "RID_AGENDAWIZARDDIALOG_START_17"
 msgid "Placeholders will be used in empty fields. You can replace placeholders with text later."
-msgstr "កន្លែង​ដាក់​នឹង​ត្រូវ​បាន​ប្រើ​ក្នុង​វាល​ទទេ ។ អ្នក​អាច​ជំនួស​កន្លែង​ដាក់​ជាមួយ​អត្ថបទ​ពេល​ក្រោយ ។"
+msgstr "កន្លែង​ផ្ទុកនឹង​ត្រូវ​បាន​ប្រើ​ក្នុង​ផ្នែក​ទទេ ។ អ្នក​អាច​ជំនួស​កន្លែង​ផ្ទុកជាមួយ​អត្ថបទ​ពេល​ក្រោយ ។"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:240
 msgctxt "RID_AGENDAWIZARDDIALOG_START_18"
@@ -971,22 +969,22 @@ msgstr "..."
 #: wizards/com/sun/star/wizards/common/strings.hrc:241
 msgctxt "RID_AGENDAWIZARDDIALOG_START_19"
 msgid "Create an ~agenda from this template"
-msgstr "បង្កើត​របៀបវារៈ​មួយ​ពី​ពុម្ព​នេះ "
+msgstr "បង្កើត​របៀបវារៈ​មួយ​ពី​ពុម្ពគំរូ​នេះ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:242
 msgctxt "RID_AGENDAWIZARDDIALOG_START_20"
 msgid "To create a new agenda out of the template, go to the location where you saved the template and double-click the file."
-msgstr "ដើម្បី​បង្កើត​របៀបវារៈ​ថ្មី​មួយ​ចេញ​ពី​ពុម្ព, ទៅ​កាន់​ទីតាំង​ដែល​អ្នក​បាន​រក្សាទុក​ពុម្ព រួច​ចុច​ពីរ​ដង​លើ​ឯកសារ ។"
+msgstr "ដើម្បី​បង្កើត​របៀបវារៈ​ថ្មី​មួយ​ចេញ​ពី​ពុម្ព, សូមចូលទៅ​កាន់​ទីតាំង​ដែល​អ្នក​បាន​រក្សាទុក​ពុម្ព រួច​ចុច​ពីរ​ដង​លើ​ឯកសារ ។"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:243
 msgctxt "RID_AGENDAWIZARDDIALOG_START_21"
 msgid "Agenda item"
-msgstr "ធាតុ​របៀបវារៈ"
+msgstr "ធាតុ​នៃរបៀបវារៈ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:244
 msgctxt "RID_AGENDAWIZARDDIALOG_START_22"
 msgid "Responsible"
-msgstr "ទទួល​​ខុស​​ត្រូវ"
+msgstr "ទំនួលខុសត្រូវ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:245
 msgctxt "RID_AGENDAWIZARDDIALOG_START_23"
@@ -996,7 +994,7 @@ msgstr "ថិរវេលា"
 #: wizards/com/sun/star/wizards/common/strings.hrc:246
 msgctxt "RID_AGENDAWIZARDDIALOG_START_24"
 msgid "Meeting called by"
-msgstr "កិច្ចប្រជុំ​អញ្ជើញ​ដោយ"
+msgstr "កិច្ចប្រជុំ​ត្រូវបានអញ្ជើញ​ដោយ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:247
 msgctxt "RID_AGENDAWIZARDDIALOG_START_25"
@@ -1011,7 +1009,7 @@ msgstr "អ្នក​រក្សាទុក​កំណត់ហេតុ​
 #: wizards/com/sun/star/wizards/common/strings.hrc:249
 msgctxt "RID_AGENDAWIZARDDIALOG_START_27"
 msgid "Moderator"
-msgstr "អន្តរការី​"
+msgstr "អ្នកសម្របសម្រួល"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:250
 msgctxt "RID_AGENDAWIZARDDIALOG_START_28"
@@ -1026,17 +1024,17 @@ msgstr "អ្នក​​សង្កេត​ការណ៍"
 #: wizards/com/sun/star/wizards/common/strings.hrc:252
 msgctxt "RID_AGENDAWIZARDDIALOG_START_30"
 msgid "Facility personnel"
-msgstr "បុគ្គលិក​​បន្ទប់ឧបករណ៍"
+msgstr "បុគ្គលិកនៃកន្លែងមួយ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:253
 msgctxt "RID_AGENDAWIZARDDIALOG_START_31"
 msgid "The agenda template will include placeholders for the names of the selected people. When creating an agenda from the template, you can replace these placeholder with the appropriate names."
-msgstr "ពុមÒព​របៀប​វារៈ​នឹង​រួម​បញ្ចូល​កន្លែង​ដាក់ សម្រាប់​ឈ្មោះ​នៃ​បុគ្គលិក​ទាំង​ឡាយ​ដែល​បាន​ជ្រើស ។ ពេល​បង្កើត​របៀប​វារៈ​ពីពុម្ព អ្នក​អាច​ជំនួស​កន្លែង​ដាក់​ទាំង​នេះ ដោយ​ឈ្មោះ​សមរម្យ​មួយ ។"
+msgstr "ពុមបៀប​វារៈ​នឹង​រួម​បញ្ចូល​កន្លែងសម្រាប់​ឈ្មោះ​អ្នកដែល​បាន​ជ្រើសរើស ។ ពេល​បង្កើត​របៀប​វារៈ​ពីពុម្ព អ្នក​អាចផ្លាស់ប្តូរ​កន្លែងផ្ទុក​ទាំង​នេះ ដោយ​ឈ្មោះ​សមរម្យបាន​។"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:254
 msgctxt "RID_AGENDAWIZARDDIALOG_START_32"
 msgid "Type of meeting"
-msgstr "ប្រភេទ​ប្រជុំ"
+msgstr "ប្រភេទ​នៃការប្រជុំ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:255
 msgctxt "RID_AGENDAWIZARDDIALOG_START_33"
@@ -1056,22 +1054,22 @@ msgstr "ចំណាំ"
 #: wizards/com/sun/star/wizards/common/strings.hrc:258
 msgctxt "RID_AGENDAWIZARDDIALOG_START_36"
 msgid "The agenda template will include placeholders for the selected items."
-msgstr "ពុម្ព​របៀបវារៈ​នឹង​រួម​បញ្ចូល​កន្លែង​ដាក់ សម្រាប់​ធាតុ​ដែល​ត្រូវ​បាន​ជ្រើស ។"
+msgstr "ពុម្ព​របៀបវារៈ​នឹង​រួម​បញ្ចូល​កន្លែង​សម្រាប់ជ្រើសរើសធាតុ។"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:259
 msgctxt "RID_AGENDAWIZARDDIALOG_START_38"
 msgid "Date:"
-msgstr "កាលបរិច្ឆេទ ៖"
+msgstr "កាលបរិច្ឆេទ៖"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:260
 msgctxt "RID_AGENDAWIZARDDIALOG_START_39"
 msgid "This wizard creates an agenda template which enables you to create multiple agendas with the same layout and settings."
-msgstr "អ្នក​ជំនួយការ​នេះ បង្កើត​ពុម្ព​របៀបវារៈ​មួយ ដែល​អាច​ឲ្យ​អ្នក​បង្កើត​របៀបវារៈ​ច្រើន​ជាមួយ​ប្លង់​ និង​ការ​កំណត់​ដូចគ្នា ។"
+msgstr "​ជំនួយការ​នេះជាអ្នកបង្កើត​ពុម្ព​របៀបវារៈ​មួយ ដែល​អ្នកអាច​បង្កើត​របៀបវារៈ​ច្រើន​ជាមួយ​ប្លង់​ និង​ការ​កំណត់ដែលមានភាព​ដូចគ្នា ។"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:261
 msgctxt "RID_AGENDAWIZARDDIALOG_START_40"
 msgid "Page design:"
-msgstr "រចនា​ទំព័រ ៖"
+msgstr "ការរចនា​ទំព័រ៖"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:262
 msgctxt "RID_AGENDAWIZARDDIALOG_START_41"
@@ -1086,7 +1084,7 @@ msgstr "ពុម្ព​របៀបវារៈ​របស់​ខ្ញុ
 #: wizards/com/sun/star/wizards/common/strings.hrc:264
 msgctxt "RID_AGENDAWIZARDDIALOG_START_43"
 msgid "An error occurred while saving the agenda template."
-msgstr ""
+msgstr "បញ្ហាដែលកើតមានពេលរក្សាទុកពុម្ពរបៀបវារៈ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:265
 msgctxt "RID_AGENDAWIZARDDIALOG_START_44"
@@ -1111,22 +1109,22 @@ msgstr "ទី​តាំង"
 #: wizards/com/sun/star/wizards/common/strings.hrc:269
 msgctxt "RID_AGENDAWIZARDDIALOG_START_48"
 msgid "Click to replace this text"
-msgstr "ចុច ដើម្បី​ជំនួស​អត្ថបទ​នេះ"
+msgstr "ចុចទីនេះ ដើម្បី​ផ្លាស់ប្តូវ​អត្ថបទ​នេះ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:270
 msgctxt "RID_AGENDAWIZARDDIALOG_START_50"
 msgid "Page Design"
-msgstr ""
+msgstr "ការរចនាទំព័រ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:271
 msgctxt "RID_AGENDAWIZARDDIALOG_START_51"
 msgid "General Information"
-msgstr ""
+msgstr "ព័ត៌មានទូទៅ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:272
 msgctxt "RID_AGENDAWIZARDDIALOG_START_52"
 msgid "Headings to Include"
-msgstr ""
+msgstr "ផ្នែកខាងលើត្រូវបានបញ្ចូល"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:273
 msgctxt "RID_AGENDAWIZARDDIALOG_START_53"
@@ -1136,22 +1134,22 @@ msgstr "ឈ្មោះ"
 #: wizards/com/sun/star/wizards/common/strings.hrc:274
 msgctxt "RID_AGENDAWIZARDDIALOG_START_54"
 msgid "Agenda Items"
-msgstr ""
+msgstr "ធាតុនៃរបៀបវារៈ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:275
 msgctxt "RID_AGENDAWIZARDDIALOG_START_55"
 msgid "Name and Location"
-msgstr ""
+msgstr "ឈ្មោះនៃទីតាំង"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:276
 msgctxt "RID_AGENDAWIZARDDIALOG_START_56"
 msgid "An error occurred while opening the agenda template."
-msgstr ""
+msgstr "បញ្ហាដែលកើតមានពេលបើកពុម្ពរបៀបវារៈ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:277
 msgctxt "RID_AGENDAWIZARDDIALOG_START_57"
 msgid "Type of meeting"
-msgstr "ប្រភេទ​ប្រជុំ"
+msgstr "ប្រភេទ​នៃការប្រជុំ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:278
 msgctxt "RID_AGENDAWIZARDDIALOG_START_58"
@@ -1171,7 +1169,7 @@ msgstr "ចំណាំ"
 #: wizards/com/sun/star/wizards/common/strings.hrc:281
 msgctxt "RID_AGENDAWIZARDDIALOG_START_61"
 msgid "Meeting called by"
-msgstr "កិច្ចប្រជុំ​អញ្ជើញ​ដោយ"
+msgstr "កិច្ចប្រជុំ​ត្រូវបានអញ្ជើញ​ដោយ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:282
 msgctxt "RID_AGENDAWIZARDDIALOG_START_62"
@@ -1191,7 +1189,7 @@ msgstr "អ្នក​រក្សាទុក​កំណត់ហេតុ​
 #: wizards/com/sun/star/wizards/common/strings.hrc:285
 msgctxt "RID_AGENDAWIZARDDIALOG_START_65"
 msgid "Moderator"
-msgstr "អន្តរការី​"
+msgstr "អ្នកសម្របសម្រួល"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:286
 msgctxt "RID_AGENDAWIZARDDIALOG_START_66"
@@ -1201,17 +1199,17 @@ msgstr "អ្នក​​សង្កេត​ការណ៍"
 #: wizards/com/sun/star/wizards/common/strings.hrc:287
 msgctxt "RID_AGENDAWIZARDDIALOG_START_67"
 msgid "Facility personnel"
-msgstr "បុគ្គលិក​​បន្ទប់ឧបករណ៍"
+msgstr "បុក្គលិកនៃកន្លែងមួយ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:288
 msgctxt "RID_AGENDAWIZARDDIALOG_START_68"
 msgid "Insert"
-msgstr "បញ្ចូល​"
+msgstr "ដាក់បញ្ចូល​"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:289
 msgctxt "RID_AGENDAWIZARDDIALOG_START_69"
 msgid "Remove"
-msgstr "យក​ចេញ"
+msgstr "លុបចេញ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:290
 msgctxt "RID_AGENDAWIZARDDIALOG_START_70"
@@ -1226,7 +1224,7 @@ msgstr "​ចុះក្រោម"
 #: wizards/com/sun/star/wizards/common/strings.hrc:292
 msgctxt "RID_AGENDAWIZARDDIALOG_START_72"
 msgid "Date:"
-msgstr "កាលបរិច្ឆេទ ៖"
+msgstr "កាលបរិច្ឆេទ៖"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:293
 msgctxt "RID_AGENDAWIZARDDIALOG_START_73"
@@ -1256,7 +1254,7 @@ msgstr "ប្រធានបទ​"
 #: wizards/com/sun/star/wizards/common/strings.hrc:298
 msgctxt "RID_AGENDAWIZARDDIALOG_START_78"
 msgid "Responsible"
-msgstr "ទទួល​​ខុស​​ត្រូវ"
+msgstr "ទំនួល​​ខុស​​ត្រូវ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:299
 msgctxt "RID_AGENDAWIZARDDIALOG_START_79"
@@ -1286,50 +1284,47 @@ msgstr "សន្និដ្ឋាន៖"
 #: wizards/com/sun/star/wizards/common/strings.hrc:304
 msgctxt "RID_AGENDAWIZARDDIALOG_START_84"
 msgid "To do:"
-msgstr "ត្រូវ​ធ្វើ៖"
+msgstr "អ្វីដែលត្រូវ​ធ្វើ៖"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:305
 msgctxt "RID_AGENDAWIZARDDIALOG_START_85"
 msgid "Responsible party:"
-msgstr "ភាគីទទួល​ខុស​ត្រូវ៖"
+msgstr "ភាគីដែលមានទំនួលខុសត្រូវ៖"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:306
 msgctxt "RID_AGENDAWIZARDDIALOG_START_86"
 msgid "Deadline:"
-msgstr "ដល់កំណត់៖"
+msgstr "ការផុតកំណត់៖"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:307
-#, fuzzy
 msgctxt "RID_AGENDAWIZARDDIALOG_START_87"
 msgid "Blue"
-msgstr "ខៀវ"
+msgstr "ពណ៌ខៀវ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:308
 msgctxt "RID_AGENDAWIZARDDIALOG_START_88"
 msgid "Classic"
-msgstr ""
+msgstr "ពណ៌បុរាណ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:309
-#, fuzzy
 msgctxt "RID_AGENDAWIZARDDIALOG_START_89"
 msgid "Colorful"
-msgstr "ដែល​មាន​ពណ៌​ឆើត"
+msgstr "ពណ៌​ស្រស់បំព្រង"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:310
 msgctxt "RID_AGENDAWIZARDDIALOG_START_90"
 msgid "Elegant"
-msgstr "ឆើតឆាយ"
+msgstr "ពណ៌ឆើតឆាយ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:311
-#, fuzzy
 msgctxt "RID_AGENDAWIZARDDIALOG_START_91"
 msgid "Green"
-msgstr "បៃតង"
+msgstr "ពណ៌បៃតង"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:312
 msgctxt "RID_AGENDAWIZARDDIALOG_START_92"
 msgid "Grey"
-msgstr "ប្រផេះ"
+msgstr "ពណ៌ប្រផេះ"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:313
 msgctxt "RID_AGENDAWIZARDDIALOG_START_93"
@@ -1339,13 +1334,12 @@ msgstr "ទំនើប"
 #: wizards/com/sun/star/wizards/common/strings.hrc:314
 msgctxt "RID_AGENDAWIZARDDIALOG_START_94"
 msgid "Orange"
-msgstr "ទឹក​ក្រូច"
+msgstr "ពណ៌ទឹក​ក្រូច"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:315
-#, fuzzy
 msgctxt "RID_AGENDAWIZARDDIALOG_START_95"
 msgid "Red"
-msgstr "ក្រហម"
+msgstr "ពណ៌ក្រហម"
 
 #: wizards/com/sun/star/wizards/common/strings.hrc:316
 msgctxt "RID_AGENDAWIZARDDIALOG_START_96"

@@ -1,17 +1,19 @@
-#. extracted from forms/inc
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
-"POT-Creation-Date: 2018-02-27 13:56+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2020-03-10 13:36+0100\n"
+"PO-Revision-Date: 2020-09-11 01:16+0700\n"
+"Last-Translator: Koompi Apps Localization\n"
+"Language: km\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "X-Accelerator-Marker: ~\n"
-"X-Generator: LibreOffice\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-POOTLE-MTIME: 1535975854.000000\n"
+"Language-Team: KOOMPI Apps Localization\n"
 
 #: forms/inc/strings.hrc:25
 msgctxt "RID_BASELISTBOX_ERROR_FILLLIST"
@@ -76,7 +78,7 @@ msgstr "កំហុសក្នុង​ការ​​​លុប​​កំ
 #: forms/inc/strings.hrc:37
 msgctxt "RID_STR_NEED_NON_NULL_OBJECT"
 msgid "The object cannot be NULL."
-msgstr "វត្ថុ​​​មិន​​អាច​ជា​​ NULL ។"
+msgstr "វត្ថុ​​​មិន​​អាច​ គ្មាន ។"
 
 #: forms/inc/strings.hrc:38
 msgctxt "RID_STR_OPEN_GRAPHICS"
@@ -210,7 +212,7 @@ msgstr "អនុញ្ញាត​បាន​ច្រើន​បំផុត
 #: forms/inc/strings.hrc:64
 msgctxt "RID_STR_XFORMS_VALUE_FRACTION_DIGITS"
 msgid "$2 fraction digits allowed at most."
-msgstr "អនុញ្ញាត​បាន​ច្រើន​បំផុត​ $2 តួ​លេខ​ប្រភាគ "
+msgstr "អនុញ្ញាត​បាន​ច្រើន​បំផុត​ $2 តួ​លេខ​ប្រភាគ"
 
 #: forms/inc/strings.hrc:65
 msgctxt "RID_STR_XFORMS_VALUE_LENGTH"
@@ -305,4 +307,4 @@ msgstr "ការ​ចង"
 #: forms/inc/strings.hrc:83
 msgctxt "RID_STR_XFORMS_CANT_REMOVE_TYPE"
 msgid "This is a built-in type and cannot be removed."
-msgstr ""
+msgstr "នេះគឺជាប្រភេទដែលភ្ជាប់មកជាមួយហើយមិនអាចយកចេញបានទេ។"

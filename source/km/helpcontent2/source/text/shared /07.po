@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2020-03-10 13:36+0100\n"
+"PO-Revision-Date: 2020-09-03 10:02+0700\n"
+"Last-Translator: Koompi Apps Localization\n"
+"Language: km\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: ~\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-POOTLE-MTIME: 1535975854.000000\n"
+"Language-Team: KOOMPI Apps Localization\n"
+
+#: 09000000.xhp
+msgctxt ""
+"09000000.xhp\n"
+"tit\n"
+"help.text"
+msgid "Web Pages"
+msgstr "ទំព័រ​បណ្ដាញ"
+
+#: 09000000.xhp
+msgctxt ""
+"09000000.xhp\n"
+"hd_id3156014\n"
+"help.text"
+msgid "<link href=\"text/shared/07/09000000.xhp\" name=\"Web Pages\">Web Pages</link>"
+msgstr "<link href=\"text/shared/07/09000000.xhp\" name=\"Web Pages\">ទំព័រ​បណ្ដាញ</link>"
+
+#: 09000000.xhp
+msgctxt ""
+"09000000.xhp\n"
+"par_id3146946\n"
+"help.text"
+msgid "To create a new web page for the Internet, open a new <emph>HTML Document</emph> by choosing <item type=\"menuitem\">File - New</item>."
+msgstr "ដើម្បីបង្កើតគេហទំព័រថ្មីសម្រាប់អ៊ីនធឺណិតបើកទំព័រថ្មី <emph> ឯកសារ HTML </emph> ដោយការជ្រើសរើស <item type=\"menuitem\"> ឯកសារ - ថ្មី </item> ។"
+
+#: 09000000.xhp
+msgctxt ""
+"09000000.xhp\n"
+"par_id3143284\n"
+"help.text"
+msgid "A tool for creating new web pages is the Web Layout mode, which you enable with <item type=\"menuitem\">View - Web</item>."
+msgstr "ឧបករណ៍សម្រាប់បង្កើតគេហទំព័រថ្មីគឺជារបៀបតំឡើងបណ្តាញដែលអ្នកអាចប្រើបាន <item type=\"menuitem\"> មើល - គេហទំព័រ </item> ។"
+
+#: 09000000.xhp
+msgctxt ""
+"09000000.xhp\n"
+"hd_id3147285\n"
+"help.text"
+msgid "Creating a New Web Page"
+msgstr "ការ​បង្កើត​ទំព័រ​បណ្តាញ​ថ្មី​"
+
+#: 09000000.xhp
+msgctxt ""
+"09000000.xhp\n"
+"par_id3150808\n"
+"help.text"
+msgid "Switch to the web layout mode by choosing <item type=\"menuitem\">View - Web</item> or by opening a new HTML document."
+msgstr "ប្តូរទៅរបៀបប្លង់គេហទំព័រដោយជ្រើសរើស <item type=\"menuitem\"> មើល - គេហទំព័រ </item> ឬដោយបើកឯកសារ HTML ថ្មី។"
+
+#: 09000000.xhp
+msgctxt ""
+"09000000.xhp\n"
+"par_id3145136\n"
+"help.text"
+msgid "To create an HTML page from your $[officename] document, save the page using one of the \"HTML Document\" file types."
+msgstr "ដើម្បី​បង្កើត​ទំព័រ​ HTML មួយ​ពី​ឯកសារ​ $[officename] របស់​អ្នក​​ រក្សា​ទុក​ទំព័រ​ដោយ​ប្រើ​ប្រភេទ​ឯកសារ​មួយ​ក្នុង​ចំណោម​ប្រភេទ​ \"ឯកសារ​ HTML\"​ ដូច​ជា​ផ្នែក​បន្ថែម​ .HTM ឬ HTML ។"

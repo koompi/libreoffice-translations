@@ -1,21 +1,19 @@
-#. extracted from scp2/source/ooo
 msgid ""
 msgstr ""
-"Project-Id-Version: ooo\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
-"POT-Creation-Date: 2020-07-08 13:56+0200\n"
-"PO-Revision-Date: 2018-11-12 11:57+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
-"Language-Team: Khmer <support@khmeros.info>\n"
+"POT-Creation-Date: 2020-03-10 13:36+0100\n"
+"PO-Revision-Date: 2020-09-07 11:48+0700\n"
+"Last-Translator: Koompi Apps Localization\n"
 "Language: km\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Accelerator-Marker: ~\n"
-"X-Generator: LibreOffice\n"
-"X-Language: km-KH\n"
-"X-POOTLE-MTIME: 1542023855.000000\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-POOTLE-MTIME: 1535975854.000000\n"
+"Language-Team: KOOMPI Apps Localization\n"
 
 #. CYBGJ
 #: folderitem_ooo.ulf
@@ -42,7 +40,7 @@ msgctxt ""
 "STR_FI_NAME_SAFEMODE\n"
 "LngText.text"
 msgid "%PRODUCTNAME (Safe Mode)"
-msgstr ""
+msgstr "%PRODUCTNAME (ចំណុច​សុវត្ថិភាព)"
 
 #. sRSeW
 #: folderitem_ooo.ulf
@@ -51,7 +49,7 @@ msgctxt ""
 "STR_FI_TOOLTIP_SOFFICE\n"
 "LngText.text"
 msgid "LibreOffice, the office productivity suite provided by The Document Foundation. See https://www.documentfoundation.org"
-msgstr ""
+msgstr "LibreOffice ដែលជាឈុតផលិតភាពការិយាល័យផ្តល់ជូនដោយ មូលនិធិឯកសារ ។ សូមមើល https://www.documentfoundation.org"
 
 #. Bf97K
 #: module_helppack.ulf
@@ -207,8 +205,8 @@ msgid "Portuguese (Brazil)"
 msgstr "ព័រទុយហ្គាល់ (ប្រេស៊ីល)"
 
 #. YBMtr
+#.
 #: module_helppack.ulf
-#, fuzzy
 msgctxt ""
 "module_helppack.ulf\n"
 "STR_DESC_MODULE_HELPPACK_PT_BR\n"
@@ -784,8 +782,8 @@ msgid "Odia"
 msgstr "អូឌៀ"
 
 #. LyUKG
+#.
 #: module_helppack.ulf
-#, fuzzy
 msgctxt ""
 "module_helppack.ulf\n"
 "STR_DESC_MODULE_HELPPACK_OR\n"
@@ -1568,8 +1566,8 @@ msgid "Installs Gujarati help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "ដំឡើង​ជំនួយ​ហ្កុយ៉ារាទី​នៅ​ក្នុង​​ %PRODUCTNAME %PRODUCTVERSION​"
 
 #. n7QAe
+#.
 #: module_helppack.ulf
-#, fuzzy
 msgctxt ""
 "module_helppack.ulf\n"
 "STR_NAME_MODULE_HELPPACK_GUG\n"
@@ -1578,8 +1576,8 @@ msgid "Guarani"
 msgstr "ហ្កុយ៉ារាទី"
 
 #. c8cWA
+#.
 #: module_helppack.ulf
-#, fuzzy
 msgctxt ""
 "module_helppack.ulf\n"
 "STR_DESC_MODULE_HELPPACK_GUG\n"
@@ -2044,7 +2042,7 @@ msgctxt ""
 "STR_NAME_MODULE_HELPPACK_QTZ\n"
 "LngText.text"
 msgid "KeyID"
-msgstr "KeyID"
+msgstr "លេខសម្គាល់កូនសោ"
 
 #. WgSng
 #: module_helppack.ulf
@@ -2056,22 +2054,24 @@ msgid "Installs English help in %PRODUCTNAME %PRODUCTVERSION with a key ID befor
 msgstr "ដំឡើង​ជំនួយ​អង់គ្លេស​នៅ​ក្នុង %PRODUCTNAME %PRODUCTVERSION ជាមួយ​នឹង​លេខ​សម្គាល់​ពាក្យគន្លឹះ​មុន​កថាខណ្ឌ​នីមួយៗ"
 
 #. 68jze
+#.
 #: module_langpack.ulf
 msgctxt ""
 "module_langpack.ulf\n"
 "STR_NAME_MODULE_ROOT_LANGPACK\n"
 "LngText.text"
 msgid "User interface languages"
-msgstr ""
+msgstr "ភាសាចំណុចប្រទាក់អ្នកប្រើ"
 
 #. AzxTN
+#.
 #: module_langpack.ulf
 msgctxt ""
 "module_langpack.ulf\n"
 "STR_DESC_MODULE_ROOT_LANGPACK\n"
 "LngText.text"
 msgid "User interface languages"
-msgstr ""
+msgstr "ភាសាចំណុចប្រទាក់អ្នកប្រើ"
 
 #. 2FWMz
 #: module_langpack.ulf
@@ -2134,7 +2134,7 @@ msgctxt ""
 "STR_NAME_MODULE_LANGPACK_FUR\n"
 "LngText.text"
 msgid "Friulian"
-msgstr ""
+msgstr "Friulian"
 
 #. hj9iY
 #: module_langpack.ulf
@@ -2143,7 +2143,7 @@ msgctxt ""
 "STR_DESC_MODULE_LANGPACK_FUR\n"
 "LngText.text"
 msgid "Installs the Friulian user interface"
-msgstr ""
+msgstr "ដំឡើង​ចំណុចប្រទាក់​អ្នកប្រើ​ជា​ភាសា​ Friulian"
 
 #. FWTCS
 #: module_langpack.ulf
@@ -2152,7 +2152,7 @@ msgctxt ""
 "STR_NAME_MODULE_LANGPACK_FY\n"
 "LngText.text"
 msgid "Frisian"
-msgstr ""
+msgstr "ហ្វ្រីស៊ាន"
 
 #. iQ65Q
 #: module_langpack.ulf
@@ -2161,7 +2161,7 @@ msgctxt ""
 "STR_DESC_MODULE_LANGPACK_FY\n"
 "LngText.text"
 msgid "Installs the Frisian user interface"
-msgstr ""
+msgstr "ដំឡើង​ចំណុចប្រទាក់​អ្នកប្រើ​ជា​ភាសា​ ហ្វ្រីស៊ាន"
 
 #. 5GsEB
 #: module_langpack.ulf
@@ -2278,7 +2278,7 @@ msgctxt ""
 "STR_NAME_MODULE_LANGPACK_KAB\n"
 "LngText.text"
 msgid "Kabyle"
-msgstr ""
+msgstr "គីប"
 
 #. KS3XA
 #: module_langpack.ulf
@@ -2287,7 +2287,7 @@ msgctxt ""
 "STR_DESC_MODULE_LANGPACK_KAB\n"
 "LngText.text"
 msgid "Installs the Kabyle user interface"
-msgstr ""
+msgstr "ដំឡើងចំណុចប្រទាក់​អ្នកប្រើប្រាស់ភាសា គីប"
 
 #. GGBUC
 #: module_langpack.ulf
@@ -2368,7 +2368,7 @@ msgctxt ""
 "STR_NAME_MODULE_LANGPACK_DSB\n"
 "LngText.text"
 msgid "Lower Sorbian"
-msgstr ""
+msgstr "Sorbian ក្រោម"
 
 #. uCTAw
 #: module_langpack.ulf
@@ -2377,7 +2377,7 @@ msgctxt ""
 "STR_DESC_MODULE_LANGPACK_DSB\n"
 "LngText.text"
 msgid "Installs the Lower Sorbian user interface"
-msgstr ""
+msgstr "ដំឡើង​ចំណុចប្រទាក់​អ្នកប្រើ​ជា​ភាសា Sorbian ក្រោម"
 
 #. 93zmP
 #: module_langpack.ulf
@@ -2386,17 +2386,16 @@ msgctxt ""
 "STR_NAME_MODULE_LANGPACK_HSB\n"
 "LngText.text"
 msgid "Upper Sorbian"
-msgstr ""
+msgstr "Sorbia លើ"
 
 #. kZEGX
 #: module_langpack.ulf
-#, fuzzy
 msgctxt ""
 "module_langpack.ulf\n"
 "STR_DESC_MODULE_LANGPACK_HSB\n"
 "LngText.text"
 msgid "Installs the Upper Sorbian user interface"
-msgstr "ដំឡើង​ចំណុចប្រទាក់​អ្នកប្រើ​ជា​ភាសា​ហ្សកហ្ស៊ី"
+msgstr "ដំឡើង​ចំណុចប្រទាក់​អ្នកប្រើ​ជា​ភាសា​  Sorbia លើ"
 
 #. DkPdh
 #: module_langpack.ulf
@@ -2513,7 +2512,7 @@ msgctxt ""
 "STR_NAME_MODULE_LANGPACK_CKB\n"
 "LngText.text"
 msgid "Central Kurdish"
-msgstr ""
+msgstr "ឃឺដ កណ្តាល"
 
 #. NJJmC
 #: module_langpack.ulf
@@ -2522,7 +2521,7 @@ msgctxt ""
 "STR_DESC_MODULE_LANGPACK_CKB\n"
 "LngText.text"
 msgid "Installs the Central Kurdish user interface"
-msgstr ""
+msgstr "ដំឡើង​ចំណុចប្រទាក់​អ្នកប្រើ​ជា​ភាសា​  ឃឺដ កណ្តាល"
 
 #. 3CVmz
 #: module_langpack.ulf
@@ -2912,8 +2911,8 @@ msgid "Odia"
 msgstr "អូឌៀ"
 
 #. z7wxj
+#.
 #: module_langpack.ulf
-#, fuzzy
 msgctxt ""
 "module_langpack.ulf\n"
 "STR_DESC_MODULE_LANGPACK_OR\n"
@@ -3576,17 +3575,16 @@ msgctxt ""
 "STR_NAME_MODULE_LANGPACK_VEC\n"
 "LngText.text"
 msgid "Venetian"
-msgstr ""
+msgstr "Venetian"
 
 #. daNwF
 #: module_langpack.ulf
-#, fuzzy
 msgctxt ""
 "module_langpack.ulf\n"
 "STR_DESC_MODULE_LANGPACK_VEC\n"
 "LngText.text"
 msgid "Installs the Venetian user interface"
-msgstr "ដំឡើង​ចំណុចប្រទាក់​អ្នកប្រើ​ជា​ភាសា​វង់ដា"
+msgstr "ដំឡើង​ចំណុចប្រទាក់​អ្នកប្រើ​ជា​ភាសា Venetian"
 
 #. A8VRT
 #: module_langpack.ulf
@@ -3676,7 +3674,7 @@ msgctxt ""
 "STR_DESC_MODULE_LANGPACK_KA\n"
 "LngText.text"
 msgid "Installs the Georgian user interface"
-msgstr "ដំឡើង​ចំណុចប្រទាក់​អ្នកប្រើ​ជា​ភាសា​ហ្សកហ្ស៊ី"
+msgstr "ដំឡើង​ចំណុចប្រទាក់​អ្នកប្រើ​ជា​ភាសា ហ្សកហ្ស៊ី"
 
 #. hzkrn
 #: module_langpack.ulf
@@ -3716,23 +3714,21 @@ msgstr "ដំឡើង​ចំណុចប្រទាក់​អ្នកប
 
 #. tvtGa
 #: module_langpack.ulf
-#, fuzzy
 msgctxt ""
 "module_langpack.ulf\n"
 "STR_NAME_MODULE_LANGPACK_GUG\n"
 "LngText.text"
 msgid "Guarani"
-msgstr "ហ្កុយ៉ារាទី"
+msgstr "ហ្កុយ៉ារានី"
 
 #. DTeQk
 #: module_langpack.ulf
-#, fuzzy
 msgctxt ""
 "module_langpack.ulf\n"
 "STR_DESC_MODULE_LANGPACK_GUG\n"
 "LngText.text"
 msgid "Installs the Guarani user interface"
-msgstr "ដំឡើង​ចំណុចប្រទាក់​អ្នកប្រើ​ជា​ភាសា​ហ្កុយ៉ារាទី"
+msgstr "ដំឡើង​ចំណុចប្រទាក់​អ្នកប្រើ​ជា​ភាសា​ហ្កុយ៉ារានី"
 
 #. rUQhG
 #: module_langpack.ulf
@@ -4209,7 +4205,7 @@ msgctxt ""
 "STR_NAME_MODULE_LANGPACK_SZL\n"
 "LngText.text"
 msgid "Silesian"
-msgstr ""
+msgstr "Silesian"
 
 #. Erz8u
 #: module_langpack.ulf
@@ -4218,7 +4214,7 @@ msgctxt ""
 "STR_DESC_MODULE_LANGPACK_SZL\n"
 "LngText.text"
 msgid "Installs the Silesian user interface"
-msgstr ""
+msgstr "ដំឡើង​ចំណុចប្រទាក់​អ្នកប្រើ​ជា​ភាសា​ស៊ីន Silesian"
 
 #. wWJ9Y
 #: module_langpack.ulf
@@ -4227,7 +4223,7 @@ msgctxt ""
 "STR_NAME_MODULE_LANGPACK_QTZ\n"
 "LngText.text"
 msgid "KeyID"
-msgstr "KeyID"
+msgstr "លេខសម្គាល់កូនសោ"
 
 #. eV5vu
 #: module_langpack.ulf
@@ -4335,7 +4331,7 @@ msgctxt ""
 "STR_NAME_MODULE_EXTENSION_DICTIONARY_AN\n"
 "LngText.text"
 msgid "Aragonese"
-msgstr "Aragonese"
+msgstr "អាហ្កានី"
 
 #. T7zQV
 #: module_ooo.ulf
@@ -4344,7 +4340,7 @@ msgctxt ""
 "STR_DESC_MODULE_EXTENSION_DICTIONARY_AN\n"
 "LngText.text"
 msgid "Aragonese spelling dictionary"
-msgstr "វចនានុក្រម​អក្ខរាវិរុទ្ធ Aragonese"
+msgstr "វចនានុក្រម​អក្ខរាវិរុទ្ធ អាហ្កានី"
 
 #. qN2sF
 #: module_ooo.ulf
@@ -4425,7 +4421,7 @@ msgctxt ""
 "STR_NAME_MODULE_EXTENSION_DICTIONARY_BO\n"
 "LngText.text"
 msgid "Classical Tibetan"
-msgstr ""
+msgstr "ទីបេបុរាណ"
 
 #. xXyL2
 #: module_ooo.ulf
@@ -4434,7 +4430,7 @@ msgctxt ""
 "STR_DESC_MODULE_EXTENSION_DICTIONARY_BO\n"
 "LngText.text"
 msgid "Classical Tibetan syllable spelling dictionary"
-msgstr ""
+msgstr "វចនានុក្រម​អក្ខរាវិរុទ្ធ​ភាសា ទីបេបុរាណ"
 
 #. gjKdw
 #: module_ooo.ulf
@@ -4767,7 +4763,7 @@ msgctxt ""
 "STR_NAME_MODULE_EXTENSION_DICTIONARY_ID\n"
 "LngText.text"
 msgid "Indonesian"
-msgstr ""
+msgstr "ឥណ្ឌូណេស៊ី"
 
 #. bKFJd
 #: module_ooo.ulf
@@ -4776,7 +4772,7 @@ msgctxt ""
 "STR_DESC_MODULE_EXTENSION_DICTIONARY_ID\n"
 "LngText.text"
 msgid "Indonesian spelling dictionary, hyphenation rules, and thesaurus"
-msgstr ""
+msgstr "វចនានុក្រមអក្ខរាវិរុទ្ធឥណ្ឌូណេស៊ីច្បាប់ដាក់សហសញ្ញានិងកម្រងវេវចនសព្ទ"
 
 #. G6XKV
 #: module_ooo.ulf
@@ -4986,8 +4982,8 @@ msgid "Portuguese (Brazil)"
 msgstr "ព័រទុយហ្គាល់ (ប្រេស៊ីល)"
 
 #. wWCfp
+#.
 #: module_ooo.ulf
-#, fuzzy
 msgctxt ""
 "module_ooo.ulf\n"
 "STR_DESC_MODULE_EXTENSION_DICTIONARY_PT_BR\n"
@@ -5113,8 +5109,8 @@ msgid "Albanian"
 msgstr "អាល់បានី"
 
 #. gDEY6
+#.
 #: module_ooo.ulf
-#, fuzzy
 msgctxt ""
 "module_ooo.ulf\n"
 "STR_DESC_MODULE_EXTENSION_DICTIONARY_SQ\n"
@@ -5219,7 +5215,7 @@ msgctxt ""
 "STR_NAME_MODULE_EXTENSION_DICTIONARY_TR\n"
 "LngText.text"
 msgid "Turkish"
-msgstr ""
+msgstr "ទួរគី"
 
 #. ALNqi
 #: module_ooo.ulf
@@ -5228,7 +5224,7 @@ msgctxt ""
 "STR_DESC_MODULE_EXTENSION_DICTIONARY_TR\n"
 "LngText.text"
 msgid "Turkish spelling dictionary"
-msgstr ""
+msgstr "វចនានុក្រមអក្ខរាវិរុទ្ធទួរគី"
 
 #. gyKCb
 #: module_ooo.ulf
@@ -5327,7 +5323,7 @@ msgctxt ""
 "STR_REG_VAL_INSTALL\n"
 "LngText.text"
 msgid "&Install"
-msgstr "ដំឡើង "
+msgstr "ដំឡើង"
 
 #. oZCSv
 #: registryitem_ooo.ulf
@@ -5336,16 +5332,17 @@ msgctxt ""
 "STR_REG_VAL_SO60_CONFIGFILE\n"
 "LngText.text"
 msgid "%PRODUCTNAME Configuration File"
-msgstr ""
+msgstr "ឯកសារកំណត់រចនាសម្ព័ន្ធ %PRODUCTNAME"
 
 #. AjY7Q
+#.
 #: registryitem_ooo.ulf
 msgctxt ""
 "registryitem_ooo.ulf\n"
 "STR_REG_VAL_EXTENSION\n"
 "LngText.text"
 msgid "%PRODUCTNAME Extension"
-msgstr ""
+msgstr "បន្ថែម %PRODUCTNAME"
 
 #. TKpXD
 #: registryitem_ooo.ulf

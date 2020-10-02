@@ -1,21 +1,19 @@
-#. extracted from helpcontent2/source/text/swriter/librelogo
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
-"POT-Creation-Date: 2019-08-21 21:37+0200\n"
-"PO-Revision-Date: 2017-05-07 23:41+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
-"Language-Team: Khmer <support@khmeros.info>\n"
+"POT-Creation-Date: 2020-03-10 13:36+0100\n"
+"PO-Revision-Date: 2020-09-13 21:31+0700\n"
+"Last-Translator: Koompi Apps Localization\n"
 "Language: km\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Accelerator-Marker: ~\n"
-"X-Generator: LibreOffice\n"
-"X-Language: km-KH\n"
-"X-POOTLE-MTIME: 1494200488.000000\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-POOTLE-MTIME: 1535975854.000000\n"
+"Language-Team: KOOMPI Apps Localization\n"
 
 #. kypzs
 #: LibreLogo.xhp
@@ -69,7 +67,7 @@ msgctxt ""
 "par_230\n"
 "help.text"
 msgid "The LibreLogo toolbar (<item type=\"menuitem\">View - Toolbars - Logo</item>) contains turtle moving, program start, stop, home, clear screen, program editor/syntax highlighting/translating icons and an input bar (command line)."
-msgstr ""
+msgstr "របារឧបករណ៍ LibreLogo ( <item type=\"menuitem\"> មើល - របារឧបករណ៍ - រូបសញ្ញា </item> ) មានអណ្តើកផ្លាស់ទី, កម្មវិធីចាប់ផ្តើម, បញ្ឈប់, ផ្ទះ, អេក្រង់ច្បាស់, កម្មវិធីកែសំរួលកម្មវិធី / សំយោគវាក្យសម្ព័ន្ធ / រូបសញ្ញាបកប្រែនិងរបាបញ្ចូល (បន្ទាត់ពាក្យបញ្ជា) ។"
 
 #. UBade
 #: LibreLogo.xhp
@@ -96,7 +94,7 @@ msgctxt ""
 "hd_280\n"
 "help.text"
 msgid "Start Logo program"
-msgstr "ចាប់ផ្ដើម​កម្មវិធី​ឡូហ្គោ"
+msgstr "ចាប់ផ្ដើម​កម្មវិធី​ឡូហ្គ"
 
 #. kD2YZ
 #: LibreLogo.xhp
@@ -168,7 +166,7 @@ msgctxt ""
 "par_345\n"
 "help.text"
 msgid "The “magic wand” icon sets 2-page layout for program editing, expands and converts to uppercase the abbreviated, lowercase Logo commands in the Writer document. Change the language of the document (<switchinline select=\"sys\"><caseinline select=\"MAC\"><menuitem>%PRODUCTNAME - Preferences</menuitem></caseinline><defaultinline><menuitem>Tools - Options</menuitem></defaultinline></switchinline><menuitem> - Language Settings - Languages - Western</menuitem>) and click on this icon to translate the Logo program to the selected language."
-msgstr ""
+msgstr "រូបតំណាង“ wand វេទមន្ត” តំរៀបប្លង់ ២ ទំព័រសំរាប់កែសំរួលកម្មវិធីពង្រីកនិងបំលែងទៅជាអក្សរធំនិងអក្សរតូចដែលមានអក្សរធំនៅក្នុងឯកសារ Writer ។ ផ្លាស់ប្តូរភាសារបស់ឯកសារ ( <switchinline select=\"sys\"><caseinline select=\"MAC\"><menuitem> %PRODUCTNAME - ចំណូលចិត្ត </menuitem></caseinline><defaultinline><menuitem> ឧបករណ៍ - ជម្រើស </menuitem></defaultinline></switchinline><menuitem> - ការកំណត់ភាសា - ភាសា - លោកខាងលិច </menuitem> ) ហើយចុចលើរូបតំណាងនេះដើម្បីបកប្រែកម្មវិធីឡូហ្គោទៅជាភាសាដែលបានជ្រើសរើស។"
 
 #. UXKqW
 #: LibreLogo.xhp
@@ -177,7 +175,7 @@ msgctxt ""
 "hd_350\n"
 "help.text"
 msgid "Command line"
-msgstr "បន្ទាត់​ពាក្យ​បញ្ជា"
+msgstr "បន្ទាត់​ពាក្យ​បញ្ជ"
 
 #. 3YCDe
 #: LibreLogo.xhp
@@ -204,7 +202,7 @@ msgctxt ""
 "par_380\n"
 "help.text"
 msgid "FORWARD 200 LEFT 89<br/>"
-msgstr "FORWARD 200 LEFT 89<br/>"
+msgstr "FORWARD 200 LEFT 89 <br/>"
 
 #. ymGTS
 #: LibreLogo.xhp
@@ -276,7 +274,7 @@ msgctxt ""
 "par_460\n"
 "help.text"
 msgid "TO triangle :size<br/> REPEAT 3 [<br/>   FORWARD :size<br/>   LEFT 120<br/> ]<br/> END<br/> <br/> triangle 10 triangle 100 triangle 200<br/>"
-msgstr "TO triangle :size<br/> REPEAT 3 [<br/>   FORWARD :size<br/>   LEFT 120<br/> ]<br/> END<br/> <br/> triangle 10 triangle 100 triangle 200<br/>"
+msgstr "ត្រីកោណ TO: ទំហំ <br/> ធ្វើឡើងវិញ ៣ [ <br/> FORWARD: ទំហំ <br/> ឡេ ១២០ <br/> ] <br/> បញ្ចប់ <br/><br/> ត្រីកោណ ១០ ត្រីកោណ ១០០ ត្រីកោណ ២០០ <br/>"
 
 #. NCcWh
 #: LibreLogo.xhp
@@ -285,7 +283,7 @@ msgctxt ""
 "hd_470\n"
 "help.text"
 msgid "Differences from the Logo programming language"
-msgstr "ខុស​ពី​ភាសា​កម្មវិធី​រូបសញ្ញា"
+msgstr "ខុស​ពី​ភាសា​កម្មវិធី​រូបសញ្ញ"
 
 #. JYDDE
 #: LibreLogo.xhp
@@ -303,7 +301,7 @@ msgctxt ""
 "par_490\n"
 "help.text"
 msgid "Program blocks and lists are different"
-msgstr "ប្លុក និង​បញ្ជី​កម្មវិធី​គឺ​ខុសគ្នា"
+msgstr "ប្លុក និង​បញ្ជី​កម្មវិធី​គឺ​ខុសគ្ន"
 
 #. FLEGH
 #: LibreLogo.xhp
@@ -393,7 +391,7 @@ msgctxt ""
 "par_590\n"
 "help.text"
 msgid "PRINT “text”[2] ; print “x”<br/> PRINT “text”[1:3] ; print “ex”<br/>"
-msgstr "PRINT “text”[2] ; print “x”<br/> PRINT “text”[1:3] ; print “ex”<br/>"
+msgstr "បោះពុម្ព“ អត្ថបទ” [២]; បោះពុម្ព“ x” <br/> បោះពុម្ព“ អត្ថបទ” [១: ៣]; បោះពុម្ព“ អតីត” <br/>"
 
 #. FKPEY
 #: LibreLogo.xhp
@@ -402,7 +400,7 @@ msgctxt ""
 "par_600\n"
 "help.text"
 msgid "Python-like FOR loop"
-msgstr "Python-like FOR loop"
+msgstr "អាយ៉ងដូចរង្វិលជុំ"
 
 #. zGZh9
 #: LibreLogo.xhp
@@ -420,7 +418,7 @@ msgctxt ""
 "par_620\n"
 "help.text"
 msgid "x = 15<br/> PRINT x<br/>"
-msgstr "x = 15<br/> PRINT x<br/>"
+msgstr "x = ១៥ <br/> PRINT x <br/>"
 
 #. LqrFq
 #: LibreLogo.xhp
@@ -438,7 +436,7 @@ msgctxt ""
 "par_640\n"
 "help.text"
 msgid "PRINT FILLCOLOR<br/> p = POSITION<br/> PRINT p<br/> REPEAT 10 [ POSITION ANY POSITION p ]<br/>"
-msgstr "PRINT FILLCOLOR<br/> p = POSITION<br/> PRINT p<br/> REPEAT 10 [ POSITION ANY POSITION p ]<br/>"
+msgstr "ព្រីនហ្វីលីខុល <br/> p = POSITION <br/> ព្រីនធ័រទំ <br/> ធ្វើម្តងទៀត ១០ [តួនាទីណាមួយទំព័រ] <br/>"
 
 #. DPDpi
 #: LibreLogo.xhp
@@ -447,7 +445,7 @@ msgctxt ""
 "par_650\n"
 "help.text"
 msgid "Alternative parenthesization in function calls"
-msgstr "ការ​ដាក់​រង្វង់​ក្រចក​ឆ្លាស់​នៅ​ក្នុង​អនុគមន៍​ហៅ"
+msgstr "ការ​ដាក់​រង្វង់​ក្រចក​ឆ្លាស់​នៅ​ក្នុង​អនុគមន៍​ហ"
 
 #. kRVnr
 #: LibreLogo.xhp
@@ -456,7 +454,7 @@ msgctxt ""
 "par_660\n"
 "help.text"
 msgid "TO star size color<br/> FILLCOLOR color<br/> REPEAT 5 [ LEFT 72 FORWARD size RIGHT 144 FORWARD size ]<br/> FILL<br/> END<br/> <br/> star 100 “red”<br/> star (100, “green”)<br/> star(100, “blue”)<br/>"
-msgstr "TO star size color<br/> FILLCOLOR color<br/> REPEAT 5 [ LEFT 72 FORWARD size RIGHT 144 FORWARD size ]<br/> FILL<br/> END<br/> <br/> star 100 “red”<br/> star (100, “green”)<br/> star(100, “blue”)<br/>"
+msgstr "ពណ៌ទំហំផ្កាយ TO <br/> ពណ៌ FILLCOLOR <br/> ធ្វើម្តងទៀត ៥ [ទំលាក់លេខ ៧២ ទំហំសមត្រឹមត្រូវទំហំ ១៤៤ ទំហំធំ] <br/> បំពេញ <br/> បញ្ចប់ <br/><br/> ផ្កាយ ១០០“ ក្រហម” <br/> ផ្កាយ (១០០, បៃតង) <br/> ផ្កាយ (១០០, ខៀវ) <br/>"
 
 #. usjNU
 #: LibreLogo.xhp
@@ -519,7 +517,7 @@ msgctxt ""
 "par_730\n"
 "help.text"
 msgid "a = 5<br/> A = 7<br/> PRINT a<br/> PRINT A<br/>"
-msgstr "a = 5<br/> A = 7<br/> PRINT a<br/> PRINT A<br/>"
+msgstr "a = 5 <br/> ក = ៧ <br/> ព្រីនធីក <br/> ព្រីន <br/>"
 
 #. CBUNL
 #: LibreLogo.xhp
@@ -546,7 +544,7 @@ msgctxt ""
 "par_760\n"
 "help.text"
 msgid "PRINT “Hello, World!” PRINT “LibreLogo”<br/>"
-msgstr "PRINT “Hello, World!” PRINT “LibreLogo”<br/>"
+msgstr "បោះពុម្ព“ សួស្តីពិភពលោក!” បោះពុម្ព“ LibreLogo” <br/>"
 
 #. 5qYG3
 #: LibreLogo.xhp
@@ -636,7 +634,7 @@ msgctxt ""
 "hd_860\n"
 "help.text"
 msgid "BACK (bk)"
-msgstr "BACK (bk)"
+msgstr "ថយក្រោយ (ប៊ីក)"
 
 #. vy8XF
 #: LibreLogo.xhp
@@ -690,7 +688,7 @@ msgctxt ""
 "hd_920\n"
 "help.text"
 msgid "PENUP (pu)"
-msgstr "PENUP (pu)"
+msgstr "ផេនភីភី (pu)"
 
 #. p5SAo
 #: LibreLogo.xhp
@@ -726,7 +724,7 @@ msgctxt ""
 "hd_960\n"
 "help.text"
 msgid "POSITION (pos)"
-msgstr "POSITION (pos)"
+msgstr "មុខតំណែង"
 
 #. pkDFc
 #: LibreLogo.xhp
@@ -789,7 +787,7 @@ msgctxt ""
 "hd_1030\n"
 "help.text"
 msgid "SHOWTURTLE (st)"
-msgstr "SHOWTURTLE (st)"
+msgstr "ការបង្ហាញ"
 
 #. iaE8S
 #: LibreLogo.xhp
@@ -807,7 +805,7 @@ msgctxt ""
 "hd_1050\n"
 "help.text"
 msgid "HOME"
-msgstr "HOME"
+msgstr "ផ្ទះ"
 
 #. EsTYe
 #: LibreLogo.xhp
@@ -816,7 +814,7 @@ msgctxt ""
 "par_1060\n"
 "help.text"
 msgid "HOME ; reset initial turtle position<br/>"
-msgstr ""
+msgstr "ផ្ទះ; កំណត់ទីតាំងអណ្តើកដំបូង <br/>"
 
 #. pSuHE
 #: LibreLogo.xhp
@@ -825,7 +823,7 @@ msgctxt ""
 "hd_1070\n"
 "help.text"
 msgid "CLEARSCREEN (cs)"
-msgstr "CLEARSCREEN (cs)"
+msgstr "CLEARSCREEN (ស៊ី)"
 
 #. GiT3h
 #: LibreLogo.xhp
@@ -852,7 +850,7 @@ msgctxt ""
 "par_1100\n"
 "help.text"
 msgid "FILL ; close and fill the actual line shape or points<br/> CLOSE ; close the actual line shape or join the actual points<br/>"
-msgstr ""
+msgstr "បំពេញ; បិទនិងបំពេញទ្រង់ទ្រាយបន្ទាត់ឬចំនុច <br/> បិទ; បិទរាងបន្ទាត់ពិតប្រាកដឬចូលរួមចំណុចពិតប្រាកដ <br/>"
 
 #. H56YC
 #: LibreLogo.xhp
@@ -861,7 +859,7 @@ msgctxt ""
 "par_1102\n"
 "help.text"
 msgid "Example: filling a regular triangle:"
-msgstr ""
+msgstr "ឧទាហរណ៍៖ បំពេញត្រីកោណធម្មតា៖"
 
 #. NDYyG
 #: LibreLogo.xhp
@@ -870,7 +868,7 @@ msgctxt ""
 "par_1104\n"
 "help.text"
 msgid "FORWARD 50 LEFT 120 FORWARD 50 FILL<br/>"
-msgstr ""
+msgstr "FORWARD 50 LEFT 120 FORWARD 50 បំពេញ <br/>"
 
 #. Y6joB
 #: LibreLogo.xhp
@@ -879,7 +877,7 @@ msgctxt ""
 "par_1106\n"
 "help.text"
 msgid "Example: drawing a regular triangle:"
-msgstr ""
+msgstr "ឧទាហរណ៍៖ គូរត្រីកោណធម្មតា៖"
 
 #. LmGSU
 #: LibreLogo.xhp
@@ -888,7 +886,7 @@ msgctxt ""
 "par_1108\n"
 "help.text"
 msgid "FORWARD 50 LEFT 120 FORWARD 50 CLOSE<br/>"
-msgstr ""
+msgstr "ផ្លាកលេខ ៥០ បណ្តោយ ១២០ ប៉ម ៥០ ផ្លុំ ៥០ <br/>"
 
 #. TwFEE
 #: LibreLogo.xhp
@@ -924,7 +922,7 @@ msgctxt ""
 "hd_1140\n"
 "help.text"
 msgid "PENCOLOR/PENCOLOUR (pc)"
-msgstr "PENCOLOR/PENCOLOUR (pc)"
+msgstr "PENCOLOR / PENCOLOUR (pc)"
 
 #. C57VA
 #: LibreLogo.xhp
@@ -960,7 +958,7 @@ msgctxt ""
 "hd_1153\n"
 "help.text"
 msgid "PENCAP/LINECAP"
-msgstr "PENCAP/LINECAP"
+msgstr "PENCAP / LINECAP"
 
 #. ZtQvC
 #: LibreLogo.xhp
@@ -978,7 +976,7 @@ msgctxt ""
 "hd_1160\n"
 "help.text"
 msgid "PENJOINT/LINEJOINT"
-msgstr "PENJOINT/LINEJOINT"
+msgstr "ផេនហ្សិនធី / ឡេនជេអ៊ីនធី"
 
 #. yCxRV
 #: LibreLogo.xhp
@@ -1023,17 +1021,16 @@ msgctxt ""
 "hd_1210\n"
 "help.text"
 msgid "FILLCOLOR/FILLCOLOUR (fc)"
-msgstr "FILLCOLOR/FILLCOLOUR (fc)"
+msgstr "បំពេញ / FILLCOLOUR (fc)"
 
 #. XsEBA
 #: LibreLogo.xhp
-#, fuzzy
 msgctxt ""
 "LibreLogo.xhp\n"
 "par_1220\n"
 "help.text"
-msgid "FILLCOLOR “blue” ; fill with blue color, see also PENCOLOR<br/> FILLCOLOR “invisible” CIRCLE 10 ; unfilled circle<br/> FILLCOLOR [“blue”, “red”] ; gradient between red and blue<br/> FILLCOLOR [[255, 255, 255], [255, 128, 0]] ; between white and orange<br/> FILLCOLOR [“blue”, “red”, 1, 0, 0] ; set axial gradient (with the required rotation and border settings), possible values: 0-5 = linear, axial, radial, elliptical, square and rectangle gradients<br/> FILLCOLOR [“red”, “blue”, 0, 90, 20] ; linear with 20% border, rotated with 90 degrees from the actual heading of the turtle<br/> FILLCOLOR [“red”, “blue”, 0, 90, 20, 0, 0, 200, 50] ; from 200% to 50% intensity<br/> FILLCOLOR [ANY, ANY, 2, 0, 0, 50, 50] ; radial gradient with random colors and 50-50% horizontal and vertical positions of the center<br/>"
-msgstr "FILLCOLOR “blue” ; បំពេញ​ជាមួយ​ពណ៌​ខៀវ, មើល PENCOLOR ផង​ដែរ<br/> FILLCOLOR “invisible” CIRCLE 10 ; រង្វង់​ដែល​មិន​បាន​បំពេញ<br/> FILLCOLOR [“blue”, “red”] ; ជម្រាល​រវាង​ពណ៌​ក្រហម និង​ពណ៌​ខៀវ<br/> FILLCOLOR [[255, 255, 255], [255, 128, 0]] ; រវាង​ពណ៌​ស និង​ពណ៌​ទឹកក្រូច​<br/> FILLCOLOR [“blue”, “red”, 1, 0, 0] ; កំណត់​ជម្រាល​អ័ក្ស (ជាមួយ ការ​បង្វិល​ដែល​ទាមទារ និង​ការ​កំណត់​ស៊ុម), តម្លៃ​វិជ្ជមាន៖ 0-5 = លីនេអ៊ែរ, អ័ក្ស, កាំ, អ៊ីលីប, ការេ​ និង​ជម្រាល​ចតុកោណ​កែង<br/> FILLCOLOR [“red”, “blue”, 0, 90, 20] ; លីនេអ៊ែរ​ដែល​មាន​ស៊ុម 20% , បាន​បង្វិល 90 ដឺក្រេ​ពី​ក្បាល​ជាក់ស្ដែង​នៃ turtle<br/> FILLCOLOR [“red”, 'blue”, 0, 90, 20, 0, 0, 200, 50] ; ពី 200% ទៅ 50% អាំងតង់ស៊ីតេ<br/> FILLCOLOR [ANY, ANY, 2, 0, 0, 50, 50] ; ជម្រាល​កាំ​ដែល​មាន​ពណ៌​ចៃដន្យ ដែល​មាន​ទីតាំង​បញ្ឈរ​ និង​ផ្ដេក 50-50% ​នៃ​កណ្ដាល<br/>"
+msgid "FILLCOLOR “blue” ; fill with blue color, see also PENCOLOR<br/> FILLCOLOR “invisible” CIRCLE 10 ; unfilled circle<br/> FILLCOLOR [“blue”, “red”] ; gradient between red and blue<br/> FILLCOLOR [[255, 255, 255], [255, 128, 0]] ; between white and orange<br/> FILLCOLOR [“blue”, “red”, 1, 0, 0] ; set axial gradient (with the required rotation and border settings), possible values: 0-5 = linear, axial, radial, elliptical, square and rectangle gradients<br/> FILLCOLOR [“red”, “blue”, 0, 90, 20] ; linear with 20%border, rotated with 90 degrees from the actual heading of the turtle<br/> FILLCOLOR [“red”, “blue”, 0, 90, 20, 0, 0, 200, 50] ; from 200%to 50%intensity<br/> FILLCOLOR [ANY, ANY, 2, 0, 0, 50, 50] ; radial gradient with random colors and 50-50%horizontal and vertical positions of the center<br/>"
+msgstr "FILLCOLOR “blue” ; បំពេញ​ជាមួយ​ពណ៌​ខៀវ, មើល PENCOLOR ផង​ដែរ<br/> FILLCOLOR “invisible” CIRCLE 10 ; រង្វង់​ដែល​មិន​បាន​បំពេញ<br/> FILLCOLOR [“blue”, “red”] ; ជម្រាល​រវាង​ពណ៌​ក្រហម និង​ពណ៌​ខៀវ<br/> FILLCOLOR [[255, 255, 255], [255, 128, 0]] ; រវាង​ពណ៌​ស និង​ពណ៌​ទឹកក្រូច​<br/> FILLCOLOR [“blue”, “red”, 1, 0, 0] ; កំណត់​ជម្រាល​អ័ក្ស (ជាមួយ ការ​បង្វិល​ដែល​ទាមទារ និង​ការ​កំណត់​ស៊ុម), តម្លៃ​វិជ្ជមាន៖ 0-5 = លីនេអ៊ែរ, អ័ក្ស, កាំ, អ៊ីលីប, ការេ​ និង​ជម្រាល​ចតុកោណ​កែង<br/> FILLCOLOR [“red”, “blue”, 0, 90, 20] ; លីនេអ៊ែរ​ដែល​មាន​ស៊ុម 20%, បាន​បង្វិល 90 ដឺក្រេ​ពី​ក្បាល​ជាក់ស្ដែង​នៃ turtle<br/> FILLCOLOR [“red”, 'blue”, 0, 90, 20, 0, 0, 200, 50] ; ពី 200%ទៅ 50%អាំងតង់ស៊ីតេ<br/> FILLCOLOR [ANY, ANY, 2, 0, 0, 50, 50] ; ជម្រាល​កាំ​ដែល​មាន​ពណ៌​ចៃដន្យ ដែល​មាន​ទីតាំង​បញ្ឈរ​ និង​ផ្ដេក 50-50%​នៃ​កណ្ដាល<br/>"
 
 #. vhN7n
 #: LibreLogo.xhp
@@ -1050,8 +1047,8 @@ msgctxt ""
 "LibreLogo.xhp\n"
 "par_1226\n"
 "help.text"
-msgid "FILLTRANSPARENCY 80 ; set the transparency of the actual fill color to 80%<br/> FILLTRANSPARENCY [80] ; set linear transparency gradient from 80% to 0%<br/> FILLTRANSPARENCY [80, 20] ; set linear transparency gradient from 80% to 20%<br/> FILLTRANSPARENCY [80, 20, 1, 90] ; set axial transparency gradient rotated with 90 degrees from the actual heading of the turtle<br/> FILLTRANSPARENCY [80, 20, 2, 0, 20, 50, 50] ; set radial transparency gradient from outer 80% to inner 20% transparency with 20% border and with 50-50% horizontal and vertical positions of the center<br/>"
-msgstr "FILLTRANSPARENCY 80 ; កំណត់​ភាព​ថ្លា​នៃ​ពណ៌​បំពេញ​ពិតប្រាកដ 80%<br/> FILLTRANSPARENCY [80] ; កំណត់​ជម្រាល​ភាព​ថ្លា​ពី 80% ដល់ 0%<br/> FILLTRANSPARENCY [80, 20] ; កំណត់​ជម្រាល​ភាព​ថ្លា​លីនេអ៊ែរ​ពី 80% ដល់ 20%<br/> FILLTRANSPARENCY [80, 20, 1, 90] ; កំណត់​ជម្រាល​ភាព​ថ្លា​អ័ក្ស​ដែល​បាន​បង្វិល 90 ដឺក្រេ​ពី​ក្បាល​ជាក់ស្ដែង turtle<br/> FILLTRANSPARENCY [80, 20, 2, 0, 20, 50, 50] ; កំណត់​ជម្រាល​ភាព​ថ្លា​កាំ​ពី​ខាងក្រៅ 80% ទៅ​ខាង​ក្នុង 20% ភាព​ថ្លា​ដែល​មាន​ស៊ុម 20% និង​ទីតាំង​បញ្ឈរ និង​ផ្ដេក 50-50% ​នៃ​កណ្ដាល<br/>"
+msgid "FILLTRANSPARENCY 80 ; set the transparency of the actual fill color to 80%<br/> FILLTRANSPARENCY [80] ; set linear transparency gradient from 80%to 0%<br/> FILLTRANSPARENCY [80, 20] ; set linear transparency gradient from 80%to 20%<br/> FILLTRANSPARENCY [80, 20, 1, 90] ; set axial transparency gradient rotated with 90 degrees from the actual heading of the turtle<br/> FILLTRANSPARENCY [80, 20, 2, 0, 20, 50, 50] ; set radial transparency gradient from outer 80%to inner 20%transparency with 20%border and with 50-50%horizontal and vertical positions of the center<br/>"
+msgstr "FILLTRANSPARENCY 80 ; កំណត់​ភាព​ថ្លា​នៃ​ពណ៌​បំពេញ​ពិតប្រាកដ 80%<br/> FILLTRANSPARENCY [80] ; កំណត់​ជម្រាល​ភាព​ថ្លា​ពី 80%ដល់ 0%<br/> FILLTRANSPARENCY [80, 20] ; កំណត់​ជម្រាល​ភាព​ថ្លា​លីនេអ៊ែរ​ពី 80%ដល់ 20%<br/> FILLTRANSPARENCY [80, 20, 1, 90] ; កំណត់​ជម្រាល​ភាព​ថ្លា​អ័ក្ស​ដែល​បាន​បង្វិល 90 ដឺក្រេ​ពី​ក្បាល​ជាក់ស្ដែង turtle<br/> FILLTRANSPARENCY [80, 20, 2, 0, 20, 50, 50] ; កំណត់​ជម្រាល​ភាព​ថ្លា​កាំ​ពី​ខាងក្រៅ 80%ទៅ​ខាង​ក្នុង 20%ភាព​ថ្លា​ដែល​មាន​ស៊ុម 20%និង​ទីតាំង​បញ្ឈរ និង​ផ្ដេក 50-50%​នៃ​កណ្ដាល<br/>"
 
 #. 9dQuv
 #: LibreLogo.xhp
@@ -1060,7 +1057,7 @@ msgctxt ""
 "hd_1230\n"
 "help.text"
 msgid "FILLSTYLE"
-msgstr "FILLSTYLE"
+msgstr "បំពេញ"
 
 #. LKRzD
 #: LibreLogo.xhp
@@ -1087,7 +1084,7 @@ msgctxt ""
 "hd_1260\n"
 "help.text"
 msgid "CIRCLE"
-msgstr "CIRCLE"
+msgstr "រង្វង់"
 
 #. XZEbj
 #: LibreLogo.xhp
@@ -1105,7 +1102,7 @@ msgctxt ""
 "hd_1280\n"
 "help.text"
 msgid "ELLIPSE"
-msgstr "ELLIPSE"
+msgstr "ពងក្រពើ"
 
 #. CEUDV
 #: LibreLogo.xhp
@@ -1123,7 +1120,7 @@ msgctxt ""
 "hd_1300\n"
 "help.text"
 msgid "SQUARE"
-msgstr "SQUARE"
+msgstr "ការ៉េ"
 
 #. E8AcG
 #: LibreLogo.xhp
@@ -1141,7 +1138,7 @@ msgctxt ""
 "hd_1320\n"
 "help.text"
 msgid "RECTANGLE"
-msgstr "RECTANGLE"
+msgstr "ចតុកោណកែង"
 
 #. wEzJs
 #: LibreLogo.xhp
@@ -1150,7 +1147,7 @@ msgctxt ""
 "par_1330\n"
 "help.text"
 msgid "RECTANGLE [50, 100] ; draw a rectangle shape (50×100pt)<br/> RECTANGLE [50, 100, 10] ; draw a rectangle with rounded corners<br/>"
-msgstr ""
+msgstr "RECTANGLE [៥០, ១០០]; គូររាងចតុកោណ (៥០ × ១០០pt) <br/> RECTANGLE [៥០, ១០០, ១០]; គូរចតុកោណដែលមានជ្រុងមូល <br/>"
 
 #. bjBw8
 #: LibreLogo.xhp
@@ -1159,7 +1156,7 @@ msgctxt ""
 "hd_1340\n"
 "help.text"
 msgid "POINT"
-msgstr "POINT"
+msgstr "ចំណុច"
 
 #. 4ybCB
 #: LibreLogo.xhp
@@ -1177,7 +1174,7 @@ msgctxt ""
 "par_1354\n"
 "help.text"
 msgid "CLOSE can join the last points, FILL can fill the shape defined by points. For example, it’s easy to draw a “flat” star starting from its center:"
-msgstr ""
+msgstr "ក្លូដអាចចូលរួមជាមួយចំណុចចុងក្រោយ, បំពេញអាចបំពេញរូបរាងដែលបានកំណត់ដោយចំណុច។ ឧទាហរណ៍វាងាយស្រួលក្នុងការគូរផ្កាយរាបស្មើដែលចាប់ផ្តើមពីចំណុចកណ្តាលរបស់វា៖"
 
 #. xuNBE
 #: LibreLogo.xhp
@@ -1186,7 +1183,7 @@ msgctxt ""
 "par_1357\n"
 "help.text"
 msgid "PENUP<br/> REPEAT 5 [<br/>   FORWARD 80<br/>   POINT<br/>   BACK 80<br/>   RIGHT 36<br/>   FORWARD 50<br/>   POINT<br/>   BACK 50<br/>   RIGHT 120<br/> ] FILL<br/>"
-msgstr ""
+msgstr "ភីន។ ភី <br/> ធ្វើឡើងវិញ ៥ [ <br/> FORWARD ៨០ <br/> POINT <br/> ថយក្រោយ ៨០ <br/> សិទ្ធិ ៣៦ <br/> FORWARD 50 <br/> POINT <br/> ត្រឡប់ ៥០ <br/> សិទ្ធិ ១២០ <br/> ] បំពេញ <br/>"
 
 #. WKi7Y
 #: LibreLogo.xhp
@@ -1195,7 +1192,7 @@ msgctxt ""
 "hd_1360\n"
 "help.text"
 msgid "LABEL"
-msgstr "LABEL"
+msgstr "ស្លាក​សញ្ញា"
 
 #. nwEgR
 #: LibreLogo.xhp
@@ -1213,7 +1210,7 @@ msgctxt ""
 "hd_1380\n"
 "help.text"
 msgid "TEXT"
-msgstr "TEXT"
+msgstr "សារទូរស័ព្ទ"
 
 #. CZFc8
 #: LibreLogo.xhp
@@ -1240,7 +1237,7 @@ msgctxt ""
 "hd_1410\n"
 "help.text"
 msgid "FONTCOLOR/FONTCOLOUR"
-msgstr "FONTCOLOR/FONTCOLOUR"
+msgstr "FONTCOLOR / FONTCOLOUR"
 
 #. ZZjQ6
 #: LibreLogo.xhp
@@ -1276,7 +1273,7 @@ msgctxt ""
 "hd_1450\n"
 "help.text"
 msgid "FONTSIZE"
-msgstr "FONTSIZE"
+msgstr "ទំហំ​អក្សរ"
 
 #. CzAEj
 #: LibreLogo.xhp
@@ -1330,7 +1327,7 @@ msgctxt ""
 "hd_1510\n"
 "help.text"
 msgid "PICTURE (pic)"
-msgstr "PICTURE (pic)"
+msgstr "រូបភាព (រូបភាព)"
 
 #. aCdQe
 #: LibreLogo.xhp
@@ -1366,7 +1363,7 @@ msgctxt ""
 "par_1545\n"
 "help.text"
 msgid "saving SVG images and SVG/SMIL animations;"
-msgstr "ការ​រក្សាទុក​រូបភាព SVG និង SVG/SMIL មាន​ចលនា"
+msgstr "ការ​រក្សាទុក​រូបភាព SVG និង SVG/SMIL មាន​ចលន"
 
 #. WGXhR
 #: LibreLogo.xhp
@@ -1411,7 +1408,7 @@ msgctxt ""
 "par_1590\n"
 "help.text"
 msgid "TO tree location<br/>   PENUP POSITION location HEADING 0 PENDOWN<br/>   PICTURE [ FORWARD 100 CIRCLE 100 ] ; tree-like grouped shape<br/> END<br/> <br/> PICTURE [ tree [230, 400] tree [300, 400] ] ; grouped shapes in a grouped shape<br/>"
-msgstr ""
+msgstr "ទីតាំង TO ដើមឈើ <br/> ទីតាំងប៉ៃលិន HEADING 0 PENDOWN <br/> រូបភាព [FORWARD 100 រង្វង់ ១០០]; រាងជាក្រុមមានរាងដូចដើមឈើ <br/> បញ្ចប់ <br/><br/> រូបភាព [មែកធាង [២៣០, ៤០០] មែកធាង [៣០០, ៤០០]]; រាងជាក្រុមតាមរាងជាក្រុម <br/>"
 
 #. UTobM
 #: LibreLogo.xhp
@@ -1483,7 +1480,7 @@ msgctxt ""
 "par_1630\n"
 "help.text"
 msgid "Use PICTURE to keep the consistency of positions and line shapes at the left border of Writer:"
-msgstr ""
+msgstr "ប្រើរូបភាពដើម្បីរក្សាភាពស្ថិតស្ថេរនៃមុខតំណែងនិងរូបរាងបន្ទាត់នៅព្រំដែនខាងឆ្វេងរបស់អ្នកនិពន្ធ៖"
 
 #. CVNWk
 #: LibreLogo.xhp
@@ -1492,7 +1489,7 @@ msgctxt ""
 "par_1640\n"
 "help.text"
 msgid "PICTURE [ CIRCLE 20 POSITION [-100, 100] CIRCLE 20 ]<br/>"
-msgstr "PICTURE [ CIRCLE 20 POSITION [-100, 100] CIRCLE 20 ]<br/>"
+msgstr "រូបភាព [រង្វង់ ២០ កាំជណ្តើរ [-១០០, ១០០] រង្វង់ ២០] <br/>"
 
 #. zFRw4
 #: LibreLogo.xhp
@@ -1510,7 +1507,7 @@ msgctxt ""
 "hd_1660\n"
 "help.text"
 msgid "REPEAT"
-msgstr "REPEAT"
+msgstr "ម្តងហើយម្តងទៀត"
 
 #. 2cCXB
 #: LibreLogo.xhp
@@ -1555,7 +1552,7 @@ msgctxt ""
 "par_1710\n"
 "help.text"
 msgid "REPEAT 100 [ FORWARD REPCOUNT LEFT 90 ]<br/>"
-msgstr "REPEAT 100 [ FORWARD REPCOUNT LEFT 90 ]<br/>"
+msgstr "ធ្វើឡើងវិញ ១០០ <br/>"
 
 #. LrLWT
 #: LibreLogo.xhp
@@ -1564,7 +1561,7 @@ msgctxt ""
 "hd_1720\n"
 "help.text"
 msgid "FOR IN"
-msgstr "FOR IN"
+msgstr "សំរាប់ IN"
 
 #. vkhbq
 #: LibreLogo.xhp
@@ -1582,7 +1579,7 @@ msgctxt ""
 "par_1740\n"
 "help.text"
 msgid "FOR i IN [1, 5, 7, 9, 11] [<br/>   FORWARD i<br/>   LEFT 90<br/> ]<br/>"
-msgstr "FOR i IN [1, 5, 7, 9, 11] [<br/>   FORWARD i<br/>   LEFT 90<br/> ]<br/>"
+msgstr "សម្រាប់ខ្ញុំក្នុង [១, ៥, ៧, ៩, ១១] [ <br/> FORWARD ខ្ញុំ <br/> លេខ ៩០ <br/> ] <br/>"
 
 #. Z6Gbt
 #: LibreLogo.xhp
@@ -1600,7 +1597,7 @@ msgctxt ""
 "par_1760\n"
 "help.text"
 msgid "FOR i IN “text” [<br/>   LABEL i<br/>   FORWARD 10<br/> ]<br/>"
-msgstr "FOR i IN “text” [<br/>   LABEL i<br/>   FORWARD 10<br/> ]<br/>"
+msgstr "សំរាប់ខ្ញុំក្នុង“ អត្ថបទ” [ <br/> LABEL ខ្ញុំ <br/> FORWARD ១០ <br/> ] <br/>"
 
 #. FRgJc
 #: LibreLogo.xhp
@@ -1609,7 +1606,7 @@ msgctxt ""
 "hd_1770\n"
 "help.text"
 msgid "WHILE"
-msgstr "WHILE"
+msgstr "ខណៈនេះ"
 
 #. qvVmD
 #: LibreLogo.xhp
@@ -1618,7 +1615,7 @@ msgctxt ""
 "par_1780\n"
 "help.text"
 msgid "WHILE TRUE [ POSITION ANY ] ; endless loop<br/> WHILE REPCOUNT <= 10 [ FORWARD 50 LEFT 36 ] ; as REPEAT 10 [ ... ]<br/>"
-msgstr "WHILE TRUE [ POSITION ANY ] ; endless loop<br/> WHILE REPCOUNT <= 10 [ FORWARD 50 LEFT 36 ] ; as REPEAT 10 [ ... ]<br/>"
+msgstr "រឿងពិតពេលណា [តួនាទីណាមួយ]; រង្វិលជុំគ្មានទីបញ្ចប់ <br/> របាយការណ៍ពេលត្រឡប់មកវិញ <= 10 [FORWARD 50 LEFT 36]; ដូចបានធ្វើឡើងវិញ ១០ [... ] Br /"
 
 #. h8DGE
 #: LibreLogo.xhp
@@ -1627,7 +1624,7 @@ msgctxt ""
 "hd_1790\n"
 "help.text"
 msgid "BREAK"
-msgstr "BREAK"
+msgstr "ពេលសម្រាក"
 
 #. hnUaX
 #: LibreLogo.xhp
@@ -1645,7 +1642,7 @@ msgctxt ""
 "par_1810\n"
 "help.text"
 msgid "REPEAT [ ; endless loop<br/>   POSITION ANY<br/>   IF REPCOUNT = 100 [ BREAK ]  ; equivalent of the REPEAT 100 [ ... ]<br/> ]<br/>"
-msgstr "REPEAT [ ; endless loop<br/>   POSITION ANY<br/>   IF REPCOUNT = 100 [ BREAK ]  ; equivalent of the REPEAT 100 [ ... ]<br/> ]<br/>"
+msgstr "ធ្វើឡើងវិញ [; រង្វិលជុំគ្មានទីបញ្ចប់ <br/> តួនាទីណាមួយ <br/> IF REPCOUNT = ១០០ [BREAK]; ស្មើនឹង REPEAT 100 [... ] <br/> ] <br/>"
 
 #. MVZar
 #: LibreLogo.xhp
@@ -1654,7 +1651,7 @@ msgctxt ""
 "hd_1820\n"
 "help.text"
 msgid "CONTINUE"
-msgstr "CONTINUE"
+msgstr "បន្ត"
 
 #. fAdUo
 #: LibreLogo.xhp
@@ -1671,8 +1668,8 @@ msgctxt ""
 "LibreLogo.xhp\n"
 "par_1840\n"
 "help.text"
-msgid "REPEAT 100 [<br/>   POSITION ANY<br/>   IF REPCOUNT % 2 = 0 [ CONTINUE ]<br/>   CIRCLE 10 ; draw circles on every 2nd positions<br/> ]<br/>"
-msgstr "REPEAT 100 [<br/>   POSITION ANY<br/>   IF REPCOUNT % 2 = 0 [ CONTINUE ]<br/>   CIRCLE 10 ; គូរ​រង្វង់​នៅ​រាល់​ទីតាំង​ទី២<br/> ]<br/>"
+msgid "REPEAT 100 [<br/>   POSITION ANY<br/>   IF REPCOUNT %2 = 0 [ CONTINUE ]<br/>   CIRCLE 10 ; draw circles on every 2nd positions<br/> ]<br/>"
+msgstr "REPEAT 100 [<br/>   POSITION ANY<br/>   IF REPCOUNT %2 = 0 [ CONTINUE ]<br/>   CIRCLE 10 ; គូរ​រង្វង់​នៅ​រាល់​ទីតាំង​ទី២<br/> ]<br/>"
 
 #. Ewq3B
 #: LibreLogo.xhp
@@ -1690,7 +1687,7 @@ msgctxt ""
 "hd_1860\n"
 "help.text"
 msgid "IF"
-msgstr "IF"
+msgstr "បើសិនជា"
 
 #. AGDe2
 #: LibreLogo.xhp
@@ -1708,7 +1705,7 @@ msgctxt ""
 "hd_1880\n"
 "help.text"
 msgid "AND, OR, NOT"
-msgstr "AND, OR, NOT"
+msgstr "និង, ឬ, មិន"
 
 #. Nzfwg
 #: LibreLogo.xhp
@@ -1744,7 +1741,7 @@ msgctxt ""
 "hd_1920\n"
 "help.text"
 msgid "TO, END"
-msgstr "TO, END"
+msgstr "បញ្ចប់"
 
 #. nCqVS
 #: LibreLogo.xhp
@@ -1762,7 +1759,7 @@ msgctxt ""
 "par_1940\n"
 "help.text"
 msgid "TO triangle<br/>   REPEAT 2 [ FORWARD 100 RIGHT 120 ] FILL<br/> END<br/> <br/> REPEAT 10 [ triangle PENUP POSITION ANY PENDOWN ]<br/>"
-msgstr ""
+msgstr "ត្រីកោណ <br/> ធ្វើឡើងវិញ ២ [FORWARD 100 ត្រឹមត្រូវ ១២០] <br/> បញ្ចប់ <br/><br/> ធ្វើម្តងទៀត ១០ [ត្រីកោណផេនភីថេសិនណាមួយដែលភ្ជាប់មកជាមួយ] <br/>"
 
 #. 6KiG9
 #: LibreLogo.xhp
@@ -1771,7 +1768,7 @@ msgctxt ""
 "hd_1950\n"
 "help.text"
 msgid "OUTPUT"
-msgstr "OUTPUT"
+msgstr "លទ្ធផល"
 
 #. jXNws
 #: LibreLogo.xhp
@@ -1789,7 +1786,7 @@ msgctxt ""
 "par_1970\n"
 "help.text"
 msgid "TO randomletter<br/>   OUTPUT RANDOM “qwertzuiopasdfghjklyxcvbnm”<br/> END<br/> <br/> PRINT randomletter + randomletter + randomletter ; print 3-letter random character sequence<br/>"
-msgstr "TO randomletter<br/>   OUTPUT RANDOM “qwertzuiopasdfghjklyxcvbnm”<br/> END<br/> <br/> PRINT randomletter + randomletter + randomletter ; print 3-letter random character sequence<br/>"
+msgstr "លិខិតចៃដន្យ <br/> រ៉ូដាប់ធ័រ OUTPUT RANDOM <br/> បញ្ចប់ <br/><br/> ព្រឹត្តិប័ត្រចៃដន្យ PRINT + ព្រឹត្តិប័ត្រចៃដន្យ + ចៃដន្យ; ព្រីនលេខតួអក្សរចៃដន្យ ៣ អក្សរ <br/>"
 
 #. eQwMS
 #: LibreLogo.xhp
@@ -1798,7 +1795,7 @@ msgctxt ""
 "hd_1980\n"
 "help.text"
 msgid "STOP"
-msgstr "STOP"
+msgstr "បន្ត​ប្រសិន​បើ​បាន​បញ្ឈប់"
 
 #. Yo67V
 #: LibreLogo.xhp
@@ -1834,7 +1831,7 @@ msgctxt ""
 "hd_2020\n"
 "help.text"
 msgid "ANY"
-msgstr "ANY"
+msgstr "ណាមួយ"
 
 #. m66pW
 #: LibreLogo.xhp
@@ -1861,7 +1858,7 @@ msgctxt ""
 "hd_2050\n"
 "help.text"
 msgid "TRUE"
-msgstr "TRUE"
+msgstr "ត្រឹមត្រូវ"
 
 #. TJtzt
 #: LibreLogo.xhp
@@ -1888,7 +1885,7 @@ msgctxt ""
 "hd_2080\n"
 "help.text"
 msgid "FALSE"
-msgstr "FALSE"
+msgstr "ខុស"
 
 #. zJfZY
 #: LibreLogo.xhp
@@ -1933,7 +1930,7 @@ msgctxt ""
 "hd_2130\n"
 "help.text"
 msgid "PI/π"
-msgstr "PI/π"
+msgstr "ភីអាយ / π"
 
 #. iFVgB
 #: LibreLogo.xhp
@@ -1951,7 +1948,7 @@ msgctxt ""
 "hd_2150\n"
 "help.text"
 msgid "Input/Output"
-msgstr "Input/Output"
+msgstr "បញ្ចូល-បញ្ចេញ"
 
 #. M3wYe
 #: LibreLogo.xhp
@@ -1960,7 +1957,7 @@ msgctxt ""
 "hd_2160\n"
 "help.text"
 msgid "PRINT"
-msgstr "PRINT"
+msgstr "បោះពុម្ព"
 
 #. a5BAu
 #: LibreLogo.xhp
@@ -1978,7 +1975,7 @@ msgctxt ""
 "hd_2180\n"
 "help.text"
 msgid "INPUT"
-msgstr "INPUT"
+msgstr "ការបញ្ចូល"
 
 #. FFEEm
 #: LibreLogo.xhp
@@ -1996,7 +1993,7 @@ msgctxt ""
 "hd_2200\n"
 "help.text"
 msgid "SLEEP"
-msgstr "SLEEP"
+msgstr "គេង"
 
 #. DsRyJ
 #: LibreLogo.xhp
@@ -2014,7 +2011,7 @@ msgctxt ""
 "hd_2220\n"
 "help.text"
 msgid "GLOBAL"
-msgstr "GLOBAL"
+msgstr "សកល"
 
 #. UnuYD
 #: LibreLogo.xhp
@@ -2050,7 +2047,7 @@ msgctxt ""
 "hd_2260\n"
 "help.text"
 msgid "RANDOM"
-msgstr "RANDOM"
+msgstr "Random"
 
 #. CqRBj
 #: LibreLogo.xhp
@@ -2068,7 +2065,7 @@ msgctxt ""
 "hd_2280\n"
 "help.text"
 msgid "INT"
-msgstr "INT"
+msgstr "KILL"
 
 #. NBZPB
 #: LibreLogo.xhp
@@ -2086,7 +2083,7 @@ msgctxt ""
 "hd_2300\n"
 "help.text"
 msgid "FLOAT"
-msgstr "FLOAT"
+msgstr "អ​ណ្តែ​ត"
 
 #. LraHs
 #: LibreLogo.xhp
@@ -2122,7 +2119,7 @@ msgctxt ""
 "hd_2340\n"
 "help.text"
 msgid "SQRT"
-msgstr "SQRT"
+msgstr "រឹស"
 
 #. HpynP
 #: LibreLogo.xhp
@@ -2140,7 +2137,7 @@ msgctxt ""
 "hd_2360\n"
 "help.text"
 msgid "SIN"
-msgstr "SIN"
+msgstr "Sin"
 
 #. ZZFYB
 #: LibreLogo.xhp
@@ -2158,7 +2155,7 @@ msgctxt ""
 "hd_2380\n"
 "help.text"
 msgid "COS"
-msgstr "COS"
+msgstr "Cos"
 
 #. XUEnV
 #: LibreLogo.xhp
@@ -2194,7 +2191,7 @@ msgctxt ""
 "hd_2400\n"
 "help.text"
 msgid "ROUND"
-msgstr "ROUND"
+msgstr "ជុំ"
 
 #. k8ZGG
 #: LibreLogo.xhp
@@ -2212,7 +2209,7 @@ msgctxt ""
 "hd_2420\n"
 "help.text"
 msgid "ABS"
-msgstr "ABS"
+msgstr "អេអេស"
 
 #. gSEqT
 #: LibreLogo.xhp
@@ -2230,7 +2227,7 @@ msgctxt ""
 "hd_2440\n"
 "help.text"
 msgid "COUNT"
-msgstr "COUNT"
+msgstr "ចំនួន"
 
 #. oqkjJ
 #: LibreLogo.xhp
@@ -2248,7 +2245,7 @@ msgctxt ""
 "hd_2460\n"
 "help.text"
 msgid "SET"
-msgstr "SET"
+msgstr "កំណត់"
 
 #. DdjJo
 #: LibreLogo.xhp
@@ -2266,7 +2263,7 @@ msgctxt ""
 "hd_2480\n"
 "help.text"
 msgid "RANGE"
-msgstr "RANGE"
+msgstr "ជួរ"
 
 #. XMADf
 #: LibreLogo.xhp
@@ -2284,7 +2281,7 @@ msgctxt ""
 "hd_2500\n"
 "help.text"
 msgid "LIST"
-msgstr "LIST"
+msgstr "បញ្ជី"
 
 #. DzJBZ
 #: LibreLogo.xhp
@@ -2302,7 +2299,7 @@ msgctxt ""
 "hd_2520\n"
 "help.text"
 msgid "TUPLE"
-msgstr "TUPLE"
+msgstr "តុក្កតា"
 
 #. FVmFF
 #: LibreLogo.xhp
@@ -2320,7 +2317,7 @@ msgctxt ""
 "par_2540\n"
 "help.text"
 msgid "PRINT TUPLE [4, 5]<br/>"
-msgstr "PRINT TUPLE [4, 5]<br/>"
+msgstr "ព្រីនធ័រព្រីន [៤, ៥] <br/>"
 
 #. mckf6
 #: LibreLogo.xhp
@@ -2329,7 +2326,7 @@ msgctxt ""
 "hd_2550\n"
 "help.text"
 msgid "SORTED"
-msgstr "SORTED"
+msgstr "បានផ្ញើ"
 
 #. TwUpK
 #: LibreLogo.xhp
@@ -2356,7 +2353,7 @@ msgctxt ""
 "hd_2580\n"
 "help.text"
 msgid "SUB"
-msgstr "SUB"
+msgstr "អនុ"
 
 #. swzQ6
 #: LibreLogo.xhp
@@ -2383,7 +2380,7 @@ msgctxt ""
 "hd_2610\n"
 "help.text"
 msgid "SEARCH"
-msgstr "SEARCH"
+msgstr "ស្វែងរក"
 
 #. j7zXx
 #: LibreLogo.xhp
@@ -2401,7 +2398,7 @@ msgctxt ""
 "par_2630\n"
 "help.text"
 msgid "IF SEARCH (“\\w”, \"word\") [ PRINT “Letter in the word.” ]<br/>"
-msgstr ""
+msgstr "ប្រសិនបើស្វែងរក (“\\ w”, \"ពាក្យ \") [ព្រីន“ អក្សរក្នុងពាក្យ” ។ ] <br/>"
 
 #. iYDnc
 #: LibreLogo.xhp
@@ -2410,7 +2407,7 @@ msgctxt ""
 "hd_2640\n"
 "help.text"
 msgid "FINDALL"
-msgstr "FINDALL"
+msgstr "ស្វែងរក"
 
 #. AfWqb
 #: LibreLogo.xhp
@@ -2437,7 +2434,7 @@ msgctxt ""
 "hd_2670\n"
 "help.text"
 msgid "MIN"
-msgstr "MIN"
+msgstr "អប្ប."
 
 #. CDZ7m
 #: LibreLogo.xhp
@@ -2455,7 +2452,7 @@ msgctxt ""
 "hd_2690\n"
 "help.text"
 msgid "MAX"
-msgstr "MAX"
+msgstr "អតិ."
 
 #. Nz4KB
 #: LibreLogo.xhp
@@ -2518,7 +2515,7 @@ msgctxt ""
 "par_2780\n"
 "help.text"
 msgid "BLACK"
-msgstr "BLACK"
+msgstr "ខ្មៅ"
 
 #. zRS27
 #: LibreLogo.xhp
@@ -2536,7 +2533,7 @@ msgctxt ""
 "par_2810\n"
 "help.text"
 msgid "SILVER"
-msgstr "SILVER"
+msgstr "ប្រាក់"
 
 #. ZmEKg
 #: LibreLogo.xhp
@@ -2554,7 +2551,7 @@ msgctxt ""
 "par_2840\n"
 "help.text"
 msgid "GRAY/GREY"
-msgstr "GRAY/GREY"
+msgstr "ហ្គីតា / ហ្គ្រេហ្គី"
 
 #. ph6GC
 #: LibreLogo.xhp
@@ -2572,7 +2569,7 @@ msgctxt ""
 "par_2870\n"
 "help.text"
 msgid "WHITE"
-msgstr "WHITE"
+msgstr "ជនជាតិស្បែកស"
 
 #. vLCPV
 #: LibreLogo.xhp
@@ -2590,7 +2587,7 @@ msgctxt ""
 "par_2900\n"
 "help.text"
 msgid "MAROON"
-msgstr "MAROON"
+msgstr "ត្នោត​ចាស់"
 
 #. gbfqt
 #: LibreLogo.xhp
@@ -2608,7 +2605,7 @@ msgctxt ""
 "par_2930\n"
 "help.text"
 msgid "RED"
-msgstr "RED"
+msgstr "ក្រហម"
 
 #. toCN7
 #: LibreLogo.xhp
@@ -2626,7 +2623,7 @@ msgctxt ""
 "par_2960\n"
 "help.text"
 msgid "PURPLE"
-msgstr "PURPLE"
+msgstr "ព៌ណស្វាយ"
 
 #. DiF9i
 #: LibreLogo.xhp
@@ -2644,7 +2641,7 @@ msgctxt ""
 "par_2990\n"
 "help.text"
 msgid "FUCHSIA/MAGENTA"
-msgstr "FUCHSIA/MAGENTA"
+msgstr "FUCHSIA / MAGENTA"
 
 #. YDMDw
 #: LibreLogo.xhp
@@ -2662,7 +2659,7 @@ msgctxt ""
 "par_3020\n"
 "help.text"
 msgid "GREEN"
-msgstr "GREEN"
+msgstr "បៃតង"
 
 #. qAB4J
 #: LibreLogo.xhp
@@ -2680,7 +2677,7 @@ msgctxt ""
 "par_3050\n"
 "help.text"
 msgid "LIME"
-msgstr "LIME"
+msgstr "ក្រូចឆ្មារ"
 
 #. Bi3VZ
 #: LibreLogo.xhp
@@ -2689,7 +2686,7 @@ msgctxt ""
 "par_3070\n"
 "help.text"
 msgid "10"
-msgstr "10"
+msgstr "១០"
 
 #. Z6iWn
 #: LibreLogo.xhp
@@ -2698,7 +2695,7 @@ msgctxt ""
 "par_3080\n"
 "help.text"
 msgid "OLIVE"
-msgstr "OLIVE"
+msgstr "អូលីវ"
 
 #. PZiEE
 #: LibreLogo.xhp
@@ -2707,7 +2704,7 @@ msgctxt ""
 "par_3100\n"
 "help.text"
 msgid "11"
-msgstr "11"
+msgstr "១១"
 
 #. EPxBY
 #: LibreLogo.xhp
@@ -2716,7 +2713,7 @@ msgctxt ""
 "par_3110\n"
 "help.text"
 msgid "YELLOW"
-msgstr "YELLOW"
+msgstr "លឿង"
 
 #. WQFet
 #: LibreLogo.xhp
@@ -2725,7 +2722,7 @@ msgctxt ""
 "par_3130\n"
 "help.text"
 msgid "12"
-msgstr "12"
+msgstr "១២"
 
 #. qq6Eh
 #: LibreLogo.xhp
@@ -2734,7 +2731,7 @@ msgctxt ""
 "par_3140\n"
 "help.text"
 msgid "NAVY"
-msgstr "NAVY"
+msgstr "ខៀវ​ចាស់"
 
 #. p67oX
 #: LibreLogo.xhp
@@ -2743,7 +2740,7 @@ msgctxt ""
 "par_3160\n"
 "help.text"
 msgid "13"
-msgstr "13"
+msgstr "១៣"
 
 #. DGv9K
 #: LibreLogo.xhp
@@ -2752,7 +2749,7 @@ msgctxt ""
 "par_3170\n"
 "help.text"
 msgid "BLUE"
-msgstr "BLUE"
+msgstr "ខៀវ"
 
 #. ssF5U
 #: LibreLogo.xhp
@@ -2761,7 +2758,7 @@ msgctxt ""
 "par_3190\n"
 "help.text"
 msgid "14"
-msgstr "14"
+msgstr "១៤"
 
 #. GDgDh
 #: LibreLogo.xhp
@@ -2770,7 +2767,7 @@ msgctxt ""
 "par_3200\n"
 "help.text"
 msgid "TEAL"
-msgstr "TEAL"
+msgstr "ពណ៌តែបៃតង"
 
 #. vsGNB
 #: LibreLogo.xhp
@@ -2779,7 +2776,7 @@ msgctxt ""
 "par_3220\n"
 "help.text"
 msgid "15"
-msgstr "15"
+msgstr "១៥"
 
 #. vzX4a
 #: LibreLogo.xhp
@@ -2788,7 +2785,7 @@ msgctxt ""
 "par_3230\n"
 "help.text"
 msgid "AQUA"
-msgstr "AQUA"
+msgstr "ទឹក"
 
 #. RMBGU
 #: LibreLogo.xhp
@@ -2797,7 +2794,7 @@ msgctxt ""
 "par_3250\n"
 "help.text"
 msgid "16"
-msgstr "16"
+msgstr "១៦"
 
 #. gh8oP
 #: LibreLogo.xhp
@@ -2806,7 +2803,7 @@ msgctxt ""
 "par_3260\n"
 "help.text"
 msgid "PINK"
-msgstr "PINK"
+msgstr "ពណ៌ផ្កាឈូក"
 
 #. JgaGF
 #: LibreLogo.xhp
@@ -2824,7 +2821,7 @@ msgctxt ""
 "par_3290\n"
 "help.text"
 msgid "TOMATO"
-msgstr "TOMATO"
+msgstr "ប៉េងប៉ោះ"
 
 #. 2Xsfp
 #: LibreLogo.xhp
@@ -2833,7 +2830,7 @@ msgctxt ""
 "par_3310\n"
 "help.text"
 msgid "18"
-msgstr "18"
+msgstr "១៨"
 
 #. jnfBN
 #: LibreLogo.xhp
@@ -2842,7 +2839,7 @@ msgctxt ""
 "par_3320\n"
 "help.text"
 msgid "ORANGE"
-msgstr "ORANGE"
+msgstr "ពណ៌ក្រូច"
 
 #. Dxcnb
 #: LibreLogo.xhp
@@ -2860,7 +2857,7 @@ msgctxt ""
 "par_3350\n"
 "help.text"
 msgid "GOLD"
-msgstr "GOLD"
+msgstr "មាស"
 
 #. He5CF
 #: LibreLogo.xhp
@@ -2869,7 +2866,7 @@ msgctxt ""
 "par_3370\n"
 "help.text"
 msgid "20"
-msgstr "20"
+msgstr "២០"
 
 #. wYkBx
 #: LibreLogo.xhp
@@ -2878,7 +2875,7 @@ msgctxt ""
 "par_3380\n"
 "help.text"
 msgid "VIOLET"
-msgstr "VIOLET"
+msgstr "ស្វាយ"
 
 #. BPBVe
 #: LibreLogo.xhp
@@ -2896,7 +2893,7 @@ msgctxt ""
 "par_3410\n"
 "help.text"
 msgid "SKYBLUE"
-msgstr "SKYBLUE"
+msgstr "ផ្ទៃមេឃ"
 
 #. aWn3M
 #: LibreLogo.xhp
@@ -2905,7 +2902,7 @@ msgctxt ""
 "par_3430\n"
 "help.text"
 msgid "22"
-msgstr "22"
+msgstr "២២"
 
 #. SwkDB
 #: LibreLogo.xhp
@@ -2914,7 +2911,7 @@ msgctxt ""
 "par_3440\n"
 "help.text"
 msgid "CHOCOLATE"
-msgstr "CHOCOLATE"
+msgstr "សូកូឡា"
 
 #. tyZM5
 #: LibreLogo.xhp
@@ -2932,7 +2929,7 @@ msgctxt ""
 "par_3470\n"
 "help.text"
 msgid "BROWN"
-msgstr "BROWN"
+msgstr "ត្នោត"
 
 #. o4hc4
 #: LibreLogo.xhp
@@ -2941,7 +2938,7 @@ msgctxt ""
 "par_3490\n"
 "help.text"
 msgid "24"
-msgstr "24"
+msgstr "២៤"
 
 #. 2sSBN
 #: LibreLogo.xhp
@@ -2950,4 +2947,4 @@ msgctxt ""
 "par_3500\n"
 "help.text"
 msgid "INVISIBLE"
-msgstr "INVISIBLE"
+msgstr "មើល​មិនឃើញ"

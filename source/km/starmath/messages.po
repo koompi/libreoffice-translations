@@ -1,20 +1,19 @@
-#. extracted from starmath/inc
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
-"POT-Creation-Date: 2020-08-25 16:10+0200\n"
-"PO-Revision-Date: 2018-05-08 13:40+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2020-03-10 13:36+0100\n"
+"PO-Revision-Date: 2020-09-08 15:57+0700\n"
+"Last-Translator: Koompi Apps Localization\n"
 "Language: km\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Accelerator-Marker: ~\n"
-"X-Generator: LibreOffice\n"
-"X-POOTLE-MTIME: 1525786817.000000\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-POOTLE-MTIME: 1535975854.000000\n"
+"Language-Team: KOOMPI Apps Localization\n"
 
 #. GrDhX
 #: starmath/inc/smmod.hrc:16
@@ -26,373 +25,373 @@ msgstr "ភាសា​ក្រិក"
 #: starmath/inc/smmod.hrc:17
 msgctxt "RID_UI_SYMBOLSET_NAMES"
 msgid "Special"
-msgstr "ពិសេស"
+msgstr "សញ្ញាពិសេស"
 
 #. aXhLc
 #: starmath/inc/smmod.hrc:22
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "alpha"
-msgstr "alpha"
+msgstr ""
 
 #. rhVhw
 #: starmath/inc/smmod.hrc:23
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "ALPHA"
-msgstr "ALPHA"
+msgstr ""
 
 #. U3CqD
 #: starmath/inc/smmod.hrc:24
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "beta"
-msgstr "beta"
+msgstr ""
 
 #. pEoCL
 #: starmath/inc/smmod.hrc:25
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "BETA"
-msgstr "BETA"
+msgstr ""
 
 #. D2jkQ
 #: starmath/inc/smmod.hrc:26
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "gamma"
-msgstr "gamma"
+msgstr ""
 
 #. 4Cw8A
 #: starmath/inc/smmod.hrc:27
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "GAMMA"
-msgstr "GAMMA"
+msgstr ""
 
 #. uMmke
 #: starmath/inc/smmod.hrc:28
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "delta"
-msgstr "delta"
+msgstr ""
 
 #. dBy8u
 #: starmath/inc/smmod.hrc:29
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "DELTA"
-msgstr "DELTA"
+msgstr ""
 
 #. CrJqB
 #: starmath/inc/smmod.hrc:30
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "epsilon"
-msgstr "epsilon"
+msgstr ""
 
 #. jSZ7F
 #: starmath/inc/smmod.hrc:31
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "EPSILON"
-msgstr "EPSILON"
+msgstr ""
 
 #. kRvNs
 #: starmath/inc/smmod.hrc:32
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "zeta"
-msgstr "zeta"
+msgstr ""
 
 #. YA3sh
 #: starmath/inc/smmod.hrc:33
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "ZETA"
-msgstr "ZETA"
+msgstr ""
 
 #. kEWFU
 #: starmath/inc/smmod.hrc:34
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "eta"
-msgstr "eta"
+msgstr ""
 
 #. r8ivE
 #: starmath/inc/smmod.hrc:35
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "ETA"
-msgstr "ETA"
+msgstr ""
 
 #. CaW5B
 #: starmath/inc/smmod.hrc:36
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "theta"
-msgstr "theta"
+msgstr ""
 
 #. MUaj7
 #: starmath/inc/smmod.hrc:37
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "THETA"
-msgstr "THETA"
+msgstr ""
 
 #. FAdCp
 #: starmath/inc/smmod.hrc:38
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "iota"
-msgstr "iota"
+msgstr ""
 
 #. 2RFqS
 #: starmath/inc/smmod.hrc:39
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "IOTA"
-msgstr "IOTA"
+msgstr ""
 
 #. E6LBi
 #: starmath/inc/smmod.hrc:40
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "kappa"
-msgstr "kappa"
+msgstr ""
 
 #. PGGyZ
 #: starmath/inc/smmod.hrc:41
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "KAPPA"
-msgstr "KAPPA"
+msgstr ""
 
 #. QhGid
 #: starmath/inc/smmod.hrc:42
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "lambda"
-msgstr "lambda"
+msgstr ""
 
 #. JBLgu
 #: starmath/inc/smmod.hrc:43
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "LAMBDA"
-msgstr "LAMBDA"
+msgstr ""
 
 #. AkyEU
 #: starmath/inc/smmod.hrc:44
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "mu"
-msgstr "mu"
+msgstr ""
 
 #. t4RFD
 #: starmath/inc/smmod.hrc:45
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "MU"
-msgstr "MU"
+msgstr ""
 
 #. DwBRA
 #: starmath/inc/smmod.hrc:46
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "nu"
-msgstr "nu"
+msgstr ""
 
 #. sDc6Z
 #: starmath/inc/smmod.hrc:47
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "NU"
-msgstr "NU"
+msgstr ""
 
 #. dMns2
 #: starmath/inc/smmod.hrc:48
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "xi"
-msgstr "xi"
+msgstr ""
 
 #. 2cEVh
 #: starmath/inc/smmod.hrc:49
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "XI"
-msgstr "XI"
+msgstr ""
 
 #. PWUDK
 #: starmath/inc/smmod.hrc:50
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "omicron"
-msgstr "omicron"
+msgstr ""
 
 #. ZvPw7
 #: starmath/inc/smmod.hrc:51
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "OMICRON"
-msgstr "OMICRON"
+msgstr ""
 
 #. VmDhA
 #: starmath/inc/smmod.hrc:52
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "pi"
-msgstr "pi"
+msgstr ""
 
 #. A3eoZ
 #: starmath/inc/smmod.hrc:53
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "PI"
-msgstr "PI"
+msgstr ""
 
 #. Pu9vL
 #: starmath/inc/smmod.hrc:54
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "rho"
-msgstr "rho"
+msgstr ""
 
 #. HjNFe
 #: starmath/inc/smmod.hrc:55
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "RHO"
-msgstr "RHO"
+msgstr ""
 
 #. 9Aa3V
 #: starmath/inc/smmod.hrc:56
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "sigma"
-msgstr "sigma"
+msgstr ""
 
 #. JLWqn
 #: starmath/inc/smmod.hrc:57
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "SIGMA"
-msgstr "SIGMA"
+msgstr ""
 
 #. NTuqk
 #: starmath/inc/smmod.hrc:58
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "tau"
-msgstr "tau"
+msgstr ""
 
 #. GdhQ5
 #: starmath/inc/smmod.hrc:59
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "TAU"
-msgstr "TAU"
+msgstr ""
 
 #. 6djSp
 #: starmath/inc/smmod.hrc:60
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "upsilon"
-msgstr "upsilon"
+msgstr ""
 
 #. ymFBb
 #: starmath/inc/smmod.hrc:61
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "UPSILON"
-msgstr "UPSILON"
+msgstr ""
 
 #. YxRXi
 #: starmath/inc/smmod.hrc:62
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "phi"
-msgstr "phi"
+msgstr ""
 
 #. enCD7
 #: starmath/inc/smmod.hrc:63
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "PHI"
-msgstr "PHI"
+msgstr ""
 
 #. GcQPF
 #: starmath/inc/smmod.hrc:64
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "chi"
-msgstr "chi"
+msgstr ""
 
 #. 6SBnr
 #: starmath/inc/smmod.hrc:65
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "CHI"
-msgstr "CHI"
+msgstr ""
 
 #. NAmaK
 #: starmath/inc/smmod.hrc:66
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "psi"
-msgstr "psi"
+msgstr ""
 
 #. GLZ2h
 #: starmath/inc/smmod.hrc:67
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "PSI"
-msgstr "PSI"
+msgstr ""
 
 #. JEF5A
 #: starmath/inc/smmod.hrc:68
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "omega"
-msgstr "omega"
+msgstr ""
 
 #. 9QKj8
 #: starmath/inc/smmod.hrc:69
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "OMEGA"
-msgstr "OMEGA"
+msgstr ""
 
 #. YQGDY
 #: starmath/inc/smmod.hrc:70
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "varepsilon"
-msgstr "varepsilon"
+msgstr ""
 
 #. VLAFM
 #: starmath/inc/smmod.hrc:71
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "vartheta"
-msgstr "vartheta"
+msgstr ""
 
 #. UJB26
 #: starmath/inc/smmod.hrc:72
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "varpi"
-msgstr "varpi"
+msgstr ""
 
 #. BCNqp
 #: starmath/inc/smmod.hrc:73
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "varrho"
-msgstr "varrho"
+msgstr ""
 
 #. SUNDb
 #: starmath/inc/smmod.hrc:74
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "varsigma"
-msgstr "varsigma"
+msgstr ""
 
 #. cHCgN
 #: starmath/inc/smmod.hrc:75
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "varphi"
-msgstr "varphi"
+msgstr ""
 
 #. c9n9F
 #: starmath/inc/smmod.hrc:76
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "element"
-msgstr "element"
+msgstr "ធាតុ"
 
 #. yXYWE
 #: starmath/inc/smmod.hrc:77
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "noelement"
-msgstr "noelement"
+msgstr "ការស្រែកថ្ងូរ"
 
 #. nDkSp
 #: starmath/inc/smmod.hrc:78
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "strictlylessthan"
-msgstr "strictlylessthan"
+msgstr "យ៉ាងតឹងរឹង"
 
 #. 9AZxy
 #: starmath/inc/smmod.hrc:79
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "strictlygreaterthan"
-msgstr "strictlygreaterthan"
+msgstr "តឹងរឹង"
 
 #. 4F3qH
 #: starmath/inc/smmod.hrc:80
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "notequal"
-msgstr "notequal"
+msgstr "ការកត់ចំណាំ"
 
 #. 6UYC3
 #: starmath/inc/smmod.hrc:81
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "identical"
-msgstr "identical"
+msgstr "ដូចគ្នា"
 
 #. 38B2B
 #: starmath/inc/smmod.hrc:82
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "tendto"
-msgstr "tendto"
+msgstr "ទំនោរ"
 
 #. kDCC4
 #: starmath/inc/smmod.hrc:83
@@ -404,25 +403,25 @@ msgstr "អានន្ដ"
 #: starmath/inc/smmod.hrc:84
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "angle"
-msgstr "angle"
+msgstr "មុំ"
 
 #. MVfFZ
 #: starmath/inc/smmod.hrc:85
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "perthousand"
-msgstr "perthousand"
+msgstr "មួយម៉ឺន"
 
 #. tqFYX
 #: starmath/inc/smmod.hrc:86
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "and"
-msgstr "and"
+msgstr "ហើយ"
 
 #. jFASF
 #: starmath/inc/smmod.hrc:87
 msgctxt "RID_UI_SYMBOL_NAMES"
 msgid "or"
-msgstr "or"
+msgstr "ឬ"
 
 #. hW5GK
 #: starmath/inc/strings.hrc:25
@@ -506,31 +505,31 @@ msgstr "វិធី​ចែក (ប្រភាគ)"
 #: starmath/inc/strings.hrc:38
 msgctxt "RID_XODIVIDEY_HELP"
 msgid "Circled Slash"
-msgstr ""
+msgstr "សញ្ញារង្វង់មូល"
 
 #. PVroC
 #: starmath/inc/strings.hrc:39
 msgctxt "RID_XODOTY_HELP"
 msgid "Circled Dot"
-msgstr ""
+msgstr "គូសរង្វង់"
 
 #. 77wcq
 #: starmath/inc/strings.hrc:40
 msgctxt "RID_XOMINUSY_HELP"
 msgid "Circled Minus"
-msgstr ""
+msgstr "ដករង្វង់មូល"
 
 #. 9yGK7
 #: starmath/inc/strings.hrc:41
 msgctxt "RID_XOPLUSY_HELP"
 msgid "Circled Plus"
-msgstr ""
+msgstr "រង្វង់មូលបន្ថែម"
 
 #. zjt8o
 #: starmath/inc/strings.hrc:42
 msgctxt "RID_XOTIMESY_HELP"
 msgid "Tensor Product"
-msgstr ""
+msgstr "ផលិតផលថេនស៊ឺរ"
 
 #. S6QRE
 #: starmath/inc/strings.hrc:43
@@ -554,7 +553,7 @@ msgstr "​ស្មើ"
 #: starmath/inc/strings.hrc:46
 msgctxt "RID_XNEQY_HELP"
 msgid "Is Not Equal"
-msgstr "​មិន​ស្មើ"
+msgstr "​មិន​​ស្មើ"
 
 #. evxCD
 #: starmath/inc/strings.hrc:47
@@ -572,25 +571,25 @@ msgstr "ធំ​ជាង"
 #: starmath/inc/strings.hrc:49
 msgctxt "RID_XLEY_HELP"
 msgid "Is Less Than Or Equal To"
-msgstr "តូច​ជាង ឬ​ស្មើ"
+msgstr "តូច​ជាង ឬ​​ស្មើ"
 
 #. EhSMB
 #: starmath/inc/strings.hrc:50
 msgctxt "RID_XGEY_HELP"
 msgid "Is Greater Than Or Equal To"
-msgstr "ធំ​ជាង ឬ​ស្មើ"
+msgstr "ធំ​ជាង ឬ​​ស្មើ"
 
 #. cAE9M
 #: starmath/inc/strings.hrc:51
 msgctxt "RID_XLESLANTY_HELP"
 msgid "Is Less Than Or Equal To"
-msgstr "តូច​ជាង ឬ​ស្មើ"
+msgstr "តូច​ជាង ឬ​​ស្មើ"
 
 #. hE4hg
 #: starmath/inc/strings.hrc:52
 msgctxt "RID_XGESLANTY_HELP"
 msgid "Is Greater Than Or Equal To"
-msgstr "ធំ​ជាង ឬ​ស្មើ"
+msgstr "ធំ​ជាង ឬ​​ស្មើ"
 
 #. KAk9w
 #: starmath/inc/strings.hrc:53
@@ -608,7 +607,7 @@ msgstr "ធំជាង​ដាច់ខាត"
 #: starmath/inc/strings.hrc:55
 msgctxt "RID_XDEFY_HELP"
 msgid "Is Defined As"
-msgstr ""
+msgstr "ត្រូវបានកំណត់ជា"
 
 #. sXM7x
 #: starmath/inc/strings.hrc:56
@@ -662,13 +661,13 @@ msgstr "ខិត​ទៅរក"
 #: starmath/inc/strings.hrc:64
 msgctxt "RID_XTRANSLY_HELP"
 msgid "Corresponds To (Left)"
-msgstr ""
+msgstr "ត្រូវនឹង (ឆ្វេង)"
 
 #. JuZfc
 #: starmath/inc/strings.hrc:65
 msgctxt "RID_XTRANSRY_HELP"
 msgid "Corresponds To (Right)"
-msgstr ""
+msgstr "ត្រូវនឹង (ស្តាំ)"
 
 #. FA6hg
 #: starmath/inc/strings.hrc:66
@@ -728,13 +727,13 @@ msgstr "សំណុំ​រង ឬ ស្មើ​នឹង"
 #: starmath/inc/strings.hrc:75
 msgctxt "RID_XSUPSETY_HELP"
 msgid "Superset"
-msgstr "សំណុំ​មេ"
+msgstr "សំណុំរង"
 
 #. BCHWL
 #: starmath/inc/strings.hrc:76
 msgctxt "RID_XSUPSETEQY_HELP"
 msgid "Superset Or Equal To"
-msgstr "សំណុំ​មេ ឬ ស្មើ​នឹង"
+msgstr "សំណុំរង ឬ ស្មើ ​ទៅ"
 
 #. K67nF
 #: starmath/inc/strings.hrc:77
@@ -752,7 +751,7 @@ msgstr "មិន​មែន​​សំណុំ​រង​ ឬ ស្មើ"
 #: starmath/inc/strings.hrc:79
 msgctxt "RID_XNSUPSETY_HELP"
 msgid "Not Superset"
-msgstr "មិន​មែន​សំណុំ​មេ"
+msgstr "មិន​មែនសំណុំរង"
 
 #. 2Z4St
 #: starmath/inc/strings.hrc:80
@@ -764,7 +763,7 @@ msgstr "មិន​​មែនសំណុំ​មេ ឬ ស្មើ"
 #: starmath/inc/strings.hrc:81
 msgctxt "RID_FUNCX_HELP"
 msgid "General function"
-msgstr ""
+msgstr "B.0 មុខងារទូទៅ"
 
 #. AcgYW
 #: starmath/inc/strings.hrc:82
@@ -782,7 +781,7 @@ msgstr "ហ្វាក់តូរីយ្យែល"
 #: starmath/inc/strings.hrc:84
 msgctxt "RID_SQRTX_HELP"
 msgid "Square Root"
-msgstr "ឫស​ការេ"
+msgstr "ឫស​ការ"
 
 #. QtrqZ
 #: starmath/inc/strings.hrc:85
@@ -890,13 +889,13 @@ msgstr "កូតង់សង់​អ៊ីពែរបូល"
 #: starmath/inc/strings.hrc:102
 msgctxt "RID_ARSINHX_HELP"
 msgid "Area Hyperbolic Sine"
-msgstr "ស៊ីនុស​អ៊ីពែរបូល​នៃ​ផ្ទៃ"
+msgstr "ស៊ីនុស​អ៊ីពែរបូល​នៃ​ផ្ទ"
 
 #. bYkRi
 #: starmath/inc/strings.hrc:103
 msgctxt "RID_ARCOSHX_HELP"
 msgid "Area Hyperbolic Cosine"
-msgstr "កូស៊ីនុស​អ៊ីពែរបូល​នៃ​ផ្ទៃ"
+msgstr "កូស៊ីនុស​អ៊ីពែរបូល​នៃ​ផ្ទ"
 
 #. acsCE
 #: starmath/inc/strings.hrc:104
@@ -908,31 +907,31 @@ msgstr "តង់សង់​អ៊ីពែរបូល​នៃ​ផ្ទៃ
 #: starmath/inc/strings.hrc:105
 msgctxt "RID_ARCOTHX_HELP"
 msgid "Area Hyperbolic Cotangent"
-msgstr "កូតង់សង់​អ៊ីពែរបូល​នៃ​ផ្ទៃ"
+msgstr "កូតង់សង់​អ៊ីពែរបូល​នៃផ្ទៃ"
 
 #. G2RAG
 #: starmath/inc/strings.hrc:106
 msgctxt "RID_OPERX_HELP"
 msgid "General operator"
-msgstr ""
+msgstr "ប្រតិបត្តិករទូទៅ"
 
 #. EZ2X2
 #: starmath/inc/strings.hrc:107
 msgctxt "RID_OPER_FROMX_HELP"
 msgid "General operator Subscript Bottom"
-msgstr ""
+msgstr "អក្សរតូចក្រោមលេខប្រតិបត្តិករទូទៅ"
 
 #. HaUqv
 #: starmath/inc/strings.hrc:108
 msgctxt "RID_OPER_TOX_HELP"
 msgid "General operator Superscript Top"
-msgstr ""
+msgstr "ប្រតិបត្តិករទូទៅ Superscript ខាងលើ"
 
 #. Pch4L
 #: starmath/inc/strings.hrc:109
 msgctxt "RID_OPER_FROMTOX_HELP"
 msgid "General operator Sup/Sub script"
-msgstr ""
+msgstr "ប្រតិបត្តិករទូទៅ Sup/Sub ស្គ្រីប"
 
 #. 4eGMf
 #: starmath/inc/strings.hrc:110
@@ -1034,49 +1033,49 @@ msgstr "លីមីត​អក្សរ​តូច​លើ/ក្រោម"
 #: starmath/inc/strings.hrc:126
 msgctxt "RID_LIMINFX_HELP"
 msgid "Limit Inferior"
-msgstr ""
+msgstr "ដែនកំណត់អ៊ិនធឺរណែត"
 
 #. YMCGq
 #: starmath/inc/strings.hrc:127
 msgctxt "RID_LIMINF_FROMX_HELP"
 msgid "Limit Inferior Subscript Bottom"
-msgstr ""
+msgstr "ដែនកំណត់អក្សរតូចក្រោមទាប"
 
 #. GtSiM
 #: starmath/inc/strings.hrc:128
 msgctxt "RID_LIMINF_TOX_HELP"
 msgid "Limit Inferior Superscript Top"
-msgstr ""
+msgstr "កំណត់កំរិតអក្សរតូចលើកំពូល"
 
 #. xGGCw
 #: starmath/inc/strings.hrc:129
 msgctxt "RID_LIMINF_FROMTOX_HELP"
 msgid "Limit Inferior Sup/Sub script"
-msgstr ""
+msgstr "កំណត់អក្សរ Sup / Sub ដែលទាបជាង"
 
 #. pZzYb
 #: starmath/inc/strings.hrc:130
 msgctxt "RID_LIMSUPX_HELP"
 msgid "Limit Superior"
-msgstr ""
+msgstr "ដែនកំណត់ជាន់ខ្ពស់"
 
 #. Wi8KX
 #: starmath/inc/strings.hrc:131
 msgctxt "RID_LIMSUP_FROMX_HELP"
 msgid "Limit Superior Subscript Bottom"
-msgstr ""
+msgstr "ដែនកំណត់អក្សរតូចក្រោមមានកំណត់"
 
 #. KVDSH
 #: starmath/inc/strings.hrc:132
 msgctxt "RID_LIMSUP_TOX_HELP"
 msgid "Limit Superior Superscript Top"
-msgstr ""
+msgstr "ដែនកំណត់កំពូលអក្សរខ្ពស់"
 
 #. fpZ2c
 #: starmath/inc/strings.hrc:133
 msgctxt "RID_LIMSUP_FROMTOX_HELP"
 msgid "Limit Superior Sup/Sub script"
-msgstr ""
+msgstr "ដែនកំណត់អក្សរស៊ូភូជាន់ខ្ពស់"
 
 #. F7Cc3
 #: starmath/inc/strings.hrc:134
@@ -1244,25 +1243,25 @@ msgstr "អាំងតេក្រាល​ខ្សែ​កោង​បី​
 #: starmath/inc/strings.hrc:161
 msgctxt "RID_ACUTEX_HELP"
 msgid "Acute Accent"
-msgstr "សញ្ញា ´"
+msgstr "សញ្ញា (´)"
 
 #. iNBv6
 #: starmath/inc/strings.hrc:162
 msgctxt "RID_BARX_HELP"
 msgid "Line Above"
-msgstr "បន្ទាត់​ពី​លើ"
+msgstr "បន្ទាត់ខាងលើ"
 
 #. 4bj8T
 #: starmath/inc/strings.hrc:163
 msgctxt "RID_BREVEX_HELP"
 msgid "Breve"
-msgstr "សញ្ញា ˘"
+msgstr "សញ្ញា (˘)"
 
 #. KCnAL
 #: starmath/inc/strings.hrc:164
 msgctxt "RID_CHECKX_HELP"
 msgid "Reverse Circumflex"
-msgstr "សញ្ញា ˇ"
+msgstr "សញ្ញា (ˇ)"
 
 #. JGDsk
 #: starmath/inc/strings.hrc:165
@@ -1292,19 +1291,19 @@ msgstr "ចំណុច​បី"
 #: starmath/inc/strings.hrc:169
 msgctxt "RID_GRAVEX_HELP"
 msgid "Grave Accent"
-msgstr "សញ្ញា `"
+msgstr "សញ្ញា  (`)"
 
 #. NsttC
 #: starmath/inc/strings.hrc:170
 msgctxt "RID_HATX_HELP"
 msgid "Circumflex"
-msgstr "សញ្ញា​ ^"
+msgstr "សញ្ញា​ (^)"
 
 #. uwDf4
 #: starmath/inc/strings.hrc:171
 msgctxt "RID_TILDEX_HELP"
 msgid "Tilde"
-msgstr "សញ្ញា ~"
+msgstr "សញ្ញា (~)"
 
 #. nJFs5
 #: starmath/inc/strings.hrc:172
@@ -1316,7 +1315,7 @@ msgstr "ព្រួញ​វ៉ិចទ័រ"
 #: starmath/inc/strings.hrc:173
 msgctxt "RID_HARPOONX_HELP"
 msgid "Harpoon"
-msgstr ""
+msgstr "ពិណ"
 
 #. BLziR
 #: starmath/inc/strings.hrc:174
@@ -1406,48 +1405,46 @@ msgstr "ពណ៌​ក្រហម​ស្វាយ"
 #: starmath/inc/strings.hrc:188
 msgctxt "RID_COLORX_GRAY_HELP"
 msgid "Color Gray"
-msgstr ""
+msgstr "ពណ៌ប្រផេះ"
 
 #. 8Pn5t
 #: starmath/inc/strings.hrc:189
 msgctxt "RID_COLORX_LIME_HELP"
 msgid "Color Lime"
-msgstr ""
+msgstr "ពណ៌ទឹកក្រូច"
 
 #. xGjXA
 #: starmath/inc/strings.hrc:190
 msgctxt "RID_COLORX_MAROON_HELP"
 msgid "Color Maroon"
-msgstr ""
+msgstr "ពណ៌ម៉ារុណ"
 
 #. Cmhuj
 #: starmath/inc/strings.hrc:191
 msgctxt "RID_COLORX_NAVY_HELP"
 msgid "Color Navy"
-msgstr ""
+msgstr "ពណ៌ពណ៌ទឹកប៊ិច"
 
 #. XL3XB
 #: starmath/inc/strings.hrc:192
 msgctxt "RID_COLORX_OLIVE_HELP"
 msgid "Color Olive"
-msgstr ""
+msgstr "ពណ៌អូលីវ"
 
 #. yZ9RF
 #: starmath/inc/strings.hrc:193
 msgctxt "RID_COLORX_PURPLE_HELP"
 msgid "Color Purple"
-msgstr ""
+msgstr "ពណ៌ស្វាយ"
 
 #. 2zE5Z
 #: starmath/inc/strings.hrc:194
-#, fuzzy
 msgctxt "RID_COLORX_SILVER_HELP"
 msgid "Color Silver"
 msgstr "ឧបករណ៍​រើស​ពណ៌"
 
 #. vMBoD
 #: starmath/inc/strings.hrc:195
-#, fuzzy
 msgctxt "RID_COLORX_TEAL_HELP"
 msgid "Color Teal"
 msgstr "ផ្ទាំង​ពណ៌"
@@ -1462,7 +1459,7 @@ msgstr "ពណ៌លឿង"
 #: starmath/inc/strings.hrc:197
 msgctxt "RID_COLORX_RGB_HELP"
 msgid "Color RGB"
-msgstr ""
+msgstr "ពណ៌ RGB"
 
 #. A2GQ4
 #: starmath/inc/strings.hrc:198
@@ -1522,7 +1519,7 @@ msgstr "បន្ទាត់​តែ​មួយ"
 #: starmath/inc/strings.hrc:207
 msgctxt "RID_LRDLINEX_HELP"
 msgid "Double Lines"
-msgstr "បន្ទាត់​ទ្វេ"
+msgstr "បន្ទាត់​ទ្វែ"
 
 #. QpgTC
 #: starmath/inc/strings.hrc:208
@@ -1594,7 +1591,7 @@ msgstr "តង្កៀប​សញ្ញា​ប្រមាណវិធី (�
 #: starmath/inc/strings.hrc:219
 msgctxt "RID_XEVALUATEDATY_HELP"
 msgid "Evaluated At"
-msgstr ""
+msgstr "បានវាយតម្លៃនៅ"
 
 #. aHELy
 #: starmath/inc/strings.hrc:220
@@ -1702,13 +1699,13 @@ msgstr "តម្រឹម​ស្តាំ"
 #: starmath/inc/strings.hrc:237
 msgctxt "RID_ALEPH_HELP"
 msgid "Aleph"
-msgstr "អាឡេប"
+msgstr "អាឡិប"
 
 #. ixk6B
 #: starmath/inc/strings.hrc:238
 msgctxt "RID_EMPTYSET_HELP"
 msgid "Empty Set"
-msgstr " សំណុំ​ទទេ"
+msgstr "សំណុំ​ទទេ"
 
 #. fbVuw
 #: starmath/inc/strings.hrc:239
@@ -1744,13 +1741,13 @@ msgstr "ណាប់ប្លា"
 #: starmath/inc/strings.hrc:244
 msgctxt "RID_LAPLACE_HELP"
 msgid "Laplace transform"
-msgstr ""
+msgstr "ការផ្លាស់ប្តូរឡា"
 
 #. ajf9X
 #: starmath/inc/strings.hrc:245
 msgctxt "RID_FOURIER_HELP"
 msgid "Fourier transform"
-msgstr ""
+msgstr "ផ្លាស់ប្តូរបួន"
 
 #. aQpTD
 #: starmath/inc/strings.hrc:246
@@ -1792,7 +1789,7 @@ msgstr "ចំណុច​បញ្ឈរ"
 #: starmath/inc/strings.hrc:252
 msgctxt "RID_XCIRCY_HELP"
 msgid "Concatenate"
-msgstr "ដាក់បន្តគ្នា"
+msgstr "ដាក់បន្តគ្ន"
 
 #. JAGx5
 #: starmath/inc/strings.hrc:253
@@ -1810,7 +1807,7 @@ msgstr "វិធី​ចែក (\\)"
 #: starmath/inc/strings.hrc:255
 msgctxt "RID_XDIVIDESY_HELP"
 msgid "Divides"
-msgstr "ចែក"
+msgstr "បែងចែក"
 
 #. 3BFDd
 #: starmath/inc/strings.hrc:256
@@ -1888,7 +1885,7 @@ msgstr "ព្រួញ​វ៉ិចទ័រ​ធំ"
 #: starmath/inc/strings.hrc:268
 msgctxt "RID_WIDEHARPOONX_HELP"
 msgid "Large Harpoon"
-msgstr ""
+msgstr "ហាបភូនធំ"
 
 #. 5Ce5n
 #: starmath/inc/strings.hrc:269
@@ -2014,7 +2011,7 @@ msgstr "សញ្ញា​ប្រមាណ​វិធី"
 #: starmath/inc/strings.hrc:289
 msgctxt "RID_CATEGORY_ATTRIBUTES"
 msgid "Attributes"
-msgstr "គុណលក្ខណៈ"
+msgstr "គុណលក្ខណ"
 
 #. B29Ad
 #: starmath/inc/strings.hrc:290
@@ -2044,31 +2041,31 @@ msgstr "ឧទាហរណ៍"
 #: starmath/inc/strings.hrc:295
 msgctxt "RID_EXAMPLE_CIRCUMFERENCE_HELP"
 msgid "Circumference"
-msgstr ""
+msgstr "បរិវេណ​"
 
 #. FhGWC
 #: starmath/inc/strings.hrc:296
 msgctxt "RID_EXAMPLE_MASS_ENERGY_EQUIV_HELP"
 msgid "Mass–energy equivalence"
-msgstr ""
+msgstr "សមភាពថាមពលម៉ាស"
 
 #. nwdFs
 #: starmath/inc/strings.hrc:297
 msgctxt "RID_EXAMPLE_PYTHAGOREAN_THEO_HELP"
 msgid "Pythagorean theorem"
-msgstr ""
+msgstr "ទ្រឹស្តីបទពីតាហ្គ័រ"
 
 #. CztTS
 #: starmath/inc/strings.hrc:298
 msgctxt "RID_EXAMPLE_A_SIMPLE_SERIES_HELP"
 msgid "A simple series"
-msgstr ""
+msgstr "ស៊េរីសាមញ្ញ"
 
 #. MuqjR
 #: starmath/inc/strings.hrc:299
 msgctxt "RID_EXAMPLE_GAUSS_DISTRIBUTION_HELP"
 msgid "Gauss distribution"
-msgstr ""
+msgstr "ការចែកចាយហ្គូស"
 
 #. u47dF
 #: starmath/inc/strings.hrc:301
@@ -2126,10 +2123,9 @@ msgstr "ស្វាយ"
 
 #. fZKES
 #: starmath/inc/strings.hrc:310
-#, fuzzy
 msgctxt "STR_GRAY"
 msgid "gray"
-msgstr "ប្រផេះ"
+msgstr "ប្រផ"
 
 #. BaoAG
 #: starmath/inc/strings.hrc:311
@@ -2171,7 +2167,7 @@ msgstr "ប្រាក់"
 #: starmath/inc/strings.hrc:317
 msgctxt "STR_TEAL"
 msgid "teal"
-msgstr "ខៀវ​បៃតង​ក្រមៅ"
+msgstr "ខៀវ​បៃតង​ក្រម"
 
 #. QkBT2
 #: starmath/inc/strings.hrc:318
@@ -2183,7 +2179,7 @@ msgstr "លឿង"
 #: starmath/inc/strings.hrc:319
 msgctxt "STR_RGB"
 msgid "rgb"
-msgstr ""
+msgstr "rgb"
 
 #. CCpNs
 #: starmath/inc/strings.hrc:320
@@ -2225,7 +2221,7 @@ msgstr "ស្ដាំ"
 #: starmath/inc/strings.hrc:326
 msgctxt "STR_CMDBOXWINDOW"
 msgid "Commands"
-msgstr "ពាក្យ​បញ្ជា"
+msgstr "ពាក្យ​បញ្ជ"
 
 #. Sgayv
 #: starmath/inc/strings.hrc:327
@@ -2261,7 +2257,7 @@ msgstr "តួ​អក្សរ​ដែល​មិន​រំពឹង"
 #: starmath/inc/strings.hrc:332
 msgctxt "RID_ERR_UNEXPECTEDTOKEN"
 msgid "Unexpected token"
-msgstr ""
+msgstr "និមិត្តសញ្ញាដែលមិនបានរំពឹងទុក"
 
 #. RGAFy
 #: starmath/inc/strings.hrc:333
@@ -2291,31 +2287,31 @@ msgstr "​រំពឹង ')'"
 #: starmath/inc/strings.hrc:337
 msgctxt "RID_ERR_PARENTMISMATCH"
 msgid "Left and right symbols mismatched"
-msgstr ""
+msgstr "និមិត្តសញ្ញាខាងឆ្វេងនិងខាងស្តាំមិនត្រូវគ្នា"
 
 #. FYFE5
 #: starmath/inc/strings.hrc:338
 msgctxt "RID_ERR_FONTEXPECTED"
 msgid "'fixed', 'sans', or 'serif' expected"
-msgstr ""
+msgstr "'fixed', 'sans' ឬ 'serif'  ដែលរំពឹងទុក"
 
 #. jGZdh
 #: starmath/inc/strings.hrc:339
 msgctxt "RID_ERR_SIZEEXPECTED"
 msgid "'size' followed by an unexpected token"
-msgstr ""
+msgstr "'ទំហំ' អមដោយនិមិត្តសញ្ញាដែលមិនបានរំពឹងទុក"
 
 #. 6DqgC
 #: starmath/inc/strings.hrc:340
 msgctxt "RID_ERR_DOUBLEALIGN"
 msgid "Double aligning is not allowed"
-msgstr ""
+msgstr "ការតម្រឹមទ្វេមិនត្រូវបានអនុញ្ញាតទេ"
 
 #. aoufx
 #: starmath/inc/strings.hrc:341
 msgctxt "RID_ERR_DOUBLESUBSUPSCRIPT"
 msgid "Double sub/superscripts is not allowed"
-msgstr ""
+msgstr "អក្សរតូចលើ / អក្សរតូចលើពីរមិនត្រូវបានអនុញ្ញាត"
 
 #. ZWBDD
 #: starmath/inc/strings.hrc:342
@@ -2337,7 +2333,6 @@ msgstr "​រំពឹង 'RIGHT"
 
 #. A8QNw
 #: starmath/inc/strings.hrc:345
-#, fuzzy
 msgctxt "RID_PRINTUIOPT_PRODNAME"
 msgid "%PRODUCTNAME %s"
 msgstr "%PRODUCTNAME %s"
@@ -2350,21 +2345,18 @@ msgstr "មាតិកា"
 
 #. Dwn4W
 #: starmath/inc/strings.hrc:347
-#, fuzzy
 msgctxt "RID_PRINTUIOPT_TITLE"
 msgid "~Title"
 msgstr "ចំណង​ជើង"
 
 #. LSV24
 #: starmath/inc/strings.hrc:348
-#, fuzzy
 msgctxt "RID_PRINTUIOPT_FRMLTXT"
 msgid "~Formula text"
-msgstr "អត្ថបទ​រូបមន្ត "
+msgstr "អត្ថបទ​រូបមន្ត"
 
 #. XnVAD
 #: starmath/inc/strings.hrc:349
-#, fuzzy
 msgctxt "RID_PRINTUIOPT_BORDERS"
 msgid "B~orders"
 msgstr "ស៊ុម​"
@@ -2377,21 +2369,18 @@ msgstr "ទំហំ"
 
 #. egvJg
 #: starmath/inc/strings.hrc:351
-#, fuzzy
 msgctxt "RID_PRINTUIOPT_ORIGSIZE"
 msgid "O~riginal size"
 msgstr "ទំហំ​ដើម"
 
 #. ZSF52
 #: starmath/inc/strings.hrc:352
-#, fuzzy
 msgctxt "RID_PRINTUIOPT_FITTOPAGE"
 msgid "Fit to ~page"
-msgstr "​សម​ទៅ​នឹង​ទំព័រ "
+msgstr "​សម​ទៅ​នឹង​ទំព័រ"
 
 #. ZVcSf
 #: starmath/inc/strings.hrc:353
-#, fuzzy
 msgctxt "RID_PRINTUIOPT_SCALING"
 msgid "~Scaling"
 msgstr "ការ​ធ្វើ​មាត្រដ្ឋាន"
@@ -2412,7 +2401,7 @@ msgstr "លំនាំដើម"
 #: starmath/uiconfig/smath/ui/alignmentdialog.ui:30
 msgctxt "alignmentdialog|extended_tip|default"
 msgid "Click here to save your changes as the default settings for new formulas."
-msgstr "ចុច​ទីនេះ​ដើម្បី​រក្សា​ទុក​ការ​ផ្លាស់ប្តូរ​របស់​អ្នក​ជា​កំណត់​លំនាំ​ដើម​សម្រាប់​រូបមន្ត​ថ្មី ។"
+msgstr "ចុច​ទីនេះ​ដើម្បី​រក្សា​ទុក​ការ​ផ្លាស់ប្តូរ​របស់​អ្នក​ជា​កំណត់​លំនាំ​ដើម​សម្រាប់​រូបមន្ត​ថ្មី ។"
 
 #. kGsuJ
 #: starmath/uiconfig/smath/ui/alignmentdialog.ui:117
@@ -2424,7 +2413,7 @@ msgstr "ឆ្វេង"
 #: starmath/uiconfig/smath/ui/alignmentdialog.ui:127
 msgctxt "alignmentdialog|extended_tip|left"
 msgid "Aligns the selected elements of a formula to the left."
-msgstr "តម្រឹម​ធាតុ​រូបមន្ត​ទៅ​ឆ្វេង ។"
+msgstr "តម្រឹម​ធាតុ​រូបមន្ត​ទៅ​ឆ្វេង ។"
 
 #. v8DVF
 #: starmath/uiconfig/smath/ui/alignmentdialog.ui:139
@@ -2436,7 +2425,7 @@ msgstr "កណ្ដាល"
 #: starmath/uiconfig/smath/ui/alignmentdialog.ui:149
 msgctxt "alignmentdialog|extended_tip|center"
 msgid "Aligns the elements of a formula to the center."
-msgstr "តម្រឹម​ធាតុ​រូបមន្ត​ទៅ​កណ្តាល ។"
+msgstr "តម្រឹម​ធាតុ​រូបមន្ត​ទៅ​កណ្តាល ។"
 
 #. 5TgYZ
 #: starmath/uiconfig/smath/ui/alignmentdialog.ui:161
@@ -2448,7 +2437,7 @@ msgstr "ស្ដាំ"
 #: starmath/uiconfig/smath/ui/alignmentdialog.ui:171
 msgctxt "alignmentdialog|extended_tip|right"
 msgid "Aligns the elements of a formula to the right."
-msgstr "តម្រឹម​ធាតុ​រូបមន្ត​ទៅ​ស្តាំ ។"
+msgstr "តម្រឹម​ធាតុ​រូបមន្ត​ទៅ​ស្តាំ ។"
 
 #. LbzHM
 #: starmath/uiconfig/smath/ui/alignmentdialog.ui:189
@@ -2460,7 +2449,7 @@ msgstr "ផ្ដេក"
 #: starmath/uiconfig/smath/ui/alignmentdialog.ui:215
 msgctxt "alignmentdialog|extended_tip|AlignmentDialog"
 msgid "You can define the alignment of multi-line formulas as well as formulas with several elements in one line."
-msgstr "អ្នក​អាច​កំណត់​ការ​តម្រឹម​នៃ​រូបមន្ត​ច្រើន​បន្ទាត់ ក៏​ដូចជា​រូបមន្ត​ដែល​មាន​ធាតុ​ច្រើន​ក្នុង​មួយ​បន្ទាត់ ។"
+msgstr "អ្នក​អាច​កំណត់​ការ​តម្រឹម​នៃ​រូបមន្ត​ច្រើន​បន្ទាត់ ក៏​ដូចជា​រូបមន្ត​ដែល​មាន​ធាតុ​ច្រើន​ក្នុង​មួយ​បន្ទាត់ ។"
 
 #. NqNaF
 #: starmath/uiconfig/smath/ui/catalogdialog.ui:8
@@ -2478,7 +2467,7 @@ msgstr "កែសម្រួល..."
 #: starmath/uiconfig/smath/ui/catalogdialog.ui:31
 msgctxt "catalogdialog|extended_tip|edit"
 msgid "Click here to open the Edit Symbols dialog."
-msgstr "ចុច​ទីនេះ​ដើម្បី​បើក​ប្រអប់ កែ​សម្រួល​និមិត្ត​សញ្ញា ។"
+msgstr "ចុច​ទីនេះ​ដើម្បី​បើក​ប្រអប់ កែ​សម្រួល​និមិត្ត​សញ្ញា ។"
 
 #. F86fN
 #: starmath/uiconfig/smath/ui/catalogdialog.ui:43
@@ -2490,20 +2479,19 @@ msgstr "បញ្ចូល"
 #: starmath/uiconfig/smath/ui/catalogdialog.ui:52
 msgctxt "catalogdialog|extended_tip|ok"
 msgid "Saves all changes and closes dialog."
-msgstr ""
+msgstr "រក្សាទុករាល់ការផ្លាស់ប្តូរនិងបិទប្រអប់។"
 
 #. zzUYb
 #: starmath/uiconfig/smath/ui/catalogdialog.ui:113
-#, fuzzy
 msgctxt "catalogdialog|label1"
 msgid "_Symbol set:"
-msgstr "សំណុំ​និមិត្តសញ្ញា"
+msgstr "សំណុំ​និមិត្តសញ្ញ"
 
 #. UA5cZ
 #: starmath/uiconfig/smath/ui/catalogdialog.ui:129
 msgctxt "catalogdialog|extended_tip|symbolset"
 msgid "All symbols are organized into symbol sets. Select the desired symbol set from the list box. The corresponding group of symbols appear in the field below."
-msgstr "គ្រប់​និមិត្ត​សញ្ញា​ទាំងអស់​ត្រូវ​បាន​រៀប​ចំ​ទៅ​ក្នុង​សំណុំ​និមិត្ត​សញ្ញា ។ ជ្រើស​សំណុំ​​និមិត្ត​សញ្ញា​ដែល​ចង់​បាន​ពី​ប្រអប់​បញ្ជី ។ ក្រុម​និមិត្ត​សញ្ញា​ដែល​ត្រូវ​គ្នា​លេច​ឡើង​ក្នុង​​វាល​​ខាង​ក្រោម ។"
+msgstr "គ្រប់​និមិត្ត​សញ្ញា​ទាំងអស់​ត្រូវ​បាន​រៀប​ចំ​ទៅ​ក្នុង​សំណុំ​និមិត្ត​សញ្ញា ។ ជ្រើស​សំណុំ​​និមិត្ត​សញ្ញា​ដែល​ចង់​បាន​ពី​ប្រអប់​បញ្ជី ។ ក្រុម​និមិត្ត​សញ្ញា​ដែល​ត្រូវ​គ្នា​លេច​ឡើង​ក្នុង​​វាល​​ខាង​ក្រោម ។"
 
 #. Gu3DC
 #: starmath/uiconfig/smath/ui/catalogdialog.ui:142
@@ -2515,19 +2503,19 @@ msgstr "មិន​ស្គាល់"
 #: starmath/uiconfig/smath/ui/catalogdialog.ui:205
 msgctxt "catalogdialog|extended_tip|preview"
 msgid "Displays a preview of the current selection."
-msgstr ""
+msgstr "បង្ហាញការមើលជាមុននៃជម្រើសបច្ចុប្បន្ន។"
 
 #. DSYgZ
 #: starmath/uiconfig/smath/ui/catalogdialog.ui:246
 msgctxt "catalogdialog|extended_tip|CatalogDialog"
 msgid "Opens the Symbols dialog, in which you can select a symbol to insert in the formula."
-msgstr ""
+msgstr "បើកប្រអប់និមិត្តសញ្ញាដែលអ្នកអាចជ្រើសនិមិត្តសញ្ញាដើម្បីបញ្ចូលក្នុងរូបមន្ត។"
 
 #. P3rFo
 #: starmath/uiconfig/smath/ui/dockingelements.ui:16
 msgctxt "dockingelements|ElementCategories|tooltip_text"
 msgid "Element categories"
-msgstr ""
+msgstr "ប្រភេទធាតុ"
 
 #. 4SGdP
 #: starmath/uiconfig/smath/ui/fontdialog.ui:16
@@ -2539,7 +2527,7 @@ msgstr "ពុម្ពអក្សរ"
 #: starmath/uiconfig/smath/ui/fontdialog.ui:157
 msgctxt "fontdialog|extended_tip|font"
 msgid "Select a font from the list."
-msgstr "ជ្រើស​ពុម្ព​អក្សរ​មួយ​ពី​បញ្ជី ។"
+msgstr "ជ្រើស​ពុម្ព​អក្សរ​មួយ​ពី​បញ្ជី ។"
 
 #. eepux
 #: starmath/uiconfig/smath/ui/fontdialog.ui:174
@@ -2575,7 +2563,7 @@ msgstr "ធីក​ប្រអប់​នេះ​ដើម្បី​ផ្
 #: starmath/uiconfig/smath/ui/fontdialog.ui:256
 msgctxt "fontdialog|formulaL1"
 msgid "Attributes"
-msgstr "គុណលក្ខណៈ"
+msgstr "គុណលក្ខណ"
 
 #. pwqjH
 #: starmath/uiconfig/smath/ui/fontdialog.ui:316
@@ -2599,11 +2587,10 @@ msgstr "លំនាំដើម"
 #: starmath/uiconfig/smath/ui/fontsizedialog.ui:68
 msgctxt "fontsizedialog|extended_tip|default"
 msgid "Click this button to save your changes as a default for all new formulas."
-msgstr "ចុច​ប៊ូតុង​នេះ ​ដើម្បី​រក្សា​ទុក​ការ​ផ្លាស់ប្តូរ​របស់​អ្នក​ជា​លំនាំ​ដើម​មួយ​ សម្រាប់​រូបមន្ត​ថ្មី​ទាំងអស់ ។"
+msgstr "ចុច​ប៊ូតុង​នេះ ​ដើម្បី​រក្សា​ទុក​ការ​ផ្លាស់ប្តូរ​របស់​អ្នក​ជា​លំនាំ​ដើម​មួយ​ សម្រាប់​រូបមន្ត​ថ្មី​ទាំងអស់ ។"
 
 #. xePRa
 #: starmath/uiconfig/smath/ui/fontsizedialog.ui:153
-#, fuzzy
 msgctxt "fontsizedialog|label4"
 msgid "Base _size:"
 msgstr "ទំហំគោល"
@@ -2612,24 +2599,22 @@ msgstr "ទំហំគោល"
 #: starmath/uiconfig/smath/ui/fontsizedialog.ui:173
 msgctxt "fontsizedialog|extended_tip|spinB_baseSize"
 msgid "All elements of a formula are proportionally scaled to the base size. To change the base size, select or type in the desired point (pt) size. You can also use other units of measure or other metrics, which are then automatically converted to points."
-msgstr ""
+msgstr "ធាតុទាំងអស់នៃរូបមន្តត្រូវបានធ្វើមាត្រដ្ឋានសមាមាត្រទៅនឹងទំហំមូលដ្ឋាន។ ដើម្បីផ្លាស់ប្តូរទំហំមូលដ្ឋានសូមជ្រើសរើសឬវាយក្នុងទំហំចំនុចដែលចង់បាន។ អ្នកក៏អាចប្រើឯកតារង្វាស់ឬរង្វាស់ផ្សេងទៀតដែលបន្ទាប់មកត្រូវបានបម្លែងទៅជាចំនុច។"
 
 #. RtP4G
 #: starmath/uiconfig/smath/ui/fontsizedialog.ui:222
 msgctxt "fontsizedialog|extended_tip|spinB_function"
 msgid "Select the relative size for names and other function elements in a formula in proportion to the base size."
-msgstr "ជ្រើស​ទំហំ​ទំនាក់​ទំនង​សម្រាប់​ឈ្មោះ និង​ធាតុ​អនុគមន៍​ផ្សេង​ទៀត​ក្នុង​រូបមន្ត​សមាមាត្រ​ទៅ​នឹង​ទំហំ​មូលដ្ឋាន ។"
+msgstr "ជ្រើស​ទំហំ​ទំនាក់​ទំនង​សម្រាប់​ឈ្មោះ និង​ធាតុ​អនុគមន៍​ផ្សេង​ទៀត​ក្នុង​រូបមន្ត​សមាមាត្រ​ទៅ​នឹង​ទំហំ​មូលដ្ឋាន ។"
 
 #. AfHYB
 #: starmath/uiconfig/smath/ui/fontsizedialog.ui:235
-#, fuzzy
 msgctxt "fontsizedialog|label2"
 msgid "_Operators:"
 msgstr "សញ្ញា​ប្រមាណវិធី"
 
 #. 3zJD3
 #: starmath/uiconfig/smath/ui/fontsizedialog.ui:249
-#, fuzzy
 msgctxt "fontsizedialog|label3"
 msgid "_Limits:"
 msgstr "ព្រំ​ដែន"
@@ -2638,50 +2623,46 @@ msgstr "ព្រំ​ដែន"
 #: starmath/uiconfig/smath/ui/fontsizedialog.ui:268
 msgctxt "fontsizedialog|extended_tip|spinB_operator"
 msgid "Select the relative size of the mathematical operators in a formula in proportion to the base size."
-msgstr "ជ្រើស​ទំហំ​ទំនាក់​ទំនង​សម្រាប់​សញ្ញា​ប្រមាណ​វិធី​គណិតវិទ្យា​ក្នុង​រូបមន្ត សមាមាត្រ​ទៅ​នឹង​ទំហំ​មូលដ្ឋាន ។"
+msgstr "ជ្រើស​ទំហំ​ទំនាក់​ទំនង​សម្រាប់​សញ្ញា​ប្រមាណ​វិធី​គណិតវិទ្យា​ក្នុង​រូបមន្ត សមាមាត្រ​ទៅ​នឹង​ទំហំ​មូលដ្ឋាន ។"
 
 #. gK2LX
 #: starmath/uiconfig/smath/ui/fontsizedialog.ui:286
 msgctxt "fontsizedialog|extended_tip|spinB_limit"
 msgid "Select the relative size for the limits in a formula in proportion to the base size."
-msgstr "ជ្រើស​ទំហំ​ទំនាក់​ទំនង​សម្រាប់​លីមីត​ក្នុង​រូបមន្ត​មួយ​សមាមាត្រ​ទៅ​នឹង​ទំហំ​មូលដ្ឋាន ។"
+msgstr "ជ្រើស​ទំហំ​ទំនាក់​ទំនង​សម្រាប់​លីមីត​ក្នុង​រូបមន្ត​មួយ​សមាមាត្រ​ទៅ​នឹង​ទំហំ​មូលដ្ឋាន ។"
 
 #. Dxb8V
 #: starmath/uiconfig/smath/ui/fontsizedialog.ui:299
-#, fuzzy
 msgctxt "fontsizedialog|label5"
 msgid "_Text:"
 msgstr "អត្ថបទ"
 
 #. NydaV
 #: starmath/uiconfig/smath/ui/fontsizedialog.ui:313
-#, fuzzy
 msgctxt "fontsizedialog|label7"
 msgid "_Functions:"
 msgstr "អនុគមន៍"
 
 #. nPkA2
 #: starmath/uiconfig/smath/ui/fontsizedialog.ui:327
-#, fuzzy
 msgctxt "fontsizedialog|label6"
 msgid "_Indexes:"
-msgstr "លិបិក្រម"
+msgstr "សន្ទស្សន៍៖"
 
 #. 2bdgv
 #: starmath/uiconfig/smath/ui/fontsizedialog.ui:346
 msgctxt "fontsizedialog|extended_tip|spinB_text"
 msgid "Select the size for text in a formula relative to the base size."
-msgstr "ជ្រើស​ទំហំ​សម្រាប់​អត្ថបទ​ក្នុង​រូបមន្ត​ដោយ​មាន​ទំនាក់​ទំនង​ទៅ​នឹង​ទំហំ​មូលដ្ឋាន ។"
+msgstr "ជ្រើស​ទំហំ​សម្រាប់​អត្ថបទ​ក្នុង​រូបមន្ត​ដោយ​មាន​ទំនាក់​ទំនង​ទៅ​នឹង​ទំហំ​មូលដ្ឋាន ។"
 
 #. AqFSQ
 #: starmath/uiconfig/smath/ui/fontsizedialog.ui:364
 msgctxt "fontsizedialog|extended_tip|spinB_index"
 msgid "Select the relative size for the indexes in a formula in proportion to the base size."
-msgstr "ជ្រើស​ទំហំ​ទំនាក់ទំនង​សម្រាប់​សន្ទស្សន៍​ក្នុង​រូបមន្ត​សមាមាត្រ​ទៅ​នឹង​ទំហំ​មូលដ្ឋាន ។"
+msgstr "ជ្រើស​ទំហំ​ទំនាក់ទំនង​សម្រាប់​សន្ទស្សន៍​ក្នុង​រូបមន្ត​សមាមាត្រ​ទៅ​នឹង​ទំហំ​មូលដ្ឋាន ។"
 
 #. Gj8QQ
 #: starmath/uiconfig/smath/ui/fontsizedialog.ui:381
-#, fuzzy
 msgctxt "fontsizedialog|label1"
 msgid "Relative Sizes"
 msgstr "ទំហំ​ដែលទាក់ទង"
@@ -2690,7 +2671,7 @@ msgstr "ទំហំ​ដែលទាក់ទង"
 #: starmath/uiconfig/smath/ui/fontsizedialog.ui:413
 msgctxt "fontsizedialog|extended_tip|FontSizeDialog"
 msgid "Use this dialog to specify the font sizes for your formula. Select a base size and all elements of the formula will be scaled in relation to this base."
-msgstr "ប្រើ​ប្រអប់​នេះ​ដើម្បី​បញ្ជាក់​​ទំហំ​ពុម្ព​អក្សរ​សម្រាប់​រូបមន្ត​របស់​អ្នក ។ ជ្រើស​ទំហំ​មូលដ្ឋាន​មួយ ហើយ​ធាតុ​រូបមន្ត​​ទាំងអស់​នឹង​ត្រូវ​បាន​ធ្វើ​មាត្រដ្ឋាន​តាម​មូលដ្ឋាន​នេះ ។"
+msgstr "ប្រើ​ប្រអប់​នេះ​ដើម្បី​បញ្ជាក់​​ទំហំ​ពុម្ព​អក្សរ​សម្រាប់​រូបមន្ត​របស់​អ្នក ។ ជ្រើស​ទំហំ​មូលដ្ឋាន​មួយ ហើយ​ធាតុ​រូបមន្ត​​ទាំងអស់​នឹង​ត្រូវ​បាន​ធ្វើ​មាត្រដ្ឋាន​តាម​មូលដ្ឋាន​នេះ ។"
 
 #. Ahejh
 #: starmath/uiconfig/smath/ui/fonttypedialog.ui:12
@@ -2720,20 +2701,19 @@ msgstr "អត្ថបទ"
 #: starmath/uiconfig/smath/ui/fonttypedialog.ui:44
 msgctxt "fonttypedialog|menuitem5"
 msgid "_Serif"
-msgstr "_Serif"
+msgstr "Serif"
 
 #. qCEgG
 #: starmath/uiconfig/smath/ui/fonttypedialog.ui:52
 msgctxt "fonttypedialog|menuitem6"
 msgid "S_ans-serif"
-msgstr ""
+msgstr "Sans-serif"
 
 #. gDXFw
 #: starmath/uiconfig/smath/ui/fonttypedialog.ui:60
-#, fuzzy
 msgctxt "fonttypedialog|menuitem7"
 msgid "Fixe_d-width"
-msgstr "ទទឹង​ថេរ "
+msgstr "ទទឹង​ថេរ"
 
 #. dXCDj
 #: starmath/uiconfig/smath/ui/fonttypedialog.ui:68
@@ -2745,13 +2725,13 @@ msgstr "ពុម្ពអក្សរ"
 #: starmath/uiconfig/smath/ui/fonttypedialog.ui:98
 msgctxt "fonttypedialog|modify"
 msgid "_Modify"
-msgstr "កែប្រែ"
+msgstr "កែប្រ"
 
 #. uQCNw
 #: starmath/uiconfig/smath/ui/fonttypedialog.ui:111
 msgctxt "fonttypedialog|extended_tip|modify"
 msgid "Click one of the choices from this pop-up menu to access the Fonts dialog, where you can define the font and attributes for the respective formula and for custom fonts."
-msgstr "ចុច​ជម្រើស​មួយ​ក្នុង​ចំណោម​ទាំងអស់​ពី​ម៉ឺនុយ​លេច​ឡើង​ដើម្បី​ដំណើរ​ការ​ប្រអប់ ពុម្ព​អក្សរ ដែល​អ្នក​អាច​កំណត់​ពុម្ព​អក្សរ និង គុណ​លក្ខណៈ​សម្រាប់​រូបមន្ត​នីមួយ​ៗ និង សម្រាប់​ពុម្ព​អក្សរ​ផ្ទាល់​ខ្លួន ។"
+msgstr "ចុច​ជម្រើស​មួយ​ក្នុង​ចំណោម​ទាំងអស់​ពី​ម៉ឺនុយ​លេច​ឡើង​ដើម្បី​ដំណើរ​ការ​ប្រអប់ ពុម្ព​អក្សរ ដែល​អ្នក​អាច​កំណត់​ពុម្ព​អក្សរ និង គុណ​លក្ខណៈ​សម្រាប់​រូបមន្ត​នីមួយ​ៗ និង សម្រាប់​ពុម្ព​អក្សរ​ផ្ទាល់​ខ្លួន ។"
 
 #. sdTfG
 #: starmath/uiconfig/smath/ui/fonttypedialog.ui:123
@@ -2763,32 +2743,28 @@ msgstr "លំនាំដើម"
 #: starmath/uiconfig/smath/ui/fonttypedialog.ui:130
 msgctxt "fonttypedialog|extended_tip|default"
 msgid "Click this button to save your changes as the default for all new formulas."
-msgstr "ចុច​ប៊ូតុង​នេះ​ដើម្បី​រក្សា​ទុក​ការ​ផ្លាស់ប្តូរ​របស់​អ្នក​ជា​លំនាំ​ដើម​សម្រាប់​រូបមន្ត​ថ្មី​ទាំងអស់ ។"
+msgstr "ចុច​ប៊ូតុង​នេះ​ដើម្បី​រក្សា​ទុក​ការ​ផ្លាស់ប្តូរ​របស់​អ្នក​ជា​លំនាំ​ដើម​សម្រាប់​រូបមន្ត​ថ្មី​ទាំងអស់ ។"
 
 #. EhoBp
 #: starmath/uiconfig/smath/ui/fonttypedialog.ui:210
-#, fuzzy
 msgctxt "fonttypedialog|label1"
 msgid "_Variables:"
 msgstr "អថេរ"
 
 #. BCVC9
 #: starmath/uiconfig/smath/ui/fonttypedialog.ui:227
-#, fuzzy
 msgctxt "fonttypedialog|label2"
 msgid "_Functions:"
 msgstr "អនុគមន៍"
 
 #. zFooF
 #: starmath/uiconfig/smath/ui/fonttypedialog.ui:244
-#, fuzzy
 msgctxt "fonttypedialog|label3"
 msgid "_Numbers:"
 msgstr "លេខ"
 
 #. bYvD9
 #: starmath/uiconfig/smath/ui/fonttypedialog.ui:261
-#, fuzzy
 msgctxt "fonttypedialog|label4"
 msgid "_Text:"
 msgstr "អត្ថបទ"
@@ -2797,73 +2773,70 @@ msgstr "អត្ថបទ"
 #: starmath/uiconfig/smath/ui/fonttypedialog.ui:281
 msgctxt "fonttypedialog|extended_tip|variableCB"
 msgid "You can select the fonts for the variables in your formula."
-msgstr "អ្នក​អាច​ជ្រើស​ពុម្ព​អក្សរ​សម្រាប់​អថេរ​ក្នុង​រូបមន្ត​របស់​អ្នក ។"
+msgstr "អ្នក​អាច​ជ្រើស​ពុម្ព​អក្សរ​សម្រាប់​អថេរ​ក្នុង​រូបមន្ត​របស់​អ្នក ។"
 
 #. gGFop
 #: starmath/uiconfig/smath/ui/fonttypedialog.ui:297
 msgctxt "fonttypedialog|extended_tip|functionCB"
 msgid "Select the fonts for names and properties of functions."
-msgstr "ជ្រើស​ពុម្ព​អក្សរ​សម្រាប់​ឈ្មោះ និង លក្ខណសម្បត្តិ​អនុគមន៍ ។"
+msgstr "ជ្រើស​ពុម្ព​អក្សរ​សម្រាប់​ឈ្មោះ និង លក្ខណសម្បត្តិ​អនុគមន៍ ។"
 
 #. NAw7A
 #: starmath/uiconfig/smath/ui/fonttypedialog.ui:313
 msgctxt "fonttypedialog|extended_tip|numberCB"
 msgid "You can select the fonts for the numbers in your formula."
-msgstr "អ្នក​អាច​ជ្រើស​ពុម្ព​អក្សរ​សម្រាប់​លេខ​ក្នុង​រូបមន្ត​របស់​អ្នក ។"
+msgstr "អ្នក​អាច​ជ្រើស​ពុម្ព​អក្សរ​សម្រាប់​លេខ​ក្នុង​រូបមន្ត​របស់​អ្នក ។"
 
 #. WiP2E
 #: starmath/uiconfig/smath/ui/fonttypedialog.ui:329
 msgctxt "fonttypedialog|extended_tip|textCB"
 msgid "Define the fonts for the text in your formula here."
-msgstr "កំណត់​ពុម្ព​អក្សរ​សម្រាប់​អត្ថបទ​ក្នុង​រូបមន្ត​របស់​អ្នក​នៅ​ទី​នេះ ។"
+msgstr "កំណត់​ពុម្ព​អក្សរ​សម្រាប់​អត្ថបទ​ក្នុង​រូបមន្ត​របស់​អ្នក​នៅ​ទី​នេះ ។"
 
 #. PEDax
 #: starmath/uiconfig/smath/ui/fonttypedialog.ui:346
-#, fuzzy
 msgctxt "fonttypedialog|formulaL"
 msgid "Formula Fonts"
 msgstr "ពុម្ពអក្សររូបមន្ត"
 
 #. FZyFB
 #: starmath/uiconfig/smath/ui/fonttypedialog.ui:383
-#, fuzzy
 msgctxt "fonttypedialog|label5"
 msgid "_Serif:"
-msgstr "_Serif"
+msgstr "Serif"
 
 #. TAgaq
 #: starmath/uiconfig/smath/ui/fonttypedialog.ui:400
 msgctxt "fonttypedialog|label6"
 msgid "S_ans-serif:"
-msgstr ""
+msgstr "Sans-serif៖"
 
 #. qzEea
 #: starmath/uiconfig/smath/ui/fonttypedialog.ui:417
 msgctxt "fonttypedialog|label7"
 msgid "F_ixed-width:"
-msgstr ""
+msgstr "Fixed-ទទឹង:"
 
 #. mHEyL
 #: starmath/uiconfig/smath/ui/fonttypedialog.ui:437
 msgctxt "fonttypedialog|extended_tip|serifCB"
 msgid "You can specify the font to be used for the font serif format."
-msgstr "អ្នក​អាច​បញ្ជាក់​​ពុម្ព​អក្សរ​ដែលនឹង​ត្រូវ​ប្រើ​សម្រាប់​ទ្រង់ទ្រាយ ពុម្អ​អក្សរ​ជាយ ។"
+msgstr "អ្នក​អាច​បញ្ជាក់​​ពុម្ព​អក្សរ​ដែលនឹង​ត្រូវ​ប្រើ​សម្រាប់​ទ្រង់ទ្រាយ ពុម្អ​អក្សរ​ជាយ ។"
 
 #. obFF5
 #: starmath/uiconfig/smath/ui/fonttypedialog.ui:453
 msgctxt "fonttypedialog|extended_tip|sansCB"
 msgid "You can specify the font to be used for sans font formatting."
-msgstr "អ្នក​អាច​បញ្ជាក់​​ពុម្ព​អក្សរ​ដែល​ត្រូវ​ប្រើ សម្រាប់​ធ្វើ​ទ្រង់ទ្រាយ​ពុម្ព​អក្សរ គ្មាន​ជាយ ។"
+msgstr "អ្នក​អាច​បញ្ជាក់​​ពុម្ព​អក្សរ​ដែល​ត្រូវ​ប្រើ សម្រាប់​ធ្វើ​ទ្រង់ទ្រាយ​ពុម្ព​អក្សរ គ្មាន​ជាយ ។"
 
 #. bqAxu
 #: starmath/uiconfig/smath/ui/fonttypedialog.ui:469
 msgctxt "fonttypedialog|extended_tip|fixedCB"
 msgid "You can specify the font to be used for fixed font formatting."
-msgstr "អ្នក​អាច​បញ្ជាក់​​ពុម្ព​អក្សរ​ដែល​ត្រូវ​ប្រើ សម្រាប់​ធ្វើ​ទ្រង់ទ្រាយ​ពុម្ព​អក្សរ ថេរ ។"
+msgstr "អ្នក​អាច​បញ្ជាក់​​ពុម្ព​អក្សរ​ដែល​ត្រូវ​ប្រើ សម្រាប់​ធ្វើ​ទ្រង់ទ្រាយ​ពុម្ព​អក្សរ ថេរ ។"
 
 #. PgQfV
 #: starmath/uiconfig/smath/ui/fonttypedialog.ui:486
-#, fuzzy
 msgctxt "fonttypedialog|customL"
 msgid "Custom Fonts"
 msgstr "ពុម្ពអក្សរផ្ទាល់​ខ្លួន"
@@ -2872,7 +2845,7 @@ msgstr "ពុម្ពអក្សរផ្ទាល់​ខ្លួន"
 #: starmath/uiconfig/smath/ui/fonttypedialog.ui:518
 msgctxt "fonttypedialog|extended_tip|FontsDialog"
 msgid "Defines the fonts that can be applied to formula elements."
-msgstr "កំណត់​ពុម្ព​អក្សរ​ដែល​អាច​ត្រូវ​បាន​អនុវត្ត​ទៅ​ធាតុ​រូបមន្ត ។"
+msgstr "កំណត់​ពុម្ព​អក្សរ​ដែល​អាច​ត្រូវ​បាន​អនុវត្ត​ទៅ​ធាតុ​រូបមន្ត ។"
 
 #. LBpEX
 #: starmath/uiconfig/smath/ui/printeroptions.ui:39
@@ -2884,7 +2857,7 @@ msgstr "ចំណង​ជើង"
 #: starmath/uiconfig/smath/ui/printeroptions.ui:55
 msgctxt "printeroptions|formulatext"
 msgid "Formula text"
-msgstr "អត្ថបទ​រូបមន្ត "
+msgstr "អត្ថបទ​រូបមន្ត"
 
 #. 3zuC8
 #: starmath/uiconfig/smath/ui/printeroptions.ui:71
@@ -2908,11 +2881,10 @@ msgstr "ទំហំ​ដើម"
 #: starmath/uiconfig/smath/ui/printeroptions.ui:143
 msgctxt "printeroptions|fittopage"
 msgid "Fit to page"
-msgstr "​សម​ទៅ​នឹង​ទំព័រ "
+msgstr "​សម​ទៅ​នឹង​ទំព័រ"
 
 #. jqNJw
 #: starmath/uiconfig/smath/ui/printeroptions.ui:165
-#, fuzzy
 msgctxt "printeroptions|scaling"
 msgid "Scaling:"
 msgstr "ការ​ធ្វើ​មាត្រដ្ឋាន"
@@ -2951,13 +2923,13 @@ msgstr "ជួរ​ដេកចំណង​ជើង"
 #: starmath/uiconfig/smath/ui/smathsettings.ui:48
 msgctxt "extended_tip|title"
 msgid "Specifies whether you want the name of the document to be included in the printout."
-msgstr "បញ្ជាក់​ថា​តើ​អ្នក​ចង់​បញ្ចូល​ឈ្មោះ​ឯកសារ​ក្នុង​លទ្ធផល​បោះពុម្ព​ដែរ​ឬទេ"
+msgstr "បញ្ជាក់ថាតើអ្នកចង់ឱ្យឈ្មោះឯកសារត្រូវបានរាប់បញ្ចូលក្នុងសន្លឹកព្រីនដែរឬទេ។"
 
 #. TPGNp
 #: starmath/uiconfig/smath/ui/smathsettings.ui:60
 msgctxt "smathsettings|text"
 msgid "_Formula text"
-msgstr "អត្ថបទ​រូបមន្ត "
+msgstr "អត្ថបទ​រូបមន្ត"
 
 #. MkGvA
 #: starmath/uiconfig/smath/ui/smathsettings.ui:69
@@ -2979,7 +2951,6 @@ msgstr "អនុវត្ត​ស៊ុម​ស្ដើង​ទៅ​កា
 
 #. Fs5q2
 #: starmath/uiconfig/smath/ui/smathsettings.ui:108
-#, fuzzy
 msgctxt "smathsettings|label4"
 msgid "Print Options"
 msgstr "ជម្រើសបោះពុម្ព"
@@ -3000,7 +2971,7 @@ msgstr "បោះពុម្ព​រូបមន្ត​ដោយ​មិន
 #: starmath/uiconfig/smath/ui/smathsettings.ui:164
 msgctxt "smathsettings|sizescaled"
 msgid "Fit to _page"
-msgstr "​សម​ទៅ​នឹង​ទំព័រ "
+msgstr "​សម​ទៅ​នឹង​ទំព័រ"
 
 #. zhmgc
 #: starmath/uiconfig/smath/ui/smathsettings.ui:174
@@ -3010,7 +2981,6 @@ msgstr "លៃ​តម្រូវ​រូបមន្ត​តាម​ទ្
 
 #. Jy2Fh
 #: starmath/uiconfig/smath/ui/smathsettings.ui:191
-#, fuzzy
 msgctxt "smathsettings|sizezoomed"
 msgid "_Scaling:"
 msgstr "ការ​ធ្វើ​មាត្រដ្ឋាន"
@@ -3023,17 +2993,15 @@ msgstr "ពង្រីក បង្រួម​ទំហំ​រូបមន�
 
 #. kMZqq
 #: starmath/uiconfig/smath/ui/smathsettings.ui:239
-#, fuzzy
 msgctxt "smathsettings|label5"
 msgid "Print Format"
 msgstr "ទ្រង់ទ្រាយបោះពុម្ព"
 
 #. s7A4r
 #: starmath/uiconfig/smath/ui/smathsettings.ui:272
-#, fuzzy
 msgctxt "smathsettings|norightspaces"
 msgid "Ig_nore ~~ and ' at the end of the line"
-msgstr "មិន​អើពើ ~ និង ` នៅ​ខាងចុង​បន្ទាត់"
+msgstr "រំលងនិង (`) នៅ​ខាងចុង​បន្ទាត់"
 
 #. VjvrA
 #: starmath/uiconfig/smath/ui/smathsettings.ui:281
@@ -3057,11 +3025,10 @@ msgstr "រក្សាទុក​និមិត្ត​សញ្ញា​​
 #: starmath/uiconfig/smath/ui/smathsettings.ui:314
 msgctxt "smathsettings|autoclosebrackets"
 msgid "Auto close brackets, parentheses and braces"
-msgstr ""
+msgstr "តង្កៀបវង់ក្រចកនិងដង្កៀបបិទជិតដោយស្វ័យប្រវត្តិ"
 
 #. N4Diy
 #: starmath/uiconfig/smath/ui/smathsettings.ui:336
-#, fuzzy
 msgctxt "smathsettings|label1"
 msgid "Miscellaneous Options"
 msgstr "ជម្រើស​ផ្សេងៗ"
@@ -3082,7 +3049,7 @@ msgstr "គម្លាត"
 #: starmath/uiconfig/smath/ui/spacingdialog.ui:38
 msgctxt "spacingdialog|menuitem2"
 msgid "Indexes"
-msgstr "លិបិក្រម"
+msgstr "សន្ទស្សន៍"
 
 #. CHNbD
 #: starmath/uiconfig/smath/ui/spacingdialog.ui:48
@@ -3094,7 +3061,7 @@ msgstr "ប្រភាគ"
 #: starmath/uiconfig/smath/ui/spacingdialog.ui:58
 msgctxt "spacingdialog|menuitem4"
 msgid "Fraction Bars"
-msgstr "របារ​ប្រភគ"
+msgstr "របារ​ប្រភាគ"
 
 #. cfzV3
 #: starmath/uiconfig/smath/ui/spacingdialog.ui:68
@@ -3118,7 +3085,7 @@ msgstr "ម៉ាទ្រីស"
 #: starmath/uiconfig/smath/ui/spacingdialog.ui:98
 msgctxt "spacingdialog|menuitem8"
 msgid "Symbols"
-msgstr "និមិត្ត​សញ្ញា"
+msgstr "និមិត្ត​សញ្ញ"
 
 #. bgBmh
 #: starmath/uiconfig/smath/ui/spacingdialog.ui:108
@@ -3164,24 +3131,21 @@ msgstr "ចំណង​ជើង"
 
 #. 6FBiz
 #: starmath/uiconfig/smath/ui/spacingdialog.ui:773
-#, fuzzy
 msgctxt "spacingdialog|1label1"
 msgid "_Spacing:"
 msgstr "គម្លាត"
 
 #. yY4XJ
 #: starmath/uiconfig/smath/ui/spacingdialog.ui:786
-#, fuzzy
 msgctxt "spacingdialog|1label2"
 msgid "_Line spacing:"
 msgstr "គម្លាត​បន្ទាត់"
 
 #. kBbAQ
 #: starmath/uiconfig/smath/ui/spacingdialog.ui:799
-#, fuzzy
 msgctxt "spacingdialog|1label3"
 msgid "_Root spacing:"
-msgstr "គម្លាត Root"
+msgstr "គម្លាត ឫស"
 
 #. TZADy
 #: starmath/uiconfig/smath/ui/spacingdialog.ui:830
@@ -3191,14 +3155,12 @@ msgstr "គម្លាត"
 
 #. CUx6t
 #: starmath/uiconfig/smath/ui/spacingdialog.ui:884
-#, fuzzy
 msgctxt "spacingdialog|2label1"
 msgid "_Superscript:"
 msgstr "អក្សរ​តូច​លើ"
 
 #. 3uzYA
 #: starmath/uiconfig/smath/ui/spacingdialog.ui:897
-#, fuzzy
 msgctxt "spacingdialog|2label2"
 msgid "S_ubscript:"
 msgstr "អក្សរ​តូច​ក្រោម"
@@ -3211,14 +3173,12 @@ msgstr "លិបិក្រម"
 
 #. JZwvA
 #: starmath/uiconfig/smath/ui/spacingdialog.ui:982
-#, fuzzy
 msgctxt "spacingdialog|3label1"
 msgid "_Numerator:"
 msgstr "ភាគ​យក"
 
 #. mSkEA
 #: starmath/uiconfig/smath/ui/spacingdialog.ui:995
-#, fuzzy
 msgctxt "spacingdialog|3label2"
 msgid "_Denominator:"
 msgstr "ភាគ​បែង"
@@ -3231,38 +3191,33 @@ msgstr "ប្រភាគ"
 
 #. 5PMRt
 #: starmath/uiconfig/smath/ui/spacingdialog.ui:1080
-#, fuzzy
 msgctxt "spacingdialog|4label1"
 msgid "_Excess length:"
 msgstr "លើស​ប្រវែង"
 
 #. CfsG3
 #: starmath/uiconfig/smath/ui/spacingdialog.ui:1093
-#, fuzzy
 msgctxt "spacingdialog|4label2"
 msgid "_Weight:"
 msgstr "ទម្ងន់"
 
 #. NEfpf
 #: starmath/uiconfig/smath/ui/spacingdialog.ui:1124
-#, fuzzy
 msgctxt "spacingdialog|4title"
 msgid "Fraction Bar"
-msgstr "របារ​ប្រភគ"
+msgstr "របារ​ប្រភាគ"
 
 #. FQao6
 #: starmath/uiconfig/smath/ui/spacingdialog.ui:1178
-#, fuzzy
 msgctxt "spacingdialog|5label1"
 msgid "_Upper limit:"
-msgstr "លីមីត​លើ"
+msgstr "ដែនកំណត់លីមីត​ខាងលើ៖"
 
 #. oZ2kt
 #: starmath/uiconfig/smath/ui/spacingdialog.ui:1191
-#, fuzzy
 msgctxt "spacingdialog|5label2"
 msgid "_Lower limit:"
-msgstr "លីមីត​ក្រោម"
+msgstr "ដែនកំណត់លីមីត​ខាងក្រោម៖"
 
 #. CBbDw
 #: starmath/uiconfig/smath/ui/spacingdialog.ui:1222
@@ -3272,21 +3227,18 @@ msgstr "ព្រំដែន"
 
 #. jfGdQ
 #: starmath/uiconfig/smath/ui/spacingdialog.ui:1276
-#, fuzzy
 msgctxt "spacingdialog|6label1"
 msgid "_Excess size (left/right):"
 msgstr "ទំហំ​នៅ​សល់ (ឆ្វេង/ស្ដាំ)"
 
 #. GvADK
 #: starmath/uiconfig/smath/ui/spacingdialog.ui:1289
-#, fuzzy
 msgctxt "spacingdialog|6label2"
 msgid "_Spacing:"
-msgstr "គម្លាត"
+msgstr "គម្លាត៖"
 
 #. TbK3K
 #: starmath/uiconfig/smath/ui/spacingdialog.ui:1302
-#, fuzzy
 msgctxt "spacingdialog|6label4"
 msgid "_Excess size:"
 msgstr "ទំហំ​នៅ​សល់"
@@ -3299,14 +3251,12 @@ msgstr "តង្កៀប"
 
 #. fywdV
 #: starmath/uiconfig/smath/ui/spacingdialog.ui:1387
-#, fuzzy
 msgctxt "spacingdialog|7label1"
 msgid "_Line spacing:"
 msgstr "គម្លាត​បន្ទាត់"
 
 #. 4DStr
 #: starmath/uiconfig/smath/ui/spacingdialog.ui:1400
-#, fuzzy
 msgctxt "spacingdialog|7label2"
 msgid "_Column spacing:"
 msgstr "គម្លាត​ជួរឈរ"
@@ -3319,14 +3269,12 @@ msgstr "ម៉ាទ្រីស"
 
 #. vZ8LA
 #: starmath/uiconfig/smath/ui/spacingdialog.ui:1485
-#, fuzzy
 msgctxt "spacingdialog|8label1"
 msgid "_Primary height:"
 msgstr "កម្ពស់​ចម្បង"
 
 #. mF2rq
 #: starmath/uiconfig/smath/ui/spacingdialog.ui:1498
-#, fuzzy
 msgctxt "spacingdialog|8label2"
 msgid "_Minimum spacing:"
 msgstr "គម្លាតអប្បបរមា"
@@ -3335,18 +3283,16 @@ msgstr "គម្លាតអប្បបរមា"
 #: starmath/uiconfig/smath/ui/spacingdialog.ui:1529
 msgctxt "spacingdialog|8title"
 msgid "Symbols"
-msgstr "និមិត្ត​សញ្ញា"
+msgstr "និមិត្ត​សញ្ញ"
 
 #. 5htY7
 #: starmath/uiconfig/smath/ui/spacingdialog.ui:1583
-#, fuzzy
 msgctxt "spacingdialog|9label1"
 msgid "_Excess size:"
 msgstr "ទំហំ​នៅ​សល់"
 
 #. tmmeR
 #: starmath/uiconfig/smath/ui/spacingdialog.ui:1596
-#, fuzzy
 msgctxt "spacingdialog|9label2"
 msgid "_Spacing:"
 msgstr "គម្លាត"
@@ -3359,28 +3305,24 @@ msgstr "សញ្ញា​ប្រមាណវិធី"
 
 #. kQBsH
 #: starmath/uiconfig/smath/ui/spacingdialog.ui:1681
-#, fuzzy
 msgctxt "spacingdialog|10label1"
 msgid "_Left:"
 msgstr "ឆ្វេង"
 
 #. PBu3t
 #: starmath/uiconfig/smath/ui/spacingdialog.ui:1694
-#, fuzzy
 msgctxt "spacingdialog|10label2"
 msgid "_Right:"
 msgstr "ស្ដាំ"
 
 #. rUFQE
 #: starmath/uiconfig/smath/ui/spacingdialog.ui:1707
-#, fuzzy
 msgctxt "spacingdialog|10label3"
 msgid "_Top:"
 msgstr "ខាង​លើ"
 
 #. GCrvm
 #: starmath/uiconfig/smath/ui/spacingdialog.ui:1720
-#, fuzzy
 msgctxt "spacingdialog|10label4"
 msgid "_Bottom:"
 msgstr "ខាង​ក្រោម"
@@ -3399,7 +3341,6 @@ msgstr "កែសម្រួលនិមិត្ត​សញ្ញា"
 
 #. GV4Ah
 #: starmath/uiconfig/smath/ui/symdefinedialog.ui:99
-#, fuzzy
 msgctxt "symdefinedialog|oldSymbolSetText"
 msgid "O_ld symbol set:"
 msgstr "សំណុំ​​និមិត្ត​សញ្ញាចាស់"
@@ -3408,11 +3349,10 @@ msgstr "សំណុំ​​និមិត្ត​សញ្ញាចាស់
 #: starmath/uiconfig/smath/ui/symdefinedialog.ui:123
 msgctxt "symdefinedialog|extended_tip|oldSymbolSets"
 msgid "This list box contains the name of the current symbol set. If you want, you can also select a different symbol set."
-msgstr "ប្រអប់​បញ្ជី​នេះ​មាន​ឈ្មោះ​សំណុំ​និមិត្ត​សញ្ញា​បច្ចុប្បន្ន ។ ប្រសិន​បើ​អ្នក​ចង់ អ្នក​ក៏​អាច​ជ្រើស​សំណុំ​និមិត្ត​សញ្ញា​ផ្សេង​ទៀត ។"
+msgstr "ប្រអប់​បញ្ជី​នេះ​មាន​ឈ្មោះ​សំណុំ​និមិត្ត​សញ្ញា​បច្ចុប្បន្ន ។ ប្រសិន​បើ​អ្នក​ចង់ អ្នក​ក៏​អាច​ជ្រើស​សំណុំ​និមិត្ត​សញ្ញា​ផ្សេង​ទៀត ។"
 
 #. WTEBG
 #: starmath/uiconfig/smath/ui/symdefinedialog.ui:150
-#, fuzzy
 msgctxt "symdefinedialog|oldSymbolText"
 msgid "_Old symbol:"
 msgstr "និមិត្ត​សញ្ញា​ចាស់"
@@ -3421,63 +3361,58 @@ msgstr "និមិត្ត​សញ្ញា​ចាស់"
 #: starmath/uiconfig/smath/ui/symdefinedialog.ui:174
 msgctxt "symdefinedialog|extended_tip|oldSymbols"
 msgid "Select the name of the current symbol."
-msgstr "ជ្រើស​ឈ្មោះ​និមិត្ត​សញ្ញា​បច្ចុប្បន្ន ។"
+msgstr "ជ្រើស​ឈ្មោះ​និមិត្ត​សញ្ញា​បច្ចុប្បន្ន ។"
 
 #. zhpVT
 #: starmath/uiconfig/smath/ui/symdefinedialog.ui:247
 msgctxt "symdefinedialog|extended_tip|add"
 msgid "Click this button to add the symbol shown in the right preview window to the current symbol set."
-msgstr "ចុច​ប៊ូតុង​នេះ​ដើម្បី​បន្ថែម​និមិត្ត​សញ្ញា​ដែល​បាន​បង្ហាញ​ក្នុង​បង្អួច​មើល​មុន​ខាង​ស្តាំ​ទៅ​កាន់​សំណុំ​និមិត្ត​សញ្ញា ។"
+msgstr "ចុច​ប៊ូតុង​នេះ​ដើម្បី​បន្ថែម​និមិត្ត​សញ្ញា​ដែល​បាន​បង្ហាញ​ក្នុង​បង្អួច​មើល​មុន​ខាង​ស្តាំ​ទៅ​កាន់​សំណុំ​និមិត្ត​សញ្ញា ។"
 
 #. CGCTr
 #: starmath/uiconfig/smath/ui/symdefinedialog.ui:259
 msgctxt "symdefinedialog|modify"
 msgid "_Modify"
-msgstr "កែប្រែ"
+msgstr "កែប្រ"
 
 #. 7FFzu
 #: starmath/uiconfig/smath/ui/symdefinedialog.ui:266
 msgctxt "symdefinedialog|extended_tip|modify"
 msgid "Click this button to replace the name of the symbol shown in the left preview window (the old name is displayed in the Old symbol list box) with the new name you have entered in the Symbol list box."
-msgstr "ចុច​ប៊ូតុង​នេះ​​ដើម្បី​ជំនួស​ឈ្មោះ​​និមិត្ត​សញ្ញា​ដែល​បង្ហាញ​ក្នុង​បង្អួច​មើល​មុន​ខាង​ឆ្វេង (ឈ្មោះ​ចាស់​ត្រូវ​បាន​បង្ហាញ​ក្នុង​ប្រអប់​បញ្ជី និមិត្ត​សញ្ញា​ចាស់) ដោយ​ឈ្មោះ​ថ្មី​ដែល​អ្នក​បាន​វាយ​បញ្ចូល​ក្នុង​ប្រអប់​បញ្ជី និមិត្ត​សញ្ញា ។"
+msgstr "ចុច​ប៊ូតុង​នេះ​​ដើម្បី​ជំនួស​ឈ្មោះ​​និមិត្ត​សញ្ញា​ដែល​បង្ហាញ​ក្នុង​បង្អួច​មើល​មុន​ខាង​ឆ្វេង (ឈ្មោះ​ចាស់​ត្រូវ​បាន​បង្ហាញ​ក្នុង​ប្រអប់​បញ្ជី និមិត្ត​សញ្ញា​ចាស់) ដោយ​ឈ្មោះ​ថ្មី​ដែល​អ្នក​បាន​វាយ​បញ្ចូល​ក្នុង​ប្រអប់​បញ្ជី និមិត្ត​សញ្ញា ។"
 
 #. 3GfeR
 #: starmath/uiconfig/smath/ui/symdefinedialog.ui:285
 msgctxt "symdefinedialog|extended_tip|delete"
 msgid "Click to remove the symbol shown in the left preview window from the current symbol set."
-msgstr "ចុច​ដើម្បី​យក​និមិត្ត​សញ្ញា​ដែល​បង្ហាញ​ក្នុង​បង្អួច​មើល​មុន​ខាង​ឆ្វេង​ចេញពី​សំណុំ​និមិត្ត​សញ្ញា​បច្ចុប្បន្ន​ ។"
+msgstr "ចុច​ដើម្បី​យក​និមិត្ត​សញ្ញា​ដែល​បង្ហាញ​ក្នុង​បង្អួច​មើល​មុន​ខាង​ឆ្វេង​ចេញពី​សំណុំ​និមិត្ត​សញ្ញា​បច្ចុប្បន្ន​ ។"
 
 #. jwzjd
 #: starmath/uiconfig/smath/ui/symdefinedialog.ui:324
-#, fuzzy
 msgctxt "symdefinedialog|symbolText"
 msgid "_Symbol:"
-msgstr "និមិត្ត​សញ្ញា"
+msgstr "និមិត្ត​សញ្ញ"
 
 #. 9WqPA
 #: starmath/uiconfig/smath/ui/symdefinedialog.ui:338
-#, fuzzy
 msgctxt "symdefinedialog|symbolSetText"
 msgid "Symbol s_et:"
 msgstr "សំណុំ​និមិត្តសញ្ញា"
 
 #. G4GCV
 #: starmath/uiconfig/smath/ui/symdefinedialog.ui:352
-#, fuzzy
 msgctxt "symdefinedialog|fontText"
 msgid "_Font:"
 msgstr "ពុម្ពអក្សរ"
 
 #. wTEhB
 #: starmath/uiconfig/smath/ui/symdefinedialog.ui:366
-#, fuzzy
 msgctxt "symdefinedialog|styleText"
 msgid "S_tyle:"
 msgstr "រចនាប័ទ្ម ៖"
 
 #. TENFM
 #: starmath/uiconfig/smath/ui/symdefinedialog.ui:380
-#, fuzzy
 msgctxt "symdefinedialog|fontsSubsetFT"
 msgid "S_ubset:"
 msgstr "សំណុំ​រង"
@@ -3486,31 +3421,31 @@ msgstr "សំណុំ​រង"
 #: starmath/uiconfig/smath/ui/symdefinedialog.ui:398
 msgctxt "symdefinedialog|extended_tip|fonts"
 msgid "Displays the name of the current font and enables you to select a different font."
-msgstr "បង្ហាញ​ឈ្មោះ​ពុម្ព​អក្សរ​បច្ចុប្បន្ន​ និង អាច​ឲ្យ​អ្នក​ជ្រើស​ពុម្ព​អក្សរ​ផ្សេង​មួយ ។"
+msgstr "បង្ហាញ​ឈ្មោះ​ពុម្ព​អក្សរ​បច្ចុប្បន្ន​ និង អាច​ឲ្យ​អ្នក​ជ្រើស​ពុម្ព​អក្សរ​ផ្សេង​មួយ ។"
 
 #. UEdYh
 #: starmath/uiconfig/smath/ui/symdefinedialog.ui:415
 msgctxt "symdefinedialog|extended_tip|fontsSubsetLB"
 msgid "If you selected a non-symbol font in the Font list box, you can select a Unicode subset in which to place your new or edited symbol. When a subset has been selected, all symbols belonging to this subset of the current symbol set are displayed in the symbols list above."
-msgstr "ប្រសិន​បើ​អ្នក​បាន​ជ្រើស​តួ​អក្សរ​មិន​មែន​និមិត្ត​សញ្ញា​ក្នុង​ប្រអប់​បញ្ជី ពុម្ព​អក្សរ អ្នក​អាច​ជ្រើស​សំណុំ​រង \"យូនីកូដ\" ដើម្បី​ដាក់​និមិត្ត​សញ្ញា​ថ្មី ឬ​ដែល​បាន​កែ​សម្រួល​របស់​អ្នក ។​ នៅ​ពេល​សំណុំ​រង​មួយ​ត្រូវ​បាន​ជ្រើស និមិត្ត​សញ្ញា​ទាំងអស់​ដែល​ជា​របស់​សំណុំ​រង​នេះ​នៃ​សំណុំ​និមិត្ត​សញ្ញា​បច្ចុប្បន្ន ត្រូវ​បាន​បង្ហាញ​ក្នុង​បញ្ជី​និមិត្ត​សញ្ញា​ខាង​លើ ។"
+msgstr "ប្រសិន​បើ​អ្នក​បាន​ជ្រើស​តួ​អក្សរ​មិន​មែន​និមិត្ត​សញ្ញា​ក្នុង​ប្រអប់​បញ្ជី ពុម្ព​អក្សរ អ្នក​អាច​ជ្រើស​សំណុំ​រង \"យូនីកូដ\" ដើម្បី​ដាក់​និមិត្ត​សញ្ញា​ថ្មី ឬ​ដែល​បាន​កែ​សម្រួល​របស់​អ្នក ។​ នៅ​ពេល​សំណុំ​រង​មួយ​ត្រូវ​បាន​ជ្រើស និមិត្ត​សញ្ញា​ទាំងអស់​ដែល​ជា​របស់​សំណុំ​រង​នេះ​នៃ​សំណុំ​និមិត្ត​សញ្ញា​បច្ចុប្បន្ន ត្រូវ​បាន​បង្ហាញ​ក្នុង​បញ្ជី​និមិត្ត​សញ្ញា​ខាង​លើ ។"
 
 #. 8XjkA
 #: starmath/uiconfig/smath/ui/symdefinedialog.ui:439
 msgctxt "symdefinedialog|extended_tip|symbols"
 msgid "Lists the names for the symbols in the current symbol set. Select a name from the list or type a name for a newly added symbol."
-msgstr "រាយ​ឈ្មោះ​សម្រាប់​និមិត្ត​សញ្ញា​ក្នុង​សំណុំ​និមិត្ត​សញ្ញា​បច្ចុប្បន្ន ។ ជ្រើស​ឈ្មោះ​មួយ​ពី​បញ្ជី ឬ​វាយ​ឈ្មោះ​មួយ​សម្រាប់​និមិត្ត​សញ្ញា​ដែល​ទើប​បន្ថែម​ថ្មី ។"
+msgstr "រាយ​ឈ្មោះ​សម្រាប់​និមិត្ត​សញ្ញា​ក្នុង​សំណុំ​និមិត្ត​សញ្ញា​បច្ចុប្បន្ន ។ ជ្រើស​ឈ្មោះ​មួយ​ពី​បញ្ជី ឬ​វាយ​ឈ្មោះ​មួយ​សម្រាប់​និមិត្ត​សញ្ញា​ដែល​ទើប​បន្ថែម​ថ្មី ។"
 
 #. G8wv3
 #: starmath/uiconfig/smath/ui/symdefinedialog.ui:463
 msgctxt "symdefinedialog|extended_tip|symbolSets"
 msgid "The Symbol set list box contains the names of all existing symbol sets. You can modify a symbol set or create a new one."
-msgstr "ប្រអប់​បញ្ជីសំណុំ​និមិត្ត​សញ្ញា មាន​ឈ្មោះ​របស់​សំណុំនិមិត្តសញ្ញា​ដែលមាន​ស្រាប់ ។ អ្នក​អាច​កែប្រែ​សំណុំ​និមិត្តសញ្ញា ឬ​បង្កើត​សំណុំ​និមិត្ត​សញ្ញា​ថ្មី​មួយ ។"
+msgstr "ប្រអប់​បញ្ជីសំណុំ​និមិត្ត​សញ្ញា មាន​ឈ្មោះ​របស់​សំណុំនិមិត្តសញ្ញា​ដែលមាន​ស្រាប់ ។ អ្នក​អាច​កែប្រែ​សំណុំ​និមិត្តសញ្ញា ឬ​បង្កើត​សំណុំ​និមិត្ត​សញ្ញា​ថ្មី​មួយ ។"
 
 #. BG98q
 #: starmath/uiconfig/smath/ui/symdefinedialog.ui:480
 msgctxt "symdefinedialog|extended_tip|styles"
 msgid "The current typeface is displayed. You can change the typeface by selecting one from the list box."
-msgstr "លក្ខណៈ​អក្សរ​បច្ចុប្បន្ន​ត្រូវ​បាន​បង្ហាញ ។ អ្នក​អាច​ប្តូរ​លក្ខណៈ​អក្សរ​ដោយ​ជ្រើស​លក្ខណៈ​មួយ​ពី​ប្រអប់​បញ្ជី ។"
+msgstr "លក្ខណៈ​អក្សរ​បច្ចុប្បន្ន​ត្រូវ​បាន​បង្ហាញ ។ អ្នក​អាច​ប្តូរ​លក្ខណៈ​អក្សរ​ដោយ​ជ្រើស​លក្ខណៈ​មួយ​ពី​ប្រអប់​បញ្ជី ។"
 
 #. zBbJC
 #: starmath/uiconfig/smath/ui/symdefinedialog.ui:635

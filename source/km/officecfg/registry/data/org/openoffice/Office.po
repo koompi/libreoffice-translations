@@ -1,21 +1,19 @@
-#. extracted from officecfg/registry/data/org/openoffice/Office
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
-"POT-Creation-Date: 2020-07-21 11:19+0200\n"
-"PO-Revision-Date: 2018-11-12 11:57+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
-"Language-Team: Khmer <support@khmeros.info>\n"
+"POT-Creation-Date: 2020-03-10 13:36+0100\n"
+"PO-Revision-Date: 2020-09-04 23:48+0700\n"
+"Last-Translator: Koompi Apps Localization\n"
 "Language: km\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Accelerator-Marker: ~\n"
-"X-Generator: LibreOffice\n"
-"X-Language: km-KH\n"
-"X-POOTLE-MTIME: 1542023850.000000\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-POOTLE-MTIME: 1535975854.000000\n"
+"Language-Team: KOOMPI Apps Localization\n"
 
 #. HhMVS
 #: Addons.xcu
@@ -25,7 +23,7 @@ msgctxt ""
 "Title\n"
 "value.text"
 msgid "FORWARD 10"
-msgstr ""
+msgstr "ទៅមុខ ១០"
 
 #. 6CtAb
 #: Addons.xcu
@@ -35,7 +33,7 @@ msgctxt ""
 "Title\n"
 "value.text"
 msgid "BACK 10"
-msgstr ""
+msgstr "ថយក្រោយ ១០"
 
 #. ifJm4
 #: Addons.xcu
@@ -45,7 +43,7 @@ msgctxt ""
 "Title\n"
 "value.text"
 msgid "LEFT 15°"
-msgstr ""
+msgstr "ថយចុះ ១៥ អង្សារ"
 
 #. Fwb5j
 #: Addons.xcu
@@ -55,7 +53,7 @@ msgctxt ""
 "Title\n"
 "value.text"
 msgid "RIGHT 15°"
-msgstr ""
+msgstr "ត្រឹមត្រូវ ១៥ អង្សារ"
 
 #. Cnces
 #: Addons.xcu
@@ -65,7 +63,7 @@ msgctxt ""
 "Title\n"
 "value.text"
 msgid "Start Logo program (text or selected text of the documents) or an example (in empty documents)"
-msgstr "Start Logo program (text or selected text of the documents) or an example (in empty documents)"
+msgstr "ចាប់ផ្តើមកម្មវិធីឡូហ្គោ (អត្ថបទឬអត្ថបទដែលបានជ្រើសរើសនៃឯកសារ) ឬឧទាហរណ៍ (នៅក្នុងឯកសារទទេ)"
 
 #. heFEM
 #: Addons.xcu
@@ -75,7 +73,7 @@ msgctxt ""
 "Title\n"
 "value.text"
 msgid "STOP"
-msgstr ""
+msgstr "​បញ្ឈប់"
 
 #. TcCmB
 #: Addons.xcu
@@ -85,7 +83,7 @@ msgctxt ""
 "Title\n"
 "value.text"
 msgid "HOME"
-msgstr ""
+msgstr "ផ្ទះ"
 
 #. odHjy
 #: Addons.xcu
@@ -95,29 +93,27 @@ msgctxt ""
 "Title\n"
 "value.text"
 msgid "CLEARSCREEN"
-msgstr ""
+msgstr "ស្គ្រីនច្បាស់"
 
 #. 6BbAU
 #: Addons.xcu
-#, fuzzy
 msgctxt ""
 "Addons.xcu\n"
 ".Addons.AddonUI.OfficeToolBar.LibreLogo.OfficeToolBar.m10\n"
 "Title\n"
 "value.text"
 msgid "Logo command line (press Enter for command execution or F1 for help)"
-msgstr "បន្ទាត់​ពាក្យ​បញ្ជា Logo (ចុច​ Enter សម្រាប់​អនុវត្ត​ពាក្យ​បញ្ជា ឬ​ចុច F1 ដើម្បី​មើល​ជំនួយ)"
+msgstr "បន្ទាត់​ពាក្យ​បញ្ជារូបសញ្ញា (ចុច​ Enter សម្រាប់​អនុវត្ត​ពាក្យ​បញ្ជា ឬ​ចុច F1 ដើម្បី​មើល​ជំនួយ)"
 
 #. CXFcL
 #: Addons.xcu
-#, fuzzy
 msgctxt ""
 "Addons.xcu\n"
 ".Addons.AddonUI.OfficeToolBar.LibreLogo.OfficeToolBar.m09\n"
 "Title\n"
 "value.text"
 msgid "Set editing layout, format program or translate it into the language of the document"
-msgstr "កំណត់​ប្លង់​ការ​កែសម្រួល, កែសម្រួល​កម្មវិធី ឬ​បកប្រែ​​​ឯកសារ​​ជា​ភាសា"
+msgstr "កំណត់​ប្លង់​ការ​កែសម្រួល, កែសម្រួល​កម្មវិធី ឬ​បកប្រែ​​​ឯកសារ​​ជា​ភាស"
 
 #. uBoUb
 #: Common.xcu
@@ -127,7 +123,7 @@ msgctxt ""
 "Title\n"
 "value.text"
 msgid "~Text Document"
-msgstr "ឯកសារ​អត្ថបទ​ "
+msgstr "ឯកសារ​អត្ថបទ​"
 
 #. FUrRQ
 #: Common.xcu
@@ -137,7 +133,7 @@ msgctxt ""
 "Title\n"
 "value.text"
 msgid "~Spreadsheet"
-msgstr "សៀវភៅ​បញ្ជី "
+msgstr "សៀវភៅ​បញ្ជី"
 
 #. ZHYGB
 #: Common.xcu
@@ -147,7 +143,7 @@ msgctxt ""
 "Title\n"
 "value.text"
 msgid "~Presentation"
-msgstr "ការ​​បង្ហាញ "
+msgstr "ការ​​បង្ហាញ"
 
 #. S4oBC
 #: Common.xcu
@@ -157,7 +153,7 @@ msgctxt ""
 "Title\n"
 "value.text"
 msgid "~Drawing"
-msgstr "គំនូរ "
+msgstr "ការគូរ"
 
 #. ANu2C
 #: Common.xcu
@@ -167,7 +163,7 @@ msgctxt ""
 "Title\n"
 "value.text"
 msgid "F~ormula"
-msgstr "រូបមន្ត "
+msgstr "រូបមន្ត"
 
 #. 6bTyB
 #: Common.xcu
@@ -187,7 +183,7 @@ msgctxt ""
 "Title\n"
 "value.text"
 msgid "~HTML Document"
-msgstr "ឯកសារ HTML "
+msgstr "ឯកសារ HTML"
 
 #. 4mAS3
 #: Common.xcu
@@ -207,7 +203,7 @@ msgctxt ""
 "Title\n"
 "value.text"
 msgid "~Labels"
-msgstr ""
+msgstr "ស្លាកសញ្ញា"
 
 #. fD6ro
 #: Common.xcu
@@ -217,7 +213,7 @@ msgctxt ""
 "Title\n"
 "value.text"
 msgid "B~usiness Cards"
-msgstr ""
+msgstr "កាតអាជីវកម្ម"
 
 #. JPTt8
 #: Common.xcu
@@ -227,7 +223,7 @@ msgctxt ""
 "Title\n"
 "value.text"
 msgid "M~aster Document"
-msgstr ""
+msgstr "ឯកសារមេ"
 
 #. vVFd6
 #: Common.xcu
@@ -237,7 +233,7 @@ msgctxt ""
 "Title\n"
 "value.text"
 msgid "Templates..."
-msgstr ""
+msgstr "ទំរង់គំរូ"
 
 #. BdL9G
 #: Common.xcu
@@ -247,7 +243,7 @@ msgctxt ""
 "Title\n"
 "value.text"
 msgid "~Letter..."
-msgstr "សំបុត្រ... "
+msgstr "សំបុត្រ..."
 
 #. KkybS
 #: Common.xcu
@@ -257,7 +253,7 @@ msgctxt ""
 "Title\n"
 "value.text"
 msgid "~Fax..."
-msgstr "ទូរសារ... "
+msgstr "ទូរសារ..."
 
 #. SDkbP
 #: Common.xcu
@@ -267,7 +263,7 @@ msgctxt ""
 "Title\n"
 "value.text"
 msgid "~Agenda..."
-msgstr "របៀប​វារៈ... "
+msgstr "របៀប​វារៈ..."
 
 #. TYVTR
 #: Common.xcu
@@ -277,7 +273,7 @@ msgctxt ""
 "Title\n"
 "value.text"
 msgid "Document ~Converter..."
-msgstr "កម្មវិធី​​បម្លែង​​ឯកសារ... "
+msgstr "កម្មវិធី​​បម្លែង​​ឯកសារ..."
 
 #. 7GLi2
 #: Common.xcu
@@ -287,7 +283,7 @@ msgctxt ""
 "Title\n"
 "value.text"
 msgid "~Euro Converter..."
-msgstr "កម្មវិធី​បម្លែង​​អឺរ៉ូ... "
+msgstr "កម្មវិធី​បម្លែង​​អឺរ៉ូ..."
 
 #. Fcxxv
 #: Common.xcu
@@ -357,7 +353,7 @@ msgctxt ""
 "NickName\n"
 "value.text"
 msgid "Nickname"
-msgstr "Nickname"
+msgstr "ឈ្មោះហៅក្រៅ"
 
 #. bt9RG
 #: DataAccess.xcu
@@ -427,7 +423,7 @@ msgctxt ""
 "PagerNumber\n"
 "value.text"
 msgid "Pager"
-msgstr "ភេកយ័រ"
+msgstr "អ្នកកាន់ ទំព័រ"
 
 #. 4zSa7
 #: DataAccess.xcu
@@ -447,7 +443,7 @@ msgctxt ""
 "HomeAddress\n"
 "value.text"
 msgid "Address 1"
-msgstr "អាសយដ្ឋាន ១"
+msgstr "អាសយដ្ឋាន ទី១"
 
 #. HhnjC
 #: DataAccess.xcu
@@ -457,7 +453,7 @@ msgctxt ""
 "HomeAddress2\n"
 "value.text"
 msgid "Address 2"
-msgstr "អាសយដ្ឋាន ២"
+msgstr "អាសយដ្ឋាន ទី២"
 
 #. FAPTY
 #: DataAccess.xcu
@@ -467,7 +463,7 @@ msgctxt ""
 "HomeCity\n"
 "value.text"
 msgid "City"
-msgstr "City"
+msgstr "ទីក្រុង"
 
 #. WPR3Y
 #: DataAccess.xcu
@@ -517,7 +513,7 @@ msgctxt ""
 "WorkAddress2\n"
 "value.text"
 msgid "Work Address 2"
-msgstr "អាសយដ្ឋាន​​កន្លែងធ្វើការ ២"
+msgstr "អាសយដ្ឋាន​​កន្លែងធ្វើការ ទី២"
 
 #. D9WF3
 #: DataAccess.xcu
@@ -567,7 +563,7 @@ msgctxt ""
 "JobTitle\n"
 "value.text"
 msgid "Job Title"
-msgstr "ងារ​"
+msgstr "ចំណងជើងការងារ"
 
 #. MuQdA
 #: DataAccess.xcu
@@ -577,7 +573,7 @@ msgctxt ""
 "Department\n"
 "value.text"
 msgid "Department"
-msgstr "Department"
+msgstr "នាយកដ្ឋាន"
 
 #. zk8pD
 #: DataAccess.xcu
@@ -647,7 +643,7 @@ msgctxt ""
 "Custom1\n"
 "value.text"
 msgid "Custom 1"
-msgstr "ផ្ទាល់​ខ្លួន ១"
+msgstr "ផ្ទាល់​ខ្លួន ទី១"
 
 #. MdtkC
 #: DataAccess.xcu
@@ -657,7 +653,7 @@ msgctxt ""
 "Custom2\n"
 "value.text"
 msgid "Custom 2"
-msgstr "ផ្ទាល់​ខ្លួន ២"
+msgstr "ផ្ទាល់​ខ្លួន ទី២"
 
 #. ueqir
 #: DataAccess.xcu
@@ -667,7 +663,7 @@ msgctxt ""
 "Custom3\n"
 "value.text"
 msgid "Custom 3"
-msgstr "ផ្ទាល់​ខ្លួន ៣"
+msgstr "ផ្ទាល់​ខ្លួន ទី៣"
 
 #. Jj5LV
 #: DataAccess.xcu
@@ -677,7 +673,7 @@ msgctxt ""
 "Custom4\n"
 "value.text"
 msgid "Custom 4"
-msgstr "ផ្ទាល់​ខ្លួន ៤"
+msgstr "ផ្ទាល់​ខ្លួន ទី៤"
 
 #. hrfG3
 #: DataAccess.xcu
@@ -687,7 +683,7 @@ msgctxt ""
 "Notes\n"
 "value.text"
 msgid "Comments"
-msgstr "Comments"
+msgstr "មតិ"
 
 #. 3EBC4
 #: Embedding.xcu
@@ -697,7 +693,7 @@ msgctxt ""
 "VerbUIName\n"
 "value.text"
 msgid "~Edit"
-msgstr "កែ​សម្រួល​ "
+msgstr "កែ​សម្រួល​"
 
 #. F8UQ6
 #: Embedding.xcu
@@ -707,7 +703,7 @@ msgctxt ""
 "VerbUIName\n"
 "value.text"
 msgid "~Open"
-msgstr "បើក "
+msgstr "បើក"
 
 #. CEfnC
 #: Embedding.xcu
@@ -717,7 +713,7 @@ msgctxt ""
 "VerbUIName\n"
 "value.text"
 msgid "Propert~ies..."
-msgstr "លក្ខណសម្បត្តិ... "
+msgstr "លក្ខណសម្បត្តិ..."
 
 #. z43X7
 #: Embedding.xcu
@@ -727,7 +723,7 @@ msgctxt ""
 "VerbUIName\n"
 "value.text"
 msgid "Save Copy ~as..."
-msgstr "រក្សាទុក​​ច្បាប់​ចម្លង​ជា... "
+msgstr "រក្សាទុក​​ច្បាប់​ចម្លង​ជា..."
 
 #. AhAtr
 #: Embedding.xcu
@@ -757,7 +753,7 @@ msgctxt ""
 "ObjectUIName\n"
 "value.text"
 msgid "%PRODUCTNAME %PRODUCTVERSION Drawing"
-msgstr "គំនូរ %PRODUCTNAME %PRODUCTVERSION"
+msgstr "ការគូរ %PRODUCTNAME %PRODUCTVERSION"
 
 #. oKLFF
 #: Embedding.xcu
@@ -797,7 +793,7 @@ msgctxt ""
 "DisplayName\n"
 "value.text"
 msgid "Report Builder"
-msgstr ""
+msgstr "អ្នកបង្កើតរបាយការណ៍"
 
 #. iE8oL
 #: ExtendedColorScheme.xcu
@@ -807,7 +803,7 @@ msgctxt ""
 "DisplayName\n"
 "value.text"
 msgid "Report Header"
-msgstr "បឋមកថា​របាយការណ៍"
+msgstr "របាយការណ៍បឋមកថា​"
 
 #. Dntv2
 #: ExtendedColorScheme.xcu
@@ -817,7 +813,7 @@ msgctxt ""
 "DisplayName\n"
 "value.text"
 msgid "Report Footer"
-msgstr "បាតកថា​របាយការណ៍"
+msgstr "បាតកថារបាយការណ៍"
 
 #. u4iAE
 #: ExtendedColorScheme.xcu
@@ -977,7 +973,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Grey"
-msgstr "ប្រផេះ"
+msgstr "ពណ៌ប្រផេះ"
 
 #. E2j8q
 #: FormWizard.xcu
@@ -1097,7 +1093,7 @@ msgctxt ""
 "STR_CHOSE_SETTINGS\n"
 "value.text"
 msgid "~Choose settings for Presentation Minimizer"
-msgstr "ជ្រើស​ការ​កំណត់​សម្រាប់​កម្មវិធី​បង្រួម​ការ​បង្ហាញ​អប្បបរមា"
+msgstr "ជ្រើស​ការ​កំណត់​សម្រាប់​កម្មវិធី​បង្រួម​ការ​បង្ហាញ​អប្បបរម"
 
 #. BYrVG
 #: PresentationMinimizer.xcu
@@ -1117,7 +1113,7 @@ msgctxt ""
 "STR_GRAPHIC_OPTIMIZATION\n"
 "value.text"
 msgid "Choose settings for optimizing images"
-msgstr ""
+msgstr "ជ្រើសរើសការកំណត់ដើម្បីបង្កើនប្រសិទ្ធភាពរូបភាព"
 
 #. DV4Gc
 #: PresentationMinimizer.xcu
@@ -1161,7 +1157,6 @@ msgstr "គុណភាព %"
 
 #. DKdqg
 #: PresentationMinimizer.xcu
-#, fuzzy
 msgctxt ""
 "PresentationMinimizer.xcu\n"
 "..PresentationMinimizer.Strings\n"
@@ -1188,7 +1183,7 @@ msgctxt ""
 "STR_IMAGE_RESOLUTION_0\n"
 "value.text"
 msgid "0;<no change>"
-msgstr "0;<no change>"
+msgstr "០; <គ្មានការផ្លាស់ប្តូរ>"
 
 #. ALWF8
 #: PresentationMinimizer.xcu
@@ -1198,7 +1193,7 @@ msgctxt ""
 "STR_IMAGE_RESOLUTION_1\n"
 "value.text"
 msgid "96;96 DPI (screen resolution)"
-msgstr ""
+msgstr "៩៦; ៩៦ DPI (គុណភាពបង្ហាញលើអេក្រង់)"
 
 #. RBDYm
 #: PresentationMinimizer.xcu
@@ -1208,7 +1203,7 @@ msgctxt ""
 "STR_IMAGE_RESOLUTION_2\n"
 "value.text"
 msgid "150;150 DPI (projector resolution)"
-msgstr "150;150 DPI (គុណភាព​បង្ហាញ​ឧបករណ៍​បញ្ចាំង​ស្លាយ)"
+msgstr "១៥០;១៥០ DPI (គុណភាព​បង្ហាញ​ឧបករណ៍​បញ្ចាំង​ស្លាយ)"
 
 #. zoNcY
 #: PresentationMinimizer.xcu
@@ -1218,7 +1213,7 @@ msgctxt ""
 "STR_IMAGE_RESOLUTION_3\n"
 "value.text"
 msgid "250;250 DPI (print resolution)"
-msgstr ""
+msgstr "២៥០; ២៥០ DPI (គុណភាពបង្ហាញបោះពុម្ព)"
 
 #. GBvFC
 #: PresentationMinimizer.xcu
@@ -1228,7 +1223,7 @@ msgctxt ""
 "STR_IMAGE_RESOLUTION_4\n"
 "value.text"
 msgid "300;300 DPI (print resolution)"
-msgstr ""
+msgstr "៣០០; ៣០០ DPI (គុណភាពបង្ហាញបោះពុម្ព)"
 
 #. 3XE9x
 #: PresentationMinimizer.xcu
@@ -1238,7 +1233,7 @@ msgctxt ""
 "STR_IMAGE_RESOLUTION_5\n"
 "value.text"
 msgid "600;600 DPI (print resolution)"
-msgstr ""
+msgstr "៦០០; ៦០០ DPI (គុណភាពបង្ហាញបោះពុម្ព)"
 
 #. X8NuV
 #: PresentationMinimizer.xcu
@@ -1248,7 +1243,7 @@ msgctxt ""
 "STR_EMBED_LINKED_GRAPHICS\n"
 "value.text"
 msgid "~Embed external images"
-msgstr ""
+msgstr "~ បង្កប់រូបភាពខាងក្រៅ"
 
 #. hbwsE
 #: PresentationMinimizer.xcu
@@ -1272,7 +1267,6 @@ msgstr "ជ្រើស​ការ​កំណត់​សម្រាប់​
 
 #. xxZkB
 #: PresentationMinimizer.xcu
-#, fuzzy
 msgctxt ""
 "PresentationMinimizer.xcu\n"
 "..PresentationMinimizer.Strings\n"
@@ -1299,7 +1293,7 @@ msgctxt ""
 "STR_ALIEN_OLE_OBJECTS_ONLY\n"
 "value.text"
 msgid "~For OLE objects not based on OpenDocument format"
-msgstr "សម្រាប់​វត្ថុ OLE ដែល​​មិន​មាន​មូលដ្ឋាន​លើ​ទ្រង់ទ្រាយ OpenDocument"
+msgstr "សម្រាប់​វត្ថុ OLE ដែល​​មិន​មាន​មូលដ្ឋាន​លើ​ទ្រង់ទ្រាយ បើកឯកសារ"
 
 #. KtW4F
 #: PresentationMinimizer.xcu
@@ -1343,14 +1337,13 @@ msgstr "ជ្រើស​ស្លាយ​ដែល​ត្រូវ​លុ
 
 #. ZyGV8
 #: PresentationMinimizer.xcu
-#, fuzzy
 msgctxt ""
 "PresentationMinimizer.xcu\n"
 "..PresentationMinimizer.Strings\n"
 "STR_DELETE_MASTER_PAGES\n"
 "value.text"
 msgid "Delete unused ~master slides"
-msgstr "លុប​ទំព័រ​មេ​ដែល​មិន​ប្រើ"
+msgstr "លុប​ទំព័រ​មេ​ដែល​មិន​ប្រែ"
 
 #. nyEoz
 #: PresentationMinimizer.xcu
@@ -1430,7 +1423,7 @@ msgctxt ""
 "STR_SAVE_SETTINGS\n"
 "value.text"
 msgid "~Save settings as"
-msgstr "រក្សាទុក​ការ​កំណត​ជា"
+msgstr "រក្សាទុក​ការ​កំណត​់ជា"
 
 #. DBFmU
 #: PresentationMinimizer.xcu
@@ -1454,7 +1447,6 @@ msgstr "លុប​ស្លាយ %SLIDES ។"
 
 #. LSpri
 #: PresentationMinimizer.xcu
-#, fuzzy
 msgctxt ""
 "PresentationMinimizer.xcu\n"
 "..PresentationMinimizer.Strings\n"
@@ -1465,7 +1457,6 @@ msgstr "បង្កើន​ប្រសិទ្ធភាព​ក្រាហ
 
 #. m5pAx
 #: PresentationMinimizer.xcu
-#, fuzzy
 msgctxt ""
 "PresentationMinimizer.xcu\n"
 "..PresentationMinimizer.Strings\n"
@@ -1502,7 +1493,7 @@ msgctxt ""
 "MY_SETTINGS\n"
 "value.text"
 msgid "My Settings "
-msgstr "ការ​កំណត់​របស់​ខ្ញុំ"
+msgstr "ការ​កំណត់​របស់​ខ្ញុំ "
 
 #. GGs5k
 #: PresentationMinimizer.xcu
@@ -1522,7 +1513,7 @@ msgctxt ""
 "STR_INFO_1\n"
 "value.text"
 msgid "The Presentation Minimizer has successfully updated the presentation '%TITLE'. The file size has changed from %OLDFILESIZE MB to %NEWFILESIZE MB."
-msgstr "កម្មវិធី​បង្រួម​បទ​បង្ហាញ​អប្បបរមា​បាន​ធ្វើ​បច្ចុប្បន្នភាព​បទ​បង្ហាញ '%TITLE' ដោយ​ជោគជ័យ។ ទំហំ​ឯកសារ​បាន​ប្ដូរ​ពី %OLDFILESIZE MB ទៅ %NEWFILESIZE MB ។"
+msgstr "កម្មវិធី​បង្រួម​បទ​បង្ហាញ​អប្បបរមា​បាន​ធ្វើ​បច្ចុប្បន្នភាព​បទ​បង្ហាញ '%TITLE' ដោយ​ជោគជ័យ។ ទំហំ​ឯកសារ​បាន​ប្ដូរ​ពី %OLDFILESIZE មេកាបៃ ទៅ %NEWFILESIZE មេកាបៃ ។"
 
 #. 3UFdp
 #: PresentationMinimizer.xcu
@@ -1532,7 +1523,7 @@ msgctxt ""
 "STR_INFO_2\n"
 "value.text"
 msgid "The Presentation Minimizer has successfully updated the presentation '%TITLE'. The file size has changed from %OLDFILESIZE MB to approximated %NEWFILESIZE MB."
-msgstr "កម្មវិធី​បង្រួម​បទ​បង្ហាញ​អប្បបរមា​បាន​ធ្វើ​បច្ចុប្បន្នភាព​បទ​បង្ហាញ '%TITLE' ដោយ​ជោគជ័យ។ ទំហំ​ឯកសារ​បាន​ប្ដូរ​ពី %OLDFILESIZE MB ទៅ %NEWFILESIZE MB ។"
+msgstr "កម្មវិធី​បង្រួម​បទ​បង្ហាញ​អប្បបរមា​បាន​ធ្វើ​បច្ចុប្បន្នភាព​បទ​បង្ហាញ '%TITLE' ដោយ​ជោគជ័យ។ ទំហំ​ឯកសារ​បាន​ប្ដូរ​ពី %OLDFILESIZE មេកាបៃ ទៅ %NEWFILESIZE មេកាបៃ ។"
 
 #. Kz34E
 #: PresentationMinimizer.xcu
@@ -1542,7 +1533,7 @@ msgctxt ""
 "STR_INFO_3\n"
 "value.text"
 msgid "The Presentation Minimizer has successfully updated the presentation '%TITLE'. The file size has changed to %NEWFILESIZE MB."
-msgstr "កម្មវិធី​បង្រួម​បទ​បង្ហាញ​អប្បបរមា​បាន​ធ្វើ​បច្ចុប្បន្នភាព​បទ​បង្ហាញ '%TITLE' ដោយ​ជោគជ័យ។ ទំហំ​ឯកសារ​បាន​ប្ដូរ​ទៅ %NEWFILESIZE MB ។"
+msgstr "កម្មវិធី​បង្រួម​បទ​បង្ហាញ​អប្បបរមា​បាន​ធ្វើ​បច្ចុប្បន្នភាព​បទ​បង្ហាញ '%TITLE' ដោយ​ជោគជ័យ។ ទំហំ​ឯកសារ​បាន​ប្ដូរ​ទៅ %NEWFILESIZE មេកាបៃ ។"
 
 #. zcPbA
 #: PresentationMinimizer.xcu
@@ -1552,7 +1543,7 @@ msgctxt ""
 "STR_INFO_4\n"
 "value.text"
 msgid "The Presentation Minimizer has successfully updated the presentation '%TITLE'. The file size has changed to approximated %NEWFILESIZE MB."
-msgstr "កម្មវិធី​បង្រួម​បទ​បង្ហាញ​អប្បបរមា​បាន​ធ្វើ​បច្ចុប្បន្នភាព​បទ​បង្ហាញ '%TITLE' ដោយ​ជោគជ័យ។ ទំហំ​ឯកសារ​បាន​ប្ដូរ​ទៅ %NEWFILESIZE MB ។"
+msgstr "កម្មវិធី​បង្រួម​បទ​បង្ហាញ​អប្បបរមា​បាន​ធ្វើ​បច្ចុប្បន្នភាព​បទ​បង្ហាញ '%TITLE' ដោយ​ជោគជ័យ។ ទំហំ​ឯកសារ​បាន​ប្ដូរ​ទៅ %NEWFILESIZE មេកាបៃ ។"
 
 #. CSfqQ
 #: PresentationMinimizer.xcu
@@ -1582,11 +1573,10 @@ msgctxt ""
 "STR_OPTIMIZING_GRAPHICS\n"
 "value.text"
 msgid "Optimizing images..."
-msgstr ""
+msgstr "កំពុងធ្វើឱ្យរូបភាពមានប្រសិទ្ធិភាព ..."
 
 #. CRDfC
 #: PresentationMinimizer.xcu
-#, fuzzy
 msgctxt ""
 "PresentationMinimizer.xcu\n"
 "..PresentationMinimizer.Strings\n"
@@ -1613,7 +1603,7 @@ msgctxt ""
 "STR_FILENAME_SUFFIX\n"
 "value.text"
 msgid "(minimized)"
-msgstr ""
+msgstr "បង្រួម​អប្បបរមា"
 
 #. ZSqeK
 #: PresentationMinimizer.xcu
@@ -1623,7 +1613,7 @@ msgctxt ""
 "STR_WARN_UNSAVED_PRESENTATION\n"
 "value.text"
 msgid "Do you want to minimize presentation without saving?"
-msgstr ""
+msgstr "តើអ្នកចង់បង្រួមអប្បបរមាបទបង្ហាញដោយមិនរក្សាទុកទេ?"
 
 #. pYxGc
 #: PresentationMinimizer.xcu
@@ -1643,7 +1633,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "E-mail (96 DPI): minimize document size for sharing"
-msgstr ""
+msgstr "អ៊ីមែល (៩៦ DPI)៖ បង្រួមទំហំឯកសារសម្រាប់ចែករំលែក"
 
 #. mzFCD
 #: PresentationMinimizer.xcu
@@ -1653,7 +1643,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Web (150 DPI): good for web pages and projectors"
-msgstr ""
+msgstr "គេហទំព័រ (១៥០ ឌី។ ឌី។ អាយ។ អេស)៖ ល្អសម្រាប់ទំព័របណ្តាញនិងម៉ាស៊ីនបញ្ចាំង"
 
 #. wageX
 #: PresentationMinimizer.xcu
@@ -1663,7 +1653,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Print (300 DPI): excellent quality on most printers and screens"
-msgstr ""
+msgstr "ព្រីន (៣០០ ឌី។ ឌី។ អាយ។ អិល)៖ គុណភាពល្អឥតខ្ចោះលើម៉ាស៊ីនបោះពុម្ពនិងអេក្រង់ភាគច្រើន"
 
 #. 5BgC2
 #: PresentationMinimizer.xcu
@@ -1673,7 +1663,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "High fidelity: preserves quality of the original picture"
-msgstr ""
+msgstr "ភាពស្មោះត្រង់ខ្ពស់៖ រក្សាគុណភាពរូបភាពដើម"
 
 #. Le7Xu
 #: PresenterScreen.xcu
@@ -1703,7 +1693,7 @@ msgctxt ""
 "Text\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. EK87W
 #: PresenterScreen.xcu
@@ -1715,75 +1705,35 @@ msgctxt ""
 msgid "Slides"
 msgstr "ស្លាយ"
 
-#. Gc3tv
+#. R4KGw
 #: PresenterScreen.xcu
 msgctxt ""
 "PresenterScreen.xcu\n"
 "..PresenterScreen.PresenterScreenSettings.ToolBars.ToolBar.Entries.k.Normal\n"
 "Text\n"
 "value.text"
-msgid "Pause"
-msgstr ""
-
-#. KHiJj
-#: PresenterScreen.xcu
-msgctxt ""
-"PresenterScreen.xcu\n"
-"..PresenterScreen.PresenterScreenSettings.ToolBars.ToolBar.Entries.k.Selected\n"
-"Text\n"
-"value.text"
-msgid "Resume"
-msgstr ""
-
-#. PhNCc
-#: PresenterScreen.xcu
-msgctxt ""
-"PresenterScreen.xcu\n"
-"..PresenterScreen.PresenterScreenSettings.ToolBars.ToolBar.Entries.k.MouseOverSelected\n"
-"Text\n"
-"value.text"
-msgid "Resume"
-msgstr ""
-
-#. 9xLAe
-#: PresenterScreen.xcu
-msgctxt ""
-"PresenterScreen.xcu\n"
-"..PresenterScreen.PresenterScreenSettings.ToolBars.ToolBar.Entries.l.Normal\n"
-"Text\n"
-"value.text"
 msgid "Restart"
-msgstr ""
+msgstr "ចាប់ផ្ដើម​ឡើង​វិញ"
 
-#. zYCFa
+#. mRbFw
 #: PresenterScreen.xcu
 msgctxt ""
 "PresenterScreen.xcu\n"
-"..PresenterScreen.PresenterScreenSettings.ToolBars.ToolBar.Entries.n.Normal\n"
+"..PresenterScreen.PresenterScreenSettings.ToolBars.ToolBar.Entries.m.Normal\n"
 "Text\n"
 "value.text"
 msgid "Exchange"
-msgstr ""
+msgstr "ផ្លាស់ប្ដូរ"
 
-#. hAAEf
+#. f8b9c
 #: PresenterScreen.xcu
 msgctxt ""
 "PresenterScreen.xcu\n"
-"..PresenterScreen.PresenterScreenSettings.ToolBars.ToolBar.Entries.p.Normal\n"
+"..PresenterScreen.PresenterScreenSettings.ToolBars.ToolBar.Entries.o.Normal\n"
 "Text\n"
 "value.text"
 msgid "Help"
-msgstr ""
-
-#. AqwYo
-#: PresenterScreen.xcu
-msgctxt ""
-"PresenterScreen.xcu\n"
-"..PresenterScreen.PresenterScreenSettings.ToolBars.ToolBar.Entries.r.Normal\n"
-"Text\n"
-"value.text"
-msgid "Exit"
-msgstr ""
+msgstr "ជំនួយ"
 
 #. DghaJ
 #: PresenterScreen.xcu
@@ -1953,7 +1903,7 @@ msgctxt ""
 "Left\n"
 "value.text"
 msgid "'B', '.'"
-msgstr "'B', '.'"
+msgstr "b."
 
 #. mGFCh
 #: PresenterScreen.xcu
@@ -1973,7 +1923,7 @@ msgctxt ""
 "Left\n"
 "value.text"
 msgid "'W', ','"
-msgstr "'W', ','"
+msgstr "ព"
 
 #. HbFPv
 #: PresenterScreen.xcu
@@ -2033,7 +1983,7 @@ msgctxt ""
 "Left\n"
 "value.text"
 msgid "'G', 'S'"
-msgstr "'G', 'S'"
+msgstr ""
 
 #. 2DBnC
 #: PresenterScreen.xcu
@@ -2053,7 +2003,7 @@ msgctxt ""
 "Left\n"
 "value.text"
 msgid "'A', 'Z'"
-msgstr "'A', 'Z'"
+msgstr ""
 
 #. heiVS
 #: PresenterScreen.xcu
@@ -2073,7 +2023,7 @@ msgctxt ""
 "Left\n"
 "value.text"
 msgid "'H', 'L'"
-msgstr "'H', 'L'"
+msgstr ""
 
 #. kJcSt
 #: PresenterScreen.xcu
@@ -2147,7 +2097,6 @@ msgstr "បង្ហាញ​ទិដ្ឋភាព​ស្លាយ"
 
 #. LpzsF
 #: PresenterScreen.xcu
-#, fuzzy
 msgctxt ""
 "PresenterScreen.xcu\n"
 "..PresenterScreen.PresenterScreenSettings.HelpView.HelpStrings.x\n"
@@ -2164,7 +2113,7 @@ msgctxt ""
 "Right\n"
 "value.text"
 msgid "Switches monitors"
-msgstr ""
+msgstr "ប្តូរម៉ូនីទ័រ"
 
 #. EMh4x
 #: PresenterScreen.xcu
@@ -2224,7 +2173,7 @@ msgctxt ""
 "Title\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. SEZV5
 #: PresenterScreen.xcu
@@ -2374,7 +2323,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "ProductName"
-msgstr "ProductName"
+msgstr "ឈ្មោះ​ផលិតផល"
 
 #. zraYR
 #: TableWizard.xcu
@@ -2384,7 +2333,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "ProdName"
-msgstr "ProdName"
+msgstr "ឈ្មោះផលិតផល"
 
 #. g3BsG
 #: TableWizard.xcu
@@ -2394,7 +2343,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "ProductDescription"
-msgstr "ProductDescription"
+msgstr "ពណ៌នា​ពី​ផលិតផល"
 
 #. CJXCi
 #: TableWizard.xcu
@@ -2404,7 +2353,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "ProdDescr"
-msgstr "ProdDescr"
+msgstr "ពណ៌នា​ពី​ផលិតផល"
 
 #. B5osD
 #: TableWizard.xcu
@@ -2434,7 +2383,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "SupplierID"
-msgstr "SupplierID"
+msgstr "អ្នកផ្គត់ផ្គង់"
 
 #. dBDCQ
 #: TableWizard.xcu
@@ -2444,7 +2393,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "SupplierID"
-msgstr "SupplierID"
+msgstr "អ្នកផ្គត់ផ្គង់"
 
 #. tZWpm
 #: TableWizard.xcu
@@ -2454,7 +2403,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Serialnumber"
-msgstr "Serialnumber"
+msgstr "លេខ​សម្គាល់"
 
 #. PDfnC
 #: TableWizard.xcu
@@ -2464,7 +2413,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "SerialNo"
-msgstr "SerialNo"
+msgstr "លេខ​សម្គាល់"
 
 #. AZojE
 #: TableWizard.xcu
@@ -2474,7 +2423,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "UnitsInStock"
-msgstr "UnitsInStock"
+msgstr "ឯកតាក្នុងស្តុក"
 
 #. 97AFF
 #: TableWizard.xcu
@@ -2484,7 +2433,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "UnitsStock"
-msgstr "UnitsStock"
+msgstr "ឯកតាក្នុងស្តុក"
 
 #. fkNjC
 #: TableWizard.xcu
@@ -2494,7 +2443,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "UnitsOnOrder"
-msgstr "UnitsOnOrder"
+msgstr "លំដាប់ឯកតាលើលំដាប់"
 
 #. 23szD
 #: TableWizard.xcu
@@ -2504,7 +2453,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "UnitsOrder"
-msgstr "UnitsOrder"
+msgstr "លំដាប់ឯកតា"
 
 #. dAunB
 #: TableWizard.xcu
@@ -2514,7 +2463,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "UnitPrice"
-msgstr "UnitPrice"
+msgstr "តម្លៃ​ឯកតា"
 
 #. eGtxt
 #: TableWizard.xcu
@@ -2524,7 +2473,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "UnitPrice"
-msgstr "UnitPrice"
+msgstr "តម្លៃ​ឯកតា"
 
 #. KqcS7
 #: TableWizard.xcu
@@ -2534,7 +2483,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "ReorderLevel"
-msgstr "ReorderLevel"
+msgstr "តម្រៀបឡើងវិញ"
 
 #. bqDNZ
 #: TableWizard.xcu
@@ -2544,7 +2493,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "ReordLevel"
-msgstr "ReordLevel"
+msgstr "កម្រិតកំណត់ត្រា"
 
 #. cCJQe
 #: TableWizard.xcu
@@ -2554,7 +2503,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Discontinued"
-msgstr "Discontinued"
+msgstr "បញ្ឈប់"
 
 #. ARETj
 #: TableWizard.xcu
@@ -2564,7 +2513,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Discontin"
-msgstr "Discontin"
+msgstr "បញ្ឈប់"
 
 #. DAruv
 #: TableWizard.xcu
@@ -2574,7 +2523,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "LeadTime"
-msgstr "LeadTime"
+msgstr "ពេល​វេលា​នាំ​មុខ"
 
 #. A9FA8
 #: TableWizard.xcu
@@ -2584,7 +2533,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "LeadTime"
-msgstr "LeadTime"
+msgstr "ពេល​វេលា​នាំ​មុខ"
 
 #. Q7q7T
 #: TableWizard.xcu
@@ -2594,7 +2543,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Suppliers"
-msgstr "Suppliers"
+msgstr "អ្នកផ្គត់ផ្គង់"
 
 #. GUsyy
 #: TableWizard.xcu
@@ -2604,7 +2553,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "SupplierID"
-msgstr "SupplierID"
+msgstr "លេខសម្គាល់អ្នកផ្គត់ផ្គង់"
 
 #. 9zuNX
 #: TableWizard.xcu
@@ -2614,7 +2563,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "SupplierID"
-msgstr "SupplierID"
+msgstr "លេខសម្គាល់អ្នកផ្គត់ផ្គង់"
 
 #. 3cftq
 #: TableWizard.xcu
@@ -2624,7 +2573,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "SupplierName"
-msgstr "SupplierName"
+msgstr "ឈ្មោះ​ក្រុមហ៊ុន​ផ្គត់ផ្គង់"
 
 #. gy5rG
 #: TableWizard.xcu
@@ -2634,7 +2583,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "SupplName"
-msgstr "SupplName"
+msgstr "ឈ្មោះ​ក្រុមហ៊ុន​ផ្គត់ផ្គង់"
 
 #. vTPJj
 #: TableWizard.xcu
@@ -2644,7 +2593,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "ContactName"
-msgstr "ContactName"
+msgstr "ឈ្មោះ​ទំនាក់ទំនង"
 
 #. wGpqC
 #: TableWizard.xcu
@@ -2654,7 +2603,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "ContctName"
-msgstr "ContctName"
+msgstr "ឈ្មោះ​ទំនាក់ទំនង"
 
 #. VP49N
 #: TableWizard.xcu
@@ -2664,7 +2613,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "ContactTitle"
-msgstr "ContactTitle"
+msgstr "ចំណងជើងទំនាក់ទំនង"
 
 #. ZHx9j
 #: TableWizard.xcu
@@ -2674,7 +2623,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "ContctTitl"
-msgstr "ContctTitl"
+msgstr "ចំណងជើងទំនាក់ទំនង"
 
 #. tsUqe
 #: TableWizard.xcu
@@ -2684,7 +2633,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Address"
-msgstr "Address"
+msgstr "អាសយដ្ឋាន"
 
 #. AbcXh
 #: TableWizard.xcu
@@ -2694,7 +2643,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Address"
-msgstr "Address"
+msgstr "អាសយដ្ឋាន"
 
 #. XTvFe
 #: TableWizard.xcu
@@ -2704,7 +2653,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "City"
-msgstr "City"
+msgstr "ទីក្រុង"
 
 #. vcsBD
 #: TableWizard.xcu
@@ -2714,7 +2663,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "City"
-msgstr "City"
+msgstr "ទីក្រុង"
 
 #. KrX2M
 #: TableWizard.xcu
@@ -2724,7 +2673,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "PostalCode"
-msgstr "PostalCode"
+msgstr "លេខ​កូដ​ប្រៃ​ស​ណី​យ"
 
 #. KvC6p
 #: TableWizard.xcu
@@ -2734,7 +2683,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "PostalCode"
-msgstr "PostalCode"
+msgstr "លេខ​កូដ​ប្រៃ​ស​ណី​យ"
 
 #. Pb9ix
 #: TableWizard.xcu
@@ -2744,7 +2693,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "StateOrProvince"
-msgstr "StateOrProvince"
+msgstr "រដ្ឋ​ឬ​ខេត្ត"
 
 #. L2kTq
 #: TableWizard.xcu
@@ -2754,7 +2703,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "StateProvi"
-msgstr "StateProvi"
+msgstr "រដ្ឋ​ឬ​ខេត្ត"
 
 #. 7vbwU
 #: TableWizard.xcu
@@ -2764,7 +2713,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "CountryOrRegion"
-msgstr "CountryOrRegion"
+msgstr "ប្រទេស​ឬ​តំបន់"
 
 #. DD6BN
 #: TableWizard.xcu
@@ -2774,7 +2723,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "CountryReg"
-msgstr "CountryReg"
+msgstr "ប្រទេស​ឬ​តំបន់"
 
 #. S54BS
 #: TableWizard.xcu
@@ -2784,7 +2733,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "PhoneNumber"
-msgstr "PhoneNumber"
+msgstr "លេខទូរស័ព្ទ"
 
 #. Q84gW
 #: TableWizard.xcu
@@ -2794,7 +2743,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "PhoneNo"
-msgstr "PhoneNo"
+msgstr "លេខទូរស័ព្ទ"
 
 #. x2pEX
 #: TableWizard.xcu
@@ -2804,7 +2753,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "FaxNumber"
-msgstr "FaxNumber"
+msgstr "លេខទូរសារ"
 
 #. E3GV3
 #: TableWizard.xcu
@@ -2814,7 +2763,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "FaxNo"
-msgstr "FaxNo"
+msgstr "លេខទូរសារ"
 
 #. CTw9G
 #: TableWizard.xcu
@@ -2824,7 +2773,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "PaymentTerms"
-msgstr "PaymentTerms"
+msgstr "ល័ក្ខខ័ណ្ឌ​ទូទាត់"
 
 #. 6o6vG
 #: TableWizard.xcu
@@ -2834,7 +2783,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "PaymntTerm"
-msgstr "PaymntTerm"
+msgstr "ល័ក្ខខ័ណ្ឌ​ទូទាត់"
 
 #. JyCyG
 #: TableWizard.xcu
@@ -2844,7 +2793,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "EmailAddress"
-msgstr "EmailAddress"
+msgstr "អាស័យ​ដ្ឋាន​អ៊ី​ម៉េ​ល"
 
 #. zwHpn
 #: TableWizard.xcu
@@ -2854,7 +2803,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "EmailAddr"
-msgstr "EmailAddr"
+msgstr "អាស័យ​ដ្ឋាន​អ៊ី​ម៉េ​ល"
 
 #. hADDx
 #: TableWizard.xcu
@@ -2864,7 +2813,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. 3AuMW
 #: TableWizard.xcu
@@ -2874,7 +2823,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. wEKQq
 #: TableWizard.xcu
@@ -2884,7 +2833,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "MailingList"
-msgstr "MailingList"
+msgstr "បញ្ជីសំបុត្ររួម"
 
 #. jky3u
 #: TableWizard.xcu
@@ -2894,7 +2843,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "MailingListID"
-msgstr "MailingListID"
+msgstr "លេខសម្គាល់បញ្ជីសំបុត្ររួម"
 
 #. TTFZc
 #: TableWizard.xcu
@@ -2904,7 +2853,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "MailingID"
-msgstr "MailingID"
+msgstr "លេខសម្គាល់សំបុត្រ"
 
 #. pyP93
 #: TableWizard.xcu
@@ -2914,7 +2863,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Prefix"
-msgstr "Prefix"
+msgstr "បុព្វបទ"
 
 #. mzCCx
 #: TableWizard.xcu
@@ -2924,7 +2873,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Prefix"
-msgstr "Prefix"
+msgstr "បុព្វបទ"
 
 #. Gw8CM
 #: TableWizard.xcu
@@ -2934,7 +2883,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "FirstName"
-msgstr "FirstName"
+msgstr "នាមខ្លួន"
 
 #. PCZTC
 #: TableWizard.xcu
@@ -2944,7 +2893,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "FirstName"
-msgstr "FirstName"
+msgstr "នាមខ្លួន"
 
 #. Bnv2f
 #: TableWizard.xcu
@@ -2954,7 +2903,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "MiddleName"
-msgstr "MiddleName"
+msgstr "​ឈ្មោះ​ក​ណ្តា​ល"
 
 #. mDGzN
 #: TableWizard.xcu
@@ -2964,7 +2913,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "MiddleName"
-msgstr "MiddleName"
+msgstr "​ឈ្មោះ​ក​ណ្តា​ល"
 
 #. Es6Cc
 #: TableWizard.xcu
@@ -2974,7 +2923,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "LastName"
-msgstr "LastName"
+msgstr "នាមត្រកូល"
 
 #. bmrdH
 #: TableWizard.xcu
@@ -2984,7 +2933,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "LastName"
-msgstr "LastName"
+msgstr "នាមត្រកូល"
 
 #. yjZCw
 #: TableWizard.xcu
@@ -2994,7 +2943,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Suffix"
-msgstr "Suffix"
+msgstr "បច្ច័យ"
 
 #. MWzEv
 #: TableWizard.xcu
@@ -3004,7 +2953,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Suffix"
-msgstr "Suffix"
+msgstr "បច្ច័យ"
 
 #. AVbzP
 #: TableWizard.xcu
@@ -3014,7 +2963,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Title"
-msgstr "Title"
+msgstr "ចំណងជើង"
 
 #. 8KmMy
 #: TableWizard.xcu
@@ -3024,7 +2973,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Title"
-msgstr "Title"
+msgstr "ចំណងជើង"
 
 #. 838Ju
 #: TableWizard.xcu
@@ -3034,7 +2983,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "OrganizationName"
-msgstr "OrganizationName"
+msgstr "ឈ្មោះ​អង្គការ"
 
 #. wpaAa
 #: TableWizard.xcu
@@ -3044,7 +2993,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "OrgName"
-msgstr "OrgName"
+msgstr "ឈ្មោះ​អង្គការ"
 
 #. 6QYSH
 #: TableWizard.xcu
@@ -3054,7 +3003,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Address"
-msgstr "Address"
+msgstr "អាសយដ្ឋាន"
 
 #. 2BXUh
 #: TableWizard.xcu
@@ -3064,7 +3013,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Address"
-msgstr "Address"
+msgstr "អាសយដ្ឋាន"
 
 #. DBVEv
 #: TableWizard.xcu
@@ -3074,7 +3023,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "City"
-msgstr "City"
+msgstr "ទីក្រុង"
 
 #. AMmBg
 #: TableWizard.xcu
@@ -3084,7 +3033,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "City"
-msgstr "City"
+msgstr "ទីក្រុង"
 
 #. CT9yB
 #: TableWizard.xcu
@@ -3094,7 +3043,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "PostalCode"
-msgstr "PostalCode"
+msgstr "លេខ​កូដ​ប្រៃ​ស​ណី​យ"
 
 #. QTTRM
 #: TableWizard.xcu
@@ -3104,7 +3053,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "PostalCode"
-msgstr "PostalCode"
+msgstr "លេខ​កូដ​ប្រៃ​ស​ណី​យ"
 
 #. gVzBX
 #: TableWizard.xcu
@@ -3114,7 +3063,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "StateOrProvince"
-msgstr "StateOrProvince"
+msgstr "រដ្ឋ​ឬ​ខេត្ត"
 
 #. bCtze
 #: TableWizard.xcu
@@ -3124,7 +3073,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "StateProvi"
-msgstr "StateProvi"
+msgstr "រដ្ឋ​ឬ​ខេត្ត"
 
 #. opTNs
 #: TableWizard.xcu
@@ -3134,7 +3083,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "CountryOrRegion"
-msgstr "CountryOrRegion"
+msgstr "ប្រទេស​ឬ​តំបន់"
 
 #. yKEd8
 #: TableWizard.xcu
@@ -3144,7 +3093,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "CountryReg"
-msgstr "CountryReg"
+msgstr "ប្រទេស​ឬ​តំបន់"
 
 #. PRTbv
 #: TableWizard.xcu
@@ -3154,7 +3103,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "PhoneNumber"
-msgstr "PhoneNumber"
+msgstr "លេខទូរស័ព្ទ"
 
 #. KGhbv
 #: TableWizard.xcu
@@ -3164,7 +3113,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "PhoneNo"
-msgstr "PhoneNo"
+msgstr "លេខទូរស័ព្ទ"
 
 #. TAma4
 #: TableWizard.xcu
@@ -3174,7 +3123,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "FaxNumber"
-msgstr "FaxNumber"
+msgstr "លេខទូរសារ"
 
 #. NTzW3
 #: TableWizard.xcu
@@ -3184,7 +3133,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "FaxNo"
-msgstr "FaxNo"
+msgstr "លេខទូរសារ"
 
 #. 8eqkq
 #: TableWizard.xcu
@@ -3194,7 +3143,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "MobileNumber"
-msgstr "MobileNumber"
+msgstr "លេខ​ទូរ​សព្ទ​ចល័ត"
 
 #. r4uTd
 #: TableWizard.xcu
@@ -3204,7 +3153,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "MobileNo"
-msgstr "MobileNo"
+msgstr "លេខ​ទូរ​សព្ទ​ចល័ត"
 
 #. 8EQGZ
 #: TableWizard.xcu
@@ -3214,7 +3163,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "EmailAddress"
-msgstr "EmailAddress"
+msgstr "អាស័យ​ដ្ឋាន​អ៊ី​ម៉េ​ល"
 
 #. vZWDN
 #: TableWizard.xcu
@@ -3224,7 +3173,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "EmailAddr"
-msgstr "EmailAddr"
+msgstr "អាស័យ​ដ្ឋាន​អ៊ី​ម៉េ​ល"
 
 #. sgj7n
 #: TableWizard.xcu
@@ -3234,7 +3183,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Birthdate"
-msgstr "Birthdate"
+msgstr "ថ្ងៃ​កំណើត​ ៖"
 
 #. DpbEZ
 #: TableWizard.xcu
@@ -3244,7 +3193,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Birthdate"
-msgstr "Birthdate"
+msgstr "ថ្ងៃ​កំណើត​ ៖"
 
 #. DiuoZ
 #: TableWizard.xcu
@@ -3254,7 +3203,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Nationality"
-msgstr "Nationality"
+msgstr "សញ្ជាតិ"
 
 #. WCmMJ
 #: TableWizard.xcu
@@ -3264,7 +3213,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Nationality"
-msgstr "Nationality"
+msgstr "សញ្ជាតិ"
 
 #. GCzKL
 #: TableWizard.xcu
@@ -3274,7 +3223,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "DateUpdated"
-msgstr "DateUpdated"
+msgstr "កាលបរិច្ឆេទធ្វើបច្ចុប្បន្នភាព"
 
 #. UsaZB
 #: TableWizard.xcu
@@ -3284,7 +3233,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "DateUpdate"
-msgstr "DateUpdate"
+msgstr "កាលបរិច្ឆេទធ្វើបច្ចុប្បន្នភាព"
 
 #. Hp4rj
 #: TableWizard.xcu
@@ -3294,7 +3243,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "DateJoined"
-msgstr "DateJoined"
+msgstr "កាលបរិច្ឆេទចូលរួម"
 
 #. T5HPk
 #: TableWizard.xcu
@@ -3304,7 +3253,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "DateJoined"
-msgstr "DateJoined"
+msgstr "កាលបរិច្ឆេទចូលរួម"
 
 #. fxgMF
 #: TableWizard.xcu
@@ -3314,7 +3263,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "MembershipStatus"
-msgstr "MembershipStatus"
+msgstr "ស្ថានភាពសមាជិកភាព"
 
 #. gkefP
 #: TableWizard.xcu
@@ -3324,7 +3273,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "MemberStat"
-msgstr "MemberStat"
+msgstr "ស្ថានភាពសមាជិកភាព"
 
 #. 6aNhJ
 #: TableWizard.xcu
@@ -3334,7 +3283,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "PledgeAmount"
-msgstr "PledgeAmount"
+msgstr "ចំនួនទឹកប្រាក់សន្យា"
 
 #. BrLPP
 #: TableWizard.xcu
@@ -3344,7 +3293,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "PledgeAmnt"
-msgstr "PledgeAmnt"
+msgstr "ចំនួនទឹកប្រាក់សន្យា"
 
 #. Apdz9
 #: TableWizard.xcu
@@ -3354,7 +3303,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "PledgePaidDate"
-msgstr "PledgePaidDate"
+msgstr "កាលបរិច្ឆេទបង់ប្រាក់ដែលបានសន្យា"
 
 #. gQ9Ds
 #: TableWizard.xcu
@@ -3364,7 +3313,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "PldgPdDate"
-msgstr "PldgPdDate"
+msgstr "កាលបរិច្ឆេទបង់ប្រាក់ដែលបានសន្យា"
 
 #. mLczE
 #: TableWizard.xcu
@@ -3374,7 +3323,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "DuesAmount"
-msgstr "DuesAmount"
+msgstr "ចំនួនទឹកប្រាក់ពីរ"
 
 #. QxGp6
 #: TableWizard.xcu
@@ -3384,7 +3333,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "DuesAmount"
-msgstr "DuesAmount"
+msgstr "ចំនួនទឹកប្រាក់ពីរ"
 
 #. fzG4p
 #: TableWizard.xcu
@@ -3394,7 +3343,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "DuesPaidDate"
-msgstr "DuesPaidDate"
+msgstr "កាលបរិច្ឆេទបង់ប្រាក់ពីរ"
 
 #. XGFHH
 #: TableWizard.xcu
@@ -3404,7 +3353,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "DuesPdDate"
-msgstr "DuesPdDate"
+msgstr "កាលបរិច្ឆេទបង់ប្រាក់ពីរ"
 
 #. SJrpn
 #: TableWizard.xcu
@@ -3414,7 +3363,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Photo"
-msgstr "Photo"
+msgstr "រូបថត"
 
 #. tAeF3
 #: TableWizard.xcu
@@ -3424,7 +3373,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Photo"
-msgstr "Photo"
+msgstr "រូបថត"
 
 #. GQKKD
 #: TableWizard.xcu
@@ -3434,7 +3383,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. F6cYC
 #: TableWizard.xcu
@@ -3444,7 +3393,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. ADoJ2
 #: TableWizard.xcu
@@ -3454,7 +3403,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Contacts"
-msgstr "Contacts"
+msgstr "លេខទំនាក់ទំនង"
 
 #. Agmji
 #: TableWizard.xcu
@@ -3464,7 +3413,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "ContactID"
-msgstr "ContactID"
+msgstr "លេខសម្គាល់ទំនាក់ទំនង"
 
 #. 2TjmB
 #: TableWizard.xcu
@@ -3474,7 +3423,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "ContactID"
-msgstr "ContactID"
+msgstr "លេខសម្គាល់ទំនាក់ទំនង"
 
 #. EMQyK
 #: TableWizard.xcu
@@ -3484,7 +3433,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "FirstName"
-msgstr "FirstName"
+msgstr "នាមខ្លួន"
 
 #. PF3mA
 #: TableWizard.xcu
@@ -3494,7 +3443,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "FirstName"
-msgstr "FirstName"
+msgstr "នាមខ្លួន"
 
 #. LvTCD
 #: TableWizard.xcu
@@ -3504,7 +3453,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "LastName"
-msgstr "LastName"
+msgstr "នាមត្រកូល"
 
 #. px2EF
 #: TableWizard.xcu
@@ -3514,7 +3463,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "LastName"
-msgstr "LastName"
+msgstr "នាមត្រកូល"
 
 #. dFGLe
 #: TableWizard.xcu
@@ -3524,7 +3473,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Title"
-msgstr "Title"
+msgstr "ចំណងជើង"
 
 #. H7Bqz
 #: TableWizard.xcu
@@ -3534,7 +3483,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Title"
-msgstr "Title"
+msgstr "ចំណងជើង"
 
 #. 4dmkL
 #: TableWizard.xcu
@@ -3544,7 +3493,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Address"
-msgstr "Address"
+msgstr "អាសយដ្ឋាន"
 
 #. nvShe
 #: TableWizard.xcu
@@ -3554,7 +3503,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Address"
-msgstr "Address"
+msgstr "អាសយដ្ឋាន"
 
 #. PCBxF
 #: TableWizard.xcu
@@ -3564,7 +3513,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "City"
-msgstr "City"
+msgstr "ទីក្រុង"
 
 #. 4sWQ9
 #: TableWizard.xcu
@@ -3574,7 +3523,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "City"
-msgstr "City"
+msgstr "ទីក្រុង"
 
 #. ohf7B
 #: TableWizard.xcu
@@ -3584,7 +3533,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "PostalCode"
-msgstr "PostalCode"
+msgstr "លេខ​កូដ​ប្រៃ​ស​ណី​យ"
 
 #. tLicM
 #: TableWizard.xcu
@@ -3594,7 +3543,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "PostalCode"
-msgstr "PostalCode"
+msgstr "លេខ​កូដ​ប្រៃ​ស​ណី​យ"
 
 #. AMJLh
 #: TableWizard.xcu
@@ -3604,7 +3553,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "StateOrProvince"
-msgstr "StateOrProvince"
+msgstr "រដ្ឋ​ឬ​ខេត្ត"
 
 #. FmUCY
 #: TableWizard.xcu
@@ -3614,7 +3563,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "StateProvi"
-msgstr "StateProvi"
+msgstr "រដ្ឋ​ឬ​ខេត្ត"
 
 #. CFsHm
 #: TableWizard.xcu
@@ -3624,7 +3573,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "CountryOrRegion"
-msgstr "CountryOrRegion"
+msgstr "ប្រទេស​ឬ​តំបន់"
 
 #. JTFSE
 #: TableWizard.xcu
@@ -3634,7 +3583,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "CountryReg"
-msgstr "CountryReg"
+msgstr "ប្រទេស​ឬ​តំបន់"
 
 #. 2TV22
 #: TableWizard.xcu
@@ -3644,7 +3593,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "PhoneNumber"
-msgstr "PhoneNumber"
+msgstr "លេខទូរស័ព្ទ"
 
 #. K9Bux
 #: TableWizard.xcu
@@ -3654,7 +3603,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "PhoneNo"
-msgstr "PhoneNo"
+msgstr "លេខទូរស័ព្ទ"
 
 #. Vpc62
 #: TableWizard.xcu
@@ -3664,7 +3613,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "FaxNumber"
-msgstr "FaxNumber"
+msgstr "លេខទូរសារ"
 
 #. bH6b2
 #: TableWizard.xcu
@@ -3674,7 +3623,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "FaxNo"
-msgstr "FaxNo"
+msgstr "លេខទូរសារ"
 
 #. JADDL
 #: TableWizard.xcu
@@ -3684,7 +3633,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "MobileNumber"
-msgstr "MobileNumber"
+msgstr "លេខ​ទូរ​សព្ទ​ចល័ត"
 
 #. NrcEd
 #: TableWizard.xcu
@@ -3694,7 +3643,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "MobileNo"
-msgstr "MobileNo"
+msgstr "លេខ​ទូរ​សព្ទ​ចល័ត"
 
 #. JjtjB
 #: TableWizard.xcu
@@ -3704,7 +3653,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "EmailAddress"
-msgstr "EmailAddress"
+msgstr "អាស័យ​ដ្ឋាន​អ៊ី​ម៉េ​ល"
 
 #. dUmtu
 #: TableWizard.xcu
@@ -3714,7 +3663,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "EmailAddr"
-msgstr "EmailAddr"
+msgstr "អាស័យ​ដ្ឋាន​អ៊ី​ម៉េ​ល"
 
 #. juinG
 #: TableWizard.xcu
@@ -3724,7 +3673,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Salutation"
-msgstr "Salutation"
+msgstr "វន្ទនាការ"
 
 #. 2ccDa
 #: TableWizard.xcu
@@ -3734,7 +3683,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Salutation"
-msgstr "Salutation"
+msgstr "វន្ទនាការ"
 
 #. u9adp
 #: TableWizard.xcu
@@ -3744,7 +3693,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Birthdate"
-msgstr "Birthdate"
+msgstr "ថ្ងៃ​កំណើត​ ៖"
 
 #. DaDRX
 #: TableWizard.xcu
@@ -3754,7 +3703,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Birthdate"
-msgstr "Birthdate"
+msgstr "ថ្ងៃ​កំណើត​ ៖"
 
 #. LHvdQ
 #: TableWizard.xcu
@@ -3764,7 +3713,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "ContactTypeID"
-msgstr "ContactTypeID"
+msgstr "លេខសម្គាល់ប្រភេទមាតិកា"
 
 #. PFBMW
 #: TableWizard.xcu
@@ -3774,7 +3723,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "CntctTypID"
-msgstr "CntctTypID"
+msgstr "លេខសម្គាល់ប្រភេទមាតិកា"
 
 #. MG2BR
 #: TableWizard.xcu
@@ -3784,7 +3733,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "MaritalStatus"
-msgstr "MaritalStatus"
+msgstr "ស្ថានភាពអាពាហ៍ពិពាហ៍"
 
 #. cVd4K
 #: TableWizard.xcu
@@ -3794,7 +3743,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "MaritlStat"
-msgstr "MaritlStat"
+msgstr "ស្ថានភាពអាពាហ៍ពិពាហ៍"
 
 #. Abyzk
 #: TableWizard.xcu
@@ -3804,7 +3753,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "SpouseName"
-msgstr "SpouseName"
+msgstr "ឈ្មោះប្តីប្រពន្ធ"
 
 #. CjuGx
 #: TableWizard.xcu
@@ -3814,7 +3763,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "SpouseName"
-msgstr "SpouseName"
+msgstr "ឈ្មោះប្តីប្រពន្ធ"
 
 #. PmKQg
 #: TableWizard.xcu
@@ -3824,7 +3773,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "SpousesInterests"
-msgstr "SpousesInterests"
+msgstr "ចំណាប់អារម្មណ៍ប្តីប្រពន្ធ"
 
 #. VFubC
 #: TableWizard.xcu
@@ -3834,7 +3783,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "SpouseIntr"
-msgstr "SpouseIntr"
+msgstr "ចំណាប់អារម្មណ៍ប្តីប្រពន្ធ"
 
 #. PMAZG
 #: TableWizard.xcu
@@ -3844,7 +3793,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "ContactsInterests"
-msgstr "ContactsInterests"
+msgstr "ចំណាប់អារម្មណ៍ទំនាក់ទំនង"
 
 #. bAFJs
 #: TableWizard.xcu
@@ -3854,7 +3803,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "CntctInter"
-msgstr "CntctInter"
+msgstr "ចំណាប់អារម្មណ៍ទំនាក់ទំនង"
 
 #. WHCBa
 #: TableWizard.xcu
@@ -3864,7 +3813,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "ChildrenNames"
-msgstr "ChildrenNames"
+msgstr "ឈ្មោះកុមារ"
 
 #. CqEcs
 #: TableWizard.xcu
@@ -3874,7 +3823,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "ChildName"
-msgstr "ChildName"
+msgstr "ឈ្មោះកុមារ"
 
 #. MoQe6
 #: TableWizard.xcu
@@ -3884,7 +3833,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Photo"
-msgstr "Photo"
+msgstr "រូបថត"
 
 #. cGFsw
 #: TableWizard.xcu
@@ -3894,7 +3843,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Photo"
-msgstr "Photo"
+msgstr "រូបថត"
 
 #. nmy4w
 #: TableWizard.xcu
@@ -3904,7 +3853,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. QL9Bf
 #: TableWizard.xcu
@@ -3914,7 +3863,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. ZQtg8
 #: TableWizard.xcu
@@ -3924,7 +3873,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Customers"
-msgstr "Customers"
+msgstr "អតិថិជន"
 
 #. Z3zgE
 #: TableWizard.xcu
@@ -3934,7 +3883,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "CustomerID"
-msgstr "CustomerID"
+msgstr "លេខ​សម្គាល់​អតិថិជន"
 
 #. CF92K
 #: TableWizard.xcu
@@ -3944,7 +3893,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "CustomerID"
-msgstr "CustomerID"
+msgstr "លេខ​សម្គាល់​អតិថិជន"
 
 #. epLip
 #: TableWizard.xcu
@@ -3954,7 +3903,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "CompanyName"
-msgstr "CompanyName"
+msgstr "ឈ្មោះ​ក្រុម​ហ៊ុន"
 
 #. LtYAX
 #: TableWizard.xcu
@@ -3964,7 +3913,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "CompnyName"
-msgstr "CompnyName"
+msgstr "ឈ្មោះ​ក្រុម​ហ៊ុន"
 
 #. Cdh9H
 #: TableWizard.xcu
@@ -3974,7 +3923,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "FirstName"
-msgstr "FirstName"
+msgstr "នាមខ្លួន"
 
 #. JT9WV
 #: TableWizard.xcu
@@ -3984,7 +3933,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "FirstName"
-msgstr "FirstName"
+msgstr "នាមខ្លួន"
 
 #. chDCN
 #: TableWizard.xcu
@@ -3994,7 +3943,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "LastName"
-msgstr "LastName"
+msgstr "នាមត្រកូល"
 
 #. G5sBB
 #: TableWizard.xcu
@@ -4004,7 +3953,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "LastName"
-msgstr "LastName"
+msgstr "នាមត្រកូល"
 
 #. xRtBz
 #: TableWizard.xcu
@@ -4014,7 +3963,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Department"
-msgstr "Department"
+msgstr "នាយកដ្ឋាន"
 
 #. bmb8L
 #: TableWizard.xcu
@@ -4024,7 +3973,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Department"
-msgstr "Department"
+msgstr "នាយកដ្ឋាន"
 
 #. Se6xq
 #: TableWizard.xcu
@@ -4034,7 +3983,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Address"
-msgstr "Address"
+msgstr "អាសយដ្ឋាន"
 
 #. FNRE6
 #: TableWizard.xcu
@@ -4044,7 +3993,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Address"
-msgstr "Address"
+msgstr "អាសយដ្ឋាន"
 
 #. EH4Ca
 #: TableWizard.xcu
@@ -4054,7 +4003,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "City"
-msgstr "City"
+msgstr "ទីក្រុង"
 
 #. NU3wM
 #: TableWizard.xcu
@@ -4064,7 +4013,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "City"
-msgstr "City"
+msgstr "ទីក្រុង"
 
 #. DscYP
 #: TableWizard.xcu
@@ -4074,7 +4023,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "PostalCode"
-msgstr "PostalCode"
+msgstr "លេខ​កូដ​ប្រៃ​ស​ណី​យ"
 
 #. WwSrS
 #: TableWizard.xcu
@@ -4084,7 +4033,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "PostalCode"
-msgstr "PostalCode"
+msgstr "លេខ​កូដ​ប្រៃ​ស​ណី​យ"
 
 #. BanEt
 #: TableWizard.xcu
@@ -4094,7 +4043,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "StateOrProvince"
-msgstr "StateOrProvince"
+msgstr "រដ្ឋ​ឬ​ខេត្ត"
 
 #. EzF6m
 #: TableWizard.xcu
@@ -4104,7 +4053,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "StateProvi"
-msgstr "StateProvi"
+msgstr "រដ្ឋ​ឬ​ខេត្ត"
 
 #. BwFKY
 #: TableWizard.xcu
@@ -4114,7 +4063,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "CountryOrRegion"
-msgstr "CountryOrRegion"
+msgstr "ប្រទេស​ឬ​តំបន់"
 
 #. MCsgJ
 #: TableWizard.xcu
@@ -4124,7 +4073,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "CountryReg"
-msgstr "CountryReg"
+msgstr "ប្រទេស​ឬ​តំបន់"
 
 #. h9GMq
 #: TableWizard.xcu
@@ -4134,7 +4083,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "PhoneNumber"
-msgstr "PhoneNumber"
+msgstr "លេខទូរស័ព្ទ"
 
 #. NvzeE
 #: TableWizard.xcu
@@ -4144,7 +4093,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "PhoneNo"
-msgstr "PhoneNo"
+msgstr "លេខទូរស័ព្ទ"
 
 #. X7MkG
 #: TableWizard.xcu
@@ -4154,7 +4103,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "FaxNumber"
-msgstr "FaxNumber"
+msgstr "លេខទូរសារ"
 
 #. 9qtCa
 #: TableWizard.xcu
@@ -4164,7 +4113,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "FaxNo"
-msgstr "FaxNo"
+msgstr "លេខទូរសារ"
 
 #. kbBNB
 #: TableWizard.xcu
@@ -4174,7 +4123,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "MobileNumber"
-msgstr "MobileNumber"
+msgstr "លេខ​ទូរ​សព្ទ​ចល័ត"
 
 #. 3Rt7A
 #: TableWizard.xcu
@@ -4184,7 +4133,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "MobileNo"
-msgstr "MobileNo"
+msgstr "លេខ​ទូរ​សព្ទ​ចល័ត"
 
 #. kBrTL
 #: TableWizard.xcu
@@ -4194,7 +4143,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "EmailAddress"
-msgstr "EmailAddress"
+msgstr "អាស័យ​ដ្ឋាន​អ៊ី​ម៉េ​ល"
 
 #. KCCf2
 #: TableWizard.xcu
@@ -4204,7 +4153,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "EmailAddr"
-msgstr "EmailAddr"
+msgstr "អាស័យ​ដ្ឋាន​អ៊ី​ម៉េ​ល"
 
 #. TAEpB
 #: TableWizard.xcu
@@ -4214,7 +4163,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Title"
-msgstr "Title"
+msgstr "ចំណងជើង"
 
 #. nDsvK
 #: TableWizard.xcu
@@ -4224,7 +4173,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Title"
-msgstr "Title"
+msgstr "ចំណងជើង"
 
 #. xnWhM
 #: TableWizard.xcu
@@ -4234,7 +4183,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. wAS2n
 #: TableWizard.xcu
@@ -4244,7 +4193,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. UUk6A
 #: TableWizard.xcu
@@ -4254,7 +4203,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Employees"
-msgstr "Employees"
+msgstr "បុគ្គលិក"
 
 #. gZUSu
 #: TableWizard.xcu
@@ -4264,7 +4213,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "EmployeeID"
-msgstr "EmployeeID"
+msgstr "លេខសម្គាល់បុគ្គលិក៖"
 
 #. 8vszg
 #: TableWizard.xcu
@@ -4274,7 +4223,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "EmployeeID"
-msgstr "EmployeeID"
+msgstr "លេខសម្គាល់បុគ្គលិក៖"
 
 #. X64YR
 #: TableWizard.xcu
@@ -4284,7 +4233,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "FirstName"
-msgstr "FirstName"
+msgstr "នាមខ្លួន"
 
 #. RD45c
 #: TableWizard.xcu
@@ -4294,7 +4243,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "FirstName"
-msgstr "FirstName"
+msgstr "នាមខ្លួន"
 
 #. pjkom
 #: TableWizard.xcu
@@ -4304,7 +4253,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "MiddleName"
-msgstr "MiddleName"
+msgstr "​ឈ្មោះ​ក​ណ្តា​ល"
 
 #. iEiny
 #: TableWizard.xcu
@@ -4314,7 +4263,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "MiddleName"
-msgstr "MiddleName"
+msgstr "ឈ្មោះ​ក​ណ្តា​ល"
 
 #. RCBHM
 #: TableWizard.xcu
@@ -4324,7 +4273,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "LastName"
-msgstr "LastName"
+msgstr "នាមត្រកូល"
 
 #. vgGDB
 #: TableWizard.xcu
@@ -4334,7 +4283,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "LastName"
-msgstr "LastName"
+msgstr "នាមត្រកូល"
 
 #. FeJAR
 #: TableWizard.xcu
@@ -4344,7 +4293,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Title"
-msgstr "Title"
+msgstr "ចំណងជើង"
 
 #. LZRsJ
 #: TableWizard.xcu
@@ -4354,7 +4303,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Title"
-msgstr "Title"
+msgstr "ចំណងជើង"
 
 #. 23GZC
 #: TableWizard.xcu
@@ -4364,7 +4313,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Department"
-msgstr "Department"
+msgstr "នាយកដ្ឋាន"
 
 #. AjFE3
 #: TableWizard.xcu
@@ -4374,7 +4323,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Department"
-msgstr "Department"
+msgstr "នាយកដ្ឋាន"
 
 #. inu4c
 #: TableWizard.xcu
@@ -4384,7 +4333,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "SocialSecurityNumber"
-msgstr "SocialSecurityNumber"
+msgstr "លេខសម្ងាត់​សង្គម"
 
 #. xXS3F
 #: TableWizard.xcu
@@ -4394,7 +4343,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "SocSecNo"
-msgstr "SocSecNo"
+msgstr "លេខសម្ងាត់​សង្គម"
 
 #. bgGyq
 #: TableWizard.xcu
@@ -4404,7 +4353,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "EmployeeNumber"
-msgstr "EmployeeNumber"
+msgstr "លេខនិយោជិក"
 
 #. Aw9vy
 #: TableWizard.xcu
@@ -4414,7 +4363,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "EmployeeNo"
-msgstr "EmployeeNo"
+msgstr "លេខនិយោជិក"
 
 #. Xb2nA
 #: TableWizard.xcu
@@ -4424,7 +4373,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "EmailAddress"
-msgstr "EmailAddress"
+msgstr "អាស័យ​ដ្ឋាន​អ៊ី​ម៉េ​ល"
 
 #. bWDH9
 #: TableWizard.xcu
@@ -4434,7 +4383,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "EmailAddr"
-msgstr "EmailAddr"
+msgstr "អាស័យ​ដ្ឋាន​អ៊ី​ម៉េ​ល"
 
 #. Ho6id
 #: TableWizard.xcu
@@ -4444,7 +4393,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Extension"
-msgstr "Extension"
+msgstr "ផ្សព្វផ្សាយកសិកម្ម"
 
 #. Uc9ba
 #: TableWizard.xcu
@@ -4454,7 +4403,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Extension"
-msgstr "Extension"
+msgstr "ផ្សព្វផ្សាយកសិកម្ម"
 
 #. CpEt6
 #: TableWizard.xcu
@@ -4464,7 +4413,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Address"
-msgstr "Address"
+msgstr "អាសយដ្ឋាន"
 
 #. sD5vd
 #: TableWizard.xcu
@@ -4474,7 +4423,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Address"
-msgstr "Address"
+msgstr "អាសយដ្ឋាន"
 
 #. CSboC
 #: TableWizard.xcu
@@ -4484,7 +4433,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "City"
-msgstr "City"
+msgstr "ទីក្រុង"
 
 #. XGP5v
 #: TableWizard.xcu
@@ -4494,7 +4443,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "City"
-msgstr "City"
+msgstr "ទីក្រុង"
 
 #. eW7CG
 #: TableWizard.xcu
@@ -4504,7 +4453,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "PostalCode"
-msgstr "PostalCode"
+msgstr "លេខ​កូដ​ប្រៃ​ស​ណី​យ"
 
 #. Py8dr
 #: TableWizard.xcu
@@ -4514,7 +4463,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "PostalCode"
-msgstr "PostalCode"
+msgstr "លេខ​កូដ​ប្រៃ​ស​ណី​យ"
 
 #. EzmFt
 #: TableWizard.xcu
@@ -4524,7 +4473,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "StateOrProvince"
-msgstr "StateOrProvince"
+msgstr "រដ្ឋ​ឬ​ខេត្ត"
 
 #. BaA5m
 #: TableWizard.xcu
@@ -4534,7 +4483,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "StateProvi"
-msgstr "StateProvi"
+msgstr "រដ្ឋ​ឬ​ខេត្ត"
 
 #. GFCJY
 #: TableWizard.xcu
@@ -4544,7 +4493,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "CountryOrRegion"
-msgstr "CountryOrRegion"
+msgstr "ប្រទេស​ឬ​តំបន់"
 
 #. NtxhJ
 #: TableWizard.xcu
@@ -4554,7 +4503,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "CountryReg"
-msgstr "CountryReg"
+msgstr "ប្រទេស​ឬ​តំបន់"
 
 #. VJN6T
 #: TableWizard.xcu
@@ -4564,7 +4513,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "PhoneNumber"
-msgstr "PhoneNumber"
+msgstr "លេខទូរស័ព្ទ"
 
 #. MFCDP
 #: TableWizard.xcu
@@ -4574,7 +4523,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "PhoneNo"
-msgstr "PhoneNo"
+msgstr "លេខទូរស័ព្ទ"
 
 #. CaqN8
 #: TableWizard.xcu
@@ -4584,7 +4533,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "FaxNumber"
-msgstr "FaxNumber"
+msgstr "លេខទូរសារ"
 
 #. WZTt7
 #: TableWizard.xcu
@@ -4594,7 +4543,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "FaxNo"
-msgstr "FaxNo"
+msgstr "លេខទូរសារ"
 
 #. XBaAK
 #: TableWizard.xcu
@@ -4604,7 +4553,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "MobileNumber"
-msgstr "MobileNumber"
+msgstr "លេខ​ទូរ​សព្ទ​ចល័ត"
 
 #. uPPF9
 #: TableWizard.xcu
@@ -4614,7 +4563,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "MobileNo"
-msgstr "MobileNo"
+msgstr "លេខ​ទូរ​សព្ទ​ចល័ត"
 
 #. BGoki
 #: TableWizard.xcu
@@ -4624,7 +4573,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Birthdate"
-msgstr "Birthdate"
+msgstr "ថ្ងៃ​កំណើត​ ៖"
 
 #. FgEa7
 #: TableWizard.xcu
@@ -4634,7 +4583,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Birthdate"
-msgstr "Birthdate"
+msgstr "ថ្ងៃ​កំណើត​ ៖"
 
 #. EqHuQ
 #: TableWizard.xcu
@@ -4644,7 +4593,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "DateHired"
-msgstr "DateHired"
+msgstr "កាលបរិច្ឆេទជួល"
 
 #. eWU8R
 #: TableWizard.xcu
@@ -4654,7 +4603,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "DateHired"
-msgstr "DateHired"
+msgstr "កាលបរិច្ឆេទជួល"
 
 #. xTA4A
 #: TableWizard.xcu
@@ -4664,7 +4613,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "DepartmentID"
-msgstr "DepartmentID"
+msgstr "មន្ទីរ"
 
 #. ZZH49
 #: TableWizard.xcu
@@ -4674,7 +4623,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "DeprtmntID"
-msgstr "DeprtmntID"
+msgstr "លេខសម្គាល់នាយកដ្ឋាន"
 
 #. 7bNdD
 #: TableWizard.xcu
@@ -4684,7 +4633,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Salary"
-msgstr "Salary"
+msgstr "ប្រាក់ខែ"
 
 #. fCBB2
 #: TableWizard.xcu
@@ -4694,7 +4643,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Salary"
-msgstr "Salary"
+msgstr "ប្រាក់ខែ"
 
 #. tGEUq
 #: TableWizard.xcu
@@ -4704,7 +4653,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "BillingRate"
-msgstr "BillingRate"
+msgstr "អត្រាចេញវិក្កយបត្រ"
 
 #. qHQ6b
 #: TableWizard.xcu
@@ -4714,7 +4663,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "BillngRate"
-msgstr "BillngRate"
+msgstr "អត្រាចេញវិក្កយបត្រ"
 
 #. 8GFSK
 #: TableWizard.xcu
@@ -4724,7 +4673,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Deductions"
-msgstr "Deductions"
+msgstr "ការដកប្រាក់"
 
 #. bS63y
 #: TableWizard.xcu
@@ -4734,7 +4683,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Deductions"
-msgstr "Deductions"
+msgstr "ការដកប្រាក់"
 
 #. coxFD
 #: TableWizard.xcu
@@ -4744,7 +4693,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "SupervisorID"
-msgstr "SupervisorID"
+msgstr "លេខសម្គាល់អ្នកត្រួតពិនិត្យ"
 
 #. 4LrRF
 #: TableWizard.xcu
@@ -4754,7 +4703,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "SupervisID"
-msgstr "SupervisID"
+msgstr "លេខសម្គាល់អ្នកត្រួតពិនិត្យ"
 
 #. AUEEe
 #: TableWizard.xcu
@@ -4764,7 +4713,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "SpouseName"
-msgstr "SpouseName"
+msgstr "ឈ្មោះប្តីប្រពន្ធ"
 
 #. eEDFP
 #: TableWizard.xcu
@@ -4774,7 +4723,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "SpouseName"
-msgstr "SpouseName"
+msgstr "ឈ្មោះប្តីប្រពន្ធ"
 
 #. xBGLG
 #: TableWizard.xcu
@@ -4784,7 +4733,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "OfficeLocation"
-msgstr "OfficeLocation"
+msgstr "ទីតាំងការិយាល័យ"
 
 #. gCEBW
 #: TableWizard.xcu
@@ -4794,7 +4743,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "OfficeLoc"
-msgstr "OfficeLoc"
+msgstr "ទីតាំងការិយាល័យ"
 
 #. xHAYp
 #: TableWizard.xcu
@@ -4804,7 +4753,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Photo"
-msgstr "Photo"
+msgstr "រូបថត"
 
 #. ZgzqX
 #: TableWizard.xcu
@@ -4814,7 +4763,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Photo"
-msgstr "Photo"
+msgstr "រូបថត"
 
 #. BBaAF
 #: TableWizard.xcu
@@ -4824,7 +4773,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. Du75o
 #: TableWizard.xcu
@@ -4834,7 +4783,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. DZDJM
 #: TableWizard.xcu
@@ -4844,7 +4793,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Orders"
-msgstr "Orders"
+msgstr "ការបញ្ជាទិញ"
 
 #. BBwY3
 #: TableWizard.xcu
@@ -4854,7 +4803,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "OrderID"
-msgstr "OrderID"
+msgstr "លេខ​សម្គាល់​លំដាប់"
 
 #. u6giJ
 #: TableWizard.xcu
@@ -4864,7 +4813,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "OrderID"
-msgstr "OrderID"
+msgstr "លេខ​សម្គាល់​លំដាប់"
 
 #. q2P5m
 #: TableWizard.xcu
@@ -4874,7 +4823,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "CustomerID"
-msgstr "CustomerID"
+msgstr "លេខ​សម្គាល់​អតិថិជន"
 
 #. kc7Vr
 #: TableWizard.xcu
@@ -4884,7 +4833,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "CustomerID"
-msgstr "CustomerID"
+msgstr "លេខ​សម្គាល់​អតិថិជន"
 
 #. 2sDZF
 #: TableWizard.xcu
@@ -4894,7 +4843,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "EmployeeID"
-msgstr "EmployeeID"
+msgstr "លេខសម្គាល់បុគ្គលិក៖"
 
 #. QLAjH
 #: TableWizard.xcu
@@ -4904,7 +4853,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "EmployeeID"
-msgstr "EmployeeID"
+msgstr "លេខសម្គាល់បុគ្គលិក៖"
 
 #. hDFA3
 #: TableWizard.xcu
@@ -4914,7 +4863,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "OrderDate"
-msgstr "OrderDate"
+msgstr "កាល​បរិច្ឆេទ​បញ្ជា​ទិញ"
 
 #. kXAwD
 #: TableWizard.xcu
@@ -4924,7 +4873,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "OrderDate"
-msgstr "OrderDate"
+msgstr "កាល​បរិច្ឆេទ​បញ្ជា​ទិញ"
 
 #. 59RAz
 #: TableWizard.xcu
@@ -4934,7 +4883,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "PurchaseOrderNumber"
-msgstr "PurchaseOrderNumber"
+msgstr "លេខបញ្ជាទិញ"
 
 #. pmtBC
 #: TableWizard.xcu
@@ -4944,7 +4893,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "PurchOrdNo"
-msgstr "PurchOrdNo"
+msgstr "លេខបញ្ជាទិញ"
 
 #. 9omUA
 #: TableWizard.xcu
@@ -4954,7 +4903,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "RequiredByDate"
-msgstr "RequiredByDate"
+msgstr "ទាមទារតាមកាលបរិច្ឆេទ"
 
 #. 3G86K
 #: TableWizard.xcu
@@ -4964,7 +4913,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "RequirDate"
-msgstr "RequirDate"
+msgstr "ទាមទារកាលបរិច្ឆេទ"
 
 #. 8hDN3
 #: TableWizard.xcu
@@ -4974,7 +4923,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "PromisedByDate"
-msgstr "PromisedByDate"
+msgstr "សន្យាតាមកាលបរិច្ឆេទ"
 
 #. mGe99
 #: TableWizard.xcu
@@ -4984,7 +4933,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "PromisDate"
-msgstr "PromisDate"
+msgstr "កាលបរិច្ឆេទដែលបានសន្យា"
 
 #. PajGG
 #: TableWizard.xcu
@@ -4994,7 +4943,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "ShipName"
-msgstr "ShipName"
+msgstr "ឈ្មោះនាវា"
 
 #. bs2Bn
 #: TableWizard.xcu
@@ -5004,7 +4953,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "ShipName"
-msgstr "ShipName"
+msgstr "ឈ្មោះនាវា"
 
 #. A4S24
 #: TableWizard.xcu
@@ -5014,7 +4963,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "ShipAddress"
-msgstr "ShipAddress"
+msgstr "អាស័យដ្ឋាននាវា"
 
 #. 9TZph
 #: TableWizard.xcu
@@ -5024,7 +4973,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "ShipAddres"
-msgstr "ShipAddres"
+msgstr "អាស័យដ្ឋាននាវា"
 
 #. dEC6G
 #: TableWizard.xcu
@@ -5034,7 +4983,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "ShipCity"
-msgstr "ShipCity"
+msgstr "ទីក្រុងនាវា"
 
 #. 5sLAQ
 #: TableWizard.xcu
@@ -5044,7 +4993,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "ShipCity"
-msgstr "ShipCity"
+msgstr "ទីក្រុងនាវា"
 
 #. ChHem
 #: TableWizard.xcu
@@ -5054,7 +5003,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "ShipStateOrProvince"
-msgstr "ShipStateOrProvince"
+msgstr "នាវារដ្ឋឬខេត្ត"
 
 #. h96Fc
 #: TableWizard.xcu
@@ -5064,7 +5013,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "ShpStatPro"
-msgstr "ShpStatPro"
+msgstr "នាវារដ្ឋឬខេត្ត"
 
 #. DRUyL
 #: TableWizard.xcu
@@ -5074,7 +5023,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "ShipPostalCode"
-msgstr "ShipPostalCode"
+msgstr "លេខកូដប្រៃសណីយ៍នាវា"
 
 #. RxAGo
 #: TableWizard.xcu
@@ -5084,7 +5033,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "ShipPostlC"
-msgstr "ShipPostlC"
+msgstr "លេខកូដប្រៃសណីយ៍នាវា"
 
 #. karSM
 #: TableWizard.xcu
@@ -5094,7 +5043,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "ShipCountryOrRegion"
-msgstr "ShipCountryOrRegion"
+msgstr "នាវាប្រទេសឬតំបន់"
 
 #. u2r5G
 #: TableWizard.xcu
@@ -5104,7 +5053,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "ShipCouReg"
-msgstr "ShipCouReg"
+msgstr "នាវាប្រទេសឬតំបន់"
 
 #. PFjX4
 #: TableWizard.xcu
@@ -5114,7 +5063,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "ShipPhoneNumber"
-msgstr "ShipPhoneNumber"
+msgstr "លេខទូរស័ព្ទនាវា"
 
 #. ZDMkb
 #: TableWizard.xcu
@@ -5124,7 +5073,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "ShipPhonNo"
-msgstr "ShipPhonNo"
+msgstr "លេខទូរស័ព្ទនាវា"
 
 #. wGRfF
 #: TableWizard.xcu
@@ -5134,7 +5083,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "ShipDate"
-msgstr "ShipDate"
+msgstr "កាលបរិច្ឆេទនាវា"
 
 #. UPjpD
 #: TableWizard.xcu
@@ -5144,7 +5093,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "ShipDate"
-msgstr "ShipDate"
+msgstr "កាលបរិច្ឆេទនាវា"
 
 #. o5MH8
 #: TableWizard.xcu
@@ -5154,7 +5103,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "ShippingMethodID"
-msgstr "ShippingMethodID"
+msgstr "លេខសម្គាល់វិធីសាស្ត្រដឹកជញ្ជូន"
 
 #. kMCzA
 #: TableWizard.xcu
@@ -5164,7 +5113,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "ShipMethID"
-msgstr "ShipMethID"
+msgstr "លេខសម្គាល់វិធីសាស្ត្រដឹកជញ្ជូន"
 
 #. tRFND
 #: TableWizard.xcu
@@ -5174,7 +5123,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "FreightCharge"
-msgstr "FreightCharge"
+msgstr "ថ្លៃដឹកទំនិញ"
 
 #. CcPSi
 #: TableWizard.xcu
@@ -5184,7 +5133,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "FreightCharge"
-msgstr "FreightCharge"
+msgstr "ថ្លៃដឹកទំនិញ"
 
 #. FE5wE
 #: TableWizard.xcu
@@ -5194,7 +5143,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "SalesTaxRate"
-msgstr "SalesTaxRate"
+msgstr "អត្រាពន្ធលក់"
 
 #. KBygT
 #: TableWizard.xcu
@@ -5204,7 +5153,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "SalesTaxRt"
-msgstr "SalesTaxRt"
+msgstr "អត្រាពន្ធលក់"
 
 #. 3wUgs
 #: TableWizard.xcu
@@ -5214,7 +5163,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "OrderDetails"
-msgstr "OrderDetails"
+msgstr "ព័ត៌មានពត៌មានលំអិតលំដាប់"
 
 #. dKfhV
 #: TableWizard.xcu
@@ -5224,7 +5173,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "OrderDetailID"
-msgstr "OrderDetailID"
+msgstr "លេខសម្គាល់ពត៌មានលំអិតលំដាប់"
 
 #. ybLBA
 #: TableWizard.xcu
@@ -5234,7 +5183,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "OrderDetID"
-msgstr "OrderDetID"
+msgstr "លេខសម្គាល់ពត៌មានលំអិតលំដាប់"
 
 #. Svw5D
 #: TableWizard.xcu
@@ -5244,7 +5193,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "OrderID"
-msgstr "OrderID"
+msgstr "លេខ​សម្គាល់​លំដាប់"
 
 #. nhEvv
 #: TableWizard.xcu
@@ -5254,7 +5203,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "OrderID"
-msgstr "OrderID"
+msgstr "លេខ​សម្គាល់​លំដាប់"
 
 #. PKEYD
 #: TableWizard.xcu
@@ -5284,7 +5233,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "DateSold"
-msgstr "DateSold"
+msgstr "កាលបរិច្ឆេទ"
 
 #. HBgBM
 #: TableWizard.xcu
@@ -5294,7 +5243,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "DateSold"
-msgstr "DateSold"
+msgstr "កាលបរិច្ឆេទ"
 
 #. yAv7W
 #: TableWizard.xcu
@@ -5304,7 +5253,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Quantity"
-msgstr "Quantity"
+msgstr "បរិមាណ"
 
 #. AEbcX
 #: TableWizard.xcu
@@ -5314,7 +5263,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Quantity"
-msgstr "Quantity"
+msgstr "បរិមាណ"
 
 #. bUThi
 #: TableWizard.xcu
@@ -5324,7 +5273,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "UnitPrice"
-msgstr "UnitPrice"
+msgstr "តម្លៃ​ឯកតា"
 
 #. FEDWA
 #: TableWizard.xcu
@@ -5334,7 +5283,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "UnitPrice"
-msgstr "UnitPrice"
+msgstr "តម្លៃ​ឯកតា"
 
 #. ZjkrP
 #: TableWizard.xcu
@@ -5344,7 +5293,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Discount"
-msgstr "Discount"
+msgstr "បញ្ចុះតម្លៃ"
 
 #. LxkNT
 #: TableWizard.xcu
@@ -5354,7 +5303,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Discount"
-msgstr "Discount"
+msgstr "បញ្ចុះតម្លៃ"
 
 #. WtnRB
 #: TableWizard.xcu
@@ -5364,7 +5313,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "SalePrice"
-msgstr "SalePrice"
+msgstr "តំលៃ​លក់"
 
 #. 4SLN8
 #: TableWizard.xcu
@@ -5374,7 +5323,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "SalePrice"
-msgstr "SalePrice"
+msgstr "តំលៃ​លក់"
 
 #. qTtxh
 #: TableWizard.xcu
@@ -5384,7 +5333,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "SalesTax"
-msgstr "SalesTax"
+msgstr "ពន្ធលើការលក់"
 
 #. AKELU
 #: TableWizard.xcu
@@ -5394,7 +5343,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "SalesTax"
-msgstr "SalesTax"
+msgstr "ពន្ធលើការលក់"
 
 #. uP8db
 #: TableWizard.xcu
@@ -5404,7 +5353,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "LineTotal"
-msgstr "LineTotal"
+msgstr "ខ្សែសរុប"
 
 #. gmxro
 #: TableWizard.xcu
@@ -5414,7 +5363,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "LineTotal"
-msgstr "LineTotal"
+msgstr "ខ្សែសរុប"
 
 #. guVjD
 #: TableWizard.xcu
@@ -5424,7 +5373,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Payments"
-msgstr "Payments"
+msgstr "ការបង់ប្រាក់"
 
 #. rG7oB
 #: TableWizard.xcu
@@ -5434,7 +5383,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "PaymentID"
-msgstr "PaymentID"
+msgstr "លេខសម្គាល់ការទូទាត់"
 
 #. EVcaR
 #: TableWizard.xcu
@@ -5444,7 +5393,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "PaymentID"
-msgstr "PaymentID"
+msgstr "លេខសម្គាល់ការទូទាត់"
 
 #. 8Nav5
 #: TableWizard.xcu
@@ -5454,7 +5403,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "CustomerID"
-msgstr "CustomerID"
+msgstr "លេខ​សម្គាល់​អតិថិជន"
 
 #. eNKsR
 #: TableWizard.xcu
@@ -5464,7 +5413,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "CustomerID"
-msgstr "CustomerID"
+msgstr "លេខ​សម្គាល់​អតិថិជន"
 
 #. 3xXjt
 #: TableWizard.xcu
@@ -5474,7 +5423,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "WorkorderID"
-msgstr "WorkorderID"
+msgstr "លេខសម្គាល់អ្នកធ្វើការ"
 
 #. sFych
 #: TableWizard.xcu
@@ -5484,7 +5433,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "WorkordrID"
-msgstr "WorkordrID"
+msgstr "លេខសម្គាល់អ្នកធ្វើការ"
 
 #. BWEeR
 #: TableWizard.xcu
@@ -5494,7 +5443,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "OrderID"
-msgstr "OrderID"
+msgstr "លេខ​សម្គាល់​លំដាប់"
 
 #. 6CRag
 #: TableWizard.xcu
@@ -5504,7 +5453,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "OrderID"
-msgstr "OrderID"
+msgstr "លេខ​សម្គាល់​លំដាប់"
 
 #. QKkGL
 #: TableWizard.xcu
@@ -5514,7 +5463,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "ReservationID"
-msgstr "ReservationID"
+msgstr "លេខសម្គាល់ការកក់"
 
 #. cJgDW
 #: TableWizard.xcu
@@ -5524,7 +5473,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "ReservID"
-msgstr "ReservID"
+msgstr "លេខសម្គាល់ការកក់"
 
 #. tCUDF
 #: TableWizard.xcu
@@ -5534,7 +5483,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "MemberID"
-msgstr "MemberID"
+msgstr "លេខសមាជិក"
 
 #. pMrBJ
 #: TableWizard.xcu
@@ -5544,7 +5493,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "MemberID"
-msgstr "MemberID"
+msgstr "លេខសមាជិក"
 
 #. Qw6Dn
 #: TableWizard.xcu
@@ -5554,7 +5503,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "RegistrationID"
-msgstr "RegistrationID"
+msgstr "លេខចុះឈ្មោះ"
 
 #. jHB7a
 #: TableWizard.xcu
@@ -5564,7 +5513,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "RegistraID"
-msgstr "RegistraID"
+msgstr "លេខចុះឈ្មោះ"
 
 #. QPS7M
 #: TableWizard.xcu
@@ -5574,7 +5523,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "ProjectID"
-msgstr "ProjectID"
+msgstr "លេខសម្គាល់គម្រោង"
 
 #. GCdAw
 #: TableWizard.xcu
@@ -5584,7 +5533,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "ProjectID"
-msgstr "ProjectID"
+msgstr "លេខសម្គាល់គម្រោង"
 
 #. cVGBG
 #: TableWizard.xcu
@@ -5594,7 +5543,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "PaymentAmount"
-msgstr "PaymentAmount"
+msgstr "ចំនួនទឹកប្រាក់ទូទាត់"
 
 #. 4L9EB
 #: TableWizard.xcu
@@ -5604,7 +5553,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "PaymntAmnt"
-msgstr "PaymntAmnt"
+msgstr "ចំនួនទឹកប្រាក់ទូទាត់"
 
 #. QMXMj
 #: TableWizard.xcu
@@ -5614,7 +5563,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "PaymentDate"
-msgstr "PaymentDate"
+msgstr "កាលបរិច្ឆេទការទូទាត់"
 
 #. 9BTdh
 #: TableWizard.xcu
@@ -5624,7 +5573,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "PaymntDate"
-msgstr "PaymntDate"
+msgstr "កាលបរិច្ឆេទការទូទាត់"
 
 #. XLGxB
 #: TableWizard.xcu
@@ -5634,7 +5583,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "PaymentMethod"
-msgstr "PaymentMethod"
+msgstr "វិធី​សា​ស្រ្ត​ទូទាត់"
 
 #. bFCLF
 #: TableWizard.xcu
@@ -5644,7 +5593,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "PaymntMeth"
-msgstr "PaymntMeth"
+msgstr "វិធី​សា​ស្រ្ត​ទូទាត់"
 
 #. SNAyD
 #: TableWizard.xcu
@@ -5654,7 +5603,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "CheckNumber"
-msgstr "CheckNumber"
+msgstr "ពិនិត្យលេខ"
 
 #. oVMj9
 #: TableWizard.xcu
@@ -5664,7 +5613,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "CheckNo"
-msgstr "CheckNo"
+msgstr "ពិនិត្យលេខ"
 
 #. JkiQr
 #: TableWizard.xcu
@@ -5674,7 +5623,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "CreditCardType"
-msgstr "CreditCardType"
+msgstr "ប្រភេទកាតឥណទាន"
 
 #. GzXDo
 #: TableWizard.xcu
@@ -5684,7 +5633,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "CCardType"
-msgstr "CCardType"
+msgstr "ប្រភេទកាតឥណទាន"
 
 #. 9gvJG
 #: TableWizard.xcu
@@ -5694,7 +5643,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "CreditCardNumber"
-msgstr "CreditCardNumber"
+msgstr "លេខ​កាត​ឥណទាន"
 
 #. bz2Tw
 #: TableWizard.xcu
@@ -5704,7 +5653,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "CCardNo"
-msgstr "CCardNo"
+msgstr "លេខ​កាត​ឥណទាន"
 
 #. cPBML
 #: TableWizard.xcu
@@ -5714,7 +5663,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Cardholder"
-msgstr "Cardholder"
+msgstr "អ្នកកាន់ប័ណ្ណ"
 
 #. CFCKU
 #: TableWizard.xcu
@@ -5724,7 +5673,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Cardholder"
-msgstr "Cardholder"
+msgstr "អ្នកកាន់ប័ណ្ណ"
 
 #. 3PcBx
 #: TableWizard.xcu
@@ -5734,7 +5683,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "CreditCardExpDate"
-msgstr "CreditCardExpDate"
+msgstr "កាលបរិច្ឆេទផុតកំណត់កាតឥណទាន"
 
 #. DrVXU
 #: TableWizard.xcu
@@ -5744,7 +5693,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "CCExpDate"
-msgstr "CCExpDate"
+msgstr "កាលបរិច្ឆេទផុតកំណត់កាតឥណទាន"
 
 #. rJ97T
 #: TableWizard.xcu
@@ -5754,7 +5703,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "CreditCardAuthorizationNumber"
-msgstr "CreditCardAuthorizationNumber"
+msgstr "លេខអនុញ្ញាតកាតឥណទាន"
 
 #. JQonv
 #: TableWizard.xcu
@@ -5764,7 +5713,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "CCAuthorNo"
-msgstr "CCAuthorNo"
+msgstr "លេខអនុញ្ញាតកាតឥណទាន"
 
 #. BWm6D
 #: TableWizard.xcu
@@ -5774,7 +5723,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "PaymentTerms"
-msgstr "PaymentTerms"
+msgstr "ល័ក្ខខ័ណ្ឌ​ទូទាត់"
 
 #. xJJBA
 #: TableWizard.xcu
@@ -5784,7 +5733,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "PaymntTerm"
-msgstr "PaymntTerm"
+msgstr "ល័ក្ខខ័ណ្ឌ​ទូទាត់"
 
 #. w3BHM
 #: TableWizard.xcu
@@ -5794,7 +5743,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "PaymentMethodID"
-msgstr "PaymentMethodID"
+msgstr "លេខសម្គាល់វិធីសាស្ត្របង់ប្រាក់"
 
 #. UaTHL
 #: TableWizard.xcu
@@ -5804,7 +5753,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "PaymMethID"
-msgstr "PaymMethID"
+msgstr "លេខសម្គាល់វិធីសាស្ត្របង់ប្រាក់"
 
 #. khsAX
 #: TableWizard.xcu
@@ -5814,7 +5763,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. j3SyQ
 #: TableWizard.xcu
@@ -5824,7 +5773,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. fPAWe
 #: TableWizard.xcu
@@ -5834,7 +5783,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Invoices"
-msgstr "Invoices"
+msgstr "វិក័យប័ត្រ"
 
 #. AyrfY
 #: TableWizard.xcu
@@ -5844,7 +5793,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "InvoiceID"
-msgstr "InvoiceID"
+msgstr "លេខវិក្កយបត្រ"
 
 #. pFAKD
 #: TableWizard.xcu
@@ -5854,7 +5803,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "InvoiceID"
-msgstr "InvoiceID"
+msgstr "លេខវិក្កយបត្រ"
 
 #. beGuy
 #: TableWizard.xcu
@@ -5864,7 +5813,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "CustomerID"
-msgstr "CustomerID"
+msgstr "លេខ​សម្គាល់​អតិថិជន"
 
 #. tCYFo
 #: TableWizard.xcu
@@ -5874,7 +5823,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "CustomerID"
-msgstr "CustomerID"
+msgstr "លេខ​សម្គាល់​អតិថិជន"
 
 #. REJJ3
 #: TableWizard.xcu
@@ -5884,7 +5833,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "EmployeeID"
-msgstr "EmployeeID"
+msgstr "លេខសម្គាល់បុគ្គលិក៖"
 
 #. GUiNL
 #: TableWizard.xcu
@@ -5894,7 +5843,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "EmployeeID"
-msgstr "EmployeeID"
+msgstr "លេខសម្គាល់បុគ្គលិក៖"
 
 #. GCon7
 #: TableWizard.xcu
@@ -5904,7 +5853,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "DeliveryID"
-msgstr "DeliveryID"
+msgstr "លេខសម្គាល់អ្នកដឹកជញ្ជូន"
 
 #. J9wjo
 #: TableWizard.xcu
@@ -5914,7 +5863,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "DeliveryID"
-msgstr "DeliveryID"
+msgstr "លេខសម្គាល់អ្នកដឹកជញ្ជូន"
 
 #. FGTGT
 #: TableWizard.xcu
@@ -5924,7 +5873,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Status"
-msgstr "Status"
+msgstr "ស្ថានភាព"
 
 #. nNLGC
 #: TableWizard.xcu
@@ -5934,7 +5883,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Status"
-msgstr "Status"
+msgstr "ស្ថានភាព"
 
 #. p64AT
 #: TableWizard.xcu
@@ -5944,7 +5893,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "InvoiceDate"
-msgstr "InvoiceDate"
+msgstr "កាលបរិច្ឆេទវិក្កយបត្រ"
 
 #. DmuxB
 #: TableWizard.xcu
@@ -5954,7 +5903,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "InvoiceDat"
-msgstr "InvoiceDat"
+msgstr "កាលបរិច្ឆេទវិក្កយបត្រ"
 
 #. 9ZfBU
 #: TableWizard.xcu
@@ -5964,7 +5913,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Salesperson"
-msgstr "Salesperson"
+msgstr "អ្នកលក់"
 
 #. Wn6gD
 #: TableWizard.xcu
@@ -5974,7 +5923,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Salespersn"
-msgstr "Salespersn"
+msgstr "អ្នកលក់"
 
 #. eDBJ6
 #: TableWizard.xcu
@@ -5984,7 +5933,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "ShipDate"
-msgstr "ShipDate"
+msgstr "កាលបរិច្ឆេទនាវា"
 
 #. UR4cM
 #: TableWizard.xcu
@@ -5994,7 +5943,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "ShipDate"
-msgstr "ShipDate"
+msgstr "កាលបរិច្ឆេទនាវា"
 
 #. QGS9G
 #: TableWizard.xcu
@@ -6004,7 +5953,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "ShippedTo"
-msgstr "ShippedTo"
+msgstr "បញ្ជូនទៅ"
 
 #. o4DBh
 #: TableWizard.xcu
@@ -6014,7 +5963,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "ShippedTo"
-msgstr "ShippedTo"
+msgstr "បញ្ជូនទៅ"
 
 #. WAARk
 #: TableWizard.xcu
@@ -6024,7 +5973,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "ShippedVia"
-msgstr "ShippedVia"
+msgstr "បញ្ជូនតាមនាវា"
 
 #. oGrmR
 #: TableWizard.xcu
@@ -6034,7 +5983,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "ShippedVia"
-msgstr "ShippedVia"
+msgstr "បញ្ជូនតាមនាវា"
 
 #. hVjqe
 #: TableWizard.xcu
@@ -6044,7 +5993,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "ShippingCost"
-msgstr "ShippingCost"
+msgstr "ថ្លៃឈ្នួល​ដឹកជញ្ជូន"
 
 #. VDzPZ
 #: TableWizard.xcu
@@ -6054,7 +6003,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "ShipCost"
-msgstr "ShipCost"
+msgstr "ថ្លៃឈ្នួល​ដឹកជញ្ជូន"
 
 #. GRQ3Z
 #: TableWizard.xcu
@@ -6064,7 +6013,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. 5VTXC
 #: TableWizard.xcu
@@ -6074,7 +6023,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. YEPSx
 #: TableWizard.xcu
@@ -6084,7 +6033,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "InvoiceDetails"
-msgstr "InvoiceDetails"
+msgstr "ព័ត៌មានលម្អិតវិក្កយបត្រ"
 
 #. yfbR2
 #: TableWizard.xcu
@@ -6094,7 +6043,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "InvoiceDetailID"
-msgstr "InvoiceDetailID"
+msgstr "លេខព័ត៌មានលម្អិតវិក្កយបត្រ"
 
 #. dGCN6
 #: TableWizard.xcu
@@ -6104,7 +6053,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "InvoiDetID"
-msgstr "InvoiDetID"
+msgstr "លេខព័ត៌មានលម្អិតវិក្កយបត្រ"
 
 #. JfVBh
 #: TableWizard.xcu
@@ -6114,7 +6063,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "InvoiceID"
-msgstr "InvoiceID"
+msgstr "លេខសម្គាល់វិក្កយបត្រ"
 
 #. jUE5T
 #: TableWizard.xcu
@@ -6124,7 +6073,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "InvoiceID"
-msgstr "InvoiceID"
+msgstr "លេខសម្គាល់វិក្កយបត្រ"
 
 #. xBpuR
 #: TableWizard.xcu
@@ -6134,7 +6083,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "OrderID"
-msgstr "OrderID"
+msgstr "លេខ​សម្គាល់​លំដាប់"
 
 #. vHfBj
 #: TableWizard.xcu
@@ -6144,7 +6093,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "OrderID"
-msgstr "OrderID"
+msgstr "លេខ​សម្គាល់​លំដាប់"
 
 #. UECWE
 #: TableWizard.xcu
@@ -6174,7 +6123,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Quantity"
-msgstr "Quantity"
+msgstr "បរិមាណ"
 
 #. 38455
 #: TableWizard.xcu
@@ -6184,7 +6133,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Quantity"
-msgstr "Quantity"
+msgstr "បរិមាណ"
 
 #. Gpxfg
 #: TableWizard.xcu
@@ -6194,7 +6143,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "UnitPrice"
-msgstr "UnitPrice"
+msgstr "តម្លៃ​ឯកតា"
 
 #. CRGGb
 #: TableWizard.xcu
@@ -6204,7 +6153,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "UnitPrice"
-msgstr "UnitPrice"
+msgstr "តម្លៃ​ឯកតា"
 
 #. ZsXui
 #: TableWizard.xcu
@@ -6214,7 +6163,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Discount"
-msgstr "Discount"
+msgstr "បញ្ចុះតម្លៃ"
 
 #. BnJkz
 #: TableWizard.xcu
@@ -6224,7 +6173,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Discount"
-msgstr "Discount"
+msgstr "បញ្ចុះតម្លៃ"
 
 #. rPB4z
 #: TableWizard.xcu
@@ -6234,7 +6183,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "PaymentTerms"
-msgstr "PaymentTerms"
+msgstr "ល័ក្ខខ័ណ្ឌ​ទូទាត់"
 
 #. vkiyA
 #: TableWizard.xcu
@@ -6244,7 +6193,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "PaymntTerm"
-msgstr "PaymntTerm"
+msgstr "ល័ក្ខខ័ណ្ឌ​ទូទាត់"
 
 #. GkSif
 #: TableWizard.xcu
@@ -6254,7 +6203,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Projects"
-msgstr "Projects"
+msgstr "គម្រោង"
 
 #. pnCrD
 #: TableWizard.xcu
@@ -6264,7 +6213,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "ProjectID"
-msgstr "ProjectID"
+msgstr "លេខសម្គាល់គម្រោង"
 
 #. JbCD5
 #: TableWizard.xcu
@@ -6274,7 +6223,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "ProjectID"
-msgstr "ProjectID"
+msgstr "លេខសម្គាល់គម្រោង"
 
 #. eCSRD
 #: TableWizard.xcu
@@ -6284,7 +6233,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "ProjectName"
-msgstr "ProjectName"
+msgstr "ឈ្មោះគម្រោង"
 
 #. cEBrY
 #: TableWizard.xcu
@@ -6294,7 +6243,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "ProjctName"
-msgstr "ProjctName"
+msgstr "ឈ្មោះគម្រោង"
 
 #. GQFCj
 #: TableWizard.xcu
@@ -6304,7 +6253,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "ProjectDescription"
-msgstr "ProjectDescription"
+msgstr "ឯកសារគម្រោង"
 
 #. kysbo
 #: TableWizard.xcu
@@ -6314,7 +6263,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "ProjctDscr"
-msgstr "ProjctDscr"
+msgstr "ឯកសារគម្រោង"
 
 #. 39wHQ
 #: TableWizard.xcu
@@ -6324,7 +6273,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "ClientID"
-msgstr "ClientID"
+msgstr "លេខសម្គាល់អតិថិជន៖"
 
 #. tKBvF
 #: TableWizard.xcu
@@ -6334,7 +6283,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "ClientID"
-msgstr "ClientID"
+msgstr "លេខសម្គាល់អតិថិជន៖"
 
 #. TH2to
 #: TableWizard.xcu
@@ -6344,7 +6293,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "PurchaseOrderNumber"
-msgstr "PurchaseOrderNumber"
+msgstr "លេខបញ្ជាទិញ"
 
 #. 2kZB7
 #: TableWizard.xcu
@@ -6354,7 +6303,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "PurchOrdNo"
-msgstr "PurchOrdNo"
+msgstr "លេខបញ្ជាទិញ"
 
 #. EatjQ
 #: TableWizard.xcu
@@ -6364,7 +6313,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "TotalBillingEstimate"
-msgstr "TotalBillingEstimate"
+msgstr "វិក័យប័ត្រប៉ាន់ស្មានសរុប"
 
 #. Bf4km
 #: TableWizard.xcu
@@ -6374,7 +6323,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "TotBillEst"
-msgstr "TotBillEst"
+msgstr "វិក័យប័ត្រប៉ាន់ស្មានសរុប"
 
 #. poUuy
 #: TableWizard.xcu
@@ -6384,7 +6333,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "EmployeeID"
-msgstr "EmployeeID"
+msgstr "លេខសម្គាល់បុគ្គលិក៖"
 
 #. TRBwM
 #: TableWizard.xcu
@@ -6394,7 +6343,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "EmployeeID"
-msgstr "EmployeeID"
+msgstr "លេខសម្គាល់បុគ្គលិក៖"
 
 #. NYjdp
 #: TableWizard.xcu
@@ -6404,7 +6353,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "BeginDate"
-msgstr "BeginDate"
+msgstr "កាលបរិច្ឆេទចាប់ផ្តើម"
 
 #. LGmQk
 #: TableWizard.xcu
@@ -6414,7 +6363,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "BeginDate"
-msgstr "BeginDate"
+msgstr "កាលបរិច្ឆេទចាប់ផ្តើម"
 
 #. wasjb
 #: TableWizard.xcu
@@ -6424,7 +6373,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "EndDate"
-msgstr "EndDate"
+msgstr "កាលបរិច្ឆេទបញ្ចប់"
 
 #. Dyn4d
 #: TableWizard.xcu
@@ -6434,7 +6383,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "EndDate"
-msgstr "EndDate"
+msgstr "កាលបរិច្ឆេទបញ្ចប់"
 
 #. 5ieWG
 #: TableWizard.xcu
@@ -6444,7 +6393,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Events"
-msgstr "Events"
+msgstr "ព្រឹត្តិការណ៍"
 
 #. EWwq8
 #: TableWizard.xcu
@@ -6454,7 +6403,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "EventID"
-msgstr "EventID"
+msgstr "លេខសម្គាល់ព្រឹត្តិការណ៍"
 
 #. TbkRA
 #: TableWizard.xcu
@@ -6464,7 +6413,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "EventID"
-msgstr "EventID"
+msgstr "លេខសម្គាល់ព្រឹត្តិការណ៍"
 
 #. EzWgc
 #: TableWizard.xcu
@@ -6474,7 +6423,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "EventName"
-msgstr "EventName"
+msgstr "ឈ្មោះព្រឹត្តិការណ៍"
 
 #. kF2TW
 #: TableWizard.xcu
@@ -6484,7 +6433,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "EventName"
-msgstr "EventName"
+msgstr "ឈ្មោះព្រឹត្តិការណ៍"
 
 #. Twmm2
 #: TableWizard.xcu
@@ -6494,7 +6443,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "EventDescription"
-msgstr "EventDescription"
+msgstr "ការពិពណ៌នាព្រឹត្តិការណ៍"
 
 #. zJMhM
 #: TableWizard.xcu
@@ -6504,7 +6453,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "EventDescr"
-msgstr "EventDescr"
+msgstr "ការពិពណ៌នាព្រឹត្តិការណ៍"
 
 #. iyGrA
 #: TableWizard.xcu
@@ -6514,7 +6463,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "EventTypeID"
-msgstr "EventTypeID"
+msgstr "លេខសម្គាល់ប្រភេទព្រឹត្តិការណ៍"
 
 #. 3Q87f
 #: TableWizard.xcu
@@ -6524,7 +6473,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "EventTypID"
-msgstr "EventTypID"
+msgstr "លេខសម្គាល់ប្រភេទព្រឹត្តិការណ៍"
 
 #. G7gqJ
 #: TableWizard.xcu
@@ -6534,7 +6483,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "EmployeeID"
-msgstr "EmployeeID"
+msgstr "លេខសម្គាល់បុគ្គលិក៖"
 
 #. yYMpW
 #: TableWizard.xcu
@@ -6544,7 +6493,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "EmployeeID"
-msgstr "EmployeeID"
+msgstr "លេខសម្គាល់បុគ្គលិក៖"
 
 #. 8GguN
 #: TableWizard.xcu
@@ -6554,7 +6503,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Status"
-msgstr "Status"
+msgstr "ស្ថានភាព"
 
 #. 6UGSd
 #: TableWizard.xcu
@@ -6564,7 +6513,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Status"
-msgstr "Status"
+msgstr "ស្ថានភាព"
 
 #. McAcy
 #: TableWizard.xcu
@@ -6574,7 +6523,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Location"
-msgstr "Location"
+msgstr "ទីតាំង"
 
 #. Vbh58
 #: TableWizard.xcu
@@ -6584,7 +6533,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Location"
-msgstr "Location"
+msgstr "ទីតាំង"
 
 #. N9czS
 #: TableWizard.xcu
@@ -6594,7 +6543,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "BeginDate"
-msgstr "BeginDate"
+msgstr "កាលបរិច្ឆេទចាប់ផ្តើម"
 
 #. u8DoC
 #: TableWizard.xcu
@@ -6604,7 +6553,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "BeginDate"
-msgstr "BeginDate"
+msgstr "កាលបរិច្ឆេទចាប់ផ្តើម"
 
 #. XVAwB
 #: TableWizard.xcu
@@ -6614,7 +6563,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "BeginTime"
-msgstr "BeginTime"
+msgstr "ពេលចាប់ផ្តើម"
 
 #. tDDXf
 #: TableWizard.xcu
@@ -6624,7 +6573,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "BeginTime"
-msgstr "BeginTime"
+msgstr "ពេលចាប់ផ្តើម"
 
 #. JFCaL
 #: TableWizard.xcu
@@ -6634,7 +6583,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "EndDate"
-msgstr "EndDate"
+msgstr "កាលបរិច្ឆេទបញ្ចប់"
 
 #. qfGS7
 #: TableWizard.xcu
@@ -6644,7 +6593,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "EndDate"
-msgstr "EndDate"
+msgstr "កាលបរិច្ឆេទបញ្ចប់"
 
 #. kzZuz
 #: TableWizard.xcu
@@ -6654,7 +6603,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "EndTime"
-msgstr "EndTime"
+msgstr "ពេលវេលា​បញ្ចប់"
 
 #. 7zRBm
 #: TableWizard.xcu
@@ -6664,7 +6613,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "EndTime"
-msgstr "EndTime"
+msgstr "ពេលវេលា​បញ្ចប់"
 
 #. b49AB
 #: TableWizard.xcu
@@ -6674,7 +6623,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "RequiredStaffing"
-msgstr "RequiredStaffing"
+msgstr "តំរូវការស្តារ"
 
 #. FwAjV
 #: TableWizard.xcu
@@ -6684,7 +6633,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "ReqStaffng"
-msgstr "ReqStaffng"
+msgstr "តំរូវការស្តារ"
 
 #. osBZr
 #: TableWizard.xcu
@@ -6694,7 +6643,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Confirmation"
-msgstr "Confirmation"
+msgstr "ការ​បញ្ជាក់​​"
 
 #. QYChC
 #: TableWizard.xcu
@@ -6704,7 +6653,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Confirmation"
-msgstr "Confirmation"
+msgstr "ការ​បញ្ជាក់​​"
 
 #. RWrBf
 #: TableWizard.xcu
@@ -6714,7 +6663,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "AvailableSpaces"
-msgstr "AvailableSpaces"
+msgstr "កន្លែងទំនេរ"
 
 #. tohod
 #: TableWizard.xcu
@@ -6724,7 +6673,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "AvailSpace"
-msgstr "AvailSpace"
+msgstr "កន្លែងទំនេរ"
 
 #. YqzGU
 #: TableWizard.xcu
@@ -6734,7 +6683,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "CostPerPerson"
-msgstr "CostPerPerson"
+msgstr "ថ្លៃដើមសម្រាប់មនុស្សម្នាក់"
 
 #. ZMA5E
 #: TableWizard.xcu
@@ -6744,7 +6693,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "CostPPersn"
-msgstr "CostPPersn"
+msgstr "ថ្លៃដើមសម្រាប់មនុស្សម្នាក់"
 
 #. EERhB
 #: TableWizard.xcu
@@ -6754,7 +6703,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. GNuCE
 #: TableWizard.xcu
@@ -6764,7 +6713,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. oUU6f
 #: TableWizard.xcu
@@ -6774,7 +6723,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Reservations"
-msgstr "Reservations"
+msgstr "ការកក់ទុក"
 
 #. nM5dR
 #: TableWizard.xcu
@@ -6784,7 +6733,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "ReservationID"
-msgstr "ReservationID"
+msgstr "លេខសម្គាល់ការកក់"
 
 #. zLJqT
 #: TableWizard.xcu
@@ -6794,7 +6743,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "ReservID"
-msgstr "ReservID"
+msgstr "លេខសម្គាល់ការកក់"
 
 #. xy5y9
 #: TableWizard.xcu
@@ -6804,7 +6753,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "CustomerID"
-msgstr "CustomerID"
+msgstr "លេខ​សម្គាល់​អតិថិជន"
 
 #. du3ng
 #: TableWizard.xcu
@@ -6814,7 +6763,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "CustomerID"
-msgstr "CustomerID"
+msgstr "លេខ​សម្គាល់​អតិថិជន"
 
 #. S4gVp
 #: TableWizard.xcu
@@ -6824,7 +6773,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "EventID"
-msgstr "EventID"
+msgstr "លេខសម្គាល់ព្រឹត្តិការណ៍"
 
 #. TmZGY
 #: TableWizard.xcu
@@ -6834,7 +6783,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "EventID"
-msgstr "EventID"
+msgstr "លេខសម្គាល់ព្រឹត្តិការណ៍"
 
 #. 98BNo
 #: TableWizard.xcu
@@ -6844,7 +6793,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "EmployeeID"
-msgstr "EmployeeID"
+msgstr "លេខសម្គាល់បុគ្គលិក៖"
 
 #. 8CEY2
 #: TableWizard.xcu
@@ -6854,7 +6803,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "EmployeeID"
-msgstr "EmployeeID"
+msgstr "លេខសម្គាល់បុគ្គលិក៖"
 
 #. F3yn7
 #: TableWizard.xcu
@@ -6864,7 +6813,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "QuantityReserved"
-msgstr "QuantityReserved"
+msgstr "បរិមាណបម្រុងទុក"
 
 #. 5qHSp
 #: TableWizard.xcu
@@ -6874,7 +6823,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "QuntityRes"
-msgstr "QuntityRes"
+msgstr "បរិមាណបម្រុងទុក"
 
 #. MUTVs
 #: TableWizard.xcu
@@ -6884,7 +6833,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "ReservationDate"
-msgstr "ReservationDate"
+msgstr "កាលបរិច្ឆេទកក់"
 
 #. aCjGv
 #: TableWizard.xcu
@@ -6894,7 +6843,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "ReservDate"
-msgstr "ReservDate"
+msgstr "កាលបរិច្ឆេទកក់"
 
 #. E3GGw
 #: TableWizard.xcu
@@ -6904,7 +6853,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "ReservationTime"
-msgstr "ReservationTime"
+msgstr "ពេលវេលាការកក់"
 
 #. xk7Vr
 #: TableWizard.xcu
@@ -6914,7 +6863,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "ReservTime"
-msgstr "ReservTime"
+msgstr "ពេលវេលាការកក់"
 
 #. tsXKR
 #: TableWizard.xcu
@@ -6924,7 +6873,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "DepositDue"
-msgstr "DepositDue"
+msgstr "ដាក់ប្រាក់ពីរ"
 
 #. wCek2
 #: TableWizard.xcu
@@ -6934,7 +6883,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "DepositDue"
-msgstr "DepositDue"
+msgstr "ដាក់ប្រាក់ពីរ"
 
 #. Bs7ax
 #: TableWizard.xcu
@@ -6944,7 +6893,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "TotalDue"
-msgstr "TotalDue"
+msgstr "សរុបចំនួនពីរ"
 
 #. WFFSu
 #: TableWizard.xcu
@@ -6954,7 +6903,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "TotalDue"
-msgstr "TotalDue"
+msgstr "សរុបចំនួនពីរ"
 
 #. kHdp4
 #: TableWizard.xcu
@@ -6964,7 +6913,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "AmountPaid"
-msgstr "AmountPaid"
+msgstr "ចំនួនទឹកប្រាក់ដែលបានបង់"
 
 #. TjXnX
 #: TableWizard.xcu
@@ -6974,7 +6923,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "AmountPaid"
-msgstr "AmountPaid"
+msgstr "ចំនួនទឹកប្រាក់ដែលបានបង់"
 
 #. rFWGE
 #: TableWizard.xcu
@@ -6984,7 +6933,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Confirmation"
-msgstr "Confirmation"
+msgstr "ការបញ្ជាក់"
 
 #. MEo4x
 #: TableWizard.xcu
@@ -6994,7 +6943,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Confirmation"
-msgstr "Confirmation"
+msgstr "ការ​បញ្ជាក់​​"
 
 #. ipEFH
 #: TableWizard.xcu
@@ -7004,7 +6953,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. MdZKF
 #: TableWizard.xcu
@@ -7014,7 +6963,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. jpm7c
 #: TableWizard.xcu
@@ -7024,7 +6973,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "TimeBilled"
-msgstr "TimeBilled"
+msgstr "ពេលវេលាគិតលុយ"
 
 #. e5KFa
 #: TableWizard.xcu
@@ -7034,7 +6983,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "TimeBilledID"
-msgstr "TimeBilledID"
+msgstr "លេខសម្គាល់ពេលវេលាគិតលុយ"
 
 #. 7Adaz
 #: TableWizard.xcu
@@ -7044,7 +6993,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "TimeBillID"
-msgstr "TimeBillID"
+msgstr "លេខសម្គាល់ពេលវេលាគិតលុយ"
 
 #. 4F462
 #: TableWizard.xcu
@@ -7054,7 +7003,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "CustomerID"
-msgstr "CustomerID"
+msgstr "លេខ​សម្គាល់​អតិថិជន"
 
 #. YfQFW
 #: TableWizard.xcu
@@ -7064,7 +7013,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "CustomerID"
-msgstr "CustomerID"
+msgstr "លេខ​សម្គាល់​អតិថិជន"
 
 #. 9eCRD
 #: TableWizard.xcu
@@ -7074,7 +7023,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "ProjectID"
-msgstr "ProjectID"
+msgstr "លេខសម្គាល់គម្រោង"
 
 #. JRKXr
 #: TableWizard.xcu
@@ -7084,7 +7033,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "ProjectID"
-msgstr "ProjectID"
+msgstr "លេខសម្គាល់គម្រោង"
 
 #. ofEYv
 #: TableWizard.xcu
@@ -7094,7 +7043,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "EmployeeID"
-msgstr "EmployeeID"
+msgstr "លេខសម្គាល់បុគ្គលិក៖"
 
 #. BP9NC
 #: TableWizard.xcu
@@ -7104,7 +7053,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "EmployeeID"
-msgstr "EmployeeID"
+msgstr "លេខសម្គាល់បុគ្គលិក៖"
 
 #. fhXCK
 #: TableWizard.xcu
@@ -7114,7 +7063,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "BillingDate"
-msgstr "BillingDate"
+msgstr "កាលបរិច្ឆេទចេញវិក្កយបត្រ"
 
 #. n5r4F
 #: TableWizard.xcu
@@ -7124,7 +7073,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "BillingDate"
-msgstr "BillingDate"
+msgstr "កាលបរិច្ឆេទចេញវិក្កយបត្រ"
 
 #. yDGXd
 #: TableWizard.xcu
@@ -7134,7 +7083,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "RatePerHour"
-msgstr "RatePerHour"
+msgstr "អត្រាក្នុងមួយម៉ោង"
 
 #. pLX8c
 #: TableWizard.xcu
@@ -7144,7 +7093,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "RatePrHour"
-msgstr "RatePrHour"
+msgstr "អត្រាក្នុងមួយម៉ោង"
 
 #. 5AFNr
 #: TableWizard.xcu
@@ -7154,7 +7103,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "BillableHours"
-msgstr "BillableHours"
+msgstr "ម៉ោងដែលអាចចេញវិក្កយបត្របាន"
 
 #. 39T5G
 #: TableWizard.xcu
@@ -7164,7 +7113,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "BillablHrs"
-msgstr "BillablHrs"
+msgstr "ម៉ោងដែលអាចចេញវិក្កយបត្របាន"
 
 #. ygjNF
 #: TableWizard.xcu
@@ -7174,7 +7123,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. dBDqT
 #: TableWizard.xcu
@@ -7184,7 +7133,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. 6vbDA
 #: TableWizard.xcu
@@ -7194,7 +7143,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Expenses"
-msgstr "Expenses"
+msgstr "ការចំណាយ"
 
 #. Wrud8
 #: TableWizard.xcu
@@ -7204,7 +7153,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "ExpenseID"
-msgstr "ExpenseID"
+msgstr "លេខសម្គាល់ចំណាយ"
 
 #. REMMM
 #: TableWizard.xcu
@@ -7214,7 +7163,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "ExpenseID"
-msgstr "ExpenseID"
+msgstr "លេខសម្គាល់ចំណាយ"
 
 #. Ha7i7
 #: TableWizard.xcu
@@ -7224,7 +7173,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "ExpenseType"
-msgstr "ExpenseType"
+msgstr "ប្រភេទចំណាយ"
 
 #. 6mP3Z
 #: TableWizard.xcu
@@ -7234,7 +7183,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "ExpensType"
-msgstr "ExpensType"
+msgstr "ប្រភេទចំណាយ"
 
 #. HKdyD
 #: TableWizard.xcu
@@ -7244,7 +7193,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Purpose"
-msgstr "Purpose"
+msgstr "គោល​បំណង"
 
 #. gaTaf
 #: TableWizard.xcu
@@ -7254,7 +7203,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Purpose"
-msgstr "Purpose"
+msgstr "គោល​បំណង"
 
 #. hhAhp
 #: TableWizard.xcu
@@ -7264,7 +7213,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "EmployeeID"
-msgstr "EmployeeID"
+msgstr "លេខសម្គាល់បុគ្គលិក៖"
 
 #. E6DFG
 #: TableWizard.xcu
@@ -7274,7 +7223,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "EmployeeID"
-msgstr "EmployeeID"
+msgstr "លេខសម្គាល់បុគ្គលិក៖"
 
 #. SZSmh
 #: TableWizard.xcu
@@ -7284,7 +7233,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "DatePurchased"
-msgstr "DatePurchased"
+msgstr "កាលបរិច្ឆេទទិញ"
 
 #. 2KarB
 #: TableWizard.xcu
@@ -7294,7 +7243,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "DatePurchd"
-msgstr "DatePurchd"
+msgstr "កាលបរិច្ឆេទទិញ"
 
 #. CJJ3F
 #: TableWizard.xcu
@@ -7304,7 +7253,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "DateSubmitted"
-msgstr "DateSubmitted"
+msgstr "កាលបរិច្ឆេទប្រគល់ជូន"
 
 #. ATJuM
 #: TableWizard.xcu
@@ -7314,7 +7263,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "DateSubmit"
-msgstr "DateSubmit"
+msgstr "កាលបរិច្ឆេទប្រគល់ជូន"
 
 #. 49xyP
 #: TableWizard.xcu
@@ -7324,7 +7273,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "AmountSpent"
-msgstr "AmountSpent"
+msgstr "ចំនួនទឹកប្រាក់"
 
 #. avWQ4
 #: TableWizard.xcu
@@ -7334,7 +7283,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "AmountSpnt"
-msgstr "AmountSpnt"
+msgstr "ចំនួនទឹកប្រាក់"
 
 #. WTAX5
 #: TableWizard.xcu
@@ -7344,7 +7293,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "AdvanceAmount"
-msgstr "AdvanceAmount"
+msgstr "ចំនួនទឹកប្រាក់ជាមុន"
 
 #. xEHVW
 #: TableWizard.xcu
@@ -7354,7 +7303,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "AdvnceAmnt"
-msgstr "AdvnceAmnt"
+msgstr "ចំនួនទឹកប្រាក់ជាមុន"
 
 #. LQ5DY
 #: TableWizard.xcu
@@ -7364,7 +7313,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "PaymentMethod"
-msgstr "PaymentMethod"
+msgstr "វិធី​សា​ស្រ្ត​ទូទាត់"
 
 #. xd7GG
 #: TableWizard.xcu
@@ -7374,7 +7323,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "PaymntMeth"
-msgstr "PaymntMeth"
+msgstr "វិធី​សា​ស្រ្ត​ទូទាត់"
 
 #. rNTCg
 #: TableWizard.xcu
@@ -7384,7 +7333,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. aUBFS
 #: TableWizard.xcu
@@ -7394,7 +7343,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. o5Xsf
 #: TableWizard.xcu
@@ -7404,7 +7353,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Deliveries"
-msgstr "Deliveries"
+msgstr "ការបានដឹកជញ្ជូន"
 
 #. fRryh
 #: TableWizard.xcu
@@ -7414,7 +7363,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "DeliveryID"
-msgstr "DeliveryID"
+msgstr "លេខសម្គាល់ការដឹកជញ្ជូន"
 
 #. 4wjhN
 #: TableWizard.xcu
@@ -7424,7 +7373,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "DeliveryID"
-msgstr "DeliveryID"
+msgstr "លេខសម្គាល់ការដឹកជញ្ជូន"
 
 #. CTMiG
 #: TableWizard.xcu
@@ -7434,7 +7383,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "CustomerID"
-msgstr "CustomerID"
+msgstr "លេខ​សម្គាល់​អតិថិជន"
 
 #. TZcAN
 #: TableWizard.xcu
@@ -7444,7 +7393,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "CustomerID"
-msgstr "CustomerID"
+msgstr "លេខ​សម្គាល់​អតិថិជន"
 
 #. LLYL9
 #: TableWizard.xcu
@@ -7454,7 +7403,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "OrderID"
-msgstr "OrderID"
+msgstr "លេខ​សម្គាល់​លំដាប់"
 
 #. NsKZU
 #: TableWizard.xcu
@@ -7464,7 +7413,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "OrderID"
-msgstr "OrderID"
+msgstr "លេខ​សម្គាល់​លំដាប់"
 
 #. wKFDd
 #: TableWizard.xcu
@@ -7474,7 +7423,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "EmployeeID"
-msgstr "EmployeeID"
+msgstr "លេខសម្គាល់បុគ្គលិក៖"
 
 #. EHv3m
 #: TableWizard.xcu
@@ -7484,7 +7433,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "EmployeeID"
-msgstr "EmployeeID"
+msgstr "លេខសម្គាល់បុគ្គលិក៖"
 
 #. HMwwM
 #: TableWizard.xcu
@@ -7494,7 +7443,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "ShippedFrom"
-msgstr "ShippedFrom"
+msgstr "បញ្ជូនពី"
 
 #. qZYJG
 #: TableWizard.xcu
@@ -7504,7 +7453,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "ShippedFrm"
-msgstr "ShippedFrm"
+msgstr "បញ្ជូនពី"
 
 #. 7PPEM
 #: TableWizard.xcu
@@ -7514,7 +7463,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "ShippedVia"
-msgstr "ShippedVia"
+msgstr "បញ្ជូនតាមនាវា"
 
 #. gtnfp
 #: TableWizard.xcu
@@ -7524,7 +7473,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "ShippedVia"
-msgstr "ShippedVia"
+msgstr "បញ្ជូនតាមនាវា"
 
 #. gtCDV
 #: TableWizard.xcu
@@ -7534,7 +7483,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "TrackingCode"
-msgstr "TrackingCode"
+msgstr "លេខកូដតាមដាន"
 
 #. 6A75v
 #: TableWizard.xcu
@@ -7544,7 +7493,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "TrckngCode"
-msgstr "TrckngCode"
+msgstr "លេខកូដតាមដាន"
 
 #. LLVAm
 #: TableWizard.xcu
@@ -7554,7 +7503,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "ShipDate"
-msgstr "ShipDate"
+msgstr "កាលបរិច្ឆេទនាវា"
 
 #. 6EjRr
 #: TableWizard.xcu
@@ -7564,7 +7513,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "ShipDate"
-msgstr "ShipDate"
+msgstr "កាលបរិច្ឆេទនាវា"
 
 #. 9B5q9
 #: TableWizard.xcu
@@ -7574,7 +7523,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "ShipperPhoneNumber"
-msgstr "ShipperPhoneNumber"
+msgstr "លេខទូរស័ព្ទរបស់នាវា"
 
 #. BgxzD
 #: TableWizard.xcu
@@ -7584,7 +7533,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "ShipPhonNo"
-msgstr "ShipPhonNo"
+msgstr "លេខទូរស័ព្ទរបស់នាវា"
 
 #. 68i3B
 #: TableWizard.xcu
@@ -7594,7 +7543,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "DestinationAddress"
-msgstr "DestinationAddress"
+msgstr "អាសយដ្ឋាន​គោលដៅ"
 
 #. 3rkj7
 #: TableWizard.xcu
@@ -7604,7 +7553,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "DestAddres"
-msgstr "DestAddres"
+msgstr "អាសយដ្ឋាន​គោលដៅ"
 
 #. nNvQC
 #: TableWizard.xcu
@@ -7614,7 +7563,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "DestinationCity"
-msgstr "DestinationCity"
+msgstr "ទីក្រុងគោលដៅ"
 
 #. Efxpf
 #: TableWizard.xcu
@@ -7624,7 +7573,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "DestinCity"
-msgstr "DestinCity"
+msgstr "ទីក្រុងគោលដៅ"
 
 #. DACJL
 #: TableWizard.xcu
@@ -7634,7 +7583,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "DestinationStateProvince"
-msgstr "DestinationStateProvince"
+msgstr "ខេត្តគោលដៅ"
 
 #. uLVeW
 #: TableWizard.xcu
@@ -7644,7 +7593,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "DestStaPro"
-msgstr "DestStaPro"
+msgstr "ខេត្តគោលដៅ"
 
 #. aiGn2
 #: TableWizard.xcu
@@ -7654,7 +7603,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "DestinationPostalCode"
-msgstr "DestinationPostalCode"
+msgstr "លេខកូដគោលដៅប្រៃសណីយ៍"
 
 #. tpdoP
 #: TableWizard.xcu
@@ -7664,7 +7613,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "DestPstCde"
-msgstr "DestPstCde"
+msgstr "លេខកូដគោលដៅប្រៃសណីយ៍"
 
 #. AmFFD
 #: TableWizard.xcu
@@ -7674,7 +7623,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "DestinationCountryRegion"
-msgstr "DestinationCountryRegion"
+msgstr "តំបន់ប្រទេសទិសដៅ"
 
 #. N53eE
 #: TableWizard.xcu
@@ -7684,7 +7633,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "DestCouReg"
-msgstr "DestCouReg"
+msgstr "តំបន់ប្រទេសទិសដៅ"
 
 #. RA6nc
 #: TableWizard.xcu
@@ -7694,7 +7643,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "ArrivalDate"
-msgstr "ArrivalDate"
+msgstr "កាលបរិច្ឆេទមកដល់"
 
 #. zQCnq
 #: TableWizard.xcu
@@ -7704,7 +7653,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "ArrivlDate"
-msgstr "ArrivlDate"
+msgstr "កាលបរិច្ឆេទមកដល់"
 
 #. tZD6q
 #: TableWizard.xcu
@@ -7714,7 +7663,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "ArrivalTime"
-msgstr "ArrivalTime"
+msgstr "ម៉ោងមកដល់"
 
 #. GxXJm
 #: TableWizard.xcu
@@ -7724,7 +7673,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "ArrivlTime"
-msgstr "ArrivlTime"
+msgstr "ម៉ោងមកដល់"
 
 #. 62BEZ
 #: TableWizard.xcu
@@ -7734,7 +7683,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "CurrentLocation"
-msgstr "CurrentLocation"
+msgstr "ទីតាំង​បច្ចុប្បន្ន"
 
 #. BzFAL
 #: TableWizard.xcu
@@ -7744,7 +7693,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "CurrLocatn"
-msgstr "CurrLocatn"
+msgstr "ទីតាំង​បច្ចុប្បន្ន"
 
 #. 5FHB5
 #: TableWizard.xcu
@@ -7754,7 +7703,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "PackageDimensions"
-msgstr "PackageDimensions"
+msgstr "ទំហំកញ្ចប់"
 
 #. mFhFs
 #: TableWizard.xcu
@@ -7764,7 +7713,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "PackDimens"
-msgstr "PackDimens"
+msgstr "ទំហំកញ្ចប់"
 
 #. yLeMB
 #: TableWizard.xcu
@@ -7774,7 +7723,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "PackageWeight"
-msgstr "PackageWeight"
+msgstr "ទំងន់កញ្ចប់"
 
 #. gVELn
 #: TableWizard.xcu
@@ -7784,7 +7733,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "PackWeight"
-msgstr "PackWeight"
+msgstr "ទំងន់កញ្ចប់"
 
 #. BUnBm
 #: TableWizard.xcu
@@ -7794,7 +7743,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "PickUpLocation"
-msgstr "PickUpLocation"
+msgstr "ជ្រើសរើសទទួល"
 
 #. KTNjn
 #: TableWizard.xcu
@@ -7804,7 +7753,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "PickUpLoca"
-msgstr "PickUpLoca"
+msgstr "ជ្រើសរើសទទួល"
 
 #. BCGvd
 #: TableWizard.xcu
@@ -7814,7 +7763,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "PickUpDate"
-msgstr "PickUpDate"
+msgstr "ថ្ងៃទទួល"
 
 #. FnXPa
 #: TableWizard.xcu
@@ -7824,7 +7773,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "PickUpDate"
-msgstr "PickUpDate"
+msgstr "ថ្ងៃទទួល"
 
 #. 7hGTZ
 #: TableWizard.xcu
@@ -7834,7 +7783,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "PickUpTime"
-msgstr "PickUpTime"
+msgstr "ម៉ោងទទួល"
 
 #. 4ECje
 #: TableWizard.xcu
@@ -7844,7 +7793,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "PickUpTime"
-msgstr "PickUpTime"
+msgstr "ម៉ោងទទួល"
 
 #. UPcJS
 #: TableWizard.xcu
@@ -7854,7 +7803,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "ReceivedBy"
-msgstr "ReceivedBy"
+msgstr "បានទទួលដោយ"
 
 #. UykAG
 #: TableWizard.xcu
@@ -7864,7 +7813,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "ReceivedBy"
-msgstr "ReceivedBy"
+msgstr "បានទទួលដោយ"
 
 #. y797L
 #: TableWizard.xcu
@@ -7874,7 +7823,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "FreightCharge"
-msgstr "FreightCharge"
+msgstr "ថ្លៃដឹកទំនិញ"
 
 #. BcSwC
 #: TableWizard.xcu
@@ -7884,7 +7833,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "FrghtChrge"
-msgstr "FrghtChrge"
+msgstr "ថ្លៃដឹកទំនិញ"
 
 #. hUgNM
 #: TableWizard.xcu
@@ -7894,7 +7843,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. F3Aa5
 #: TableWizard.xcu
@@ -7904,7 +7853,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. mWZRh
 #: TableWizard.xcu
@@ -7914,7 +7863,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Assets"
-msgstr "Assets"
+msgstr "ទ្រព្យសកម្ម"
 
 #. rgNgE
 #: TableWizard.xcu
@@ -7924,7 +7873,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "AssetID"
-msgstr "AssetID"
+msgstr "លេខសម្គាល់ទ្រព្យសម្បត្តិ"
 
 #. PGddo
 #: TableWizard.xcu
@@ -7934,7 +7883,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "AssetID"
-msgstr "AssetID"
+msgstr "លេខសម្គាល់ទ្រព្យសម្បត្តិ"
 
 #. 84JKx
 #: TableWizard.xcu
@@ -7944,7 +7893,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Description"
-msgstr "Description"
+msgstr "ការពិពណ៌នា"
 
 #. iXBKF
 #: TableWizard.xcu
@@ -7954,7 +7903,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Descrption"
-msgstr "Descrption"
+msgstr "ការពិពណ៌នា"
 
 #. W8DNS
 #: TableWizard.xcu
@@ -7964,7 +7913,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "EmployeeID"
-msgstr "EmployeeID"
+msgstr "លេខសម្គាល់បុគ្គលិក៖"
 
 #. CbGBe
 #: TableWizard.xcu
@@ -7974,7 +7923,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "EmployeeID"
-msgstr "EmployeeID"
+msgstr "លេខសម្គាល់បុគ្គលិក៖"
 
 #. nuEpr
 #: TableWizard.xcu
@@ -7984,7 +7933,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "AssetCategoryID"
-msgstr "AssetCategoryID"
+msgstr "លេខសម្គាល់ប្រភេទទ្រព្យ"
 
 #. WBLFz
 #: TableWizard.xcu
@@ -7994,7 +7943,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "AssetCatID"
-msgstr "AssetCatID"
+msgstr "លេខសម្គាល់ប្រភេទទ្រព្យ"
 
 #. gxEFU
 #: TableWizard.xcu
@@ -8004,7 +7953,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "StatusID"
-msgstr "StatusID"
+msgstr "លេខសម្គាល់ស្ថានភាព"
 
 #. ozuGp
 #: TableWizard.xcu
@@ -8014,7 +7963,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "StatusID"
-msgstr "StatusID"
+msgstr "លេខសម្គាល់ស្ថានភាព"
 
 #. UdWZU
 #: TableWizard.xcu
@@ -8024,7 +7973,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "DepartmentID"
-msgstr "DepartmentID"
+msgstr "លេខសម្គាល់នាយកដ្ឋាន"
 
 #. Ef3jb
 #: TableWizard.xcu
@@ -8034,7 +7983,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "DeprtmntID"
-msgstr "DeprtmntID"
+msgstr "លេខសម្គាល់នាយកដ្ឋាន"
 
 #. etNwn
 #: TableWizard.xcu
@@ -8044,7 +7993,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "VendorID"
-msgstr "VendorID"
+msgstr "លេខសម្គាល់អ្នកលក់"
 
 #. kyGJz
 #: TableWizard.xcu
@@ -8054,7 +8003,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "VendorID"
-msgstr "VendorID"
+msgstr "លេខសម្គាល់អ្នកលក់"
 
 #. GzzDH
 #: TableWizard.xcu
@@ -8064,7 +8013,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Make"
-msgstr "Make"
+msgstr "ធ្វើ"
 
 #. CF8fM
 #: TableWizard.xcu
@@ -8074,7 +8023,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Make"
-msgstr "Make"
+msgstr "ធ្វើ"
 
 #. 5CRhe
 #: TableWizard.xcu
@@ -8084,7 +8033,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Model"
-msgstr "Model"
+msgstr "គំរូ"
 
 #. SoQNm
 #: TableWizard.xcu
@@ -8094,7 +8043,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Model"
-msgstr "Model"
+msgstr "គំរូ"
 
 #. 4xDSA
 #: TableWizard.xcu
@@ -8104,7 +8053,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "ModelNumber"
-msgstr "ModelNumber"
+msgstr "លេខគំរូ"
 
 #. V45f2
 #: TableWizard.xcu
@@ -8114,7 +8063,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "ModelNo"
-msgstr "ModelNo"
+msgstr "លេខគំរូ"
 
 #. ZuEzX
 #: TableWizard.xcu
@@ -8124,7 +8073,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "SerialNumber"
-msgstr "SerialNumber"
+msgstr "លេខ​សម្គាល់"
 
 #. hAyNv
 #: TableWizard.xcu
@@ -8134,7 +8083,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "SerialNo"
-msgstr "SerialNo"
+msgstr "លេខ​សម្គាល់"
 
 #. TL43f
 #: TableWizard.xcu
@@ -8144,7 +8093,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "BarcodeNumber"
-msgstr "BarcodeNumber"
+msgstr "លេខកូដបាកូដ"
 
 #. WdFEn
 #: TableWizard.xcu
@@ -8154,7 +8103,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "BarcodeNo"
-msgstr "BarcodeNo"
+msgstr "លេខកូដបាកូដ"
 
 #. qciZ5
 #: TableWizard.xcu
@@ -8164,7 +8113,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "DateAcquired"
-msgstr "DateAcquired"
+msgstr "កាលបរិច្ឆេទទាមទារ"
 
 #. 3NJUQ
 #: TableWizard.xcu
@@ -8174,7 +8123,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "DateAcquir"
-msgstr "DateAcquir"
+msgstr "កាលបរិច្ឆេទទាមទារ"
 
 #. bxEAA
 #: TableWizard.xcu
@@ -8184,7 +8133,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "DateSold"
-msgstr "DateSold"
+msgstr "កាលបរិច្ឆេទលក់"
 
 #. VHLzZ
 #: TableWizard.xcu
@@ -8194,7 +8143,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "DateSold"
-msgstr "DateSold"
+msgstr "កាលបរិច្ឆេទលក់"
 
 #. yEJDv
 #: TableWizard.xcu
@@ -8204,7 +8153,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "PurchasePrice"
-msgstr "PurchasePrice"
+msgstr "តំលៃ​ទិញ"
 
 #. 8jaGC
 #: TableWizard.xcu
@@ -8214,7 +8163,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "PurchPrice"
-msgstr "PurchPrice"
+msgstr "តំលៃ​ទិញ"
 
 #. bzZHg
 #: TableWizard.xcu
@@ -8224,7 +8173,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "DepreciationMethod"
-msgstr "DepreciationMethod"
+msgstr "វិធីសាស្រ្តរំលោះ"
 
 #. YRGNF
 #: TableWizard.xcu
@@ -8234,7 +8183,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "DeprecMeth"
-msgstr "DeprecMeth"
+msgstr "វិធីសាស្រ្តរំលោះ"
 
 #. xNFSs
 #: TableWizard.xcu
@@ -8244,7 +8193,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "DepreciableLife"
-msgstr "DepreciableLife"
+msgstr "ជីវិតដែលអាចទទួលយកបាន"
 
 #. YvjRF
 #: TableWizard.xcu
@@ -8254,7 +8203,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "DeprecLife"
-msgstr "DeprecLife"
+msgstr "ជីវិតដែលអាចទទួលយកបាន"
 
 #. yChpJ
 #: TableWizard.xcu
@@ -8264,7 +8213,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "SalvageValue"
-msgstr "SalvageValue"
+msgstr "តម្លៃសង្គ្រោះ"
 
 #. QhaAR
 #: TableWizard.xcu
@@ -8274,7 +8223,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "SalvageVal"
-msgstr "SalvageVal"
+msgstr "តម្លៃសង្គ្រោះ"
 
 #. FX6g8
 #: TableWizard.xcu
@@ -8284,7 +8233,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "CurrentValue"
-msgstr "CurrentValue"
+msgstr "តម្លៃ​នា​ពេល​បច្ចុប្បន្ន​នេះ"
 
 #. tDCPC
 #: TableWizard.xcu
@@ -8294,7 +8243,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "CurrentVal"
-msgstr "CurrentVal"
+msgstr "តម្លៃ​នា​ពេល​បច្ចុប្បន្ន​នេះ"
 
 #. Ddmwi
 #: TableWizard.xcu
@@ -8304,7 +8253,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Comments"
-msgstr "Comments"
+msgstr "មតិ"
 
 #. dCGLA
 #: TableWizard.xcu
@@ -8314,7 +8263,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Comments"
-msgstr "Comments"
+msgstr "មតិ"
 
 #. SzUKR
 #: TableWizard.xcu
@@ -8324,7 +8273,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "NextScheduledMaintenance"
-msgstr "NextScheduledMaintenance"
+msgstr "ការថែទាំតាមពេលវេលាកំណត់បន្ទាប់"
 
 #. YbgNB
 #: TableWizard.xcu
@@ -8334,7 +8283,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "NtSchMaint"
-msgstr "NtSchMaint"
+msgstr "ការថែទាំតាមពេលវេលាកំណត់បន្ទាប់"
 
 #. JiCGL
 #: TableWizard.xcu
@@ -8344,7 +8293,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Transactions"
-msgstr "Transactions"
+msgstr "ប្រតិបត្តិការ"
 
 #. 5eJsN
 #: TableWizard.xcu
@@ -8354,7 +8303,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "TransactionID"
-msgstr "TransactionID"
+msgstr "លេខ​សម្គាល់​ប្រតិ​ប​ត្ដិ​ការ"
 
 #. VFrBQ
 #: TableWizard.xcu
@@ -8364,7 +8313,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "TrnsactnID"
-msgstr "TrnsactnID"
+msgstr "លេខ​សម្គាល់​ប្រតិ​ប​ត្ដិ​ការ"
 
 #. 3CLCU
 #: TableWizard.xcu
@@ -8374,7 +8323,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "PaymentID"
-msgstr "PaymentID"
+msgstr "លេខសម្គាល់ការទូទាត់"
 
 #. i3wG9
 #: TableWizard.xcu
@@ -8384,7 +8333,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "PaymentID"
-msgstr "PaymentID"
+msgstr "លេខសម្គាល់ការទូទាត់"
 
 #. c7NsB
 #: TableWizard.xcu
@@ -8394,7 +8343,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "TransactionNumber"
-msgstr "TransactionNumber"
+msgstr "លេខប្រតិបត្តិការ"
 
 #. KnQui
 #: TableWizard.xcu
@@ -8404,7 +8353,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "TrnsactnNo"
-msgstr "TrnsactnNo"
+msgstr "លេខប្រតិបត្តិការ"
 
 #. SAS6W
 #: TableWizard.xcu
@@ -8414,7 +8363,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Date"
-msgstr "Date"
+msgstr "កាលបរិច្ឆេទ"
 
 #. 4NgbG
 #: TableWizard.xcu
@@ -8424,7 +8373,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Date"
-msgstr "Date"
+msgstr "កាលបរិច្ឆេទ"
 
 #. Rwe4k
 #: TableWizard.xcu
@@ -8434,7 +8383,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Description"
-msgstr "Description"
+msgstr "ការពិពណ៌នា"
 
 #. Q6c9a
 #: TableWizard.xcu
@@ -8444,7 +8393,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Descrption"
-msgstr "Descrption"
+msgstr "ការពិពណ៌នា"
 
 #. SvcHD
 #: TableWizard.xcu
@@ -8454,7 +8403,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Amount"
-msgstr "Amount"
+msgstr "ចំនួន"
 
 #. QFSdS
 #: TableWizard.xcu
@@ -8464,7 +8413,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Amount"
-msgstr "Amount"
+msgstr "ចំនួន"
 
 #. JfUne
 #: TableWizard.xcu
@@ -8474,7 +8423,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "AccountID"
-msgstr "AccountID"
+msgstr "លេខសម្គាល់គណនី"
 
 #. NYWr4
 #: TableWizard.xcu
@@ -8484,7 +8433,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "AccountID"
-msgstr "AccountID"
+msgstr "លេខសម្គាល់គណនី"
 
 #. fnSkE
 #: TableWizard.xcu
@@ -8494,7 +8443,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "ReferenceNumber"
-msgstr "ReferenceNumber"
+msgstr "លេខ​យោង"
 
 #. U45tA
 #: TableWizard.xcu
@@ -8504,7 +8453,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "RefrenceNo"
-msgstr "RefrenceNo"
+msgstr "លេខ​យោង"
 
 #. UT4CX
 #: TableWizard.xcu
@@ -8514,7 +8463,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "NumberofUnits"
-msgstr "NumberofUnits"
+msgstr "ចំនួនឯកតា"
 
 #. Vrpgq
 #: TableWizard.xcu
@@ -8524,7 +8473,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "NumberUnit"
-msgstr "NumberUnit"
+msgstr "ចំនួនឯកតា"
 
 #. xy4cA
 #: TableWizard.xcu
@@ -8534,7 +8483,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "WithdrawalAmount"
-msgstr "WithdrawalAmount"
+msgstr "ចំនួនទឹកប្រាក់ដក"
 
 #. rGAPK
 #: TableWizard.xcu
@@ -8544,7 +8493,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "WithdrwAmt"
-msgstr "WithdrwAmt"
+msgstr "ចំនួនទឹកប្រាក់ដក"
 
 #. NbSeM
 #: TableWizard.xcu
@@ -8554,7 +8503,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "DepositAmount"
-msgstr "DepositAmount"
+msgstr "ចំនួនប្រាក់បញ្ញើ"
 
 #. LApEv
 #: TableWizard.xcu
@@ -8564,7 +8513,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "DepositAmt"
-msgstr "DepositAmt"
+msgstr "ចំនួនប្រាក់បញ្ញើ"
 
 #. 57dW9
 #: TableWizard.xcu
@@ -8574,7 +8523,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "InterestEarned"
-msgstr "InterestEarned"
+msgstr "ចំណូលទទួលបាន"
 
 #. Ag7rr
 #: TableWizard.xcu
@@ -8584,7 +8533,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "IntrstEarn"
-msgstr "IntrstEarn"
+msgstr "ចំណូលទទួលបាន"
 
 #. XcjBK
 #: TableWizard.xcu
@@ -8594,7 +8543,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "BuySellDate"
-msgstr "BuySellDate"
+msgstr "ទិញកាលបរិច្ឆេទលក់"
 
 #. JcXF2
 #: TableWizard.xcu
@@ -8604,7 +8553,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "BuySellDat"
-msgstr "BuySellDat"
+msgstr "ទិញកាលបរិច្ឆេទលក់"
 
 #. CwxEP
 #: TableWizard.xcu
@@ -8614,7 +8563,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "BuySellPrice"
-msgstr "BuySellPrice"
+msgstr "តម្លៃទិញលក់"
 
 #. 4XsGs
 #: TableWizard.xcu
@@ -8624,7 +8573,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "BuySellPrc"
-msgstr "BuySellPrc"
+msgstr "តម្លៃទិញលក់"
 
 #. ZCFif
 #: TableWizard.xcu
@@ -8634,7 +8583,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "ServiceCharge"
-msgstr "ServiceCharge"
+msgstr "ថ្លៃ​សេវាកម្ម"
 
 #. j295L
 #: TableWizard.xcu
@@ -8644,7 +8593,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "ServiChrge"
-msgstr "ServiChrge"
+msgstr "ថ្លៃ​សេវាកម្ម"
 
 #. jnDTy
 #: TableWizard.xcu
@@ -8654,7 +8603,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Taxable"
-msgstr "Taxable"
+msgstr "ជាប់ពន្ធ"
 
 #. FPVLK
 #: TableWizard.xcu
@@ -8664,7 +8613,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Taxable"
-msgstr "Taxable"
+msgstr "ជាប់ពន្ធ"
 
 #. MAeFN
 #: TableWizard.xcu
@@ -8674,7 +8623,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. GLFq8
 #: TableWizard.xcu
@@ -8684,7 +8633,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. NuF4x
 #: TableWizard.xcu
@@ -8694,7 +8643,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Tasks"
-msgstr "Tasks"
+msgstr "ភារកិច្ច"
 
 #. ePPjE
 #: TableWizard.xcu
@@ -8704,7 +8653,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "TaskID"
-msgstr "TaskID"
+msgstr "លេខសម្គាល់ភារកិច្ច"
 
 #. AbABE
 #: TableWizard.xcu
@@ -8714,7 +8663,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "TaskID"
-msgstr "TaskID"
+msgstr "លេខសម្គាល់ភារកិច្ច"
 
 #. fXrDb
 #: TableWizard.xcu
@@ -8724,7 +8673,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Description"
-msgstr "Description"
+msgstr "ការពិពណ៌នា"
 
 #. sBdEG
 #: TableWizard.xcu
@@ -8734,7 +8683,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Descrption"
-msgstr "Descrption"
+msgstr "ការពិពណ៌នា"
 
 #. JFfXA
 #: TableWizard.xcu
@@ -8744,7 +8693,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "StartDate"
-msgstr "StartDate"
+msgstr "ថ្ងៃ​ចាប់ផ្តើម"
 
 #. kcZoK
 #: TableWizard.xcu
@@ -8754,7 +8703,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "StartDate"
-msgstr "StartDate"
+msgstr "ថ្ងៃ​ចាប់ផ្តើម"
 
 #. 5uy5A
 #: TableWizard.xcu
@@ -8764,7 +8713,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "EndDate"
-msgstr "EndDate"
+msgstr "កាលបរិច្ឆេទបញ្ចប់"
 
 #. XbQoX
 #: TableWizard.xcu
@@ -8774,7 +8723,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "EndDate"
-msgstr "EndDate"
+msgstr "កាលបរិច្ឆេទបញ្ចប់"
 
 #. A64yh
 #: TableWizard.xcu
@@ -8784,7 +8733,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. DAGXG
 #: TableWizard.xcu
@@ -8794,7 +8743,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. 5a6dS
 #: TableWizard.xcu
@@ -8804,7 +8753,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "EmployeesTasks"
-msgstr "EmployeesTasks"
+msgstr "ភារកិច្ចរបស់និយោជិក"
 
 #. 8QoH2
 #: TableWizard.xcu
@@ -8814,7 +8763,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "EmployeeTaskID"
-msgstr "EmployeeTaskID"
+msgstr "ភារកិច្ចរបស់និយោជិក"
 
 #. PCawS
 #: TableWizard.xcu
@@ -8824,7 +8773,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "EmplTaskID"
-msgstr "EmplTaskID"
+msgstr "ភារកិច្ចរបស់និយោជិក"
 
 #. MMaRL
 #: TableWizard.xcu
@@ -8834,7 +8783,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "EmployeeID"
-msgstr "EmployeeID"
+msgstr "លេខសម្គាល់បុគ្គលិក៖"
 
 #. iHRDD
 #: TableWizard.xcu
@@ -8844,7 +8793,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "EmployeeID"
-msgstr "EmployeeID"
+msgstr "លេខសម្គាល់បុគ្គលិក៖"
 
 #. x83gG
 #: TableWizard.xcu
@@ -8854,7 +8803,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "TaskID"
-msgstr "TaskID"
+msgstr "លេខសម្គាល់ភារកិច្ច"
 
 #. KjmBD
 #: TableWizard.xcu
@@ -8864,7 +8813,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "TaskID"
-msgstr "TaskID"
+msgstr "លេខសម្គាល់ភារកិច្ច"
 
 #. TvG6D
 #: TableWizard.xcu
@@ -8874,7 +8823,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Private"
-msgstr "Private"
+msgstr "ឯកជន"
 
 #. 5EuB9
 #: TableWizard.xcu
@@ -8934,7 +8883,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Addresses"
-msgstr "Addresses"
+msgstr "អាសយដ្ឋាន"
 
 #. gB8f4
 #: TableWizard.xcu
@@ -8944,7 +8893,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "AddressID"
-msgstr "AddressID"
+msgstr "លេខសម្គាល់អាសយដ្ឋាន"
 
 #. hDV3X
 #: TableWizard.xcu
@@ -8954,7 +8903,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "AddressID"
-msgstr "AddressID"
+msgstr "លេខសម្គាល់អាសយដ្ឋាន"
 
 #. 6cMXP
 #: TableWizard.xcu
@@ -8964,7 +8913,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "FirstName"
-msgstr "FirstName"
+msgstr "នាមខ្លួន"
 
 #. dV44B
 #: TableWizard.xcu
@@ -8974,7 +8923,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "FirstName"
-msgstr "FirstName"
+msgstr "នាមខ្លួន"
 
 #. qjHe3
 #: TableWizard.xcu
@@ -8984,7 +8933,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "LastName"
-msgstr "LastName"
+msgstr "នាមត្រកូល"
 
 #. hyxKi
 #: TableWizard.xcu
@@ -8994,7 +8943,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "LastName"
-msgstr "LastName"
+msgstr "នាមត្រកូល"
 
 #. nR9MD
 #: TableWizard.xcu
@@ -9004,7 +8953,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Title"
-msgstr "Title"
+msgstr "ចំណងជើង"
 
 #. Dqyg9
 #: TableWizard.xcu
@@ -9014,7 +8963,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Title"
-msgstr "Title"
+msgstr "ចំណងជើង"
 
 #. BMGRC
 #: TableWizard.xcu
@@ -9024,7 +8973,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Address"
-msgstr "Address"
+msgstr "អាសយដ្ឋាន"
 
 #. cMBgC
 #: TableWizard.xcu
@@ -9034,7 +8983,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Address"
-msgstr "Address"
+msgstr "អាសយដ្ឋាន"
 
 #. fHkKv
 #: TableWizard.xcu
@@ -9044,7 +8993,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "City"
-msgstr "City"
+msgstr "ទីក្រុង"
 
 #. fhAem
 #: TableWizard.xcu
@@ -9054,7 +9003,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "City"
-msgstr "City"
+msgstr "ទីក្រុង"
 
 #. ZAzFd
 #: TableWizard.xcu
@@ -9064,7 +9013,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "PostalCode"
-msgstr "PostalCode"
+msgstr "លេខ​កូដ​ប្រៃ​ស​ណី​យ"
 
 #. fkJuB
 #: TableWizard.xcu
@@ -9074,7 +9023,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "PostalCode"
-msgstr "PostalCode"
+msgstr "លេខ​កូដ​ប្រៃ​ស​ណី​យ"
 
 #. P6hgT
 #: TableWizard.xcu
@@ -9084,7 +9033,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "StateOrProvince"
-msgstr "StateOrProvince"
+msgstr "រដ្ឋ​ឬ​ខេត្ត"
 
 #. LfFya
 #: TableWizard.xcu
@@ -9094,7 +9043,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "StateProvi"
-msgstr "StateProvi"
+msgstr "រដ្ឋ​ឬ​ខេត្ត"
 
 #. 7AFVw
 #: TableWizard.xcu
@@ -9104,7 +9053,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "CountryOrRegion"
-msgstr "CountryOrRegion"
+msgstr "ប្រទេស​ឬ​តំបន់"
 
 #. DyUE4
 #: TableWizard.xcu
@@ -9114,7 +9063,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "CountryReg"
-msgstr "CountryReg"
+msgstr "ប្រទេស​ឬ​តំបន់"
 
 #. bieQa
 #: TableWizard.xcu
@@ -9124,7 +9073,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "PhoneNumber"
-msgstr "PhoneNumber"
+msgstr "លេខទូរស័ព្ទ"
 
 #. hxCCw
 #: TableWizard.xcu
@@ -9134,7 +9083,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "PhoneNo"
-msgstr "PhoneNo"
+msgstr "លេខទូរស័ព្ទ"
 
 #. k8hR6
 #: TableWizard.xcu
@@ -9144,7 +9093,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "FaxNumber"
-msgstr "FaxNumber"
+msgstr "លេខទូរសារ"
 
 #. qihaY
 #: TableWizard.xcu
@@ -9154,7 +9103,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "FaxNo"
-msgstr "FaxNo"
+msgstr "លេខទូរសារ"
 
 #. vi58V
 #: TableWizard.xcu
@@ -9164,7 +9113,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "MobileNumber"
-msgstr "MobileNumber"
+msgstr "លេខ​ទូរ​សព្ទ​ចល័ត"
 
 #. CA36T
 #: TableWizard.xcu
@@ -9174,7 +9123,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "MobileNo"
-msgstr "MobileNo"
+msgstr "លេខ​ទូរ​សព្ទ​ចល័ត"
 
 #. v9ftm
 #: TableWizard.xcu
@@ -9184,7 +9133,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "EmailAddress"
-msgstr "EmailAddress"
+msgstr "អាស័យ​ដ្ឋាន​អ៊ី​ម៉េ​ល"
 
 #. geXZV
 #: TableWizard.xcu
@@ -9194,7 +9143,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "EmailAddr"
-msgstr "EmailAddr"
+msgstr "អាស័យ​ដ្ឋាន​អ៊ី​ម៉េ​ល"
 
 #. VPPve
 #: TableWizard.xcu
@@ -9204,7 +9153,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Salutation"
-msgstr "Salutation"
+msgstr "វន្ទនាការ"
 
 #. G33PU
 #: TableWizard.xcu
@@ -9214,7 +9163,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Salutation"
-msgstr "Salutation"
+msgstr "វន្ទនាការ"
 
 #. csfjk
 #: TableWizard.xcu
@@ -9224,7 +9173,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Birthdate"
-msgstr "Birthdate"
+msgstr "ថ្ងៃ​កំណើត​ ៖"
 
 #. tQEhY
 #: TableWizard.xcu
@@ -9234,7 +9183,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Birthdate"
-msgstr "Birthdate"
+msgstr "ថ្ងៃ​កំណើត​ ៖"
 
 #. XmKRD
 #: TableWizard.xcu
@@ -9244,7 +9193,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "SendCard"
-msgstr "SendCard"
+msgstr "ផ្ញើរកាត"
 
 #. k6HDe
 #: TableWizard.xcu
@@ -9254,7 +9203,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "SendCard"
-msgstr "SendCard"
+msgstr "ផ្ញើរកាត"
 
 #. QJHD8
 #: TableWizard.xcu
@@ -9264,7 +9213,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "MaritalStatus"
-msgstr "MaritalStatus"
+msgstr "ស្ថានភាពអាពាហ៍ពិពាហ៍"
 
 #. BDoid
 #: TableWizard.xcu
@@ -9274,7 +9223,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "MaritlStat"
-msgstr "MaritlStat"
+msgstr "ស្ថានភាពអាពាហ៍ពិពាហ៍"
 
 #. 3GC99
 #: TableWizard.xcu
@@ -9284,7 +9233,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "SpouseName"
-msgstr "SpouseName"
+msgstr "ឈ្មោះប្តីប្រពន្ធ"
 
 #. NKDQn
 #: TableWizard.xcu
@@ -9294,7 +9243,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "SpouseName"
-msgstr "SpouseName"
+msgstr "ឈ្មោះប្តីប្រពន្ធ"
 
 #. oJop5
 #: TableWizard.xcu
@@ -9304,7 +9253,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Nickname"
-msgstr "Nickname"
+msgstr "ឈ្មោះហៅក្រៅ"
 
 #. Jag7V
 #: TableWizard.xcu
@@ -9314,7 +9263,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Nickname"
-msgstr "Nickname"
+msgstr "ឈ្មោះហៅក្រៅ"
 
 #. 7ZEsD
 #: TableWizard.xcu
@@ -9324,7 +9273,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Hobbies"
-msgstr "Hobbies"
+msgstr "ចំណង់ចំណូលចិត្ត"
 
 #. 3ydkD
 #: TableWizard.xcu
@@ -9334,7 +9283,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Hobbies"
-msgstr "Hobbies"
+msgstr "ចំណង់ចំណូលចិត្ត"
 
 #. TK5Hi
 #: TableWizard.xcu
@@ -9344,7 +9293,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "ChildrenNames"
-msgstr "ChildrenNames"
+msgstr "ឈ្មោះកុមារ"
 
 #. 8nXA5
 #: TableWizard.xcu
@@ -9354,7 +9303,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "ChildName"
-msgstr "ChildName"
+msgstr "ឈ្មោះកុមារ"
 
 #. 5WKfX
 #: TableWizard.xcu
@@ -9364,7 +9313,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Photo"
-msgstr "Photo"
+msgstr "រូបថត"
 
 #. gxSSo
 #: TableWizard.xcu
@@ -9374,7 +9323,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Photo"
-msgstr "Photo"
+msgstr "រូបថត"
 
 #. dUr3P
 #: TableWizard.xcu
@@ -9384,7 +9333,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. LdYDX
 #: TableWizard.xcu
@@ -9394,7 +9343,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. UWEgF
 #: TableWizard.xcu
@@ -9404,7 +9353,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "DateUpdated"
-msgstr "DateUpdated"
+msgstr "កាលបរិច្ឆេទធ្វើបច្ចុប្បន្នភាព"
 
 #. crjiG
 #: TableWizard.xcu
@@ -9414,7 +9363,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "DatUpdated"
-msgstr "DatUpdated"
+msgstr "កាលបរិច្ឆេទធ្វើបច្ចុប្បន្នភាព"
 
 #. W9TU3
 #: TableWizard.xcu
@@ -9424,7 +9373,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "HouseholdInventory"
-msgstr "HouseholdInventory"
+msgstr "សារពើភ័ណ្ឌគ្រួសារ"
 
 #. Di94P
 #: TableWizard.xcu
@@ -9434,7 +9383,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "InventoryID"
-msgstr "InventoryID"
+msgstr "លេខសម្គាល់សារពើភ័ណ្ឌ"
 
 #. oD2Bj
 #: TableWizard.xcu
@@ -9444,7 +9393,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "InventryID"
-msgstr "InventryID"
+msgstr "លេខសម្គាល់សារពើភ័ណ្ឌ"
 
 #. SsgJq
 #: TableWizard.xcu
@@ -9474,7 +9423,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "RoomID"
-msgstr "RoomID"
+msgstr "លេខសម្គាល់បន្ទប់"
 
 #. 9vVuT
 #: TableWizard.xcu
@@ -9484,7 +9433,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "RoomID"
-msgstr "RoomID"
+msgstr "លេខសម្គាល់បន្ទប់"
 
 #. 8ZdMh
 #: TableWizard.xcu
@@ -9494,7 +9443,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Item"
-msgstr "Item"
+msgstr "ធាតុ"
 
 #. rtArA
 #: TableWizard.xcu
@@ -9504,7 +9453,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Item"
-msgstr "Item"
+msgstr "ធាតុ"
 
 #. Li2DB
 #: TableWizard.xcu
@@ -9514,7 +9463,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "ItemType"
-msgstr "ItemType"
+msgstr "ប្រភេទធាតុ"
 
 #. Hui7A
 #: TableWizard.xcu
@@ -9524,7 +9473,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "ItemType"
-msgstr "ItemType"
+msgstr "ប្រភេទធាតុ"
 
 #. eprhK
 #: TableWizard.xcu
@@ -9534,7 +9483,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Description"
-msgstr "Description"
+msgstr "ការពិពណ៌នា"
 
 #. vcxUD
 #: TableWizard.xcu
@@ -9544,7 +9493,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Descrption"
-msgstr "Descrption"
+msgstr "ការពិពណ៌នា"
 
 #. bMGRX
 #: TableWizard.xcu
@@ -9554,7 +9503,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Manufacturer"
-msgstr "Manufacturer"
+msgstr "ក្រុមហ៊ុនផលិត"
 
 #. hQi4X
 #: TableWizard.xcu
@@ -9564,7 +9513,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Manufactur"
-msgstr "Manufactur"
+msgstr "ក្រុមហ៊ុនផលិត"
 
 #. XifRy
 #: TableWizard.xcu
@@ -9574,7 +9523,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Model"
-msgstr "Model"
+msgstr "គំរូ"
 
 #. oX2xF
 #: TableWizard.xcu
@@ -9584,7 +9533,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Model"
-msgstr "Model"
+msgstr "គំរូ"
 
 #. aCeGg
 #: TableWizard.xcu
@@ -9594,7 +9543,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "ModelNumber"
-msgstr "ModelNumber"
+msgstr "លេខគំរូ"
 
 #. G9Leu
 #: TableWizard.xcu
@@ -9604,7 +9553,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "ModelNo"
-msgstr "ModelNo"
+msgstr "លេខគំរូ"
 
 #. xwRrm
 #: TableWizard.xcu
@@ -9614,7 +9563,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "SerialNumber"
-msgstr "SerialNumber"
+msgstr "លេខ​សម្គាល់"
 
 #. Yibgg
 #: TableWizard.xcu
@@ -9624,7 +9573,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "SerialNo"
-msgstr "SerialNo"
+msgstr "លេខ​សម្គាល់"
 
 #. UDBrR
 #: TableWizard.xcu
@@ -9634,7 +9583,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "DatePurchased"
-msgstr "DatePurchased"
+msgstr "កាលបរិច្ឆេទទិញ"
 
 #. GVCU2
 #: TableWizard.xcu
@@ -9644,7 +9593,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "DatePurch"
-msgstr "DatePurch"
+msgstr "កាលបរិច្ឆេទទិញ"
 
 #. bxNEc
 #: TableWizard.xcu
@@ -9654,7 +9603,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "PlacePurchased"
-msgstr "PlacePurchased"
+msgstr "កន្លែងទិញ"
 
 #. gAqTG
 #: TableWizard.xcu
@@ -9664,7 +9613,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "PlacePurch"
-msgstr "PlacePurch"
+msgstr "កន្លែងទិញ"
 
 #. mMqaX
 #: TableWizard.xcu
@@ -9674,7 +9623,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "PurchasePrice"
-msgstr "PurchasePrice"
+msgstr "តំលៃ​ទិញ"
 
 #. EuvBB
 #: TableWizard.xcu
@@ -9684,7 +9633,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "PurchPrice"
-msgstr "PurchPrice"
+msgstr "តំលៃ​ទិញ"
 
 #. wG7ZV
 #: TableWizard.xcu
@@ -9694,7 +9643,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "AppraisedValue"
-msgstr "AppraisedValue"
+msgstr "ការវាយតម្លៃ"
 
 #. znwBd
 #: TableWizard.xcu
@@ -9704,7 +9653,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "AppraisVal"
-msgstr "AppraisVal"
+msgstr "ការវាយតម្លៃ"
 
 #. tTWeP
 #: TableWizard.xcu
@@ -9714,7 +9663,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Insured"
-msgstr "Insured"
+msgstr "ធានារ៉ាប់រង"
 
 #. sLrs6
 #: TableWizard.xcu
@@ -9724,7 +9673,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Insured"
-msgstr "Insured"
+msgstr "ធានារ៉ាប់រង"
 
 #. GEnZf
 #: TableWizard.xcu
@@ -9734,7 +9683,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. fohjF
 #: TableWizard.xcu
@@ -9744,7 +9693,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. P6NQR
 #: TableWizard.xcu
@@ -9754,7 +9703,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Recipes"
-msgstr "Recipes"
+msgstr "វិក័យប័ត្រ"
 
 #. WLTDh
 #: TableWizard.xcu
@@ -9764,7 +9713,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "RecipeID"
-msgstr "RecipeID"
+msgstr "លេខសម្គាល់វិក័យប័ត្រ"
 
 #. USYLJ
 #: TableWizard.xcu
@@ -9774,7 +9723,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "RecipeID"
-msgstr "RecipeID"
+msgstr "លេខសម្គាល់វិក័យប័ត្រ"
 
 #. 4kLGc
 #: TableWizard.xcu
@@ -9784,7 +9733,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Name"
-msgstr "Name"
+msgstr "ឈ្មោះ"
 
 #. F8jrM
 #: TableWizard.xcu
@@ -9794,7 +9743,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Name"
-msgstr "Name"
+msgstr "ឈ្មោះ"
 
 #. GF2du
 #: TableWizard.xcu
@@ -9804,7 +9753,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Description"
-msgstr "Description"
+msgstr "ការពិពណ៌នា"
 
 #. TXVuq
 #: TableWizard.xcu
@@ -9814,7 +9763,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Descrption"
-msgstr "Descrption"
+msgstr "ការរើសអើងការពិពណ៌នា"
 
 #. Er4ar
 #: TableWizard.xcu
@@ -9824,7 +9773,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Source"
-msgstr "Source"
+msgstr "ប្រភព"
 
 #. NhyAK
 #: TableWizard.xcu
@@ -9834,7 +9783,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Source"
-msgstr "Source"
+msgstr "ប្រភព"
 
 #. tBJEC
 #: TableWizard.xcu
@@ -9844,7 +9793,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "WhichMeal"
-msgstr "WhichMeal"
+msgstr "អាហារអ្វី"
 
 #. EFmpK
 #: TableWizard.xcu
@@ -9854,7 +9803,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "WhichMeal"
-msgstr "WhichMeal"
+msgstr "អាហារអ្វី"
 
 #. ZtHFA
 #: TableWizard.xcu
@@ -9864,7 +9813,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Vegetarian"
-msgstr "Vegetarian"
+msgstr "អ្នកតមសាច់"
 
 #. aCrju
 #: TableWizard.xcu
@@ -9874,7 +9823,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Vegetarian"
-msgstr "Vegetarian"
+msgstr "អ្នកតមសាច់"
 
 #. J3T4Z
 #: TableWizard.xcu
@@ -9884,7 +9833,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "TimeToPrepare"
-msgstr "TimeToPrepare"
+msgstr "ពេលវេលាដើម្បីរៀបចំ"
 
 #. ynhLz
 #: TableWizard.xcu
@@ -9894,7 +9843,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "TimePrepar"
-msgstr "TimePrepar"
+msgstr "ពេលវេលាដើម្បីរៀបចំ"
 
 #. CG4TE
 #: TableWizard.xcu
@@ -9904,7 +9853,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "NumberofServings"
-msgstr "NumberofServings"
+msgstr "ចំនួនសេវាកម្ម"
 
 #. BjqSe
 #: TableWizard.xcu
@@ -9914,7 +9863,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "NoofServng"
-msgstr "NoofServng"
+msgstr "ចំនួនសេវាកម្ម"
 
 #. ZoGu9
 #: TableWizard.xcu
@@ -9924,7 +9873,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "CaloriesPerServing"
-msgstr "CaloriesPerServing"
+msgstr "កាឡូរីសម្រាប់បម្រើ"
 
 #. wiGCn
 #: TableWizard.xcu
@@ -9934,7 +9883,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "CalPerServ"
-msgstr "CalPerServ"
+msgstr "កាឡូរីសម្រាប់បម្រើ"
 
 #. V9ckn
 #: TableWizard.xcu
@@ -9944,7 +9893,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "NutritionalInformation"
-msgstr "NutritionalInformation"
+msgstr "ព័ត៌មានអំពីអាហារូបត្ថម្ភ"
 
 #. advub
 #: TableWizard.xcu
@@ -9954,7 +9903,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "NutriInfo"
-msgstr "NutriInfo"
+msgstr "ព័ត៌មានអំពីអាហារូបត្ថម្ភ"
 
 #. KACuG
 #: TableWizard.xcu
@@ -9964,7 +9913,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Ingredients"
-msgstr "Ingredients"
+msgstr "គ្រឿងផ្សំ"
 
 #. EGguM
 #: TableWizard.xcu
@@ -9974,7 +9923,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Ingredient"
-msgstr "Ingredient"
+msgstr "គ្រឿងផ្សំ"
 
 #. yGUsy
 #: TableWizard.xcu
@@ -9984,7 +9933,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Instructions"
-msgstr "Instructions"
+msgstr "ការណែនាំ"
 
 #. DA3qo
 #: TableWizard.xcu
@@ -9994,7 +9943,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Instruction"
-msgstr ""
+msgstr "ការណែនាំ"
 
 #. BDbAj
 #: TableWizard.xcu
@@ -10004,7 +9953,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Utensils"
-msgstr "Utensils"
+msgstr "ប្រដាប់ប្រដាប្រើប្រាស់"
 
 #. DA8aw
 #: TableWizard.xcu
@@ -10014,7 +9963,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Utensils"
-msgstr "Utensils"
+msgstr "ប្រដាប់ប្រដាប្រើប្រាស់"
 
 #. 8v2kB
 #: TableWizard.xcu
@@ -10024,7 +9973,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. crsCV
 #: TableWizard.xcu
@@ -10034,7 +9983,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. ccpCj
 #: TableWizard.xcu
@@ -10044,7 +9993,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Plants"
-msgstr "Plants"
+msgstr "រុក្ខជាតិ"
 
 #. LqKDF
 #: TableWizard.xcu
@@ -10054,7 +10003,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "PlantID"
-msgstr "PlantID"
+msgstr "លេខសម្គាល់រុក្ខជាតិ"
 
 #. MDDDe
 #: TableWizard.xcu
@@ -10064,7 +10013,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "PlantID"
-msgstr "PlantID"
+msgstr "លេខសម្គាល់រុក្ខជាតិ"
 
 #. C8oo8
 #: TableWizard.xcu
@@ -10074,7 +10023,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "CommonName"
-msgstr "CommonName"
+msgstr "ឈ្មោះ​ធម្មតា"
 
 #. 23DVu
 #: TableWizard.xcu
@@ -10084,7 +10033,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "CommonName"
-msgstr "CommonName"
+msgstr "ឈ្មោះ​ធម្មតា"
 
 #. QEn6m
 #: TableWizard.xcu
@@ -10094,7 +10043,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Genus"
-msgstr "Genus"
+msgstr "ហ្សែន"
 
 #. CXnXB
 #: TableWizard.xcu
@@ -10104,7 +10053,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Genus"
-msgstr "Genus"
+msgstr "ហ្សែន"
 
 #. BkugM
 #: TableWizard.xcu
@@ -10114,7 +10063,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Species"
-msgstr "Species"
+msgstr "ប្រភេទ"
 
 #. eaFry
 #: TableWizard.xcu
@@ -10124,7 +10073,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Species"
-msgstr "Species"
+msgstr "ប្រភេទ"
 
 #. T69A2
 #: TableWizard.xcu
@@ -10134,7 +10083,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Flowering"
-msgstr "Flowering"
+msgstr "ការចេញផ្កា"
 
 #. vrMgY
 #: TableWizard.xcu
@@ -10144,7 +10093,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Flowering"
-msgstr "Flowering"
+msgstr "ការចេញផ្កា"
 
 #. GceFt
 #: TableWizard.xcu
@@ -10154,7 +10103,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "LightPreference"
-msgstr "LightPreference"
+msgstr "ចំណូលចិត្តពន្លឺ"
 
 #. tpzsQ
 #: TableWizard.xcu
@@ -10164,7 +10113,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "LightPref"
-msgstr "LightPref"
+msgstr "ចំណូលចិត្តពន្លឺ"
 
 #. 8BPEY
 #: TableWizard.xcu
@@ -10174,7 +10123,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "TemperaturePreference"
-msgstr "TemperaturePreference"
+msgstr "ឧបករណ៍វាស់សីតុណ្ហភាព"
 
 #. BBrGn
 #: TableWizard.xcu
@@ -10184,7 +10133,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "TempPref"
-msgstr "TempPref"
+msgstr "ឧបករណ៍វាស់សីតុណ្ហភាព"
 
 #. vYL3g
 #: TableWizard.xcu
@@ -10194,7 +10143,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "FertilizeFrequency"
-msgstr "FertilizeFrequency"
+msgstr "ជីជាតិជីវសាស្រ្ត"
 
 #. mgEW7
 #: TableWizard.xcu
@@ -10204,7 +10153,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "FertilFreq"
-msgstr "FertilFreq"
+msgstr "ជីជាតិជីវសាស្រ្ត"
 
 #. c7ErK
 #: TableWizard.xcu
@@ -10214,7 +10163,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "WateringFrequency"
-msgstr "WateringFrequency"
+msgstr "ភាពញឹកញាប់នៃការស្រោចទឹក"
 
 #. ErJPR
 #: TableWizard.xcu
@@ -10224,7 +10173,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "WaterFreq"
-msgstr "WaterFreq"
+msgstr "ភាពញឹកញាប់នៃការស្រោចទឹក"
 
 #. UCk9t
 #: TableWizard.xcu
@@ -10234,7 +10183,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "DatePurchased"
-msgstr "DatePurchased"
+msgstr "កាលបរិច្ឆេទទិញ"
 
 #. SbgFe
 #: TableWizard.xcu
@@ -10244,7 +10193,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "DatePurch"
-msgstr "DatePurch"
+msgstr "កាលបរិច្ឆេទទិញ"
 
 #. kiCoe
 #: TableWizard.xcu
@@ -10254,7 +10203,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "PlacePurchased"
-msgstr "PlacePurchased"
+msgstr "កន្លែងទិញ"
 
 #. ACAvm
 #: TableWizard.xcu
@@ -10264,7 +10213,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "PlacePurch"
-msgstr "PlacePurch"
+msgstr "កន្លែងទិញ"
 
 #. BoJie
 #: TableWizard.xcu
@@ -10274,7 +10223,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "DatePlanted"
-msgstr "DatePlanted"
+msgstr "កាលបរិច្ឆេទដែលចង់បាន"
 
 #. YN9SY
 #: TableWizard.xcu
@@ -10284,7 +10233,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "DatPlanted"
-msgstr "DatPlanted"
+msgstr "កាលបរិច្ឆេទដែលចង់បាន"
 
 #. kC4UA
 #: TableWizard.xcu
@@ -10294,7 +10243,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "DateRepotted"
-msgstr "DateRepotted"
+msgstr "កាលបរិច្ឆេទកំណត់"
 
 #. NPYHS
 #: TableWizard.xcu
@@ -10304,7 +10253,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "DatRepottd"
-msgstr "DatRepottd"
+msgstr "កាលបរិច្ឆេទកំណត់"
 
 #. FNFMG
 #: TableWizard.xcu
@@ -10314,7 +10263,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "DatePruned"
-msgstr "DatePruned"
+msgstr "កាលបរិច្ឆេទកាត់ចេញ"
 
 #. HuwLA
 #: TableWizard.xcu
@@ -10324,7 +10273,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "DatePruned"
-msgstr "DatePruned"
+msgstr "កាលបរិច្ឆេទកាត់ចេញ"
 
 #. ybAx6
 #: TableWizard.xcu
@@ -10334,7 +10283,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "DateWatered"
-msgstr "DateWatered"
+msgstr "កាលបរិច្ឆេទណាត់ជួប"
 
 #. BwY4A
 #: TableWizard.xcu
@@ -10344,7 +10293,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "DateWaterd"
-msgstr "DateWaterd"
+msgstr "កាលបរិច្ឆេទណាត់ជួប"
 
 #. umvLP
 #: TableWizard.xcu
@@ -10354,7 +10303,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Photo"
-msgstr "Photo"
+msgstr "រូបថត"
 
 #. RCFzD
 #: TableWizard.xcu
@@ -10364,7 +10313,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Photo"
-msgstr "Photo"
+msgstr "រូបថត"
 
 #. EoPoX
 #: TableWizard.xcu
@@ -10374,7 +10323,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. d89m4
 #: TableWizard.xcu
@@ -10384,7 +10333,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. zpauP
 #: TableWizard.xcu
@@ -10394,7 +10343,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Photographs"
-msgstr "Photographs"
+msgstr "រូបថត"
 
 #. ngYau
 #: TableWizard.xcu
@@ -10404,7 +10353,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "PhotoID"
-msgstr "PhotoID"
+msgstr "លេខសម្គាល់រូបថត"
 
 #. Ss3mj
 #: TableWizard.xcu
@@ -10414,7 +10363,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "PhotoID"
-msgstr "PhotoID"
+msgstr "លេខសម្គាល់រូបថត"
 
 #. nBVgF
 #: TableWizard.xcu
@@ -10424,7 +10373,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "FilmID"
-msgstr "FilmID"
+msgstr "លេខសម្គាល់ភាពយន្ត"
 
 #. g6jFv
 #: TableWizard.xcu
@@ -10434,7 +10383,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "FilmID"
-msgstr "FilmID"
+msgstr "លេខសម្គាល់ភាពយន្ត"
 
 #. ucPDX
 #: TableWizard.xcu
@@ -10444,7 +10393,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "DateTaken"
-msgstr "DateTaken"
+msgstr "កាលបរិច្ឆេទដែលបានយក"
 
 #. DQuYp
 #: TableWizard.xcu
@@ -10454,7 +10403,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "DateTaken"
-msgstr "DateTaken"
+msgstr "កាលបរិច្ឆេទដែលបានយក"
 
 #. NThsC
 #: TableWizard.xcu
@@ -10464,7 +10413,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "TimeTaken"
-msgstr "TimeTaken"
+msgstr "ពេលវេលាដែលបានយក"
 
 #. Rrfs6
 #: TableWizard.xcu
@@ -10474,7 +10423,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "TimeTaken"
-msgstr "TimeTaken"
+msgstr "ពេលវេលាដែលបានយក"
 
 #. PQayn
 #: TableWizard.xcu
@@ -10484,7 +10433,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "PlaceTaken"
-msgstr "PlaceTaken"
+msgstr "កន្លែងដាក់"
 
 #. ziMFk
 #: TableWizard.xcu
@@ -10494,7 +10443,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "PlaceTaken"
-msgstr "PlaceTaken"
+msgstr "កន្លែងដាក់"
 
 #. 2KDjp
 #: TableWizard.xcu
@@ -10504,7 +10453,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "LensUsed"
-msgstr "LensUsed"
+msgstr "កែវថតប្រើរួច"
 
 #. khCut
 #: TableWizard.xcu
@@ -10514,7 +10463,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "LensUsed"
-msgstr "LensUsed"
+msgstr "កែវថតប្រើរួច"
 
 #. nbqna
 #: TableWizard.xcu
@@ -10524,7 +10473,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Aperture"
-msgstr "Aperture"
+msgstr "ទីចំហ"
 
 #. 9NJaC
 #: TableWizard.xcu
@@ -10534,7 +10483,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Aperture"
-msgstr "Aperture"
+msgstr "ទីចំហ"
 
 #. fEB48
 #: TableWizard.xcu
@@ -10544,7 +10493,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "ShutterSpeed"
-msgstr "ShutterSpeed"
+msgstr "ល្បឿនបង្រួម"
 
 #. g32fd
 #: TableWizard.xcu
@@ -10554,7 +10503,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "ShutterSpd"
-msgstr "ShutterSpd"
+msgstr "ល្បឿនបង្រួម"
 
 #. wYWcq
 #: TableWizard.xcu
@@ -10564,7 +10513,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "FilterUsed"
-msgstr "FilterUsed"
+msgstr "តម្រងបានប្រើ"
 
 #. Yi4Ek
 #: TableWizard.xcu
@@ -10574,7 +10523,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "FilterUsed"
-msgstr "FilterUsed"
+msgstr "តម្រងបានប្រើ"
 
 #. gaNKU
 #: TableWizard.xcu
@@ -10584,7 +10533,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Flash"
-msgstr "Flash"
+msgstr "បញ្ចេញពន្លឺ"
 
 #. 8yEFx
 #: TableWizard.xcu
@@ -10594,7 +10543,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Flash"
-msgstr "Flash"
+msgstr "បញ្ចេញពន្លឺ"
 
 #. C5cDt
 #: TableWizard.xcu
@@ -10604,7 +10553,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "PrintSize"
-msgstr "PrintSize"
+msgstr "ទំហំបោះពុម្ព"
 
 #. JFtN3
 #: TableWizard.xcu
@@ -10614,7 +10563,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "PrintSize"
-msgstr "PrintSize"
+msgstr "ទំហំបោះពុម្ព"
 
 #. NTgCV
 #: TableWizard.xcu
@@ -10624,7 +10573,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. P5d6s
 #: TableWizard.xcu
@@ -10634,7 +10583,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. AJRtD
 #: TableWizard.xcu
@@ -10644,7 +10593,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "MiniatureFilms"
-msgstr "MiniatureFilms"
+msgstr "ភាពយន្តខ្នាតតូច"
 
 #. WqGBN
 #: TableWizard.xcu
@@ -10654,7 +10603,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "FilmID"
-msgstr "FilmID"
+msgstr "លេខសម្គាល់ភាពយន្ត"
 
 #. kTBDh
 #: TableWizard.xcu
@@ -10664,7 +10613,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "FilmID"
-msgstr "FilmID"
+msgstr "លេខសម្គាល់ភាពយន្ត"
 
 #. FiijC
 #: TableWizard.xcu
@@ -10674,7 +10623,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Make"
-msgstr "Make"
+msgstr "ធ្វើ"
 
 #. d4AD2
 #: TableWizard.xcu
@@ -10684,7 +10633,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Make"
-msgstr "Make"
+msgstr "ធ្វើ"
 
 #. 8Yf9C
 #: TableWizard.xcu
@@ -10694,7 +10643,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Photosensitivity"
-msgstr "Photosensitivity"
+msgstr "រូបថតរហ័ស"
 
 #. FVCVN
 #: TableWizard.xcu
@@ -10704,7 +10653,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Photosensi"
-msgstr "Photosensi"
+msgstr "រូបថតរហ័ស"
 
 #. ktABn
 #: TableWizard.xcu
@@ -10714,7 +10663,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "NumberOfPhotos"
-msgstr "NumberOfPhotos"
+msgstr "ចំនួនរូបថត"
 
 #. QGRqD
 #: TableWizard.xcu
@@ -10724,7 +10673,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "NumPhotos"
-msgstr "NumPhotos"
+msgstr "ចំនួនរូបថត"
 
 #. YX7D7
 #: TableWizard.xcu
@@ -10734,7 +10683,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "ColorFilm"
-msgstr "ColorFilm"
+msgstr "ពណ៌ខ្សែភាពយន្ត"
 
 #. aU8uu
 #: TableWizard.xcu
@@ -10744,7 +10693,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "ColorFilm"
-msgstr "ColorFilm"
+msgstr "ពណ៌ខ្សែភាពយន្ត"
 
 #. pSE2y
 #: TableWizard.xcu
@@ -10754,7 +10703,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "FilmExpirationDate"
-msgstr "FilmExpirationDate"
+msgstr "កាលបរិច្ឆេទផុតកំណត់ភាពយន្ត"
 
 #. G2igR
 #: TableWizard.xcu
@@ -10764,7 +10713,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "FlmExpDate"
-msgstr "FlmExpDate"
+msgstr "កាលបរិច្ឆេទផុតកំណត់ភាពយន្ត"
 
 #. ZPdtC
 #: TableWizard.xcu
@@ -10774,7 +10723,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "DateDeveloped"
-msgstr "DateDeveloped"
+msgstr "កាលបរិច្ឆេទអភិវឌ្ឍន៍"
 
 #. twHgL
 #: TableWizard.xcu
@@ -10784,7 +10733,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "DateDevelp"
-msgstr "DateDevelp"
+msgstr "កាលបរិច្ឆេទអភិវឌ្ឍន៍"
 
 #. yHQfy
 #: TableWizard.xcu
@@ -10794,7 +10743,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "DevelopedBy"
-msgstr "DevelopedBy"
+msgstr "អភិវឌ្ឍន៍ឡើង​ដោយ"
 
 #. EvfKh
 #: TableWizard.xcu
@@ -10804,7 +10753,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "DevelopdBy"
-msgstr "DevelopdBy"
+msgstr "អភិវឌ្ឍន៍ឡើង​ដោយ"
 
 #. 2inGe
 #: TableWizard.xcu
@@ -10814,7 +10763,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Camera"
-msgstr "Camera"
+msgstr "កាមេរ៉ា"
 
 #. 3fuDo
 #: TableWizard.xcu
@@ -10824,7 +10773,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Camera"
-msgstr "Camera"
+msgstr "កាមេរ៉ា"
 
 #. zsfCF
 #: TableWizard.xcu
@@ -10834,7 +10783,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. A8wvr
 #: TableWizard.xcu
@@ -10844,7 +10793,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. Y85YH
 #: TableWizard.xcu
@@ -10854,7 +10803,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "DVD-Collection"
-msgstr "DVD-Collection"
+msgstr "បណ្តុំ-ឌីវីឌី"
 
 #. o52oP
 #: TableWizard.xcu
@@ -10864,7 +10813,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "CollectionID"
-msgstr "CollectionID"
+msgstr "លេខសម្គាល់ការប្រមូល"
 
 #. YtzPT
 #: TableWizard.xcu
@@ -10874,7 +10823,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "CollectnID"
-msgstr "CollectnID"
+msgstr "លេខសម្គាល់ការប្រមូល"
 
 #. FikLW
 #: TableWizard.xcu
@@ -10884,7 +10833,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "MovieTitle"
-msgstr "MovieTitle"
+msgstr "ចំណងជើងភាពយន្ត"
 
 #. edszQ
 #: TableWizard.xcu
@@ -10894,7 +10843,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "MovieTitle"
-msgstr "MovieTitle"
+msgstr "ចំណងជើងភាពយន្ត"
 
 #. gCkg7
 #: TableWizard.xcu
@@ -10904,7 +10853,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Genre"
-msgstr "Genre"
+msgstr "ចង្វាក់"
 
 #. GQS7y
 #: TableWizard.xcu
@@ -10914,7 +10863,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Genre"
-msgstr "Genre"
+msgstr "ចង្វាក់"
 
 #. bsLJR
 #: TableWizard.xcu
@@ -10924,7 +10873,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Actor"
-msgstr "Actor"
+msgstr "តារាសម្តែង"
 
 #. BHVDp
 #: TableWizard.xcu
@@ -10934,7 +10883,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Actor"
-msgstr "Actor"
+msgstr "តារាសម្តែង"
 
 #. dDjLa
 #: TableWizard.xcu
@@ -10944,7 +10893,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Director"
-msgstr "Director"
+msgstr "នាយក"
 
 #. jnPgj
 #: TableWizard.xcu
@@ -10954,7 +10903,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Director"
-msgstr "Director"
+msgstr "នាយក"
 
 #. NdxmM
 #: TableWizard.xcu
@@ -10964,7 +10913,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Producer"
-msgstr "Producer"
+msgstr "អ្នក​ផលិត"
 
 #. LbFHV
 #: TableWizard.xcu
@@ -10974,7 +10923,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Producer"
-msgstr "Producer"
+msgstr "អ្នក​ផលិត"
 
 #. LWGMS
 #: TableWizard.xcu
@@ -10984,7 +10933,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "ReleaseYear"
-msgstr "ReleaseYear"
+msgstr "ឆ្នាំចេញផ្សាយ"
 
 #. 4FHn7
 #: TableWizard.xcu
@@ -10994,7 +10943,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "ReleasYear"
-msgstr "ReleasYear"
+msgstr "ឆ្នាំចេញផ្សាយ"
 
 #. mFDKc
 #: TableWizard.xcu
@@ -11004,7 +10953,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Rating"
-msgstr "Rating"
+msgstr "ការ​វាយ​តម្លៃ"
 
 #. o27uk
 #: TableWizard.xcu
@@ -11014,7 +10963,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Rating"
-msgstr "Rating"
+msgstr "ការ​វាយ​តម្លៃ"
 
 #. qvgAk
 #: TableWizard.xcu
@@ -11024,7 +10973,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Subject"
-msgstr "Subject"
+msgstr "ប្រធានបទ"
 
 #. A4gDf
 #: TableWizard.xcu
@@ -11034,7 +10983,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Subject"
-msgstr "Subject"
+msgstr "ប្រធានបទ"
 
 #. hHKFK
 #: TableWizard.xcu
@@ -11044,7 +10993,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Length"
-msgstr "Length"
+msgstr "រយៈពេល​"
 
 #. EFLqu
 #: TableWizard.xcu
@@ -11054,7 +11003,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Length"
-msgstr "Length"
+msgstr "រយៈពេល​"
 
 #. tyUoC
 #: TableWizard.xcu
@@ -11064,7 +11013,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "DateAcquired"
-msgstr "DateAcquired"
+msgstr "កាលបរិច្ឆេទទទួលបាន"
 
 #. Azwoc
 #: TableWizard.xcu
@@ -11074,7 +11023,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "DateAcquir"
-msgstr "DateAcquir"
+msgstr "កាលបរិច្ឆេទទទួលបាន"
 
 #. XtLap
 #: TableWizard.xcu
@@ -11084,7 +11033,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "PurchasedAt"
-msgstr "PurchasedAt"
+msgstr "បានទិញនៅ"
 
 #. MtwpC
 #: TableWizard.xcu
@@ -11094,7 +11043,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "PurchaseAt"
-msgstr "PurchaseAt"
+msgstr "បានទិញនៅ"
 
 #. buKBv
 #: TableWizard.xcu
@@ -11104,7 +11053,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "PurchasePrice"
-msgstr "PurchasePrice"
+msgstr "តំលៃ​ទិញ"
 
 #. rgihL
 #: TableWizard.xcu
@@ -11114,7 +11063,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "PurchPrice"
-msgstr "PurchPrice"
+msgstr "តំលៃ​ទិញ"
 
 #. uEcGU
 #: TableWizard.xcu
@@ -11124,7 +11073,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Review"
-msgstr "Review"
+msgstr "​ពិនិត្យឡើងវិញ"
 
 #. bVPRt
 #: TableWizard.xcu
@@ -11134,7 +11083,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Review"
-msgstr "Review"
+msgstr "​ពិនិត្យឡើងវិញ"
 
 #. vSPaa
 #: TableWizard.xcu
@@ -11144,7 +11093,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. FxjRn
 #: TableWizard.xcu
@@ -11154,7 +11103,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. DENB7
 #: TableWizard.xcu
@@ -11164,7 +11113,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "CD-Collection"
-msgstr "CD-Collection"
+msgstr "បណ្តុំ-ស៊ីឌី"
 
 #. qWR5N
 #: TableWizard.xcu
@@ -11174,7 +11123,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "CollectionID"
-msgstr "CollectionID"
+msgstr "លេខសម្គាល់ការប្រមូល"
 
 #. xPHuv
 #: TableWizard.xcu
@@ -11184,7 +11133,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "CollectnID"
-msgstr "CollectnID"
+msgstr "លេខសម្គាល់ការប្រមូល"
 
 #. EDApm
 #: TableWizard.xcu
@@ -11194,7 +11143,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "AlbumTitle"
-msgstr "AlbumTitle"
+msgstr "ចំណងជើងអាល់ប៊ុម"
 
 #. gn42Y
 #: TableWizard.xcu
@@ -11204,7 +11153,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "AlbumTitle"
-msgstr "AlbumTitle"
+msgstr "ចំណងជើងអាល់ប៊ុម"
 
 #. YkrJa
 #: TableWizard.xcu
@@ -11214,7 +11163,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Artist"
-msgstr "Artist"
+msgstr "សិល្បករ"
 
 #. EH8Rr
 #: TableWizard.xcu
@@ -11224,7 +11173,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Artist"
-msgstr "Artist"
+msgstr "សិល្បករ"
 
 #. M77rf
 #: TableWizard.xcu
@@ -11234,7 +11183,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "MusicCategoryID"
-msgstr "MusicCategoryID"
+msgstr "លេខសម្គាល់ប្រភេទតន្ត្រី"
 
 #. 4mckL
 #: TableWizard.xcu
@@ -11244,7 +11193,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "MusicCatID"
-msgstr "MusicCatID"
+msgstr "លេខសម្គាល់ប្រភេទតន្ត្រី"
 
 #. TbLJE
 #: TableWizard.xcu
@@ -11254,7 +11203,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "RecordLabel"
-msgstr "RecordLabel"
+msgstr "ទីតាំងថត"
 
 #. 4FsG7
 #: TableWizard.xcu
@@ -11264,7 +11213,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "RecordLabl"
-msgstr "RecordLabl"
+msgstr "ទីតាំងថត"
 
 #. VVkAC
 #: TableWizard.xcu
@@ -11274,7 +11223,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Producer"
-msgstr "Producer"
+msgstr "អ្នក​ផលិត"
 
 #. GxQFt
 #: TableWizard.xcu
@@ -11284,7 +11233,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Producer"
-msgstr "Producer"
+msgstr "អ្នក​ផលិត"
 
 #. vDKBC
 #: TableWizard.xcu
@@ -11294,7 +11243,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "ReleaseYear"
-msgstr "ReleaseYear"
+msgstr "ឆ្នាំចេញផ្សាយ"
 
 #. pBNFg
 #: TableWizard.xcu
@@ -11304,7 +11253,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "ReleasYear"
-msgstr "ReleasYear"
+msgstr "ឆ្នាំចេញផ្សាយ"
 
 #. SCGb5
 #: TableWizard.xcu
@@ -11314,7 +11263,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Rating"
-msgstr "Rating"
+msgstr "ការ​វាយ​តម្លៃ"
 
 #. U6F6y
 #: TableWizard.xcu
@@ -11324,7 +11273,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Rating"
-msgstr "Rating"
+msgstr "ការ​វាយ​តម្លៃ"
 
 #. 2LKtw
 #: TableWizard.xcu
@@ -11334,7 +11283,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Format"
-msgstr "Format"
+msgstr "ទម្រង់"
 
 #. WCGD3
 #: TableWizard.xcu
@@ -11344,7 +11293,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Format"
-msgstr "Format"
+msgstr "ទម្រង់"
 
 #. AhDT8
 #: TableWizard.xcu
@@ -11354,7 +11303,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "NumberofTracks"
-msgstr "NumberofTracks"
+msgstr "ចំនួនបទ"
 
 #. PCEWn
 #: TableWizard.xcu
@@ -11364,7 +11313,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "NoofTracks"
-msgstr "NoofTracks"
+msgstr "ចំនួនបទ"
 
 #. Eahug
 #: TableWizard.xcu
@@ -11374,7 +11323,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "DatePurchased"
-msgstr "DatePurchased"
+msgstr "កាលបរិច្ឆេទទិញ"
 
 #. GhBUc
 #: TableWizard.xcu
@@ -11384,7 +11333,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "DatePurch"
-msgstr "DatePurch"
+msgstr "កាលបរិច្ឆេទទិញ"
 
 #. 4CDU5
 #: TableWizard.xcu
@@ -11394,7 +11343,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "PurchasedAt"
-msgstr "PurchasedAt"
+msgstr "បានទិញនៅ"
 
 #. gxpDt
 #: TableWizard.xcu
@@ -11404,7 +11353,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "PurchaseAt"
-msgstr "PurchaseAt"
+msgstr "បានទិញនៅ"
 
 #. NyCdE
 #: TableWizard.xcu
@@ -11414,7 +11363,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "PurchasePrice"
-msgstr "PurchasePrice"
+msgstr "តំលៃ​ទិញ"
 
 #. QueuB
 #: TableWizard.xcu
@@ -11424,7 +11373,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "PurchPrice"
-msgstr "PurchPrice"
+msgstr "តំលៃ​ទិញ"
 
 #. a9bYD
 #: TableWizard.xcu
@@ -11434,7 +11383,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Review"
-msgstr "Review"
+msgstr "​ពិនិត្យឡើងវិញ"
 
 #. xZFTq
 #: TableWizard.xcu
@@ -11444,7 +11393,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Review"
-msgstr "Review"
+msgstr "​ពិនិត្យឡើងវិញ"
 
 #. BiGKz
 #: TableWizard.xcu
@@ -11454,7 +11403,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. AxJCC
 #: TableWizard.xcu
@@ -11464,7 +11413,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. iVVZz
 #: TableWizard.xcu
@@ -11474,7 +11423,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Library"
-msgstr "Library"
+msgstr "ផ្នែក​បណ្ណាល័យ"
 
 #. tuhEe
 #: TableWizard.xcu
@@ -11484,7 +11433,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "BookID"
-msgstr "BookID"
+msgstr "លេខសម្គាល់សៀវភៅ"
 
 #. hzEDt
 #: TableWizard.xcu
@@ -11494,7 +11443,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "BookID"
-msgstr "BookID"
+msgstr "លេខសម្គាល់សៀវភៅ"
 
 #. cCB4M
 #: TableWizard.xcu
@@ -11504,7 +11453,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Title"
-msgstr "Title"
+msgstr "ចំណងជើង"
 
 #. thk4t
 #: TableWizard.xcu
@@ -11514,7 +11463,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Title"
-msgstr "Title"
+msgstr "ចំណងជើង"
 
 #. qpehG
 #: TableWizard.xcu
@@ -11524,7 +11473,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Genre"
-msgstr "Genre"
+msgstr "ចង្វាក់"
 
 #. 4hAzB
 #: TableWizard.xcu
@@ -11534,7 +11483,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Genre"
-msgstr "Genre"
+msgstr "ចង្វាក់"
 
 #. 2m5VJ
 #: TableWizard.xcu
@@ -11544,7 +11493,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "AuthorID"
-msgstr "AuthorID"
+msgstr "លេខសម្គាល់អ្នកនិពន្ធ"
 
 #. AG5q9
 #: TableWizard.xcu
@@ -11554,7 +11503,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "AuthorID"
-msgstr "AuthorID"
+msgstr "លេខសម្គាល់អ្នកនិពន្ធ"
 
 #. rFruZ
 #: TableWizard.xcu
@@ -11564,7 +11513,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "CopyrightYear"
-msgstr "CopyrightYear"
+msgstr "ឆ្នាំរក្សាសិទ្ធិ"
 
 #. GBAev
 #: TableWizard.xcu
@@ -11574,7 +11523,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "CpyrightYr"
-msgstr "CpyrightYr"
+msgstr "ឆ្នាំរក្សាសិទ្ធិ"
 
 #. 6fSz2
 #: TableWizard.xcu
@@ -11584,7 +11533,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "ISBNNumber"
-msgstr "ISBNNumber"
+msgstr "លេខសម្គាល់ ISBN"
 
 #. 8G2AX
 #: TableWizard.xcu
@@ -11594,7 +11543,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "ISBNNumber"
-msgstr "ISBNNumber"
+msgstr "លេខសម្គាល់ ISBN"
 
 #. A3KFc
 #: TableWizard.xcu
@@ -11604,7 +11553,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Publisher"
-msgstr "Publisher"
+msgstr "អ្នក​​បោះពុម្ព​​ផ្សាយ"
 
 #. B7Vun
 #: TableWizard.xcu
@@ -11614,7 +11563,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Publisher"
-msgstr "Publisher"
+msgstr "អ្នក​​បោះពុម្ព​​ផ្សាយ"
 
 #. qMseC
 #: TableWizard.xcu
@@ -11624,7 +11573,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Rating"
-msgstr "Rating"
+msgstr "ការ​វាយ​តម្លៃ"
 
 #. TG46g
 #: TableWizard.xcu
@@ -11634,7 +11583,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Rating"
-msgstr "Rating"
+msgstr "ការ​វាយ​តម្លៃ"
 
 #. yGVQB
 #: TableWizard.xcu
@@ -11644,7 +11593,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Translator"
-msgstr "Translator"
+msgstr "អ្នក​បកប្រែ"
 
 #. VRREm
 #: TableWizard.xcu
@@ -11654,7 +11603,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Translator"
-msgstr "Translator"
+msgstr "អ្នក​បកប្រែ"
 
 #. zqBqB
 #: TableWizard.xcu
@@ -11664,7 +11613,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Pages"
-msgstr "Pages"
+msgstr "ទំព័រ"
 
 #. W3VeG
 #: TableWizard.xcu
@@ -11674,7 +11623,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Pages"
-msgstr "Pages"
+msgstr "ទំព័រ"
 
 #. hB7pS
 #: TableWizard.xcu
@@ -11684,7 +11633,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "DatePurchased"
-msgstr "DatePurchased"
+msgstr "កាលបរិច្ឆេទទិញ"
 
 #. fEkFA
 #: TableWizard.xcu
@@ -11694,7 +11643,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "DatePurch"
-msgstr "DatePurch"
+msgstr "កាលបរិច្ឆេទទិញ"
 
 #. oT97C
 #: TableWizard.xcu
@@ -11704,7 +11653,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "PurchasedAt"
-msgstr "PurchasedAt"
+msgstr "បានទិញនៅ"
 
 #. D8R2n
 #: TableWizard.xcu
@@ -11714,7 +11663,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "PurchaseAt"
-msgstr "PurchaseAt"
+msgstr "បានទិញនៅ"
 
 #. x7uYL
 #: TableWizard.xcu
@@ -11724,7 +11673,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "PurchasePrice"
-msgstr "PurchasePrice"
+msgstr "តំលៃ​ទិញ"
 
 #. vxyCR
 #: TableWizard.xcu
@@ -11734,7 +11683,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "PurchPrice"
-msgstr "PurchPrice"
+msgstr "តំលៃ​ទិញ"
 
 #. Wscu7
 #: TableWizard.xcu
@@ -11744,7 +11693,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "CoverType"
-msgstr "CoverType"
+msgstr "ប្រភេទគម្រប"
 
 #. ZzR35
 #: TableWizard.xcu
@@ -11754,7 +11703,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "CoverType"
-msgstr "CoverType"
+msgstr "ប្រភេទគម្រប"
 
 #. Ge5FX
 #: TableWizard.xcu
@@ -11764,7 +11713,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "EditionNumber"
-msgstr "EditionNumber"
+msgstr "លេខបោះពុម្ព"
 
 #. beBBb
 #: TableWizard.xcu
@@ -11774,7 +11723,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "EditionNo"
-msgstr "EditionNo"
+msgstr "លេខបោះពុម្ព"
 
 #. ohTLB
 #: TableWizard.xcu
@@ -11784,7 +11733,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. mmdxH
 #: TableWizard.xcu
@@ -11794,7 +11743,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. VVcCn
 #: TableWizard.xcu
@@ -11804,7 +11753,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Authors"
-msgstr "Authors"
+msgstr "អ្នកនិពន្ធ​"
 
 #. Fp9uD
 #: TableWizard.xcu
@@ -11814,7 +11763,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "AuthorID"
-msgstr "AuthorID"
+msgstr "លេខសម្គាល់អ្នកនិពន្ធ"
 
 #. diKYf
 #: TableWizard.xcu
@@ -11824,7 +11773,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "AuthorID"
-msgstr "AuthorID"
+msgstr "លេខសម្គាល់អ្នកនិពន្ធ"
 
 #. A9ZG3
 #: TableWizard.xcu
@@ -11834,7 +11783,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "FirstName"
-msgstr "FirstName"
+msgstr "នាមខ្លួន"
 
 #. Ac8Hy
 #: TableWizard.xcu
@@ -11844,7 +11793,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "FirstName"
-msgstr "FirstName"
+msgstr "នាមខ្លួន"
 
 #. cYKDC
 #: TableWizard.xcu
@@ -11854,7 +11803,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "LastName"
-msgstr "LastName"
+msgstr "នាមត្រកូល"
 
 #. TFspR
 #: TableWizard.xcu
@@ -11864,7 +11813,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "LastName"
-msgstr "LastName"
+msgstr "នាមត្រកូល"
 
 #. LGZss
 #: TableWizard.xcu
@@ -11874,7 +11823,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Nationality"
-msgstr "Nationality"
+msgstr "សញ្ជាតិ"
 
 #. R5Sfa
 #: TableWizard.xcu
@@ -11884,7 +11833,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Nationality"
-msgstr "Nationality"
+msgstr "សញ្ជាតិ"
 
 #. yMBMf
 #: TableWizard.xcu
@@ -11894,7 +11843,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Birthdate"
-msgstr "Birthdate"
+msgstr "ថ្ងៃ​កំណើត​ ៖"
 
 #. 2HAuD
 #: TableWizard.xcu
@@ -11904,7 +11853,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Birthdate"
-msgstr "Birthdate"
+msgstr "ថ្ងៃ​កំណើត​ ៖"
 
 #. bRu4G
 #: TableWizard.xcu
@@ -11914,7 +11863,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Birthplace"
-msgstr "Birthplace"
+msgstr "ស្រុកកំណើត"
 
 #. jBw8e
 #: TableWizard.xcu
@@ -11924,7 +11873,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Birthplace"
-msgstr "Birthplace"
+msgstr "ស្រុកកំណើត"
 
 #. tgPTP
 #: TableWizard.xcu
@@ -11934,7 +11883,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "DateofDeath"
-msgstr "DateofDeath"
+msgstr "កាលបរិច្ឆេទ​នៃ​ការ​ស្លាប់"
 
 #. tCgGF
 #: TableWizard.xcu
@@ -11944,7 +11893,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "DatofDeath"
-msgstr "DatofDeath"
+msgstr "កាលបរិច្ឆេទ​នៃ​ការ​ស្លាប់"
 
 #. dkGCG
 #: TableWizard.xcu
@@ -11954,7 +11903,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "TrainingLocation"
-msgstr "TrainingLocation"
+msgstr "ទីតាំងបណ្តុះបណ្តាល"
 
 #. rj7yq
 #: TableWizard.xcu
@@ -11964,7 +11913,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "TraininLoc"
-msgstr "TraininLoc"
+msgstr "ទីតាំងបណ្តុះបណ្តាល"
 
 #. BpvXK
 #: TableWizard.xcu
@@ -11974,7 +11923,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "MajorInfluences"
-msgstr "MajorInfluences"
+msgstr "ឥទ្ធិពលធំ ៗ"
 
 #. qYBcq
 #: TableWizard.xcu
@@ -11984,7 +11933,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "MajrInflue"
-msgstr "MajrInflue"
+msgstr "ឥទ្ធិពលធំ ៗ"
 
 #. Em8Dt
 #: TableWizard.xcu
@@ -11994,7 +11943,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Photo"
-msgstr "Photo"
+msgstr "រូបថត"
 
 #. wDHms
 #: TableWizard.xcu
@@ -12004,7 +11953,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Photo"
-msgstr "Photo"
+msgstr "រូបថត"
 
 #. UoYV3
 #: TableWizard.xcu
@@ -12014,7 +11963,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. A7Bzb
 #: TableWizard.xcu
@@ -12024,7 +11973,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. wRMs7
 #: TableWizard.xcu
@@ -12034,7 +11983,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Accounts"
-msgstr "Accounts"
+msgstr "គណនី"
 
 #. DEd9R
 #: TableWizard.xcu
@@ -12044,7 +11993,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "AccountID"
-msgstr "AccountID"
+msgstr "លេខសម្គាល់គណនី"
 
 #. JNUcT
 #: TableWizard.xcu
@@ -12054,7 +12003,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "AccountID"
-msgstr "AccountID"
+msgstr "លេខសម្គាល់គណនី"
 
 #. uLnqV
 #: TableWizard.xcu
@@ -12064,7 +12013,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "AccountNumber"
-msgstr "AccountNumber"
+msgstr "លេខ​គណនី"
 
 #. jotNm
 #: TableWizard.xcu
@@ -12074,7 +12023,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "AccountNo"
-msgstr "AccountNo"
+msgstr "លេខ​គណនី"
 
 #. dBWr3
 #: TableWizard.xcu
@@ -12084,7 +12033,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "AccountName"
-msgstr "AccountName"
+msgstr "ឈ្មោះ​គណនី"
 
 #. XTACT
 #: TableWizard.xcu
@@ -12094,7 +12043,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "AcountName"
-msgstr "AcountName"
+msgstr "ឈ្មោះ​គណនី"
 
 #. BorCE
 #: TableWizard.xcu
@@ -12104,7 +12053,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "AccountTypeID"
-msgstr "AccountTypeID"
+msgstr "លេខសម្គាល់ប្រភេទគណនី"
 
 #. uFFJF
 #: TableWizard.xcu
@@ -12114,7 +12063,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "AccTypeID"
-msgstr "AccTypeID"
+msgstr "លេខសម្គាល់ប្រភេទគណនី"
 
 #. VdCEQ
 #: TableWizard.xcu
@@ -12124,7 +12073,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "AccountType"
-msgstr "AccountType"
+msgstr "ប្រភេទ​គណនី"
 
 #. 2xenD
 #: TableWizard.xcu
@@ -12134,7 +12083,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "AccountTyp"
-msgstr "AccountTyp"
+msgstr "ប្រភេទ​គណនី"
 
 #. Adhyr
 #: TableWizard.xcu
@@ -12144,7 +12093,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Description"
-msgstr "Description"
+msgstr "ការពិពណ៌នា"
 
 #. Vkb2a
 #: TableWizard.xcu
@@ -12154,7 +12103,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Descrption"
-msgstr "Descrption"
+msgstr "ការពិពណ៌នា"
 
 #. DPkFA
 #: TableWizard.xcu
@@ -12164,7 +12113,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. 4igDw
 #: TableWizard.xcu
@@ -12174,7 +12123,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. aCxtE
 #: TableWizard.xcu
@@ -12184,7 +12133,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Investments"
-msgstr "Investments"
+msgstr "ការវិនិយោគ"
 
 #. 2R3BC
 #: TableWizard.xcu
@@ -12194,7 +12143,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "InvestmentID"
-msgstr "InvestmentID"
+msgstr "លេខអត្តសញ្ញាណវិនិយោគ"
 
 #. BByrA
 #: TableWizard.xcu
@@ -12204,7 +12153,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "InvestmtID"
-msgstr "InvestmtID"
+msgstr "លេខអត្តសញ្ញាណវិនិយោគ"
 
 #. L8FJZ
 #: TableWizard.xcu
@@ -12214,7 +12163,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "AccountID"
-msgstr "AccountID"
+msgstr "លេខសម្គាល់គណនី"
 
 #. kRv7G
 #: TableWizard.xcu
@@ -12224,7 +12173,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "AccountID"
-msgstr "AccountID"
+msgstr "លេខសម្គាល់គណនី"
 
 #. 6gsFi
 #: TableWizard.xcu
@@ -12234,7 +12183,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "SecurityName"
-msgstr "SecurityName"
+msgstr "ឈ្មោះសុវត្ថិភាព"
 
 #. x8pFC
 #: TableWizard.xcu
@@ -12244,7 +12193,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "SecuriName"
-msgstr "SecuriName"
+msgstr "ឈ្មោះសុវត្ថិភាព"
 
 #. smQkb
 #: TableWizard.xcu
@@ -12254,7 +12203,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "SecuritySymbol"
-msgstr "SecuritySymbol"
+msgstr "និមិត្តសញ្ញាសន្តិសុខ"
 
 #. hedqG
 #: TableWizard.xcu
@@ -12264,7 +12213,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "SecuriSymb"
-msgstr "SecuriSymb"
+msgstr "និមិត្តសញ្ញាសន្តិសុខ"
 
 #. zGFGj
 #: TableWizard.xcu
@@ -12274,7 +12223,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "SecurityType"
-msgstr "SecurityType"
+msgstr "ប្រភេទសុវត្ថិភាព"
 
 #. T3Mfu
 #: TableWizard.xcu
@@ -12284,7 +12233,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "SecuriType"
-msgstr "SecuriType"
+msgstr "ប្រភេទសុវត្ថិភាព"
 
 #. gCji7
 #: TableWizard.xcu
@@ -12294,7 +12243,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "SharesOwned"
-msgstr "SharesOwned"
+msgstr "ចែករំលែកជាកម្មសិទ្ធិ"
 
 #. FGZ8Y
 #: TableWizard.xcu
@@ -12304,7 +12253,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "ShareOwned"
-msgstr "ShareOwned"
+msgstr "ចែករំលែកជាកម្មសិទ្ធិ"
 
 #. 6RRio
 #: TableWizard.xcu
@@ -12314,7 +12263,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. GFAwo
 #: TableWizard.xcu
@@ -12324,7 +12273,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. CSr4y
 #: TableWizard.xcu
@@ -12334,7 +12283,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "ExerciseLog"
-msgstr "ExerciseLog"
+msgstr "កំណត់ហេតុលំហាត់"
 
 #. Q7wCk
 #: TableWizard.xcu
@@ -12344,7 +12293,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "LogID"
-msgstr "LogID"
+msgstr "លេខសម្គាល់ការចូលដំណើរការ"
 
 #. tMHZh
 #: TableWizard.xcu
@@ -12354,7 +12303,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "LogID"
-msgstr "LogID"
+msgstr "លេខសម្គាល់ការចូលដំណើរការ"
 
 #. 7RHzk
 #: TableWizard.xcu
@@ -12364,7 +12313,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "PersonID"
-msgstr "PersonID"
+msgstr "បុគ្គល"
 
 #. cgrEk
 #: TableWizard.xcu
@@ -12374,7 +12323,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "PersonID"
-msgstr "PersonID"
+msgstr "បុគ្គល"
 
 #. Gxxed
 #: TableWizard.xcu
@@ -12384,7 +12333,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Activity"
-msgstr "Activity"
+msgstr "សកម្មភាព"
 
 #. df5HC
 #: TableWizard.xcu
@@ -12394,7 +12343,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Activity"
-msgstr "Activity"
+msgstr "សកម្មភាព"
 
 #. mjBQ2
 #: TableWizard.xcu
@@ -12404,7 +12353,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "WorkoutDate"
-msgstr "WorkoutDate"
+msgstr "កាលបរិច្ឆេទ ហាត់ប្រាណ"
 
 #. BfGbQ
 #: TableWizard.xcu
@@ -12414,7 +12363,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "WorkoutDat"
-msgstr "WorkoutDat"
+msgstr "កាលបរិច្ឆេទ ហាត់ប្រាណ"
 
 #. d2jYj
 #: TableWizard.xcu
@@ -12424,7 +12373,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "ExerciseType"
-msgstr "ExerciseType"
+msgstr "ប្រភេទលំហាត់"
 
 #. Te98H
 #: TableWizard.xcu
@@ -12434,7 +12383,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "ExercisTyp"
-msgstr "ExercisTyp"
+msgstr "ប្រភេទលំហាត់"
 
 #. nvikC
 #: TableWizard.xcu
@@ -12444,7 +12393,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "TimeExercised"
-msgstr "TimeExercised"
+msgstr "ពេលវេលាអនុវត្ត"
 
 #. g6WyN
 #: TableWizard.xcu
@@ -12454,7 +12403,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "TimeExerci"
-msgstr "TimeExerci"
+msgstr "ពេលវេលាអនុវត្ត"
 
 #. nTuBB
 #: TableWizard.xcu
@@ -12464,7 +12413,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "DistanceTraveled"
-msgstr "DistanceTraveled"
+msgstr "ការធ្វើដំណើរពីចម្ងាយ"
 
 #. PLhTS
 #: TableWizard.xcu
@@ -12474,7 +12423,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "DistTravel"
-msgstr "DistTravel"
+msgstr "ការធ្វើដំណើរពីចម្ងាយ"
 
 #. BYM3G
 #: TableWizard.xcu
@@ -12484,7 +12433,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "RestingPulse"
-msgstr "RestingPulse"
+msgstr "Pulse សម្រាក"
 
 #. cATE6
 #: TableWizard.xcu
@@ -12494,7 +12443,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "RestngPuls"
-msgstr "RestngPuls"
+msgstr "Pulse សម្រាក"
 
 #. AwFPw
 #: TableWizard.xcu
@@ -12504,7 +12453,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "MaximumPulse"
-msgstr "MaximumPulse"
+msgstr "Pulse អតិបរមា"
 
 #. ZJWM7
 #: TableWizard.xcu
@@ -12514,7 +12463,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "MaxPulse"
-msgstr "MaxPulse"
+msgstr "Pulse អតិបរមា"
 
 #. 4UC3D
 #: TableWizard.xcu
@@ -12524,7 +12473,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "CaloriesBurned"
-msgstr "CaloriesBurned"
+msgstr "កាឡូរីត្រូវបានដុត"
 
 #. WohFj
 #: TableWizard.xcu
@@ -12534,7 +12483,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "CalsBurned"
-msgstr "CalsBurned"
+msgstr "កាឡូរីត្រូវបានដុត"
 
 #. E4iAC
 #: TableWizard.xcu
@@ -12544,7 +12493,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "HoursSleep"
-msgstr "HoursSleep"
+msgstr "ម៉ោងគេង"
 
 #. Ep9GY
 #: TableWizard.xcu
@@ -12554,7 +12503,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "HoursSleep"
-msgstr "HoursSleep"
+msgstr "ម៉ោងគេង"
 
 #. PNkU5
 #: TableWizard.xcu
@@ -12564,7 +12513,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. 3UPyG
 #: TableWizard.xcu
@@ -12574,7 +12523,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. MeEKz
 #: TableWizard.xcu
@@ -12584,7 +12533,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "DietLog"
-msgstr "DietLog"
+msgstr "កំណត់ហេតុរបបអាហារ"
 
 #. cxGYH
 #: TableWizard.xcu
@@ -12594,7 +12543,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "LogID"
-msgstr "LogID"
+msgstr "លេខសម្គាល់កំណត់ហេតុ"
 
 #. YE6An
 #: TableWizard.xcu
@@ -12604,7 +12553,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "LogID"
-msgstr "LogID"
+msgstr "លេខសម្គាល់កំណត់ហេតុ"
 
 #. Fny89
 #: TableWizard.xcu
@@ -12614,7 +12563,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "PersonID"
-msgstr "PersonID"
+msgstr "លេខសម្គាល់បុគ្គល"
 
 #. qkXDC
 #: TableWizard.xcu
@@ -12624,7 +12573,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "PersonID"
-msgstr "PersonID"
+msgstr "លេខសម្គាល់បុគ្គល"
 
 #. JSnZ7
 #: TableWizard.xcu
@@ -12634,7 +12583,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "DietType"
-msgstr "DietType"
+msgstr "ប្រភេទរបបអាហារ"
 
 #. uxDkB
 #: TableWizard.xcu
@@ -12644,7 +12593,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "DietType"
-msgstr "DietType"
+msgstr "ប្រភេទរបបអាហារ"
 
 #. ymHzB
 #: TableWizard.xcu
@@ -12654,7 +12603,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "DateAcquired"
-msgstr "DateAcquired"
+msgstr "កាលបរិច្ឆេទទទួលបាន"
 
 #. GWu3Y
 #: TableWizard.xcu
@@ -12664,7 +12613,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "DateAcquir"
-msgstr "DateAcquir"
+msgstr "កាលបរិច្ឆេទទទួលបាន"
 
 #. VLPG6
 #: TableWizard.xcu
@@ -12674,7 +12623,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "WhichMeal"
-msgstr "WhichMeal"
+msgstr "អាហារអ្វី"
 
 #. poC95
 #: TableWizard.xcu
@@ -12684,7 +12633,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "WhichMeal"
-msgstr "WhichMeal"
+msgstr "អាហារអ្វី"
 
 #. BA9KY
 #: TableWizard.xcu
@@ -12694,7 +12643,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "GramsCarbohydrates"
-msgstr "GramsCarbohydrates"
+msgstr "កាបូអ៊ីដ្រាត ក្រាម"
 
 #. TFssR
 #: TableWizard.xcu
@@ -12704,7 +12653,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "GrCarbohyd"
-msgstr "GrCarbohyd"
+msgstr "កាបូអ៊ីដ្រាត ក្រាម"
 
 #. Ahdsc
 #: TableWizard.xcu
@@ -12714,7 +12663,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "GramsProtein"
-msgstr "GramsProtein"
+msgstr "ក្រាម ប្រូតេអ៊ីន"
 
 #. 2N4UV
 #: TableWizard.xcu
@@ -12724,7 +12673,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "GrsProtein"
-msgstr "GrsProtein"
+msgstr "ក្រាម ប្រូតេអ៊ីន"
 
 #. QhAVT
 #: TableWizard.xcu
@@ -12734,7 +12683,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "GramsFat"
-msgstr "GramsFat"
+msgstr "ក្រាមខ្លាញ់"
 
 #. tc3cF
 #: TableWizard.xcu
@@ -12744,7 +12693,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "GramsFat"
-msgstr "GramsFat"
+msgstr "ក្រាមខ្លាញ់"
 
 #. LzUVT
 #: TableWizard.xcu
@@ -12754,7 +12703,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "TotalCalories"
-msgstr "TotalCalories"
+msgstr "កាឡូរីសរុប"
 
 #. btnGo
 #: TableWizard.xcu
@@ -12764,7 +12713,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "TotalCals"
-msgstr "TotalCals"
+msgstr "កាឡូរីសរុប"
 
 #. Z5dmz
 #: TableWizard.xcu
@@ -12774,7 +12723,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "MilligramsSodium"
-msgstr "MilligramsSodium"
+msgstr "មីលីក្រាមសូដ្យូម"
 
 #. Do34L
 #: TableWizard.xcu
@@ -12784,7 +12733,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "MilligrSod"
-msgstr "MilligrSod"
+msgstr "មីលីក្រាមសូដ្យូម"
 
 #. vEyGA
 #: TableWizard.xcu
@@ -12794,7 +12743,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Vitamins"
-msgstr "Vitamins"
+msgstr "វីតាមីន"
 
 #. ogDZX
 #: TableWizard.xcu
@@ -12804,7 +12753,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Vitamins"
-msgstr "Vitamins"
+msgstr "វីតាមីន"
 
 #. t65Lj
 #: TableWizard.xcu
@@ -12814,7 +12763,7 @@ msgctxt ""
 "Name\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. bhymB
 #: TableWizard.xcu
@@ -12824,7 +12773,7 @@ msgctxt ""
 "ShortName\n"
 "value.text"
 msgid "Notes"
-msgstr "Notes"
+msgstr "កំណត់ចំណាំ"
 
 #. yTC5S
 #: UI.xcu
@@ -12864,7 +12813,7 @@ msgctxt ""
 "DisplayName\n"
 "value.text"
 msgid "Drawings"
-msgstr "គំនូ"
+msgstr "ការគូរ"
 
 #. 3ZArq
 #: UI.xcu
@@ -12884,7 +12833,7 @@ msgctxt ""
 "DisplayName\n"
 "value.text"
 msgid "Master documents"
-msgstr "ឯកសារ​​មេ"
+msgstr "ឯកសារ​​ម"
 
 #. AhpLM
 #: UI.xcu
@@ -12914,7 +12863,7 @@ msgctxt ""
 "DisplayName\n"
 "value.text"
 msgid "Microsoft Word 6.0 / 95"
-msgstr "Microsoft Word 6.0 / 95"
+msgstr "Microsoft Word ៦.0 / ៩៦"
 
 #. 7K9bP
 #: UI.xcu
@@ -12924,7 +12873,7 @@ msgctxt ""
 "DisplayName\n"
 "value.text"
 msgid "Microsoft Excel 4.x - 5.0 / 95"
-msgstr "Microsoft Excel 4.x - 5.0 / 95"
+msgstr "ក្រុមហ៊ុន Microsoft Excel ៤.x - ៥.0 / ៩៥"
 
 #. D5ASv
 #: UI.xcu
@@ -12934,7 +12883,7 @@ msgctxt ""
 "DisplayName\n"
 "value.text"
 msgid "Microsoft Excel 4.x - 5.0 / 95 Templates"
-msgstr "ពុម្ព Microsoft Excel 4.x - 5.0 / 95"
+msgstr "ពុម្ព Microsoft Excel ៤.x - ៥.0 / ៩៥"
 
 #. QFbii
 #: UI.xcu
@@ -12944,7 +12893,7 @@ msgctxt ""
 "DisplayName\n"
 "value.text"
 msgid "Text (StarWriter/Web)"
-msgstr "អត្ថបទ (StarWriter/Web)"
+msgstr "អត្ថបទ (អ្នកនិពន្ធតារា / គេហទំព័រ)"
 
 #. jHUUN
 #: UI.xcu
@@ -12954,7 +12903,7 @@ msgctxt ""
 "DisplayName\n"
 "value.text"
 msgid "WordPerfect (Win) 6.0 - 7.0"
-msgstr "WordPerfect (Win) 6.0 - 7.0"
+msgstr "WordPerfect (ឈ្នះ) ៦.0 - ៧.0"
 
 #. UN9vV
 #: Writer.xcu
@@ -12984,7 +12933,7 @@ msgctxt ""
 "NeutralGreetingLines\n"
 "value.text"
 msgid "To whom it may concern,;Dear Friends,;Dear Sir or Madam,;Hello,"
-msgstr "សូម​គោរព​ជូន​លោក​ លោក​ស្រី​ដែល​ពាក់​ព័ន្ធ​;មិត្ត​ជា​ទី​រាប់​អាន​​;លោក​​ លោក​ស្រី​ជា​ទី​គោរព​;ជំរាប​សួរ​"
+msgstr "សូម​គោរព​ជូន​លោក​ លោក​ស្រី​ដែល​ពាក់​ព័ន្ធ​;មិត្ត​ជា​ទី​រាប់​អាន​​;លោក​​ លោក​ស្រី​ជា​ទី​គោរព​,;ជំរាប​សួរ​"
 
 #. cmV82
 #: Writer.xcu
@@ -13004,7 +12953,7 @@ msgctxt ""
 "CaptionText\n"
 "value.text"
 msgid ": "
-msgstr "៖"
+msgstr ": "
 
 #. zhsvg
 #: Writer.xcu
@@ -13024,7 +12973,7 @@ msgctxt ""
 "CaptionText\n"
 "value.text"
 msgid ": "
-msgstr "៖"
+msgstr ": "
 
 #. HAx7t
 #: Writer.xcu
@@ -13044,7 +12993,7 @@ msgctxt ""
 "CaptionText\n"
 "value.text"
 msgid ": "
-msgstr "៖"
+msgstr ": "
 
 #. GUCsX
 #: Writer.xcu
@@ -13064,7 +13013,7 @@ msgctxt ""
 "CaptionText\n"
 "value.text"
 msgid ": "
-msgstr "៖"
+msgstr ": "
 
 #. MCiSj
 #: Writer.xcu
@@ -13084,7 +13033,7 @@ msgctxt ""
 "CaptionText\n"
 "value.text"
 msgid ": "
-msgstr "៖"
+msgstr ": "
 
 #. GG6xE
 #: Writer.xcu
@@ -13104,7 +13053,7 @@ msgctxt ""
 "CaptionText\n"
 "value.text"
 msgid ": "
-msgstr "៖"
+msgstr ": "
 
 #. uzBVm
 #: Writer.xcu
@@ -13124,7 +13073,7 @@ msgctxt ""
 "CaptionText\n"
 "value.text"
 msgid ": "
-msgstr "៖"
+msgstr ": "
 
 #. ij7wE
 #: Writer.xcu
@@ -13144,7 +13093,7 @@ msgctxt ""
 "CaptionText\n"
 "value.text"
 msgid ": "
-msgstr "៖"
+msgstr ": "
 
 #. F7SiP
 #: Writer.xcu
@@ -13164,7 +13113,7 @@ msgctxt ""
 "CaptionText\n"
 "value.text"
 msgid ": "
-msgstr "៖"
+msgstr ": "
 
 #. 2C9Dy
 #: Writer.xcu
@@ -13184,4 +13133,4 @@ msgctxt ""
 "CaptionText\n"
 "value.text"
 msgid ": "
-msgstr "៖"
+msgstr ": "

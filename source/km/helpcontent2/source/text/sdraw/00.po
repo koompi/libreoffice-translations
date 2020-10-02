@@ -1,20 +1,19 @@
-#. extracted from helpcontent2/source/text/sdraw/00
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
-"POT-Creation-Date: 2019-08-21 21:37+0200\n"
-"PO-Revision-Date: 2017-05-10 03:08+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2020-03-10 13:36+0100\n"
+"PO-Revision-Date: 2020-09-14 10:57+0700\n"
+"Last-Translator: Koompi Apps Localization\n"
 "Language: km\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Accelerator-Marker: ~\n"
-"X-Generator: LibreOffice\n"
-"X-POOTLE-MTIME: 1494385719.000000\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-POOTLE-MTIME: 1535975854.000000\n"
+"Language-Team: KOOMPI Apps Localization\n"
 
 #. EDSDr
 #: 00000004.xhp
@@ -41,7 +40,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Page Menu"
-msgstr ""
+msgstr "ម៉ឺនុយទំព័រ"
 
 #. TMKWF
 #: page_menu.xhp
@@ -50,7 +49,7 @@ msgctxt ""
 "par_id341556823034391\n"
 "help.text"
 msgid "<variable id=\"frtite\">Choose <emph>Page - Properties</emph>    </variable>"
-msgstr ""
+msgstr "<variable id=\"frtite\">ជ្រើសរើស <emph>ទំព័រ - លក្ខណៈសម្បត្តិ</emph>    </variable>"
 
 #. H2tpG
 #: page_menu.xhp
@@ -59,7 +58,7 @@ msgctxt ""
 "par_id561556823042778\n"
 "help.text"
 msgid "<variable id=\"frtites\">Choose <emph>Page - Properties</emph> and then click the <emph>Page</emph> tab    </variable>"
-msgstr ""
+msgstr "<variable id=\"frtites\">ជ្រើសរើស <emph>ទំព័រ - លក្ខណសម្បត្តិ </emph> ហើយបន្ទាប់មកចុចលើផ្ទាំង <emph> ទំព័រ </emph>"
 
 #. yLCE2
 #: page_menu.xhp
@@ -68,7 +67,7 @@ msgctxt ""
 "par_id321556823043909\n"
 "help.text"
 msgid "<variable id=\"frtiteh\">Choose <emph>Page - Properties</emph> and then click the <emph>Background</emph> tab    </variable>"
-msgstr ""
+msgstr "<variable id=\"frtiteh\">ជ្រើសរើស <emph>ទំព័រ - លក្ខណសម្បត្តិ </emph> ហើយបន្ទាប់មកចុចលើផ្ទាំង <emph> ផ្ទៃខាងក្រោយ </emph>"
 
 #. qRAo5
 #: page_menu.xhp
@@ -77,7 +76,7 @@ msgctxt ""
 "par_id941556823044342\n"
 "help.text"
 msgid "<variable id=\"seitenvorlage\">Choose <emph>Page - Master Page</emph>    </variable>"
-msgstr ""
+msgstr "<variable id=\"seitenvorlage\">ជ្រើសរើស <emph>ទំព័រ - ទំព័រមេ</emph>    </variable>"
 
 #. AQ4pB
 #: page_menu.xhp
@@ -86,7 +85,7 @@ msgctxt ""
 "par_id191556823044529\n"
 "help.text"
 msgid "Choose <emph>Page - New Page</emph>"
-msgstr ""
+msgstr "ជ្រើសរើស <emph>ទំព័រ - ទំព័រមេ</emph>"
 
 #. EpBTa
 #: page_menu.xhp
@@ -95,7 +94,7 @@ msgctxt ""
 "par_id1001556823044677\n"
 "help.text"
 msgid "On the <emph>Insert</emph> bar, click"
-msgstr ""
+msgstr "នៅលើរបារបញ្ចូល <emph> បញ្ចូល </emph>"
 
 #. Ldrnc
 #: page_menu.xhp
@@ -105,6 +104,7 @@ msgctxt ""
 "help.text"
 msgid "<image id=\"img_id381556823072396\" src=\"cmd/sc_insertpage.png\" width=\"0.566cm\" height=\"0.566cm\"><alt id=\"alt_id381556823072396\">Icon</alt></image>"
 msgstr ""
+"<image id=\"img_id381556823072396\" src=\"cmd/sc_insertpage.png\" width=\"0.566cm\" height=\"0.566cm\"><alt id=\"alt_id381556823072396\">រូបតំណាង</alt></image>"
 
 #. xbkHm
 #: page_menu.xhp
@@ -113,7 +113,7 @@ msgctxt ""
 "par_id831556823072396\n"
 "help.text"
 msgid "New Page"
-msgstr ""
+msgstr "ទំព័រថ្មី"
 
 #. XpEgx
 #: page_menu.xhp
@@ -122,7 +122,7 @@ msgctxt ""
 "par_id231566134395223\n"
 "help.text"
 msgid "<variable id=\"menupagerename\">Choose <menuitem>Page - Rename Page</menuitem></variable>"
-msgstr ""
+msgstr "<variable id=\"menupagerename\">ជ្រើសរើស <menuitem>ទំព័រ - ប្តូរឈ្មោះទំព័រ</menuitem></variable>"
 
 #. D8EKG
 #: page_menu.xhp
@@ -131,7 +131,7 @@ msgctxt ""
 "par_id311566135070776\n"
 "help.text"
 msgid "<variable id=\"contextmenurename\">Right-click on the page thumbnail and choose <menuitem>Rename Page</menuitem></variable>"
-msgstr ""
+msgstr "<variable id=\"contextmenurename\">ចុចខាងស្តាំលើរូបភាពតូចរបស់ទំព័រហើយជ្រើសយកឈ្មោះ“ ប្តូរឈ្មោះទំព័រ </menuitem> </variable>"
 
 #. fbrxo
 #: page_menu.xhp
@@ -140,7 +140,7 @@ msgctxt ""
 "par_id141566138212217\n"
 "help.text"
 msgid "<variable id=\"menupagedelete\">Choose <menuitem>Page - Delete Page</menuitem></variable>"
-msgstr ""
+msgstr "<variable id=\"menupagedelete\">ជ្រើសរើស<menuitem>ទំព័រ - លុបទំព័រ</menuitem></variable>"
 
 #. puE7E
 #: page_menu.xhp
@@ -149,7 +149,7 @@ msgctxt ""
 "par_id261566138218294\n"
 "help.text"
 msgid "<variable id=\"contextmenudelete\">Right-click on the page thumbnail and choose <menuitem>Delete Page</menuitem></variable>"
-msgstr ""
+msgstr "<variable id=\"contextmenudelete\">ចុចកណ្តុរខាងស្តាំលើរូបភាពតូចនៃទំព័រហើយជ្រើសរើសយក \"លុបទំព័រលុប\"</menuitem></variable>"
 
 #. ohiUM
 #: page_menu.xhp
@@ -158,7 +158,7 @@ msgctxt ""
 "par_id491566139741356\n"
 "help.text"
 msgid "<variable id=\"menupageduplicate\">Choose <menuitem>Page - Duplicate Page</menuitem></variable>"
-msgstr ""
+msgstr "<variable id=\"menupageduplicate\">ជ្រើសរើស <menuitem>ទំព័រ - ទំព័រស្ទួន</menuitem></variable>"
 
 #. 4B9YP
 #: page_menu.xhp
@@ -167,4 +167,4 @@ msgctxt ""
 "par_id301566157911675\n"
 "help.text"
 msgid "<variable id=\"pagenavigation\">Choose <menuitem>Page - Navigate</menuitem>.</variable>"
-msgstr ""
+msgstr "<variable id=\"pagenavigation\">ជ្រើសរើស <menuitem>ទំព័រ - រុករក</menuitem>.</variable>"

@@ -1,20 +1,19 @@
-#. extracted from accessibility/inc
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
-"POT-Creation-Date: 2020-01-07 14:09+0100\n"
-"PO-Revision-Date: 2018-01-15 19:37+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2020-03-10 13:36+0100\n"
+"PO-Revision-Date: 2020-08-08 21:21+0700\n"
+"Last-Translator: KOOMPI Apps Localization \n"
 "Language: km\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Accelerator-Marker: ~\n"
-"X-Generator: LibreOffice\n"
-"X-POOTLE-MTIME: 1516045078.000000\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-POOTLE-MTIME: 1535975854.000000\n"
+"Language-Team: KOOMPI Apps Localization \n"
 
 #. be4e7
 #: accessibility/inc/strings.hrc:24
@@ -32,7 +31,7 @@ msgstr "ពង្រីក"
 #: accessibility/inc/strings.hrc:26
 msgctxt "STR_SVT_ACC_ACTION_COLLAPSE"
 msgid "Collapse"
-msgstr "វេញ"
+msgstr "ផ្តួលរលំ"
 
 #. zZTzc
 #: accessibility/inc/strings.hrc:27
@@ -62,7 +61,7 @@ msgstr "របារ​រមូរផ្ដេក"
 #: accessibility/inc/strings.hrc:31
 msgctxt "RID_STR_ACC_PANEL_DESCRIPTION"
 msgid "Please press enter to go into child control for more operations"
-msgstr "សូម​ចុច​គ្រាប់ចុច​បញ្ចូល (enter) ដើម្បី​ចូល​ទៅ​ការពិនិត្យ​មើល​សម្រាប់​ប្រតបត្តិការ​ច្រើនទៀង"
+msgstr "សូម​ចុច​លើគ្រាប់ចុច​បញ្ចូល (enter) ដើម្បី​ចូល​ទៅ​ពិនិត្យ​មើល​សម្រាប់​ប្រតិបត្តិការច្រើនទៀត"
 
 #. Fcjiv
 #: accessibility/inc/strings.hrc:32

@@ -1,21 +1,19 @@
-#. extracted from helpcontent2/source/text/scalc
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
-"POT-Creation-Date: 2020-07-21 11:19+0200\n"
-"PO-Revision-Date: 2017-05-10 03:03+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
-"Language-Team: Khmer <support@khmeros.info>\n"
+"POT-Creation-Date: 2020-03-10 13:36+0100\n"
+"PO-Revision-Date: 2020-09-12 23:52+0700\n"
+"Last-Translator: Koompi Apps Localization\n"
 "Language: km\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Accelerator-Marker: ~\n"
-"X-Generator: LibreOffice\n"
-"X-Language: km-KH\n"
-"X-POOTLE-MTIME: 1494385395.000000\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-POOTLE-MTIME: 1535975854.000000\n"
+"Language-Team: KOOMPI Apps Localization\n"
 
 #. ZxQeC
 #: main0000.xhp
@@ -152,6 +150,15 @@ msgctxt ""
 msgid "<link href=\"text/shared/01/02180000.xhp\" name=\"Links\">Links</link>"
 msgstr "<link href=\"text/shared/01/02180000.xhp\" name=\"Links\">តំណ</link>"
 
+#. A9QFv
+#: main0102.xhp
+msgctxt ""
+"main0102.xhp\n"
+"hd_id3148488\n"
+"help.text"
+msgid "<link href=\"text/shared/01/02220000.xhp\" name=\"ImageMap\">ImageMap</link>"
+msgstr "<link href=\"text/shared/01/02220000.xhp\" name=\"ImageMap\">ផែនទី​រូបភាព</link>"
+
 #. pFCu3
 #: main0102.xhp
 msgctxt ""
@@ -159,7 +166,7 @@ msgctxt ""
 "hd_id0914201502131542\n"
 "help.text"
 msgid "<link href=\"text/shared/01/02200000.xhp\" name=\"Object\">Object</link>"
-msgstr "<link href=\"text/shared/01/01020000.xhp\" name=\"Open\">បើក</link>"
+msgstr "<link href=\"text/shared/01/02200000.xhp\" name=\"Object\"> វត្ថុ</link>"
 
 #. zRW8E
 #: main0103.xhp
@@ -213,7 +220,7 @@ msgctxt ""
 "hd_id102720151109097115\n"
 "help.text"
 msgid "<link href=\"text/scalc/01/03100000.xhp\">Page Break</link>"
-msgstr "<link href=\"text/shared/01/01020000.xhp\" name=\"Open\">បើក</link>"
+msgstr "<link href=\"text/scalc/01/03100000.xhp\">បំបែកទំព័រ</link>"
 
 #. rJbW2
 #: main0103.xhp
@@ -222,7 +229,7 @@ msgctxt ""
 "hd_id10272015110909623\n"
 "help.text"
 msgid "Grid Lines for Sheet"
-msgstr ""
+msgstr "បន្ទាត់ក្រឡាចត្រង្គសម្រាប់សន្លឹក"
 
 #. TvxiA
 #: main0103.xhp
@@ -231,7 +238,7 @@ msgctxt ""
 "par_id102720151147483554\n"
 "help.text"
 msgid "Toggle the visibility of grid lines for the current sheet."
-msgstr ""
+msgstr "បិទបើកភាពមើលឃើញនៃបន្ទាត់ក្រឡាចត្រង្គសម្រាប់សន្លឹកបច្ចុប្បន្ន។"
 
 #. ZPjKe
 #: main0103.xhp
@@ -240,7 +247,7 @@ msgctxt ""
 "hd_id033020170228348624\n"
 "help.text"
 msgid "Show Formula"
-msgstr ""
+msgstr "បង្ហាញរូបមន្ត"
 
 #. KRDBb
 #: main0103.xhp
@@ -249,7 +256,7 @@ msgctxt ""
 "par_id03302017024610704\n"
 "help.text"
 msgid "Display the cell formula expression instead of the calculated result."
-msgstr ""
+msgstr "បង្ហាញកន្សោមរូបមន្តក្រឡាជំនួសលទ្ធផលដែលបានគណនា។"
 
 #. 95G2n
 #: main0103.xhp
@@ -258,7 +265,7 @@ msgctxt ""
 "hd_id102720150908397549\n"
 "help.text"
 msgid "<link href=\"text/shared/01/gallery.xhp\">Gallery</link>"
-msgstr ""
+msgstr "<link href=\"text/shared/01/gallery.xhp\"> វិចិត្រសាល </link>"
 
 #. f3nqY
 #: main0103.xhp
@@ -294,7 +301,7 @@ msgctxt ""
 "par_id3153896\n"
 "help.text"
 msgid "<ahelp hid=\".\">The <emph>Insert</emph> menu contains commands for inserting new elements, such as images, text boxes, object, media, cell names and much more into the current sheet.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".\"> នេះ <emph> បញ្ចូល </emph> មឺនុយមានពាក្យបញ្ជាសម្រាប់បញ្ចូលធាតុថ្មីដូចជារូបភាពប្រអប់អត្ថបទវត្ថុមេឌៀឈ្មោះកោសិកានិងច្រើនទៀតនៅក្នុងសន្លឹកបច្ចុប្បន្ន។ </ahelp>"
 
 #. ZmgWG
 #: main0104.xhp
@@ -348,7 +355,7 @@ msgctxt ""
 "hd_id761577295440343\n"
 "help.text"
 msgid "Date"
-msgstr ""
+msgstr "កាលបរិច្ឆេទ"
 
 #. kzxk7
 #: main0104.xhp
@@ -357,7 +364,7 @@ msgctxt ""
 "par_id11577295470732\n"
 "help.text"
 msgid "Inserts the current date in the cell."
-msgstr ""
+msgstr "បញ្ចូលកាលបរិច្ឆេទបច្ចុប្បន្ននៅក្នុងក្រឡា។"
 
 #. hvV2C
 #: main0104.xhp
@@ -366,7 +373,7 @@ msgctxt ""
 "hd_id131577295445736\n"
 "help.text"
 msgid "Time"
-msgstr ""
+msgstr "ម៉ោង"
 
 #. jTQVa
 #: main0104.xhp
@@ -375,7 +382,7 @@ msgctxt ""
 "par_id91577295463980\n"
 "help.text"
 msgid "Inserts the current time in the cell."
-msgstr ""
+msgstr "បញ្ចូលពេលវេលាបច្ចុប្បន្ននៅក្នុងក្រឡា។"
 
 #. CzRJY
 #: main0104.xhp
@@ -384,7 +391,7 @@ msgctxt ""
 "hd_id621577296064493\n"
 "help.text"
 msgid "Field"
-msgstr ""
+msgstr "ផ្នែក"
 
 #. 3EmAu
 #: main0104.xhp
@@ -393,7 +400,7 @@ msgctxt ""
 "par_id391577296078546\n"
 "help.text"
 msgid "Opens a submenu for selecting the date, sheet name or document title in the cell."
-msgstr ""
+msgstr "បើកម៉ឺនុយរងសម្រាប់ជ្រើសកាលបរិច្ឆេទឈ្មោះសន្លឹកឬចំណងជើងឯកសារនៅក្នុងក្រឡា។"
 
 #. JP4tR
 #: main0105.xhp
@@ -420,7 +427,7 @@ msgctxt ""
 "par_id3145171\n"
 "help.text"
 msgid "<ahelp hid=\".\">The <emph>Format</emph> menu contains commands for formatting selected cells, <link href=\"text/shared/00/00000005.xhp#objekt\" name=\"objects\">objects</link>, and cell contents in your document.</ahelp>"
-msgstr "<ahelp hid=\".uno:FormatMenu\">ម៉ឺនុយ <emph>ទ្រង់ទ្រាយ</emph> មាន​ពាក្យ​​បញ្ជា​សម្រាប់​ធ្វើ​ទ្រង់ទ្រាយ​ក្រឡា <link href=\"text/shared/00/00000005.xhp#objekt\" name=\"objects\">វត្ថុ</link> ដែល​បាន​ជ្រើស និង មាតិកា​ក្រឡា​ក្នុង​ឯកសារ​របស់​អ្នក​ ។</ahelp>"
+msgstr "<ahelp hid=\".\"> ម៉ឺនុយ <emph> ទ្រង់ទ្រាយ </emph> មានពាក្យបញ្ជាសម្រាប់ធ្វើទ្រង់ទ្រាយក្រឡាដែលបានជ្រើសរើស <link href=\"text/shared/00/00000005.xhp#objekt\" name=\"objects\"> វត្ថុ </link> និងមាតិកាក្រឡានៅក្នុងឯកសាររបស់អ្នក។</ahelp>"
 
 #. Ly37n
 #: main0105.xhp
@@ -519,7 +526,7 @@ msgctxt ""
 "par_id3150440\n"
 "help.text"
 msgid "<ahelp hid=\".\">The <emph>Tools</emph> menu contains commands to check spelling, to trace sheet references, to find mistakes and to define scenarios.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".\"> មីនុយ <emph> ឧបករណ៍ </emph> មានពាក្យបញ្ជាដើម្បីពិនិត្យអក្ខរាវិរុទ្ធតាមដានឯកសារយោងសន្លឹកដើម្បីរកកំហុសនិងកំណត់សេណារីយ៉ូ។ </ahelp>"
 
 #. NkvRH
 #: main0106.xhp
@@ -538,15 +545,6 @@ msgctxt ""
 "help.text"
 msgid "<link href=\"text/shared/01/06040000.xhp\" name=\"AutoCorrect\">AutoCorrect Options</link>"
 msgstr "<link href=\"text/shared/01/06040000.xhp\" name=\"AutoCorrect\">ជម្រើស​កែ​ដោយ​ស្វ័យ​ប្រវត្តិ</link>"
-
-#. eAavz
-#: main0106.xhp
-msgctxt ""
-"main0106.xhp\n"
-"hd_id3148488\n"
-"help.text"
-msgid "<link href=\"text/shared/01/02220000.xhp\" name=\"ImageMap\">ImageMap</link>"
-msgstr ""
 
 #. ToZU6
 #: main0106.xhp
@@ -600,7 +598,7 @@ msgctxt ""
 "par_id3150398\n"
 "help.text"
 msgid "<ahelp hid=\".\">Contains commands for manipulating and displaying document windows.</ahelp>"
-msgstr "<ahelp hid=\".uno:WindowList\">មាន​ពាក្យ​បញ្ជា​សម្រាប់​បង្កើត និង​បង្ហាញ​បង្អួច​ឯកសារ ។</ahelp>"
+msgstr "<ahelp hid=\".\">មានពាក្យបញ្ជាសម្រាប់រៀបចំនិងបង្ហាញបង្អួចឯកសារ។</ahelp>"
 
 #. RHWHH
 #: main0112.xhp
@@ -636,7 +634,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Sheet"
-msgstr ""
+msgstr "សន្លឹក​"
 
 #. 7eVaK
 #: main0116.xhp
@@ -645,7 +643,7 @@ msgctxt ""
 "hd_id0906201507390173\n"
 "help.text"
 msgid "<link href=\"text/scalc/main0116.xhp\">Sheet</link>"
-msgstr "<link href=\"text/scalc/01/12090100.xhp\">ចាប់ផ្តើម</link>"
+msgstr "<link href=\"text/scalc/main0116.xhp\">សន្លឹក</link>"
 
 #. cLyep
 #: main0116.xhp
@@ -654,7 +652,7 @@ msgctxt ""
 "par_id0906201507414091\n"
 "help.text"
 msgid "<ahelp hid=\".\">This menu contains commands to modify and manage a sheet and its elements.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".\"> ម៉ឺនុយនេះមានពាក្យបញ្ជាដើម្បីកែប្រែនិងគ្រប់គ្រងសន្លឹកនិងធាតុរបស់វា។ </ahelp>"
 
 #. qH2va
 #: main0116.xhp
@@ -663,7 +661,7 @@ msgctxt ""
 "par_id0906201507414191\n"
 "help.text"
 msgid "<link href=\"text/scalc/01/04030000.xhp\" name=\"Insert Rows\">Insert Rows</link>"
-msgstr "<link href=\"text/scalc/01/06050000.xhp\" name=\"Scenarios\">ឆាក​</link>"
+msgstr "<link href=\"text/scalc/01/04030000.xhp\" name=\"Insert Rows\">បញ្ចូលជួរដេក</link>"
 
 #. VWDbt
 #: main0116.xhp
@@ -672,7 +670,7 @@ msgctxt ""
 "par_id0906201507414192\n"
 "help.text"
 msgid "<link href=\"text/scalc/01/04040000.xhp\" name=\"Insert Columns\">Insert Columns</link>"
-msgstr "<link href=\"text/scalc/01/02150000.xhp\" name=\"Delete Contents\">លុប​មាតិកា</link>"
+msgstr "<link href=\"text/scalc/01/04040000.xhp\" name=\"Insert Columns\">បញ្ចូលជួរឈរ</link>"
 
 #. rkoqn
 #: main0116.xhp
@@ -681,7 +679,7 @@ msgctxt ""
 "hd_id3150792\n"
 "help.text"
 msgid "<link href=\"text/scalc/01/02180000.xhp\" name=\"Move/Copy\">Move or Copy Sheet</link>"
-msgstr "<link href=\"text/scalc/01/02160000.xhp\" name=\"Delete Cells\">លុប​ក្រឡា</link>"
+msgstr "<link href=\"text/scalc/01/02180000.xhp\" name=\"Move/Copy\">ផ្លាស់ទីឬចម្លងសន្លឹក</link>"
 
 #. sugSD
 #: main0116.xhp
@@ -690,7 +688,7 @@ msgctxt ""
 "hd_id3153968\n"
 "help.text"
 msgid "<link href=\"text/scalc/01/05050300.xhp\" name=\"Show\">Show Sheet</link>"
-msgstr "<link href=\"text/scalc/01/04050000.xhp\" name=\"Sheet\">សន្លឹក</link>"
+msgstr "<link href=\"text/scalc/01/05050300.xhp\" name=\"Show\">បង្ហាញសន្លឹក</link>"
 
 #. EF3XK
 #: main0116.xhp
@@ -699,7 +697,9 @@ msgctxt ""
 "hd_id3163708\n"
 "help.text"
 msgid "<link href=\"text/scalc/01/02170000.xhp\" name=\"Delete\">Delete Sheet</link>"
-msgstr "<link href=\"text/scalc/01/02160000.xhp\" name=\"Delete Cells\">លុប​ក្រឡា</link>"
+msgstr ""
+"<link href=\"text/scalc/01/02170000.xhp\" name=\"Delete\">លុបសន្លឹក\n"
+"</link>"
 
 #. wbNHt
 #: main0116.xhp
@@ -708,7 +708,7 @@ msgctxt ""
 "hd_id3163735308\n"
 "help.text"
 msgid "Sheet Tab Color"
-msgstr ""
+msgstr "ពណ៌ផ្ទាំងសន្លឹក"
 
 #. BosLg
 #: main0116.xhp
@@ -717,7 +717,7 @@ msgctxt ""
 "hd_id3163733308\n"
 "help.text"
 msgid "<link href=\"text/shared/01/06140500.xhp\" name=\"Events\">Sheet Events</link>"
-msgstr "<link href=\"text/shared/01/01070000.xhp\" name=\"Save As\">រក្សា​ទុក​ជា</link>"
+msgstr "<link href=\"text/shared/01/06140500.xhp\" name=\"Events\">ព្រឹត្តិការណ៍សន្លឹក</link>"
 
 #. 5DRv5
 #: main0200.xhp
@@ -897,7 +897,7 @@ msgctxt ""
 "par_idN10875\n"
 "help.text"
 msgid "If <link href=\"text/shared/00/00000005.xhp#ctl\" name=\"CTL\">CTL</link> support is enabled, two additional icons are visible."
-msgstr "បើ​ការ​គាំទ្រ <link href=\"text/shared/00/00000005.xhp#ctl\" name=\"CTL\">ភាសាខ្មែរ និង ភាសា CTL ផ្សេង​ទៀត</link> ត្រូវ​បាន​ធ្វើ​ឲ្យ​ប្រើ​បាន នោះ​នឹង​មាន​រូបតំណាង​ពីរ​បន្ថែម​ទៀត ។"
+msgstr "បើ​ការ​គាំទ្រ <link href=\"text/shared/00/00000005.xhp#ctl\" name=\"CTL\">CTL</link> ត្រូវ​បាន​ធ្វើ​ឲ្យ​ប្រើ​បាន នោះ​នឹង​មាន​រូបតំណាង​ពីរ​បន្ថែម​ទៀត ។"
 
 #. Ft8vF
 #: main0202.xhp
@@ -915,7 +915,7 @@ msgctxt ""
 "par_idN1089C\n"
 "help.text"
 msgid "<image id=\"img_id8354747\" src=\"cmd/sc_paralefttoright.svg\" width=\"1cm\" height=\"1cm\"><alt id=\"alt_id8354747\">left to right icon</alt></image>"
-msgstr ""
+msgstr "<image id=\"img_id8354747\" src=\"cmd/sc_paralefttoright.svg\" width=\"1cm\" height=\"1cm\"><alt id=\"alt_id8354747\"> រូបតំណាងឆ្វេងទៅស្តាំ </alt></image>"
 
 #. PJwTW
 #: main0202.xhp
@@ -942,7 +942,7 @@ msgctxt ""
 "par_idN108DF\n"
 "help.text"
 msgid "<image id=\"img_id2405774\" src=\"cmd/sc_pararighttoleft.svg\" width=\"1cm\" height=\"1cm\"><alt id=\"alt_id2405774\">right to left icon</alt></image>"
-msgstr ""
+msgstr "<image id=\"img_id2405774\" src=\"cmd/sc_pararighttoleft.svg\" width=\"1cm\" height=\"1cm\"><alt id=\"alt_id2405774\"> រូបតំណាងស្តាំទៅឆ្វេង </alt></image>"
 
 #. fjLD6
 #: main0202.xhp
@@ -951,7 +951,9 @@ msgctxt ""
 "par_idN108FD\n"
 "help.text"
 msgid "<ahelp hid=\".uno:ParaRightToLeft\">The text formatted in a complex text layout language is entered from right to left.</ahelp>"
-msgstr "<ahelp hid=\".uno:ParaRightToLeft\">អត្ថបទ​ដែល​បាន​ធ្វើ​ទ្រង់ទ្រាយ​ជា ភាសា​ខ្មែរ និង​ភាសា CTL ផ្សេង​ទៀត ត្រូវ​បាន​​​បញ្ចូល​ពី​ស្តាំ​ទៅ​ឆ្វេង ។</ahelp>"
+msgstr ""
+"<ahelp hid=\".uno:ParaRightToLeft\">អត្ថបទដែលបានធ្វើទ្រង់ទ្រាយជាភាសាប្លង់អត្ថបទស្មុគស្មាញត្រូវបានបញ្ចូលពីស្តាំទៅឆ្វេង។\n"
+"</ahelp>"
 
 #. NVkBC
 #: main0202.xhp
@@ -1077,7 +1079,7 @@ msgctxt ""
 "par_id3151112\n"
 "help.text"
 msgid "<ahelp hid=\"HID_SC_TOOLBOX_DRTEXT\">The <emph>Text Formatting</emph> Bar that is displayed when the cursor is in a text object, such as a text box or a drawing object, contains formatting and alignment commands.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"HID_SC_TOOLBOX_DRTEXT\"> របារ <emph> ការធ្វើទ្រង់ទ្រាយអត្ថបទ </emph> ដែលត្រូវបានបង្ហាញនៅពេលទស្សន៍ទ្រនិចនៅក្នុងវត្ថុអត្ថបទដូចជាប្រអប់អត្ថបទឬវត្ថុគំនូរមានផ្ទុកពាក្យបញ្ជាទ្រង់ទ្រាយនិងតម្រឹម។ </ahelp>"
 
 #. qzSkC
 #: main0205.xhp
@@ -1275,7 +1277,7 @@ msgctxt ""
 "hd_id3156023\n"
 "help.text"
 msgid "<link href=\"text/scalc/main0210.xhp\" name=\"Print Preview Bar\">Print Preview Bar</link>"
-msgstr ""
+msgstr "<link href=\"text/scalc/main0210.xhp\" name=\"Print Preview Bar\"> បោះពុម្ពមើលរបារជាមុន </link>"
 
 #. sMDPh
 #: main0210.xhp
@@ -1284,7 +1286,7 @@ msgctxt ""
 "par_id3148663\n"
 "help.text"
 msgid "<ahelp hid=\"HID_SC_WIN_PREVIEW\">The <emph>Print Preview</emph> bar is displayed when you choose <emph>File - Print Preview</emph>.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"HID_SC_WIN_PREVIEW\"> របារ <emph> មើលការបោះពុម្ពជាមុន </emph> ត្រូវបានបង្ហាញនៅពេលអ្នកជ្រើសរើស <emph> ឯកសារ - បោះពុម្ពការមើលជាមុន </emph> ។ </ahelp>"
 
 #. FEZVG
 #: main0210.xhp
@@ -1374,7 +1376,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Image Bar"
-msgstr ""
+msgstr "របាររូបភាព"
 
 #. bZuGP
 #: main0214.xhp
@@ -1383,7 +1385,7 @@ msgctxt ""
 "hd_id3153088\n"
 "help.text"
 msgid "<link href=\"text/scalc/main0214.xhp\" name=\"Image Bar\">Image Bar</link>"
-msgstr "<link href=\"text/scalc/main0218.xhp\" name=\"Tools Bar\">របារ​ឧបករណ៍</link>"
+msgstr "<link href=\"text/scalc/main0214.xhp\" name=\"Image Bar\">របាររូបភាព</link>"
 
 #. MnQUQ
 #: main0214.xhp
@@ -1428,7 +1430,7 @@ msgctxt ""
 "par_idN10610\n"
 "help.text"
 msgid "<link href=\"text/shared/02/01170000.xhp\" name=\"Controls\">Controls</link>"
-msgstr "<link href=\"text/shared/02/01170000.xhp\" name=\"Form Controls\">វត្ថុ​បញ្ជា​</link>"
+msgstr "<link href=\"text/shared/02/01170000.xhp\" name=\"Controls\">ការត្រួតពិនិត្យ</link>"
 
 #. rXyMx
 #: main0218.xhp
@@ -1446,7 +1448,7 @@ msgctxt ""
 "par_idN10690\n"
 "help.text"
 msgid "<link href=\"text/scalc/01/12040300.xhp\" name=\"Advanced Filter\">Advanced Filter</link>"
-msgstr "<link href=\"text/scalc/01/12040300.xhp\" name=\"Advanced filter\">តម្រង​កម្រិត​ខ្ពស់</link>"
+msgstr "<link href=\"text/scalc/01/12040300.xhp\" name=\"Advanced Filter\">តម្រងកម្រិតខ្ពស់</link>"
 
 #. NgA6E
 #: main0218.xhp
@@ -1545,7 +1547,7 @@ msgctxt ""
 "hd_id3152596\n"
 "help.text"
 msgid "What-If Calculations"
-msgstr "ការ​គណនា What-If"
+msgstr "ការ​គណនា តើ-ប្រសិនបើ"
 
 #. 4yrYj
 #: main0503.xhp

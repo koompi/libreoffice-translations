@@ -1,21 +1,19 @@
-#. extracted from helpcontent2/source/text/schart/00
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
-"POT-Creation-Date: 2019-05-22 13:27+0200\n"
-"PO-Revision-Date: 2018-05-08 16:22+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2020-03-10 13:36+0100\n"
+"PO-Revision-Date: 2020-09-03 09:44+0700\n"
+"Last-Translator: Koompi Apps Localization\n"
 "Language: km\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Accelerator-Marker: ~\n"
-"X-Generator: LibreOffice\n"
-"X-Language: km-KH\n"
-"X-POOTLE-MTIME: 1525796550.000000\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-POOTLE-MTIME: 1535975854.000000\n"
+"Language-Team: KOOMPI Apps Localization\n"
 
 #: 00000004.xhp
 msgctxt ""
@@ -71,7 +69,7 @@ msgctxt ""
 "par_id3153160\n"
 "help.text"
 msgid "<variable id=\"efgttl\">Choose <emph>Insert - Titles</emph> (Charts)</variable>"
-msgstr ""
+msgstr "<variable id=\"efgttl\"> ជ្រើសរើស <emph> បញ្ចូល - ចំណងជើង </emph> (គំនូសតាង) </variable>"
 
 #: 00000004.xhp
 msgctxt ""
@@ -79,7 +77,7 @@ msgctxt ""
 "par_id3149121\n"
 "help.text"
 msgid "Choose <emph>Insert - Legend</emph> (Charts)"
-msgstr ""
+msgstr "ជ្រើសរើស <emph> បញ្ចូល - តាង </emph> (គំនូសតាង)"
 
 #: 00000004.xhp
 msgctxt ""
@@ -95,7 +93,7 @@ msgctxt ""
 "par_id3156385\n"
 "help.text"
 msgid "Choose <emph>Insert - Data Labels</emph> (Charts)"
-msgstr ""
+msgstr "ជ្រើសរើស <emph> បញ្ចូល - ស្លាកទិន្នន័យ </emph> (គំនូសតាង)"
 
 #: 00000004.xhp
 msgctxt ""
@@ -111,7 +109,7 @@ msgctxt ""
 "par_id3149565\n"
 "help.text"
 msgid "<variable id=\"efgaug\">Choose <emph>Insert - Axes</emph> (Charts)</variable>"
-msgstr ""
+msgstr "<variable id=\"efgaug\"> ជ្រើសរើស <emph> បញ្ចូល - អ័ក្ស </emph> (គំនូសតាង) </variable>"
 
 #: 00000004.xhp
 msgctxt ""
@@ -119,7 +117,7 @@ msgctxt ""
 "par_id3150297\n"
 "help.text"
 msgid "Choose <emph>Insert - Grids</emph> (Charts)"
-msgstr ""
+msgstr "ជ្រើសរើស <emph> បញ្ចូល - ក្រឡាចត្រង្គ </emph> (គំនូសតាង)"
 
 #: 00000004.xhp
 msgctxt ""
@@ -143,7 +141,7 @@ msgctxt ""
 "par_id3155378\n"
 "help.text"
 msgid "Horizontal Grids"
-msgstr ""
+msgstr "ក្រឡាចត្រង្គផ្ដេក"
 
 #: 00000004.xhp
 msgctxt ""
@@ -159,7 +157,7 @@ msgctxt ""
 "par_id3153067\n"
 "help.text"
 msgid "Vertical Grids"
-msgstr ""
+msgstr "ក្រឡាចត្រង្គបញ្ឈរ"
 
 #: 00000004.xhp
 msgctxt ""
@@ -167,7 +165,7 @@ msgctxt ""
 "par_id3148869\n"
 "help.text"
 msgid "<variable id=\"efgsta\">Choose <emph>Insert - X Error Bars</emph>, or <emph>Insert - Y Error Bars</emph> (Charts)</variable>"
-msgstr ""
+msgstr "<variable id=\"efgsta\"> ជ្រើសរើស <emph> បញ្ចូល - របារកំហុស X </emph> , ឬ <emph> បញ្ចូល - របារកំហុស Y </emph> (គំនូសតាង) </variable>"
 
 #: 00000004.xhp
 msgctxt ""
@@ -175,7 +173,7 @@ msgctxt ""
 "par_id1061738\n"
 "help.text"
 msgid "<variable id=\"trendlines\">Choose <emph>Insert - Trend Line</emph> (Charts)</variable>"
-msgstr ""
+msgstr "<variable id=\"trendlines\"> ជ្រើសរើស <emph> បញ្ចូល - បន្ទាត់និន្នាការ </emph> (គំនូសតាង) </variable>"
 
 #: 00000004.xhp
 msgctxt ""
@@ -183,7 +181,7 @@ msgctxt ""
 "par_id3154532\n"
 "help.text"
 msgid "<variable id=\"sonderz\">Choose <emph>Insert - Special Character</emph> (Charts)</variable>"
-msgstr ""
+msgstr "<variable id=\"sonderz\"> ជ្រើសរើស <emph> បញ្ចូល - តួអក្សរពិសេស </emph> (គំនូសតាង) </variable>"
 
 #: 00000004.xhp
 msgctxt ""
@@ -191,7 +189,7 @@ msgctxt ""
 "par_id3153246\n"
 "help.text"
 msgid "<variable id=\"frtoes\">Choose <emph>Format - Format Selection</emph> (Charts)</variable>"
-msgstr ""
+msgstr "<variable id=\"frtoes\"> ជ្រើសរើស <emph> ទ្រង់ទ្រាយ - ការជ្រើសរើសទ្រង់ទ្រាយ </emph> (គំនូសតាង) </variable>"
 
 #: 00000004.xhp
 msgctxt ""
@@ -223,7 +221,7 @@ msgctxt ""
 "par_id3154707\n"
 "help.text"
 msgid "<variable id=\"frtttl\">Choose <emph>Format - Title</emph> (Charts)</variable>"
-msgstr ""
+msgstr "<variable id=\"frtttl\"> ជ្រើសរើស <emph> ទ្រង់ទ្រាយ - ចំណងជើង </emph> (គំនូសតាង) </variable>"
 
 #: 00000004.xhp
 msgctxt ""
@@ -247,7 +245,7 @@ msgctxt ""
 "par_id3149048\n"
 "help.text"
 msgid "<variable id=\"frttya\">Choose <emph>Format - Title</emph> (Charts)</variable>"
-msgstr ""
+msgstr "<variable id=\"frttya\"> ជ្រើសរើស <emph> ទ្រង់ទ្រាយ - ចំណងជើង </emph> (គំនូសតាង) </variable>"
 
 #: 00000004.xhp
 msgctxt ""
@@ -255,7 +253,7 @@ msgctxt ""
 "par_id3147402\n"
 "help.text"
 msgid "<variable id=\"frttyab\">Choose <emph>Format - Axis</emph> (Charts)</variable>"
-msgstr ""
+msgstr "<variable id=\"frttyab\"> ជ្រើសរើស <emph> ទ្រង់ទ្រាយ - អ័ក្ស </emph> (គំនូសតាង) </variable>"
 
 #: 00000004.xhp
 msgctxt ""
@@ -263,7 +261,7 @@ msgctxt ""
 "par_id3147297\n"
 "help.text"
 msgid "<variable id=\"frtlgd\">Choose <emph>Format - Legend</emph>, or <emph>Format - Format Selection - Legend</emph> (Charts)</variable>"
-msgstr ""
+msgstr "<variable id=\"frtlgd\"> ជ្រើសរើស <emph> ទ្រង់ទ្រាយ - តាង </emph> , ឬ <emph> ទ្រង់ទ្រាយ - ការជ្រើសរើសទ្រង់ទ្រាយ - តាង </emph> (គំនូសតាង) </variable>"
 
 #: 00000004.xhp
 msgctxt ""
@@ -271,7 +269,7 @@ msgctxt ""
 "par_id3157876\n"
 "help.text"
 msgid "<variable id=\"frtaa\">Choose <emph>Format - Axis - X Axis/Secondary X Axis/Z Axis/All Axes</emph> (Charts)</variable>"
-msgstr ""
+msgstr "<variable id=\"frtaa\"> ជ្រើសរើស <emph> ទ្រង់ទ្រាយ - អ័ក្ស - អ័ក្ស X / អ័ក្ស X អ័ក្ស / អ័ក្ស Z អ័ក្ស / អ័ក្សទាំងអស់ </emph> (គំនូសតាង) </variable>"
 
 #: 00000004.xhp
 msgctxt ""
@@ -279,7 +277,7 @@ msgctxt ""
 "par_id3146883\n"
 "help.text"
 msgid "<variable id=\"frtyas\">Choose <emph>Format - Axis - Y Axis/Secondary Y Axis</emph> (Charts)</variable>"
-msgstr ""
+msgstr "<variable id=\"frtyas\"> ជ្រើសរើស <emph> ទ្រង់ទ្រាយ - អ័ក្ស - អ័ក្សអ៊ីអ័រ / អ័ក្សអ៊ីអ័ក្សទី ២ </emph> (គំនូសតាង) </variable>"
 
 #: 00000004.xhp
 msgctxt ""
@@ -311,7 +309,7 @@ msgctxt ""
 "par_id3150477\n"
 "help.text"
 msgid "<variable id=\"frtgt\">Choose <emph>Format - Grid</emph> (Charts)</variable>"
-msgstr ""
+msgstr "<variable id=\"frtgt\"> ជ្រើសរើស <emph> ទ្រង់ទ្រាយ - ក្រឡាចត្រង្គ </emph> (គំនូសតាង) </variable>"
 
 #: 00000004.xhp
 msgctxt ""
@@ -319,7 +317,7 @@ msgctxt ""
 "par_id3150746\n"
 "help.text"
 msgid "<variable id=\"frtgtr\">Choose <emph>Format - Grid - X, Y, Z Axis Major Grid/ X, Y, Z Minor Grid/ All Axis Grids</emph> (Charts)</variable>"
-msgstr ""
+msgstr "<variable id=\"frtgtr\"> ជ្រើសរើស <emph> ទ្រង់ទ្រាយ - ក្រឡាចត្រង្គ - X, Y, Z ក្រឡាចត្រង្គអ័ក្ស / X, Y, Z តូចក្រឡាចត្រង្គ / ក្រឡាចត្រង្គអ័ក្សទាំងអស់ </emph> (គំនូសតាង) </variable>"
 
 #: 00000004.xhp
 msgctxt ""
@@ -335,7 +333,7 @@ msgctxt ""
 "par_id3153039\n"
 "help.text"
 msgid "<variable id=\"frtdgb\">Choose <emph>Format - Chart Floor</emph> (Charts)</variable>"
-msgstr ""
+msgstr "<variable id=\"frtdgb\"> ជ្រើសរើស <emph> ទ្រង់ទ្រាយ - ជាន់គំនូសតាង </emph> (គំនូសតាង) </variable>"
 
 #: 00000004.xhp
 msgctxt ""
@@ -343,7 +341,7 @@ msgctxt ""
 "par_id3150141\n"
 "help.text"
 msgid "<variable id=\"frtdgf\">Choose <emph>Format - Chart Area</emph> (Charts)</variable>"
-msgstr ""
+msgstr "<variable id=\"frtdgf\"> ជ្រើសរើស <emph> ទ្រង់ទ្រាយ - ផ្ទៃគំនូសតាង </emph> (គំនូសតាង) </variable>"
 
 #: 00000004.xhp
 msgctxt ""
@@ -351,7 +349,7 @@ msgctxt ""
 "par_id3155830\n"
 "help.text"
 msgid "Choose <emph>Format - Chart Type</emph> (Charts)"
-msgstr ""
+msgstr "ជ្រើសរើស <emph> ទ្រង់ទ្រាយ - ប្រភេទគំនូសតាង </emph> (គំនូសតាង)"
 
 #: 00000004.xhp
 msgctxt ""
@@ -383,7 +381,7 @@ msgctxt ""
 "par_id3155621\n"
 "help.text"
 msgid "<variable id=\"frtdda\">Choose <emph>Format - 3D View</emph> (Charts)</variable>"
-msgstr ""
+msgstr "<variable id=\"frtdda\"> ជ្រើសរើស <emph> ទ្រង់ទ្រាយ - ទិដ្ឋភាពត្រីមាត្រ </emph> (គំនូសតាង) </variable>"
 
 #: 00000004.xhp
 msgctxt ""
@@ -391,7 +389,7 @@ msgctxt ""
 "par_id3150661\n"
 "help.text"
 msgid "Choose <emph>Format - Arrangement</emph> (Charts)"
-msgstr ""
+msgstr "ជ្រើសរើស <emph> ទ្រង់ទ្រាយ - ការរៀបចំ </emph> (គំនូសតាង)"
 
 #: 00000004.xhp
 msgctxt ""
@@ -399,7 +397,7 @@ msgctxt ""
 "par_id3153046\n"
 "help.text"
 msgid "Open context menu - choose <emph>Arrangement</emph> (Charts)"
-msgstr ""
+msgstr "បើកម៉ឺនុយបរិបទ - ជ្រើសរើស <emph> ការរៀបចំ </emph> (គំនូសតាង)"
 
 #: 00000004.xhp
 msgctxt ""
@@ -415,7 +413,7 @@ msgctxt ""
 "par_id3150962\n"
 "help.text"
 msgid "Horizontal Grids"
-msgstr ""
+msgstr "ក្រឡាចត្រង្គផ្ដេក"
 
 #: 00000004.xhp
 msgctxt ""
@@ -447,7 +445,7 @@ msgctxt ""
 "par_id3153153\n"
 "help.text"
 msgid "Vertical Grids"
-msgstr ""
+msgstr "ក្រឡាចត្រង្គបញ្ឈរ"
 
 #: 00000004.xhp
 msgctxt ""
@@ -455,7 +453,7 @@ msgctxt ""
 "par_id161525135741575\n"
 "help.text"
 msgid "<emph>Insert Chart</emph>"
-msgstr ""
+msgstr "<emph> បញ្ចូលគំនូសតាង </emph>"
 
 #: 00000004.xhp
 msgctxt ""
@@ -463,7 +461,7 @@ msgctxt ""
 "par_id9631641\n"
 "help.text"
 msgid "Choose <emph>Insert - Chart...</emph>"
-msgstr ""
+msgstr "ជ្រើសរើស <emph> បញ្ចូល - គំនូសតាង ... </emph>"
 
 #: 00000004.xhp
 msgctxt ""
@@ -471,7 +469,7 @@ msgctxt ""
 "par_id2985320\n"
 "help.text"
 msgid "Choose <emph>Insert - Chart...</emph>"
-msgstr ""
+msgstr "ជ្រើសរើស <emph> បញ្ចូល - គំនូសតាង ... </emph>"
 
 #: 00000004.xhp
 msgctxt ""
@@ -479,7 +477,7 @@ msgctxt ""
 "par_id1096530\n"
 "help.text"
 msgid "Double-click a chart, then choose <emph>Format - Data Ranges</emph>"
-msgstr ""
+msgstr "ចុចទ្វេដងលើតារាងបន្ទាប់មកជ្រើសរើស <emph> ទ្រង់ទ្រាយ - ជួរទិន្នន័យ </emph>"
 
 #: 00000004.xhp
 msgctxt ""
@@ -487,7 +485,7 @@ msgctxt ""
 "par_id733359\n"
 "help.text"
 msgid "<variable id=\"smlp\">In the Chart Type dialog of a Line chart or XY chart that displays lines, choose Smooth in the Lines type drop-down, then click the Properties button.</variable>"
-msgstr ""
+msgstr "<variable id=\"smlp\"> នៅក្នុងប្រអប់ប្រភេទគំនូសតាងនៃគំនូសតាងបន្ទាត់ឬគំនូសតាង XY ដែលបង្ហាញបន្ទាត់ជ្រើសរាបស្មើនៅក្នុងប្រអប់ទម្លាក់ចុះប្រភេទបន្ទាប់មកចុចប៊ូតុងលក្ខណសម្បត្តិ។ </variable>"
 
 #: 00000004.xhp
 msgctxt ""
@@ -495,4 +493,4 @@ msgctxt ""
 "par_id8513095\n"
 "help.text"
 msgid "<variable id=\"stlp\">In the Chart Type dialog of a Line chart or XY chart that displays lines, choose Stepped in the Lines type drop-down, then click the Properties button.</variable>"
-msgstr ""
+msgstr "<variable id=\"stlp\"> នៅក្នុងប្រអប់ប្រភេទគំនូសតាងនៃគំនូសតាងបន្ទាត់ឬគំនូសតាង XY ដែលបង្ហាញបន្ទាត់ជ្រើសជំហានក្នុងប្រភេទទម្លាក់ចុះបន្ទាត់បន្ទាប់មកចុចប៊ូតុងលក្ខណសម្បត្តិ។ </variable>"

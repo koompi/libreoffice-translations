@@ -1,21 +1,19 @@
-#. extracted from helpcontent2/source/text/simpress
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
-"POT-Creation-Date: 2020-08-17 12:39+0200\n"
-"PO-Revision-Date: 2017-10-04 11:22+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
-"Language-Team: Khmer <support@khmeros.info>\n"
+"POT-Creation-Date: 2020-03-10 13:36+0100\n"
+"PO-Revision-Date: 2020-09-12 23:29+0700\n"
+"Last-Translator: Koompi Apps Localization\n"
 "Language: km\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Accelerator-Marker: ~\n"
-"X-Generator: LibreOffice\n"
-"X-Language: km-KH\n"
-"X-POOTLE-MTIME: 1507116176.000000\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-POOTLE-MTIME: 1535975854.000000\n"
+"Language-Team: KOOMPI Apps Localization\n"
 
 #. 2Va4w
 #: main0000.xhp
@@ -150,7 +148,7 @@ msgctxt ""
 "hd_id102720151244263489\n"
 "help.text"
 msgid "Object Moving Helplines"
-msgstr ""
+msgstr "ឧបករណ៍ផ្លាស់ទីវត្ថុ"
 
 #. wgqff
 #: main0103.xhp
@@ -159,7 +157,7 @@ msgctxt ""
 "hd_id102720151246522815\n"
 "help.text"
 msgid "Comments"
-msgstr ""
+msgstr "យោបល់"
 
 #. AHrm9
 #: main0103.xhp
@@ -168,7 +166,7 @@ msgctxt ""
 "par_id102720150112252443\n"
 "help.text"
 msgid "Show or hide a presentation's annotations."
-msgstr ""
+msgstr "បង្ហាញឬលាក់ចំណារពន្យល់របស់បទបង្ហាញ។"
 
 #. KxCDt
 #: main0103.xhp
@@ -177,7 +175,7 @@ msgctxt ""
 "hd_id102720151246523444\n"
 "help.text"
 msgid "Master Background"
-msgstr ""
+msgstr "ផ្ទៃខាងក្រោយមេ"
 
 #. DXFhq
 #: main0103.xhp
@@ -186,7 +184,7 @@ msgctxt ""
 "par_id102720150112257941\n"
 "help.text"
 msgid "Toggle the visibility of a master slide's background to be used as the background of the current slide."
-msgstr ""
+msgstr "បិទបើកភាពមើលឃើញនៃផ្ទៃខាងក្រោយរបស់ស្លាយមេដើម្បីប្រើជាផ្ទៃខាងក្រោយនៃស្លាយបច្ចុប្បន្ន។"
 
 #. zrUk5
 #: main0103.xhp
@@ -195,7 +193,7 @@ msgctxt ""
 "hd_id102720151246521837\n"
 "help.text"
 msgid "Master Objects"
-msgstr ""
+msgstr "វត្ថុមេ"
 
 #. pXaYF
 #: main0103.xhp
@@ -204,7 +202,7 @@ msgctxt ""
 "par_id102720150112256473\n"
 "help.text"
 msgid "Toggle the visibility of a master slide's objects to appear on the current slide."
-msgstr ""
+msgstr "បិទបើកភាពមើលឃើញនៃវត្ថុរបស់ស្លាយមេដើម្បីបង្ហាញនៅលើស្លាយបច្ចុប្បន្ន។"
 
 #. cizmi
 #: main0103.xhp
@@ -213,7 +211,7 @@ msgctxt ""
 "hd_id102720150908397549\n"
 "help.text"
 msgid "<link href=\"text/shared/01/gallery.xhp\">Clip Art Gallery</link>"
-msgstr ""
+msgstr "<link href=\"text/shared/01/gallery.xhp\"> ឈុតវិចិត្រសាលសិល្បៈ</link>"
 
 #. 8r72e
 #: main0103.xhp
@@ -258,7 +256,7 @@ msgctxt ""
 "hd_id3146918\n"
 "help.text"
 msgid "<link href=\"text/schart/01/wiz_chart_type.xhp\" name=\"Chart\">Chart</link>"
-msgstr ""
+msgstr "<link href=\"text/schart/01/wiz_chart_type.xhp\" name=\"Chart\"> គំនូសតាង</link>"
 
 #. QKdUC
 #: main0104.xhp
@@ -267,7 +265,7 @@ msgctxt ""
 "par_id0302200904002496\n"
 "help.text"
 msgid "Inserts a chart."
-msgstr ""
+msgstr "ដាក់តារាងចូល"
 
 #. Rz4Mz
 #: main0104.xhp
@@ -285,7 +283,7 @@ msgctxt ""
 "hd_id3147003\n"
 "help.text"
 msgid "<link href=\"text/shared/01/04160500.xhp\" name=\"Floating Frame\">Floating Frame</link>"
-msgstr ""
+msgstr "<link href=\"text/shared/01/04160500.xhp\" name=\"Floating Frame\"> ស៊ុមអណ្តែត</link>"
 
 #. bAHCA
 #: main0104.xhp
@@ -294,7 +292,7 @@ msgctxt ""
 "hd_id3156285\n"
 "help.text"
 msgid "<link href=\"text/shared/02/09070000.xhp\" name=\"Hyperlink\">Hyperlink</link>"
-msgstr ""
+msgstr "<link href=\"text/shared/02/09070000.xhp\" name=\"Hyperlink\"> តំណខ្ពស់</link>"
 
 #. qs9B7
 #: main0104.xhp
@@ -303,7 +301,7 @@ msgctxt ""
 "hd_id3163726\n"
 "help.text"
 msgid "<link href=\"text/shared/01/04100000.xhp\" name=\"Special Character\">Special Character</link>"
-msgstr ""
+msgstr "<link href=\"text/shared/01/04100000.xhp\" name=\"Special Character\">អក្សរពិសេស</link>"
 
 #. JdPCK
 #: main0104.xhp
@@ -312,7 +310,7 @@ msgctxt ""
 "par_idN105C7\n"
 "help.text"
 msgid "Slide Number"
-msgstr ""
+msgstr "លេខស្លាយ"
 
 #. dk5d2
 #: main0104.xhp
@@ -602,6 +600,15 @@ msgctxt ""
 msgid "<link href=\"text/shared/01/05210100.xhp\" name=\"Area Style / Filling\">Area Style / Filling</link>"
 msgstr "<link href=\"text/shared/01/05210100.xhp\" name=\"Area Style / Filling\">​ រចនាប័ទ្ម​ផ្ទៃ​​/​​បំពេញ</link>"
 
+#. nn7rV
+#: main0202.xhp
+msgctxt ""
+"main0202.xhp\n"
+"hd_id3150048\n"
+"help.text"
+msgid "<link href=\"text/shared/01/05210600.xhp\" name=\"Shadow\">Shadow</link>"
+msgstr "<link href=\"text/shared/01/05210600.xhp\" name=\"Shadow\">ស្រមោល</link>"
+
 #. qXLpG
 #: main0203.xhp
 msgctxt ""
@@ -672,7 +679,7 @@ msgctxt ""
 "hd_id0122200903104143\n"
 "help.text"
 msgid "Increase Font Size"
-msgstr ""
+msgstr "បង្កើនទំហំពុម្ពអក្សរ"
 
 #. ALAG8
 #: main0203.xhp
@@ -690,7 +697,7 @@ msgctxt ""
 "hd_id0122200903104228\n"
 "help.text"
 msgid "Decrease Font Size"
-msgstr ""
+msgstr "បន្ថយទំហំពុម្ពអក្សរ"
 
 #. AGSKe
 #: main0203.xhp
@@ -1086,7 +1093,7 @@ msgctxt ""
 "par_idN107FF\n"
 "help.text"
 msgid "<link href=\"text/sdraw/01/3dsettings_toolbar.xhp\">Extrusion On/Off</link>"
-msgstr ""
+msgstr "<link href=\"text/sdraw/01/3dsettings_toolbar.xhp\">បើក/ បិទហូត</link>"
 
 #. wXAyq
 #: main0210.xhp
@@ -1096,6 +1103,15 @@ msgctxt ""
 "help.text"
 msgid "Switches the 3D effects on and off for the selected objects."
 msgstr "បិទ និង បើក​បែបផែន​ត្រីមាត្រ សម្រាប់​វត្ថុ​ដែល​បាន​ជ្រើស ។"
+
+#. G5r64
+#: main0210.xhp
+msgctxt ""
+"main0210.xhp\n"
+"hd_id3145350\n"
+"help.text"
+msgid "<link href=\"text/simpress/01/06070000.xhp\" name=\"Interaction\">Interaction</link>"
+msgstr "<link href=\"text/simpress/01/06070000.xhp\" name=\"Interaction\">អន្តរកម្ម</link>"
 
 #. NXNKE
 #: main0211.xhp
@@ -1284,7 +1300,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Image Bar"
-msgstr ""
+msgstr "របាររូបភាព"
 
 #. GjkTE
 #: main0214.xhp
@@ -1293,7 +1309,7 @@ msgctxt ""
 "hd_id3151245\n"
 "help.text"
 msgid "<link href=\"text/simpress/main0214.xhp\" name=\"Image Bar\">Image Bar</link>"
-msgstr ""
+msgstr "<link href=\"text/simpress/main0214.xhp\" name=\"Image Bar\">របាររូបភាព</link>"
 
 #. m65F6
 #: main0214.xhp
@@ -1302,7 +1318,7 @@ msgctxt ""
 "par_id3150543\n"
 "help.text"
 msgid "Use the <emph>Image</emph> bar to set the color, contrast, and brightness options for the selected graphic object(s)."
-msgstr ""
+msgstr "ប្រើរបារ <emph>រូបភាព</emph>ដើម្បីកំណត់ជម្រើសពណ៌​, កម្រិតពណ៌, និងពន្លឺសម្រាប់វត្ថុក្រាហ្វិកដែលបានជ្រើស។"
 
 #. Zkaab
 #: main0503.xhp
@@ -1383,7 +1399,7 @@ msgctxt ""
 "par_id3148610\n"
 "help.text"
 msgid "You can also assign a number of dynamic effects to your slides, including animation and transition effects."
-msgstr ""
+msgstr "អ្នកក៏អាចកំណត់ចំនួនបែបផែនថាមវន្តទៅស្លាយរបស់អ្នករួមទាំងបែបផែនចលនានិងការផ្លាស់ប្តូរ។"
 
 #. D4ctS
 #: main0503.xhp
@@ -1392,7 +1408,7 @@ msgctxt ""
 "hd_id3153820\n"
 "help.text"
 msgid "Creating Presentations"
-msgstr "បង្កើត​ការ​បង្ហាញ​"
+msgstr "បង្កើត​បទបង្ហាញ​"
 
 #. cS3Au
 #: main0503.xhp
@@ -1437,7 +1453,7 @@ msgctxt ""
 "hd_id3146965\n"
 "help.text"
 msgid "Giving Presentations"
-msgstr "ផ្តល់​ការ​បង្ហាញ​"
+msgstr "ផ្តល់​បទ​បង្ហាញ​"
 
 #. TzAuK
 #: main0503.xhp
@@ -1455,7 +1471,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Edit"
-msgstr ""
+msgstr "កែសម្រួល"
 
 #. Auju9
 #: main_edit.xhp
@@ -1464,7 +1480,7 @@ msgctxt ""
 "hd_id3153726\n"
 "help.text"
 msgid "<link href=\"text/simpress/main_edit.xhp\" name=\"Edit\">Edit</link>"
-msgstr ""
+msgstr "<link href=\"text/simpress/main_edit.xhp\" name=\"Edit\">កែសម្រួល</link>"
 
 #. 4wDGi
 #: main_edit.xhp
@@ -1473,7 +1489,7 @@ msgctxt ""
 "par_id3151075\n"
 "help.text"
 msgid "<ahelp hid=\".\">This menu contains commands for editing the contents of the current document.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".\">ម៉ឺនុយនេះមានពាក្យបញ្ជាសម្រាប់កែសម្រួលមាតិកានៃឯកសារបច្ចុប្បន្ន។</ahelp>"
 
 #. ERYiR
 #: main_edit.xhp
@@ -1482,7 +1498,7 @@ msgctxt ""
 "hd_id3154649\n"
 "help.text"
 msgid "<link href=\"text/shared/01/05270000.xhp\" name=\"Points\">Points</link>"
-msgstr ""
+msgstr "<link href=\"text/shared/01/05270000.xhp\" name=\"Points\">ចំណុច</link>"
 
 #. 7vrGM
 #: main_edit.xhp
@@ -1491,7 +1507,7 @@ msgctxt ""
 "par_id3154766\n"
 "help.text"
 msgid "Switches the <emph>Edit Points</emph> mode on and off."
-msgstr ""
+msgstr "ប្តូរ <emph>ចំណុចកែសម្រួល</emph> អោយបើកនិងបិទ។"
 
 #. oJDWF
 #: main_edit.xhp
@@ -1501,6 +1517,8 @@ msgctxt ""
 "help.text"
 msgid "<link href=\"text/simpress/02/10030200.xhp\" name=\"Glue Points\">Glue Points</link>"
 msgstr ""
+"<link href=\"text/simpress/02/10030200.xhp\" name=\"Glue Points\"> \n"
+"ចំណុចកាវ</link>"
 
 #. CFmE8
 #: main_edit.xhp
@@ -1509,7 +1527,7 @@ msgctxt ""
 "par_id3147403\n"
 "help.text"
 msgid "Switches the <emph>Edit Glue Points</emph> mode on and off."
-msgstr ""
+msgstr "ប្តូរ <emph>កែសម្រួលចំណុចកាវ</emph> អោយបើកនិងបិទ។"
 
 #. exzAB
 #: main_edit.xhp
@@ -1518,7 +1536,7 @@ msgctxt ""
 "hd_id3150396\n"
 "help.text"
 msgid "<link href=\"text/simpress/01/02160000.xhp\" name=\"Fields\">Fields</link>"
-msgstr ""
+msgstr "<link href=\"text/simpress/01/02160000.xhp\" name=\"Fields\">វាល</link>"
 
 #. 24C2j
 #: main_edit.xhp
@@ -1527,7 +1545,7 @@ msgctxt ""
 "hd_id3149355\n"
 "help.text"
 msgid "<link href=\"text/shared/01/02180000.xhp\" name=\"Links\">Links</link>"
-msgstr ""
+msgstr "<link href=\"text/shared/01/02180000.xhp\" name=\"Links\">តំណភ្ជាប់</link>"
 
 #. WQGVG
 #: main_edit.xhp
@@ -1536,7 +1554,7 @@ msgctxt ""
 "hd_id0914201502131542\n"
 "help.text"
 msgid "<link href=\"text/shared/01/02200000.xhp\" name=\"Object\">Object</link>"
-msgstr ""
+msgstr "<link href=\"text/shared/01/02200000.xhp\" name=\"Object\">វត្ថុ</link>"
 
 #. XiyED
 #: main_format.xhp
@@ -1545,7 +1563,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Format"
-msgstr ""
+msgstr "ទ្រង់ទ្រាយ"
 
 #. GSGJp
 #: main_format.xhp
@@ -1554,7 +1572,7 @@ msgctxt ""
 "hd_id3152596\n"
 "help.text"
 msgid "<link href=\"text/simpress/main_format.xhp\" name=\"Format\">Format</link>"
-msgstr ""
+msgstr "<link href=\"text/simpress/main_format.xhp\" name=\"Format\">ទ្រង់ទ្រាយ</link>"
 
 #. GySd7
 #: main_format.xhp
@@ -1563,7 +1581,7 @@ msgctxt ""
 "par_id3145801\n"
 "help.text"
 msgid "<ahelp hid=\".\">Contains commands for formatting the layout and the contents of your document.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".\">មានពាក្យបញ្ជាសម្រាប់ធ្វើទ្រង់ទ្រាយប្លង់និងមាតិកានៃឯកសាររបស់អ្នក។</ahelp>"
 
 #. CJJ22
 #: main_format.xhp
@@ -1572,7 +1590,7 @@ msgctxt ""
 "hd_id3147401\n"
 "help.text"
 msgid "<link href=\"text/shared/01/05020000.xhp\" name=\"Character\">Character</link>"
-msgstr ""
+msgstr "<link href=\"text/shared/01/05020000.xhp\" name=\"Character\">តួអក្សរ</link>"
 
 #. AW2xS
 #: main_format.xhp
@@ -1581,7 +1599,7 @@ msgctxt ""
 "hd_id3149941\n"
 "help.text"
 msgid "<link href=\"text/shared/01/05030000.xhp\" name=\"Paragraph\">Paragraph</link>"
-msgstr ""
+msgstr "<link href=\"text/shared/01/05030000.xhp\" name=\"Paragraph\">កថាខណ្ឌ</link>"
 
 #. eZDbp
 #: main_format.xhp
@@ -1590,7 +1608,7 @@ msgctxt ""
 "hd_id3147299\n"
 "help.text"
 msgid "<link href=\"text/shared/01/06050000.xhp\" name=\"Numbering/Bullets\">Bullets and Numbering</link>"
-msgstr ""
+msgstr "<link href=\"text/shared/01/06050000.xhp\" name=\"Numbering/Bullets\">ចំណុចនិងលេខ</link>"
 
 #. o7wfa
 #: main_format.xhp
@@ -1599,7 +1617,7 @@ msgctxt ""
 "hd_id3149499\n"
 "help.text"
 msgid "<link href=\"text/shared/01/05230000.xhp\" name=\"Position and Size\">Position and Size</link>"
-msgstr ""
+msgstr "<link href=\"text/shared/01/05230000.xhp\" name=\"Position and Size\">ទីតាំងនិងទំហំ</link>"
 
 #. XrW2e
 #: main_format.xhp
@@ -1608,7 +1626,7 @@ msgctxt ""
 "hd_id3154510\n"
 "help.text"
 msgid "<link href=\"text/shared/01/05200000.xhp\" name=\"Line\">Line</link>"
-msgstr ""
+msgstr "<link href=\"text/shared/01/05200000.xhp\" name=\"Line\">បន្ទាត់</link>"
 
 #. wt8hF
 #: main_format.xhp
@@ -1617,7 +1635,7 @@ msgctxt ""
 "hd_id3149021\n"
 "help.text"
 msgid "<link href=\"text/shared/01/05210000.xhp\" name=\"Area\">Area</link>"
-msgstr ""
+msgstr "<link href=\"text/shared/01/05210000.xhp\" name=\"Area\">តំបន់</link>"
 
 #. VkWBC
 #: main_format.xhp
@@ -1626,7 +1644,7 @@ msgctxt ""
 "hd_id3155961\n"
 "help.text"
 msgid "<link href=\"text/shared/01/05990000.xhp\" name=\"Text\">Text</link>"
-msgstr ""
+msgstr "<link href=\"text/shared/01/05990000.xhp\" name=\"Text\">អត្ថបទ</link>"
 
 #. nGRHD
 #: main_format.xhp
@@ -1635,7 +1653,7 @@ msgctxt ""
 "hd_id3156286\n"
 "help.text"
 msgid "<link href=\"text/simpress/01/05120000.xhp\" name=\"Page Layout...\">Slide Design</link>"
-msgstr ""
+msgstr "<link href=\"text/simpress/01/05120000.xhp\" name=\"Page Layout...\"> ការរចនាស្លាយ</link>"
 
 #. MwAqP
 #: main_format.xhp
@@ -1644,7 +1662,7 @@ msgctxt ""
 "hd_id3163827\n"
 "help.text"
 msgid "<link href=\"text/simpress/01/05130000.xhp\" name=\"Modify Layout\">Slide Layout</link>"
-msgstr ""
+msgstr "<link href=\"text/simpress/01/05120000.xhp\" name=\"Page Layout...\">ប្លង់ស្លាយ</link>"
 
 #. F98f9
 #: main_slide.xhp
@@ -1653,7 +1671,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Slide"
-msgstr ""
+msgstr "ស្លាយ"
 
 #. BrzLC
 #: main_slide.xhp
@@ -1662,7 +1680,7 @@ msgctxt ""
 "hd_id0908201507475698\n"
 "help.text"
 msgid "<link href=\"text/simpress/main_slide.xhp\">Slide</link>"
-msgstr ""
+msgstr "<link href=\"text/simpress/main_slide.xhp\">ស្លាយ</link>"
 
 #. QAk8D
 #: main_slide.xhp
@@ -1671,7 +1689,7 @@ msgctxt ""
 "par_id0908201507482661\n"
 "help.text"
 msgid "This menu provides slide management and navigation commands."
-msgstr ""
+msgstr "ម៉ឺនុយនេះផ្តល់នូវការគ្រប់គ្រងការបញ្ចាំងស្លាយនិងបញ្ជាការរុករក។"
 
 #. qN8UF
 #: main_slide.xhp
@@ -1680,7 +1698,7 @@ msgctxt ""
 "hd_id3145801\n"
 "help.text"
 msgid "<link href=\"text/simpress/01/new_slide.xhp\" name=\"New Slide\">New Slide</link>"
-msgstr ""
+msgstr "<link href=\"text/simpress/01/new_slide.xhp\" name=\"New Slide\">ស្លាយថ្មី</link>"
 
 #. BkUdP
 #: main_slide.xhp
@@ -1689,7 +1707,7 @@ msgctxt ""
 "hd_id551556824896520\n"
 "help.text"
 msgid "<link href=\"text/simpress/01/slide_properties.xhp\" name=\"Properties\">Properties</link>"
-msgstr ""
+msgstr "<link href=\"text/simpress/01/slide_properties.xhp\" name=\"Properties\">លក្ខណៈសម្បត្តិ</link>"
 
 #. rCA2e
 #: main_tools.xhp
@@ -1698,7 +1716,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Tools"
-msgstr ""
+msgstr "ឧបករណ៍"
 
 #. kVDRo
 #: main_tools.xhp
@@ -1707,7 +1725,7 @@ msgctxt ""
 "hd_id3154017\n"
 "help.text"
 msgid "<link href=\"text/simpress/main_tools.xhp\" name=\"Tools\">Tools</link>"
-msgstr ""
+msgstr "<link href=\"text/simpress/main_tools.xhp\" name=\"Tools\">ឧបករណ៍</link>"
 
 #. QCEeB
 #: main_tools.xhp
@@ -1716,7 +1734,7 @@ msgctxt ""
 "par_id3155064\n"
 "help.text"
 msgid "<ahelp hid=\".\">Contains spelling tools, a gallery of object art that you can add to your document, as well as tools for configuring menus, and setting program preferences.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".\"> មានឧបករណ៍អក្ខរាវិរុទ្ធ វិចិត្រសាលសិល្បៈវត្ថុដែលអ្នកអាចបន្ថែមទៅឯកសាររបស់អ្នក ក៏ដូចជាឧបករណ៍សម្រាប់កំណត់រចនាសម្ព័ន្ធម៉ឺនុយនិងការកំណត់ចំណូលចិត្តកម្មវិធី។</ahelp>"
 
 #. dqGMu
 #: main_tools.xhp
@@ -1725,7 +1743,7 @@ msgctxt ""
 "hd_id3145590\n"
 "help.text"
 msgid "<link href=\"text/shared/01/02220000.xhp\" name=\"ImageMap\">ImageMap</link>"
-msgstr ""
+msgstr "<link href=\"text/shared/01/02220000.xhp\" name=\"ImageMap\">ផែនទីរូបភាព</link>"
 
 #. qERAx
 #: main_tools.xhp
@@ -1734,7 +1752,7 @@ msgctxt ""
 "hd_id3153248\n"
 "help.text"
 msgid "<link href=\"text/shared/01/06040000.xhp\" name=\"AutoCorrect\">AutoCorrect Options</link>"
-msgstr ""
+msgstr "<link href=\"text/shared/01/06040000.xhp\" name=\"AutoCorrect\">ជម្រើសកែស្វ័យប្រវត្តិ</link>"
 
 #. b8grv
 #: main_tools.xhp
@@ -1743,4 +1761,4 @@ msgctxt ""
 "hd_id3149130\n"
 "help.text"
 msgid "<link href=\"text/shared/01/06140000.xhp\" name=\"Customize\">Customize</link>"
-msgstr ""
+msgstr "<link href=\"text/shared/01/06140000.xhp\" name=\"Customize\">ប្តូរតាមបំណង</link>"

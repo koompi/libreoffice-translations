@@ -1,20 +1,19 @@
-#. extracted from extensions/inc
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
-"POT-Creation-Date: 2020-08-25 16:09+0200\n"
-"PO-Revision-Date: 2018-11-12 11:57+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2020-03-10 13:36+0100\n"
+"PO-Revision-Date: 2020-09-11 00:42+0700\n"
+"Last-Translator: Koompi Apps Localization\n"
 "Language: km\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Accelerator-Marker: ~\n"
-"X-Generator: LibreOffice\n"
-"X-POOTLE-MTIME: 1542023849.000000\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-POOTLE-MTIME: 1535975854.000000\n"
+"Language-Team: KOOMPI Apps Localization\n"
 
 #. cBx8W
 #: extensions/inc/command.hrc:29
@@ -36,14 +35,12 @@ msgstr "ពាក្យ​បញ្ជា SQL"
 
 #. hEBQd
 #: extensions/inc/showhide.hrc:29
-#, fuzzy
 msgctxt "RID_RSC_ENUM_SHOWHIDE"
 msgid "Hide"
 msgstr "លាក់"
 
 #. 6NMuP
 #: extensions/inc/showhide.hrc:30
-#, fuzzy
 msgctxt "RID_RSC_ENUM_SHOWHIDE"
 msgid "Show"
 msgstr "បង្ហាញ"
@@ -80,7 +77,6 @@ msgstr "ធំ"
 
 #. 5ACyV
 #: extensions/inc/stringarrays.hrc:40
-#, fuzzy
 msgctxt "RID_RSC_ENUM_BORDER_TYPE"
 msgid "Without frame"
 msgstr "គ្មាន​ស៊ុម"
@@ -93,14 +89,12 @@ msgstr "រូបរាងត្រីមាត្រ"
 
 #. zv7ER
 #: extensions/inc/stringarrays.hrc:42
-#, fuzzy
 msgctxt "RID_RSC_ENUM_BORDER_TYPE"
 msgid "Flat"
 msgstr "សំប៉ែត"
 
 #. hLCDu
 #: extensions/inc/stringarrays.hrc:47
-#, fuzzy
 msgctxt "RID_RSC_ENUM_LISTSOURCE_TYPE"
 msgid "Valuelist"
 msgstr "បញ្ជី​តម្លៃ"
@@ -127,32 +121,28 @@ msgstr "Sql"
 #: extensions/inc/stringarrays.hrc:51
 msgctxt "RID_RSC_ENUM_LISTSOURCE_TYPE"
 msgid "Sql [Native]"
-msgstr "Sql [Native]"
+msgstr "Sql [ដើម]"
 
 #. kMQfy
 #: extensions/inc/stringarrays.hrc:52
-#, fuzzy
 msgctxt "RID_RSC_ENUM_LISTSOURCE_TYPE"
 msgid "Tablefields"
 msgstr "វាល​តារាង"
 
 #. LXToU
 #: extensions/inc/stringarrays.hrc:57
-#, fuzzy
 msgctxt "RID_RSC_ENUM_ALIGNMENT"
 msgid "Left"
 msgstr "ឆ្វេង"
 
 #. GdfD5
 #: extensions/inc/stringarrays.hrc:58
-#, fuzzy
 msgctxt "RID_RSC_ENUM_ALIGNMENT"
 msgid "Center"
 msgstr "កណ្ដាល"
 
 #. CavSj
 #: extensions/inc/stringarrays.hrc:59
-#, fuzzy
 msgctxt "RID_RSC_ENUM_ALIGNMENT"
 msgid "Right"
 msgstr "ស្ដាំ"
@@ -165,35 +155,30 @@ msgstr "គ្មាន"
 
 #. FcKuk
 #: extensions/inc/stringarrays.hrc:65
-#, fuzzy
 msgctxt "RID_RSC_ENUM_BUTTONTYPE"
 msgid "Submit form"
 msgstr "ដាក់ស្នើ​សំណុំ​បែបបទ"
 
 #. sUzBS
 #: extensions/inc/stringarrays.hrc:66
-#, fuzzy
 msgctxt "RID_RSC_ENUM_BUTTONTYPE"
 msgid "Reset form"
 msgstr "កំណត់​សំណុំបែប​បទ​ឡើងវិញ"
 
 #. dvtFb
 #: extensions/inc/stringarrays.hrc:67
-#, fuzzy
 msgctxt "RID_RSC_ENUM_BUTTONTYPE"
 msgid "Open document/web page"
 msgstr "បើក​ឯកសារ​/​ទំព័រ​បណ្ដាញ"
 
 #. PfTdk
 #: extensions/inc/stringarrays.hrc:68
-#, fuzzy
 msgctxt "RID_RSC_ENUM_BUTTONTYPE"
 msgid "First record"
 msgstr "កំណត់​ត្រា​ទីមួយ"
 
 #. arZzt
 #: extensions/inc/stringarrays.hrc:69
-#, fuzzy
 msgctxt "RID_RSC_ENUM_BUTTONTYPE"
 msgid "Previous record"
 msgstr "កំណត់​ត្រា​មុន"
@@ -206,45 +191,39 @@ msgstr "កំណត់ត្រា​បន្ទាប់"
 
 #. MeCez
 #: extensions/inc/stringarrays.hrc:71
-#, fuzzy
 msgctxt "RID_RSC_ENUM_BUTTONTYPE"
 msgid "Last record"
 msgstr "កំណត់​ត្រា​ចុងក្រោយ"
 
 #. DRGF8
 #: extensions/inc/stringarrays.hrc:72
-#, fuzzy
 msgctxt "RID_RSC_ENUM_BUTTONTYPE"
 msgid "Save record"
 msgstr "រក្សាទុក​កំណត់​ត្រា"
 
 #. qA9DX
 #: extensions/inc/stringarrays.hrc:73
-#, fuzzy
 msgctxt "RID_RSC_ENUM_BUTTONTYPE"
 msgid "Undo data entry"
 msgstr "មិន​ធ្វើ​ធាតុ​ទិន្នន័យ​វិញ"
 
 #. b6Es8
 #: extensions/inc/stringarrays.hrc:74
-#, fuzzy
 msgctxt "RID_RSC_ENUM_BUTTONTYPE"
 msgid "New record"
 msgstr "កំណត់​ត្រា​ថ្មី"
 
 #. GYDro
 #: extensions/inc/stringarrays.hrc:75
-#, fuzzy
 msgctxt "RID_RSC_ENUM_BUTTONTYPE"
 msgid "Delete record"
 msgstr "លុប​កំណត់​ត្រា"
 
 #. Xr2KA
 #: extensions/inc/stringarrays.hrc:76
-#, fuzzy
 msgctxt "RID_RSC_ENUM_BUTTONTYPE"
 msgid "Refresh form"
-msgstr "ធ្វើ​ឲ្យ​សំណុំ​បែបបទ​ស្រស់"
+msgstr "​សំណុំ​បែបបទ​ថ្មី"
 
 #. 5vCEP
 #: extensions/inc/stringarrays.hrc:81
@@ -266,7 +245,6 @@ msgstr "URL"
 
 #. 3pmDf
 #: extensions/inc/stringarrays.hrc:88
-#, fuzzy
 msgctxt "RID_RSC_ENUM_SUBMIT_ENCODING"
 msgid "Multipart"
 msgstr "ផ្នែក​ច្រើន"
@@ -285,14 +263,12 @@ msgstr "ស្តង់ដារ (ខ្លី)"
 
 #. 22W6Q
 #: extensions/inc/stringarrays.hrc:95
-#, fuzzy
 msgctxt "RID_RSC_ENUM_DATEFORMAT_LIST"
 msgid "Standard (short YY)"
 msgstr "ស្តង់ដារ (YY ខ្លី)"
 
 #. HDau6
 #: extensions/inc/stringarrays.hrc:96
-#, fuzzy
 msgctxt "RID_RSC_ENUM_DATEFORMAT_LIST"
 msgid "Standard (short YYYY)"
 msgstr "ស្តង់ដារ (YYYY ខ្លី)"
@@ -305,126 +281,108 @@ msgstr "ស្តង់ដារ (វែង)"
 
 #. DmUmW
 #: extensions/inc/stringarrays.hrc:98
-#, fuzzy
 msgctxt "RID_RSC_ENUM_DATEFORMAT_LIST"
 msgid "DD/MM/YY"
 msgstr "DD/MM/YY"
 
 #. GyoSx
 #: extensions/inc/stringarrays.hrc:99
-#, fuzzy
 msgctxt "RID_RSC_ENUM_DATEFORMAT_LIST"
 msgid "MM/DD/YY"
 msgstr "MM/DD/YY"
 
 #. PHRWs
 #: extensions/inc/stringarrays.hrc:100
-#, fuzzy
 msgctxt "RID_RSC_ENUM_DATEFORMAT_LIST"
 msgid "YY/MM/DD"
 msgstr "YY/MM/DD"
 
 #. 5EDt6
 #: extensions/inc/stringarrays.hrc:101
-#, fuzzy
 msgctxt "RID_RSC_ENUM_DATEFORMAT_LIST"
 msgid "DD/MM/YYYY"
 msgstr "DD/MM/YYYY"
 
 #. FdnkZ
 #: extensions/inc/stringarrays.hrc:102
-#, fuzzy
 msgctxt "RID_RSC_ENUM_DATEFORMAT_LIST"
 msgid "MM/DD/YYYY"
 msgstr "MM/DD/YYYY"
 
 #. VATg7
 #: extensions/inc/stringarrays.hrc:103
-#, fuzzy
 msgctxt "RID_RSC_ENUM_DATEFORMAT_LIST"
 msgid "YYYY/MM/DD"
 msgstr "YYYY/MM/DD"
 
 #. rUJHq
 #: extensions/inc/stringarrays.hrc:104
-#, fuzzy
 msgctxt "RID_RSC_ENUM_DATEFORMAT_LIST"
 msgid "YY-MM-DD"
 msgstr "YY-MM-DD"
 
 #. 7vYP9
 #: extensions/inc/stringarrays.hrc:105
-#, fuzzy
 msgctxt "RID_RSC_ENUM_DATEFORMAT_LIST"
 msgid "YYYY-MM-DD"
 msgstr "YYYY-MM-DD"
 
 #. E9sny
 #: extensions/inc/stringarrays.hrc:110
-#, fuzzy
 msgctxt "RID_RSC_ENUM_TIMEFORMAT_LIST"
 msgid "13:45"
-msgstr "13:45"
+msgstr "១៣:៤៥"
 
 #. d2sW3
 #: extensions/inc/stringarrays.hrc:111
-#, fuzzy
 msgctxt "RID_RSC_ENUM_TIMEFORMAT_LIST"
 msgid "13:45:00"
-msgstr "13:45:00"
+msgstr "១៣:៤៥:00"
 
 #. v6Dq4
 #: extensions/inc/stringarrays.hrc:112
-#, fuzzy
 msgctxt "RID_RSC_ENUM_TIMEFORMAT_LIST"
 msgid "01:45 PM"
-msgstr "01:45 ល្ងាច"
+msgstr "0១:៤៥ ល្ងាច"
 
 #. dSe7J
 #: extensions/inc/stringarrays.hrc:113
-#, fuzzy
 msgctxt "RID_RSC_ENUM_TIMEFORMAT_LIST"
 msgid "01:45:00 PM"
-msgstr "01:45:00 ល្ងាច"
+msgstr "0១:៤៥:00 ល្ងាច"
 
 #. XzT95
 #: extensions/inc/stringarrays.hrc:118
-#, fuzzy
 msgctxt "RID_RSC_ENUM_CHECKED"
 msgid "Not Selected"
 msgstr "មិន​បាន​ជ្រើស"
 
 #. sJ8zY
 #: extensions/inc/stringarrays.hrc:119
-#, fuzzy
 msgctxt "RID_RSC_ENUM_CHECKED"
 msgid "Selected"
 msgstr "បាន​ជ្រើស"
 
 #. aHu75
 #: extensions/inc/stringarrays.hrc:120
-#, fuzzy
 msgctxt "RID_RSC_ENUM_CHECKED"
 msgid "Not Defined"
 msgstr "មិន​បាន​កំណត់"
 
 #. mhVDA
 #: extensions/inc/stringarrays.hrc:125
-#, fuzzy
 msgctxt "RID_RSC_ENUM_CYCLE"
 msgid "All records"
 msgstr "កំណត់​ត្រា​ទាំងអស់"
 
 #. eA5iU
 #: extensions/inc/stringarrays.hrc:126
-#, fuzzy
 msgctxt "RID_RSC_ENUM_CYCLE"
 msgid "Active record"
 msgstr "កំណត់​ត្រា​សកម្ម"
 
 #. Vkvj9
 #: extensions/inc/stringarrays.hrc:127
-#, fuzzy
 msgctxt "RID_RSC_ENUM_CYCLE"
 msgid "Current page"
 msgstr "ទំព័រ​បច្ចុប្បន្ន"
@@ -437,14 +395,12 @@ msgstr "ទេ"
 
 #. qS8rc
 #: extensions/inc/stringarrays.hrc:133
-#, fuzzy
 msgctxt "RID_RSC_ENUM_NAVIGATION"
 msgid "Yes"
 msgstr "បាទ/ចាស"
 
 #. aJXyh
 #: extensions/inc/stringarrays.hrc:134
-#, fuzzy
 msgctxt "RID_RSC_ENUM_NAVIGATION"
 msgid "Parent Form"
 msgstr "សំណុំ​បែបបទ​មេ"
@@ -453,23 +409,22 @@ msgstr "សំណុំ​បែបបទ​មេ"
 #: extensions/inc/stringarrays.hrc:139
 msgctxt "RID_RSC_ENUM_SUBMIT_TARGET"
 msgid "_blank"
-msgstr ""
+msgstr "ទទេរ"
 
 #. AcsCf
 #: extensions/inc/stringarrays.hrc:140
 msgctxt "RID_RSC_ENUM_SUBMIT_TARGET"
 msgid "_parent"
-msgstr ""
+msgstr "មេ"
 
 #. pQZAG
 #: extensions/inc/stringarrays.hrc:141
 msgctxt "RID_RSC_ENUM_SUBMIT_TARGET"
 msgid "_self"
-msgstr ""
+msgstr "ខ្លួនឯង"
 
 #. FwYDV
 #: extensions/inc/stringarrays.hrc:142
-#, fuzzy
 msgctxt "RID_RSC_ENUM_SUBMIT_TARGET"
 msgid "_top"
 msgstr "ទៅ"
@@ -488,7 +443,6 @@ msgstr "តែ​មួយ"
 
 #. EMYwE
 #: extensions/inc/stringarrays.hrc:149
-#, fuzzy
 msgctxt "RID_RSC_ENUM_SELECTION_TYPE"
 msgid "Multi"
 msgstr "ច្រើន"
@@ -501,14 +455,12 @@ msgstr "ជួរ"
 
 #. 8dCg5
 #: extensions/inc/stringarrays.hrc:155
-#, fuzzy
 msgctxt "RID_RSC_ENUM_ORIENTATION"
 msgid "Horizontal"
 msgstr "ផ្ដេក"
 
 #. Z5BR2
 #: extensions/inc/stringarrays.hrc:156
-#, fuzzy
 msgctxt "RID_RSC_ENUM_ORIENTATION"
 msgid "Vertical"
 msgstr "បញ្ឈរ"
@@ -539,49 +491,42 @@ msgstr "ជំនួយ"
 
 #. vgkaF
 #: extensions/inc/stringarrays.hrc:169
-#, fuzzy
 msgctxt "RID_RSC_ENUM_CELL_EXCHANGE_TYPE"
 msgid "The selected entry"
 msgstr "ធាតុ​ដែល​បាន​ជ្រើស"
 
 #. pEAGX
 #: extensions/inc/stringarrays.hrc:170
-#, fuzzy
 msgctxt "RID_RSC_ENUM_CELL_EXCHANGE_TYPE"
 msgid "Position of the selected entry"
 msgstr "ទីតាំង​របស់​ថត​ដែល​បាន​ជ្រើស"
 
 #. Z2Rwm
 #: extensions/inc/stringarrays.hrc:175
-#, fuzzy
 msgctxt "RID_RSC_ENUM_TEXTTYPE"
 msgid "Single-line"
 msgstr "បន្ទាត់​មួយ​"
 
 #. 7MQto
 #: extensions/inc/stringarrays.hrc:176
-#, fuzzy
 msgctxt "RID_RSC_ENUM_TEXTTYPE"
 msgid "Multi-line"
 msgstr "ពហុ​​បន្ទាត់​"
 
 #. 6D2rQ
 #: extensions/inc/stringarrays.hrc:177
-#, fuzzy
 msgctxt "RID_RSC_ENUM_TEXTTYPE"
 msgid "Multi-line with formatting"
 msgstr "ពហុ​​បន្ទាត់​​ដែល​​មាន​​​ទ្រង់​ទ្រាយ​​"
 
 #. NkEBb
 #: extensions/inc/stringarrays.hrc:182
-#, fuzzy
 msgctxt "RID_RSC_ENUM_LINEEND_FORMAT"
 msgid "LF (Unix)"
 msgstr "LF (យូនីក)"
 
 #. FfSEG
 #: extensions/inc/stringarrays.hrc:183
-#, fuzzy
 msgctxt "RID_RSC_ENUM_LINEEND_FORMAT"
 msgid "CR+LF (Windows)"
 msgstr "CR+LF (វីនដូ)"
@@ -594,21 +539,18 @@ msgstr "គ្មាន"
 
 #. ghkcH
 #: extensions/inc/stringarrays.hrc:189
-#, fuzzy
 msgctxt "RID_RSC_ENUM_SCROLLBARS"
 msgid "Horizontal"
 msgstr "ផ្ដេក"
 
 #. YNNCf
 #: extensions/inc/stringarrays.hrc:190
-#, fuzzy
 msgctxt "RID_RSC_ENUM_SCROLLBARS"
 msgid "Vertical"
 msgstr "បញ្ឈរ"
 
 #. gWynn
 #: extensions/inc/stringarrays.hrc:191
-#, fuzzy
 msgctxt "RID_RSC_ENUM_SCROLLBARS"
 msgid "Both"
 msgstr "ទាំង​ពីរ​"
@@ -621,112 +563,96 @@ msgstr "ត្រីមាត្រ"
 
 #. TFnZJ
 #: extensions/inc/stringarrays.hrc:197
-#, fuzzy
 msgctxt "RID_RSC_ENUM_VISUALEFFECT"
 msgid "Flat"
 msgstr "សំប៉ែត"
 
 #. PmSDw
 #: extensions/inc/stringarrays.hrc:202
-#, fuzzy
 msgctxt "RID_RSC_ENUM_IMAGE_POSITION"
 msgid "Left top"
-msgstr "​ឆ្វេង កំពូល"
+msgstr "កំពូល​ឆ្វេង"
 
 #. j3mHa
 #: extensions/inc/stringarrays.hrc:203
-#, fuzzy
 msgctxt "RID_RSC_ENUM_IMAGE_POSITION"
 msgid "Left centered"
-msgstr "ឆ្វេង​ កណ្តាល​"
+msgstr "កណ្តាល​​ឆ្វេង"
 
 #. FinKD
 #: extensions/inc/stringarrays.hrc:204
-#, fuzzy
 msgctxt "RID_RSC_ENUM_IMAGE_POSITION"
 msgid "Left bottom"
-msgstr "​ឆ្វេង បាត"
+msgstr "បាត​ឆ្វេង"
 
 #. EgCsU
 #: extensions/inc/stringarrays.hrc:205
-#, fuzzy
 msgctxt "RID_RSC_ENUM_IMAGE_POSITION"
 msgid "Right top"
-msgstr "​ស្តាំ កំពូល"
+msgstr "កំពូល​ស្តាំ"
 
 #. t54wS
 #: extensions/inc/stringarrays.hrc:206
-#, fuzzy
 msgctxt "RID_RSC_ENUM_IMAGE_POSITION"
 msgid "Right centered"
-msgstr "ស្តាំ​ កណ្តាល​"
+msgstr "កណ្តាល​​ស្តាំ"
 
 #. H8u3j
 #: extensions/inc/stringarrays.hrc:207
-#, fuzzy
 msgctxt "RID_RSC_ENUM_IMAGE_POSITION"
 msgid "Right bottom"
-msgstr "​ស្តាំ បាត"
+msgstr "បាត​ស្តាំ"
 
 #. jhRkY
 #: extensions/inc/stringarrays.hrc:208
-#, fuzzy
 msgctxt "RID_RSC_ENUM_IMAGE_POSITION"
 msgid "Above left"
-msgstr "លើ​ ឆ្វេង"
+msgstr "លើ​ឆ្វេង"
 
 #. dmgVh
 #: extensions/inc/stringarrays.hrc:209
-#, fuzzy
 msgctxt "RID_RSC_ENUM_IMAGE_POSITION"
 msgid "Above centered"
-msgstr "​លើ​ កណ្តាល"
+msgstr "​លើ​កណ្តាល"
 
 #. AGtAi
 #: extensions/inc/stringarrays.hrc:210
-#, fuzzy
 msgctxt "RID_RSC_ENUM_IMAGE_POSITION"
 msgid "Above right"
-msgstr "​​លើ​ ស្តាំ​"
+msgstr "​​លើ​ស្តាំ​"
 
 #. F2XCu
 #: extensions/inc/stringarrays.hrc:211
-#, fuzzy
 msgctxt "RID_RSC_ENUM_IMAGE_POSITION"
 msgid "Below left"
-msgstr "​ក្រោម ឆ្វេង"
+msgstr "​ក្រោមឆ្វេង"
 
 #. 4JdJh
 #: extensions/inc/stringarrays.hrc:212
-#, fuzzy
 msgctxt "RID_RSC_ENUM_IMAGE_POSITION"
 msgid "Below centered"
-msgstr "​​​ក្រោម​ កណ្តាល​"
+msgstr "​​​ក្រោម​កណ្តាល​"
 
 #. chEB2
 #: extensions/inc/stringarrays.hrc:213
-#, fuzzy
 msgctxt "RID_RSC_ENUM_IMAGE_POSITION"
 msgid "Below right"
-msgstr "ក្រោម ស្តាំ​"
+msgstr "ក្រោមស្តាំ​"
 
 #. GBHDS
 #: extensions/inc/stringarrays.hrc:214
-#, fuzzy
 msgctxt "RID_RSC_ENUM_IMAGE_POSITION"
 msgid "Centered"
 msgstr "កណ្តាល"
 
 #. tB6AD
 #: extensions/inc/stringarrays.hrc:219
-#, fuzzy
 msgctxt "RID_RSC_ENUM_WHITESPACE_HANDLING"
 msgid "Preserve"
 msgstr "បង្ការ"
 
 #. CABAr
 #: extensions/inc/stringarrays.hrc:220
-#, fuzzy
 msgctxt "RID_RSC_ENUM_WHITESPACE_HANDLING"
 msgid "Replace"
 msgstr "ជំនួស​"
@@ -745,14 +671,12 @@ msgstr "ទេ"
 
 #. aKBSe
 #: extensions/inc/stringarrays.hrc:227
-#, fuzzy
 msgctxt "RID_RSC_ENUM_SCALE_MODE"
 msgid "Keep Ratio"
 msgstr "រក្សាទុក​សមាមាត្រ"
 
 #. FHmy6
 #: extensions/inc/stringarrays.hrc:228
-#, fuzzy
 msgctxt "RID_RSC_ENUM_SCALE_MODE"
 msgid "Fit to Size"
 msgstr "សម​ទៅ​នឹង​ទំហំ"
@@ -771,21 +695,18 @@ msgstr "ពី​ស្ដាំ​ទៅ​ឆ្វេង"
 
 #. 4qSdq
 #: extensions/inc/stringarrays.hrc:235
-#, fuzzy
 msgctxt "RID_RSC_ENUM_WRITING_MODE"
 msgid "Use superordinate object settings"
 msgstr "ប្រើ​ការ​កំណត់​វត្ថុ​ដែល​មាន​លំដាប់​ខ្ពស់ជាង"
 
 #. LZ36B
 #: extensions/inc/stringarrays.hrc:240
-#, fuzzy
 msgctxt "RID_RSC_ENUM_WHEEL_BEHAVIOR"
 msgid "Never"
 msgstr "កុំ"
 
 #. cGY5n
 #: extensions/inc/stringarrays.hrc:241
-#, fuzzy
 msgctxt "RID_RSC_ENUM_WHEEL_BEHAVIOR"
 msgid "When focused"
 msgstr "នៅពេល​ផ្ដោត"
@@ -798,49 +719,42 @@ msgstr "ជា​និច្ច"
 
 #. kFhs9
 #: extensions/inc/stringarrays.hrc:247
-#, fuzzy
 msgctxt "RID_RSC_ENUM_TEXT_ANCHOR_TYPE"
 msgid "To Paragraph"
 msgstr "ទៅ​កថាខណ្ឌ"
 
 #. WZ2Yp
 #: extensions/inc/stringarrays.hrc:248
-#, fuzzy
 msgctxt "RID_RSC_ENUM_TEXT_ANCHOR_TYPE"
 msgid "As Character"
 msgstr "តួអក្សរ"
 
 #. CXbfQ
 #: extensions/inc/stringarrays.hrc:249
-#, fuzzy
 msgctxt "RID_RSC_ENUM_TEXT_ANCHOR_TYPE"
 msgid "To Page"
 msgstr "ទៅ​ទំព័រ"
 
 #. cQn8Y
 #: extensions/inc/stringarrays.hrc:250
-#, fuzzy
 msgctxt "RID_RSC_ENUM_TEXT_ANCHOR_TYPE"
 msgid "To Frame"
 msgstr "ទៅ​ស៊ុម"
 
 #. 5nPDY
 #: extensions/inc/stringarrays.hrc:251
-#, fuzzy
 msgctxt "RID_RSC_ENUM_TEXT_ANCHOR_TYPE"
 msgid "To Character"
 msgstr "តួអក្សរ"
 
 #. SrTFR
 #: extensions/inc/stringarrays.hrc:256
-#, fuzzy
 msgctxt "RID_RSC_ENUM_SHEET_ANCHOR_TYPE"
 msgid "To Page"
 msgstr "ទៅ​ទំព័រ"
 
 #. UyCfS
 #: extensions/inc/stringarrays.hrc:257
-#, fuzzy
 msgctxt "RID_RSC_ENUM_SHEET_ANCHOR_TYPE"
 msgid "To Cell"
 msgstr "ទៅក្រឡា"
@@ -1353,7 +1267,7 @@ msgstr "ទទឹង​"
 #: extensions/inc/strings.hrc:109
 msgctxt "RID_STR_AUTOGROW"
 msgid "Auto grow"
-msgstr ""
+msgstr "លូតលាស់ដោយស្វ័យប្រវត្តិ"
 
 #. QHhCz
 #: extensions/inc/strings.hrc:110
@@ -1557,37 +1471,37 @@ msgstr "ពេល​​​ផ្ទុក​​​ឡើង​វិញ"
 #: extensions/inc/strings.hrc:143
 msgctxt "RID_STR_EVT_MOUSEDRAGGED"
 msgid "Mouse moved while key pressed"
-msgstr "ផ្លាស់​ទី​​​កណ្តុរ​ ​ខ​ណៈពេល​​ចុច​​គ្រាប់​ចុច"
+msgstr "ផ្លាស់​ទី​​​ម៉ៅ​ ​ខ​ណៈពេល​​ចុច​​គ្រាប់​ចុច"
 
 #. BNfWE
 #: extensions/inc/strings.hrc:144
 msgctxt "RID_STR_EVT_MOUSEENTERED"
 msgid "Mouse inside"
-msgstr "កណ្តុរ​​ក្នុង"
+msgstr "ម៉ៅក្នុង"
 
 #. MgEpA
 #: extensions/inc/strings.hrc:145
 msgctxt "RID_STR_EVT_MOUSEEXITED"
 msgid "Mouse outside"
-msgstr "កណ្តុ​រ​ក្រៅ"
+msgstr "ម៉ៅក្រៅ"
 
 #. QYT5q
 #: extensions/inc/strings.hrc:146
 msgctxt "RID_STR_EVT_MOUSEMOVED"
 msgid "Mouse moved"
-msgstr "ផ្លាស់ទី​​​​​កណ្តុរ"
+msgstr "ផ្លាស់ទី​​​​​ម៉ៅ"
 
 #. GFtYU
 #: extensions/inc/strings.hrc:147
 msgctxt "RID_STR_EVT_MOUSEPRESSED"
 msgid "Mouse button pressed"
-msgstr "ចុច​​ប៊ូតុង​​កណ្តុរ"
+msgstr "ចុច​​ប៊ូតុង​​ម៉ៅ"
 
 #. wpTwF
 #: extensions/inc/strings.hrc:148
 msgctxt "RID_STR_EVT_MOUSERELEASED"
 msgid "Mouse button released"
-msgstr "​លែង​​​ប៊ូតុង​​​កណ្តុរ​"
+msgstr "​លែង​​​ប៊ូតុង​​​ម៉ៅ​"
 
 #. 8u2x3
 #: extensions/inc/strings.hrc:149
@@ -2149,73 +2063,73 @@ msgstr "(លំនាំដើម)"
 #: extensions/inc/strings.hrc:245
 msgctxt "RID_STR_URL"
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #. PZk54
 #: extensions/inc/strings.hrc:246
 msgctxt "RID_STR_SELECTIONMODEL"
 msgid "Selection Type"
-msgstr ""
+msgstr "ប្រភេទជម្រើស"
 
 #. L2RVh
 #: extensions/inc/strings.hrc:247
 msgctxt "RID_STR_USEGRIDLINE"
 msgid "Use grid line"
-msgstr ""
+msgstr "ប្រើបន្ទាត់ក្រឡាចត្រង្គ"
 
 #. DNLCM
 #: extensions/inc/strings.hrc:248
 msgctxt "RID_STR_GRIDLINECOLOR"
 msgid "Grid line color"
-msgstr ""
+msgstr "ពណ៌បន្ទាត់ក្រឡាចត្រង្គ"
 
 #. QWn2Q
 #: extensions/inc/strings.hrc:249
 msgctxt "RID_STR_SHOWCOLUMNHEADER"
 msgid "Show column header"
-msgstr ""
+msgstr "បង្ហាញក្បាលជួរឈរ"
 
 #. 3Hq4F
 #: extensions/inc/strings.hrc:250
 msgctxt "RID_STR_SHOWROWHEADER"
 msgid "Show row header"
-msgstr ""
+msgstr "បង្ហាញក្បាលជួរដេក"
 
 #. todcc
 #: extensions/inc/strings.hrc:251
 msgctxt "RID_STR_HEADERBACKGROUNDCOLOR"
 msgid "Header background color"
-msgstr ""
+msgstr "ពណ៌ផ្ទៃខាងក្រោយក្បាល"
 
 #. fkCyv
 #: extensions/inc/strings.hrc:252
 msgctxt "RID_STR_HEADERTEXTCOLOR"
 msgid "Header text color"
-msgstr ""
+msgstr "ពណ៌ក្បាលទំព័រ"
 
 #. oFyqF
 #: extensions/inc/strings.hrc:253
 msgctxt "RID_STR_ACTIVESELECTIONBACKGROUNDCOLOR"
 msgid "Active selection background color"
-msgstr ""
+msgstr "ពណ៌ផ្ទៃខាងក្រោយជម្រើសសកម្ម"
 
 #. ZJNz8
 #: extensions/inc/strings.hrc:254
 msgctxt "ID_STR_ACTIVESELECTIONTEXTCOLOR"
 msgid "Active selection text color"
-msgstr ""
+msgstr "ពណ៌អត្ថបទជម្រើសសកម្ម"
 
 #. PQiGr
 #: extensions/inc/strings.hrc:255
 msgctxt "RID_STR_INACTIVESELECTIONBACKGROUNDCOLOR"
 msgid "Inactive selection background color"
-msgstr ""
+msgstr "ពណ៌ផ្ទៃខាងក្រោយនៃជម្រើសអសកម្ម"
 
 #. p46Zf
 #: extensions/inc/strings.hrc:256
 msgctxt "RID_STR_INACTIVESELECTIONTEXTCOLOR"
 msgid "Inactive selection text color"
-msgstr ""
+msgstr "ពណ៌អត្ថបទជម្រើសអសកម្ម"
 
 #. r6Tmp
 #: extensions/inc/strings.hrc:257
@@ -2375,7 +2289,7 @@ msgstr "វាល​​​លំនាំ​​"
 #: extensions/inc/strings.hrc:284
 msgctxt "RID_STR_PROPTITLE_DBGRID"
 msgid "Table Control "
-msgstr "វត្ថុ​​​បញ្ជា​​​​តារាង ​"
+msgstr "វត្ថុ​​​បញ្ជា​​​​តារាង "
 
 #. LyDfr
 #: extensions/inc/strings.hrc:286
@@ -2640,7 +2554,7 @@ msgstr "ការ​ទាញយក​បច្ចុប្បន្ន​​ភ
 #: extensions/inc/strings.hrc:328
 msgctxt "RID_UPDATE_BUBBLE_DOWNLOADING"
 msgid "Click the icon to pause."
-msgstr ""
+msgstr "ចុចរូបតំណាងដើម្បីផ្អាក។"
 
 #. 2LH9V
 #: extensions/inc/strings.hrc:329
@@ -2694,20 +2608,19 @@ msgstr "ចុច​រូបតំណាង​​សម្រាប់​ព័
 #: extensions/inc/strings.hrc:338
 msgctxt "STR_COULD_NOT_BE_INIT"
 msgid "The SANE interface could not be initialized. Scanning is not possible."
-msgstr ""
+msgstr "ចំណុចប្រទាក់ SANE មិនអាចត្រូវបានចាប់ផ្តើមទេ។ ការស្កេនមិនអាចទៅរួចទេ។"
 
 #. AQZW2
 #: extensions/inc/strings.hrc:339
 msgctxt "STR_SLOW_PREVIEW"
 msgid "The device does not offer a preview option. Therefore, a normal scan will be used as a preview instead. This may take a considerable amount of time."
-msgstr ""
+msgstr "ឧបករណ៍មិនផ្តល់ជម្រើសមើលជាមុនទេ។ ដូច្នេះការស្កេនធម្មតានឹងត្រូវបានប្រើជាការមើលជំនួសវិញ។ វាអាចចំណាយពេលច្រើន។"
 
 #. S8o4P
 #: extensions/inc/strings.hrc:340
-#, fuzzy
 msgctxt "STR_ERROR_SCAN"
 msgid "An error occurred while scanning."
-msgstr "កំហុស​មួយ​បាន​កើត​ឡើង​ខណៈ​ពេល​បើក ៖"
+msgstr "កំហុស​មួយ​បាន​កើត​ឡើង​ខណៈ​ពេល​បើក។"
 
 #. hEFtD
 #: extensions/inc/strings.hrc:341
@@ -2718,6 +2631,10 @@ msgid ""
 "Model: %s\n"
 "Type: %s"
 msgstr ""
+"ឧបករណ៍៖ %s\n"
+"អ្នកលក់៖ %s\n"
+"គំរូ៖ %s\n"
+"ប្រភេទ៖ %s"
 
 #. mzYeP
 #: extensions/inc/strings.hrc:343
@@ -2765,7 +2682,7 @@ msgstr "ប័ណ្ណ​​ផ្សាយ​​ពាណិជ្ជ​កម
 #: extensions/inc/strings.hrc:351
 msgctxt "ST_TYPE_CONFERENCE"
 msgid "Conference proceedings article (BiBTeX)"
-msgstr ""
+msgstr "អត្ថបទកិច្ចដំណើរការនីតិវិធីសន្និសីទ (BiBTeX)"
 
 #. ntDkF
 #: extensions/inc/strings.hrc:352
@@ -2783,7 +2700,7 @@ msgstr "សេចក្តី​​​ដក​ស្រង់​​​ពី​
 #: extensions/inc/strings.hrc:354
 msgctxt "ST_TYPE_INPROCEEDINGS"
 msgid "Conference proceedings article"
-msgstr ""
+msgstr "អត្ថបទកិច្ចដំណើរការនីតិវិធីសន្និសីទ"
 
 #. 3d3D8
 #: extensions/inc/strings.hrc:355
@@ -2837,7 +2754,7 @@ msgstr "មិន​​បាន​​បោះ​​ពុម្ព​​ផ្
 #: extensions/inc/strings.hrc:363
 msgctxt "ST_TYPE_EMAIL"
 msgid "Email"
-msgstr ""
+msgstr "អុីម៉ែល"
 
 #. DQX8t
 #: extensions/inc/strings.hrc:364
@@ -2849,31 +2766,31 @@ msgstr "ឯកសារ​​ WWW"
 #: extensions/inc/strings.hrc:365
 msgctxt "ST_TYPE_CUSTOM1"
 msgid "User-defined1"
-msgstr "​កំណត់​​​ដោយ​​​អ្នក​​ប្រើ ១"
+msgstr "​កំណត់​​​ដោយ​​​អ្នក​​ប្រើ ទី១"
 
 #. x5LCm
 #: extensions/inc/strings.hrc:366
 msgctxt "ST_TYPE_CUSTOM2"
 msgid "User-defined2"
-msgstr "​កំណត់​​​ដោយ​​​អ្នក​​ប្រើ ២"
+msgstr "​កំណត់​​​ដោយ​​​អ្នក​​ប្រើ ទី២"
 
 #. SbEEw
 #: extensions/inc/strings.hrc:367
 msgctxt "ST_TYPE_CUSTOM3"
 msgid "User-defined3"
-msgstr "​កំណត់​​ដោយ​​អ្នក​​ប្រើ ៣"
+msgstr "​កំណត់​​ដោយ​​អ្នក​​ប្រើ ទី៣"
 
 #. s4ffr
 #: extensions/inc/strings.hrc:368
 msgctxt "ST_TYPE_CUSTOM4"
 msgid "User-defined4"
-msgstr "​កំណត់​​ដោយ​អ្នក​​ប្រើ ៤"
+msgstr "​កំណត់​​ដោយ​អ្នក​​ប្រើ ទី៤"
 
 #. ZgVkp
 #: extensions/inc/strings.hrc:369
 msgctxt "ST_TYPE_CUSTOM5"
 msgid "User-defined5"
-msgstr "​កំណត់​​ដោយ​​អ្នក​​ប្រើ ៥"
+msgstr "​កំណត់​​ដោយ​​អ្នក​​ប្រើ ទី៥"
 
 #. TNvqv
 #: extensions/inc/strings.hrc:370
@@ -2891,7 +2808,7 @@ msgstr "អ្នក​​​ជំនួយ​​​ការ​​​ប្រ
 #: extensions/inc/strings.hrc:373
 msgctxt "RID_STR_SELECT_ABTYPE"
 msgid "Address Book Type"
-msgstr ""
+msgstr "ប្រភេទសៀវភៅអាសយដ្ឋាន"
 
 #. bB7Gx
 #: extensions/inc/strings.hrc:374
@@ -2903,7 +2820,7 @@ msgstr "​កំណត់ការ​​​​ត​ភ្ជាប់​"
 #: extensions/inc/strings.hrc:375
 msgctxt "RID_STR_TABLE_SELECTION"
 msgid "Table Selection"
-msgstr ""
+msgstr "ការជ្រើសរើសតារាង"
 
 #. cwcQa
 #: extensions/inc/strings.hrc:376
@@ -2925,7 +2842,6 @@ msgstr "សូម​​ជ្រើស​​ប្រភេទ​​សៀវ​
 
 #. DYKQN
 #: extensions/inc/strings.hrc:379
-#, fuzzy
 msgctxt "RID_STR_QRY_NOTABLES"
 msgid ""
 "The data source does not contain any tables.\n"
@@ -2936,13 +2852,12 @@ msgstr ""
 
 #. SrEGe
 #: extensions/inc/strings.hrc:380
-#, fuzzy
 msgctxt "RID_STR_QRY_NO_EVO_GW"
 msgid ""
 "You don't seem to have any GroupWise account configured in Evolution.\n"
 "Do you want to set it up as an address data source, anyway?"
 msgstr ""
-"អ្នក​ដូចជា​មិន​មាន​គណនី GroupWise ណាមួយ​ដែល​បាន​កំណត់​រចនាសម្ព័ន្ធ​នៅ​ក្នុង Evolution ទេ ។\n"
+"អ្នក​ដូចជា​មិន​មាន​គណនី GroupWise ណាមួយ​ដែល​បាន​កំណត់​រចនាសម្ព័ន្ធ​នៅ​ក្នុង ការវិវត្តន៍ ទេ ។\n"
 "ទោះជា​យ៉ាងណា តើ​អ្នក​ចង់​រៀបចំ​វា​ជា​ប្រភព​ទិន្នន័យ​អាសយដ្ឋាន​ដែរ​ឬទេ ?"
 
 #. NAMjn
@@ -2985,7 +2900,7 @@ msgid ""
 msgstr ""
 "គ្មាន​​វាល​​​ត្រូវ​​បាន​​ផ្តល់​​​នៅ​​ពេល​​នេះ​ ។ ​\n"
 "​អ្នក​​អាច​​ផ្តល់​​​វាល​​​ឥឡូវនេះ​​ ​ឬ​ពេល​ក្រោយ​ ​ដោយ​​ដំបូងជ្រើស ៖ \n"
-" \"ឯកសារ - ពុម្ព - ប្រភព​សៀវភៅ​អា​សយ​ដ្ឋាន...\" "
+" \"ឯកសារ - ពុម្ព - ប្រភព​សៀវភៅ​អា​សយ​ដ្ឋាន...\""
 
 #. kg8vp
 #: extensions/inc/strings.hrc:388
@@ -3045,27 +2960,25 @@ msgstr "មិន​អាចបង្កើត​ការ​តភ្ជាប
 #: extensions/inc/strings.hrc:399
 msgctxt "RID_STR_DATEPOSTFIX"
 msgid " (Date)"
-msgstr "(កាល​បរិច្ឆេទ)"
+msgstr " (កាល​បរិច្ឆេទ)"
 
 #. FVeYy
 #: extensions/inc/strings.hrc:400
 msgctxt "RID_STR_TIMEPOSTFIX"
 msgid " (Time)"
-msgstr "(ពេល​វេលា)"
+msgstr " (ពេល​វេលា)"
 
 #. XPCgZ
 #: extensions/inc/strings.hrc:402
-#, fuzzy
 msgctxt "RID_STR_FIELDINFO_COMBOBOX"
 msgid "The contents of the field selected will be shown in the combo box list."
-msgstr "មាតិកា​​​របស់​​​វាល​​​ដែល​បាន​ជ្រើស ​នឹង​​​ត្រូវ​​បង្ហាញ​​ក្នុង​​បញ្ជី​​ប្រអប់បន្សំ ។"
+msgstr "មាតិកា​​​របស់​​​វាល​​​ដែល​បាន​ជ្រើស ​នឹង​​​ត្រូវ​​បង្ហាញ​​ក្នុង​​បញ្ជី​​ប្រអប់បន្សំ។"
 
 #. 3XqRi
 #: extensions/inc/strings.hrc:403
-#, fuzzy
 msgctxt "RID_STR_FIELDINFO_LISTBOX"
 msgid "The contents of the selected field will be shown in the list box if the linked fields are identical."
-msgstr "មាតិកា​របស់​វាល​ដែល​បាន​ជ្រើស ​នឹង​ត្រូវ​​បាន​បង្ហាញ​​ក្នុង​​​ប្រអប់​បញ្ជី ​ប្រសិនបើ​វាល​​​ដែល​បាន​ត​ភ្ជាប់​​​​​​ដូចគ្នា ។"
+msgstr "មាតិកា​របស់​វាល​ដែល​បាន​ជ្រើស ​នឹង​ត្រូវ​​បាន​បង្ហាញ​​ក្នុង​​​ប្រអប់​បញ្ជី ​ប្រសិនបើ​វាល​​​ដែល​បាន​ត​ភ្ជាប់​​​​​​ដូចគ្នា។"
 
 #. sy3UG
 #: extensions/inc/strings.hrc:404
@@ -3087,21 +3000,18 @@ msgstr "ទេ"
 
 #. QDUNB
 #: extensions/inc/yesno.hrc:30
-#, fuzzy
 msgctxt "RID_RSC_ENUM_YESNO"
 msgid "Yes"
 msgstr "បាទ/ចាស"
 
 #. cBnXC
 #: extensions/uiconfig/sabpilot/ui/contentfieldpage.ui:42
-#, fuzzy
 msgctxt "contentfieldpage|label1"
 msgid "Existing fields"
 msgstr "វាល​​​​​ដែល​​​​មាន​​ស្រាប់"
 
 #. pa3Dg
 #: extensions/uiconfig/sabpilot/ui/contentfieldpage.ui:114
-#, fuzzy
 msgctxt "contentfieldpage|label3"
 msgid "Display field"
 msgstr "បង្ហាញ​​​​វាល​"
@@ -3126,14 +3036,12 @@ msgstr "មាតិកា​"
 
 #. 7DaPr
 #: extensions/uiconfig/sabpilot/ui/contenttablepage.ui:131
-#, fuzzy
 msgctxt "contenttablepage|formsettings"
 msgid "Form"
 msgstr "សំណុំ​​បែបបទ"
 
 #. cyVXt
 #: extensions/uiconfig/sabpilot/ui/contenttablepage.ui:175
-#, fuzzy
 msgctxt "contenttablepage|label3"
 msgid ""
 "On the right side, you see all the tables from the data source of the form.\n"
@@ -3148,7 +3056,6 @@ msgstr ""
 
 #. ovzSX
 #: extensions/uiconfig/sabpilot/ui/contenttablepage.ui:242
-#, fuzzy
 msgctxt "contenttablepage|label2"
 msgid "Control"
 msgstr "វត្ថុ​បញ្ជា"
@@ -3169,11 +3076,10 @@ msgstr ""
 #: extensions/uiconfig/sabpilot/ui/datasourcepage.ui:41
 msgctxt "datasourcepage|embed"
 msgid "Embed this address book definition into the current document."
-msgstr ""
+msgstr "បង្កប់អត្ថន័យសៀវភៅអាសយដ្ឋាននេះទៅក្នុងឯកសារបច្ចុប្បន្ន។"
 
 #. jcF56
 #: extensions/uiconfig/sabpilot/ui/datasourcepage.ui:64
-#, fuzzy
 msgctxt "datasourcepage|locationft"
 msgid "Location"
 msgstr "ទីតាំង"
@@ -3184,74 +3090,41 @@ msgctxt "datasourcepage|browse"
 msgid "Browse..."
 msgstr "រក​មើល​..."
 
-#. apVFE
-#: extensions/uiconfig/sabpilot/ui/datasourcepage.ui:83
-msgctxt "datasourcepage|extended_tip|browse"
-msgid "Specifies the location using a file dialog."
-msgstr "បញ្ជាក់​​លម្អិត​ទីតាំង​ដោយ​ប្រើ​ប្រអប់​ឯកសារ​មួយ ។"
-
-#. 7P3GP
-#: extensions/uiconfig/sabpilot/ui/datasourcepage.ui:106
-msgctxt "datasourcepage|extended_tip|location"
-msgid "Specifies the location of the database file."
-msgstr "បញ្ជាក់លម្អិត​ទីតាំង​របស់​ឯកសារ​មូលដ្ឋាន​ទិន្នន័យ ។"
-
 #. 6LtJa
-#: extensions/uiconfig/sabpilot/ui/datasourcepage.ui:123
+#: extensions/uiconfig/sabpilot/ui/datasourcepage.ui:113
 msgctxt "datasourcepage|available"
 msgid "Make this address book available to all modules in %PRODUCTNAME."
 msgstr "ធ្វើ​​ឲ្យ​​សៀវភៅ​អាសយដ្ឋាន​​​​នេះ​​​ អាច​​ប្រើ​​បាន​ចំពោះ​​គ្រប់​​ម៉ូឌុល​​ទាំង​​អស់​​ក្នុង​​ %PRODUCTNAME ។"
 
-#. F3UzV
-#: extensions/uiconfig/sabpilot/ui/datasourcepage.ui:132
-msgctxt "datasourcepage|extended_tip|available"
-msgid "Registers the newly created database file in %PRODUCTNAME. The database will then be listed in the Data sources pane (Ctrl+Shift+F4). If this check box is cleared, the database will be available only by opening the database file."
-msgstr ""
-
 #. jbrum
-#: extensions/uiconfig/sabpilot/ui/datasourcepage.ui:163
+#: extensions/uiconfig/sabpilot/ui/datasourcepage.ui:148
 msgctxt "datasourcepage|nameft"
 msgid "Address book name"
 msgstr "ឈ្មោះ​សៀវភៅ​អាសយដ្ឋាន"
 
-#. EhAjb
-#: extensions/uiconfig/sabpilot/ui/datasourcepage.ui:181
-msgctxt "datasourcepage|extended_tip|name"
-msgid "Specifies the data source name."
-msgstr "បញ្ជាក់លម្អិត​ឈ្មោះ​ប្រភព​ទិន្នន័យ ។"
-
 #. iHrkL
-#: extensions/uiconfig/sabpilot/ui/datasourcepage.ui:200
+#: extensions/uiconfig/sabpilot/ui/datasourcepage.ui:180
 msgctxt "datasourcepage|warning"
 msgid "Another data source already has this name. As data sources have to have globally unique names, you need to choose another one."
 msgstr "ប្រភព​​​ទិន្នន័យ​​​ផ្សេង​​​ទៀត​​​មាន​​ឈ្មោះ​​នេះ​​ហើយ។ ​ដោយ​​​សារ​​ប្រភព​​ទិន្នន័យ​​ត្រូវ​​មាន​​ឈ្មោះ​​តែ​មួយ​គត់​​ អ្នក​​ចាំ​បាច់​​ត្រូវ​​ជ្រើស​​ឈ្មោះ​​ថ្មី​​មួយ​​ទៀត​។"
 
-#. 6ZBG5
-#: extensions/uiconfig/sabpilot/ui/datasourcepage.ui:233
-msgctxt "datasourcepage|extended_tip|DataSourcePage"
-msgid "Specifies a location for the address book file and a name under which the data source will be listed in the data source explorer."
-msgstr "បញ្ជាក់​ទីតាំង​សម្រាប់​ឯកសារសៀវភៅ​អាសយដ្ឋាន និង ឈ្មោះ​នៅក្រោម​ទីតាំងណា​មួយ​ដែល​ប្រភពទិន្នន័យ​ដែលនឹងត្រូវបានរាយ​នៅក្នុង​​​កម្មវិធី​រុករក​ប្រភព​ទិន្នន័យ ។"
-
 #. CWNrs
 #: extensions/uiconfig/sabpilot/ui/defaultfieldselectionpage.ui:18
-#, fuzzy
 msgctxt "defaultfieldselectionpage|label1"
 msgid "Should one option field be selected as a default?"
 msgstr "តើ​​​វាល​​​​ជម្រើស​​​មួយ​ ​​គួរ​​តែ​​​ត្រូវ​​​បាន​​​ជ្រើស​​​ជា​​​លំនាំ​ដើម​​​ឬទេ ?​"
 
 #. aoU8V
 #: extensions/uiconfig/sabpilot/ui/defaultfieldselectionpage.ui:39
-#, fuzzy
 msgctxt "defaultfieldselectionpage|defaultselectionyes"
 msgid "_Yes, the following:"
-msgstr "បាទ ​ដូច​ខាង​ក្រោម​នេះ​ ៖ "
+msgstr "បាទ ​ដូច​ខាង​ក្រោម​នេះ​ ៖"
 
 #. gWYi6
 #: extensions/uiconfig/sabpilot/ui/defaultfieldselectionpage.ui:80
-#, fuzzy
 msgctxt "defaultfieldselectionpage|defaultselectionno"
 msgid "No, one particular field is not going to be selected."
-msgstr "ទេ​​ ​គ្មាន​​​វាល​​​​ពិសេស​​​ណា​​មួយ​​ ​នឹង​​​ត្រូវ​​​បាន​​​ជ្រើស​​​ឡើយ​ ។​​"
+msgstr "ទេ​​ ​គ្មាន​​​វាល​​​​ពិសេស​​​ណា​​មួយ​​ ​នឹង​​​ត្រូវ​​​បាន​​​ជ្រើស​​​ឡើយ​។​​"
 
 #. CiCym
 #: extensions/uiconfig/sabpilot/ui/fieldassignpage.ui:14
@@ -3265,7 +3138,7 @@ msgid ""
 msgstr ""
 "ដើម្បី​​បញ្ចូល​​ទិន្នន័យ​​អាសយដ្ឋាន​​​ក្នុង​​ពុម្ព​​របស់​​អ្នក​ %PRODUCTNAME ត្រូវ​ដឹង​​វាល​​មួយ​ណា​ ​មាន​ទិន្នន័យ​​បែប​ណា ។\n"
 "\n"
-"ឧទាហរណ៍​  អ្នក​​​អាច​​​រក្សា​​ទុក​​​អាសយដ្ឋាន​​​អ៊ីមែល​​ ក្នុង​វាល​​ដែល​មាន​ឈ្មោះ \"អ៊ីមែល\" ឬ​\"អ.ម.\" ​ឬ ​អ្វី​មួយ​​ដែល​​ខុស​​ពី​នេះ​ទាំង​ស្រុង ។​\n"
+"ឧទាហរណ៍​  អ្នក​​​អាច​​​រក្សា​​ទុក​​​អាសយដ្ឋាន​​​អ៊ីមែល​​ ក្នុង​វាល​​ដែល​មាន​ឈ្មោះ \"អ៊ីមែល\" ឬ​ \"EM\" ​ឬ ​អ្វី​មួយ​​ដែល​​ខុស​​ពី​នេះ​ទាំង​ស្រុង ។​\n"
 "\n"
 "ចុច​​ប៊ូតុង​​ខាងក្រោម​ ​ដើម្បី​​បើក​​ប្រអប់​​មួយ​​ផ្សេង​ទៀត​​​ ដែល​អ្នក​អាច​​បញ្ចូល​ការកំណត់​​​ សម្រាប់​ប្រភព​ទិន្នន័យ​របស់​អ្នក។"
 
@@ -3275,35 +3148,20 @@ msgctxt "fieldassignpage|assign"
 msgid "Field Assignment"
 msgstr "ការ​ផ្ដល់​​​តម្លៃ​​​ឲ្យ​​​វាល​"
 
-#. 94fxb
-#: extensions/uiconfig/sabpilot/ui/fieldassignpage.ui:45
-msgctxt "fieldassignpage|extended_tip|assign"
-msgid "Opens the Templates: Address Book Assignment dialog."
-msgstr "បើកប្រអប់​ ពុម្ព ៖ ការ​ផ្តល់​តម្លៃ​ឲ្យ​សៀវភៅ​អាស័យ​ដ្ឋាន ។"
-
-#. CuPoK
-#: extensions/uiconfig/sabpilot/ui/fieldassignpage.ui:76
-msgctxt "fieldassignpage|extended_tip|FieldAssignPage"
-msgid "Opens a dialog that allows you to specify the field assignment."
-msgstr "បើក​ប្រអប់​មួយ​ ដែល​អនុញ្ញាត​ឲ្យ​អ្នក​បញ្ជាក់​​​ការ​ផ្តល់​ឲ្យ​វាល​​ ។​"
-
 #. j8AYS
 #: extensions/uiconfig/sabpilot/ui/fieldlinkpage.ui:17
-#, fuzzy
 msgctxt "fieldlinkpage|desc"
 msgid "This is where you select fields with matching contents so that the value from the display field will be shown."
-msgstr "នេះ​​គឺ​ជា​​កន្លែង​​ដែល​​អ្នក​​ជ្រើស​ក្រឡា​ទទឹង​​ ដែល​​មាន​​មាតិកា​​ដូចគ្នា​ ​ដូច្នេះ​​តម្លៃ​​ពី​​វាល​​​បង្ហាញ​​ នឹង​​ត្រូវ​​បាន​​បង្ហាញ ។"
+msgstr "នេះ​​គឺ​ជា​​កន្លែង​​ដែល​​អ្នក​​ជ្រើស​ក្រឡា​ទទឹង​​ ដែល​​មាន​​មាតិកា​​ដូចគ្នា​ ​ដូច្នេះ​​តម្លៃ​​ពី​​វាល​​​បង្ហាញ​​ នឹង​​ត្រូវ​​បាន​​បង្ហាញ។"
 
 #. cWGwU
 #: extensions/uiconfig/sabpilot/ui/fieldlinkpage.ui:55
-#, fuzzy
 msgctxt "fieldlinkpage|label2"
 msgid "Field from the _Value Table"
-msgstr "វាល​ពី​​តារាង​​តម្លៃ "
+msgstr "វាល​ពី​​តារាង​​តម្លៃ"
 
 #. rp7PU
 #: extensions/uiconfig/sabpilot/ui/fieldlinkpage.ui:104
-#, fuzzy
 msgctxt "fieldlinkpage|label3"
 msgid "Field from the _List Table"
 msgstr "វាល​ពី​​តារាង​​​បញ្ជី ​"
@@ -3328,21 +3186,18 @@ msgstr "មាតិកា​"
 
 #. yhVwQ
 #: extensions/uiconfig/sabpilot/ui/gridfieldsselectionpage.ui:152
-#, fuzzy
 msgctxt "gridfieldsselectionpage|formsettings"
 msgid "Form"
 msgstr "សំណុំ​​បែបបទ"
 
 #. fPEjf
 #: extensions/uiconfig/sabpilot/ui/gridfieldsselectionpage.ui:232
-#, fuzzy
 msgctxt "gridfieldsselectionpage|label3"
 msgid "Selected fields"
 msgstr "វាល​​​​ដែល​​​បាន​​​ជ្រើស​"
 
 #. FGByi
 #: extensions/uiconfig/sabpilot/ui/gridfieldsselectionpage.ui:256
-#, fuzzy
 msgctxt "gridfieldsselectionpage|fieldright"
 msgid "->"
 msgstr "->"
@@ -3351,30 +3206,28 @@ msgstr "->"
 #: extensions/uiconfig/sabpilot/ui/gridfieldsselectionpage.ui:269
 msgctxt "gridfieldsselectionpage|allfieldsright"
 msgid "=>>"
-msgstr ""
+msgstr "=>>"
 
 #. SRogG
 #: extensions/uiconfig/sabpilot/ui/gridfieldsselectionpage.ui:296
 msgctxt "gridfieldsselectionpage|fieldleft"
 msgid "<-"
-msgstr ""
+msgstr "<-"
 
 #. crA2q
 #: extensions/uiconfig/sabpilot/ui/gridfieldsselectionpage.ui:309
 msgctxt "gridfieldsselectionpage|allfieldsleft"
 msgid "<<="
-msgstr ""
+msgstr "<<="
 
 #. 25yKb
 #: extensions/uiconfig/sabpilot/ui/gridfieldsselectionpage.ui:378
-#, fuzzy
 msgctxt "gridfieldsselectionpage|label1"
 msgid "Existing fields"
 msgstr "វាល​​​​​ដែល​​​​មាន​​ស្រាប់"
 
 #. ToNEj
 #: extensions/uiconfig/sabpilot/ui/gridfieldsselectionpage.ui:398
-#, fuzzy
 msgctxt "gridfieldsselectionpage|label2"
 msgid "Table element"
 msgstr "ធាតុ​​​​​​​​របស់​តារាង​"
@@ -3399,40 +3252,36 @@ msgstr "មាតិកា​"
 
 #. EJE6S
 #: extensions/uiconfig/sabpilot/ui/groupradioselectionpage.ui:132
-#, fuzzy
 msgctxt "groupradioselectionpage|formsettings"
 msgid "Form"
 msgstr "សំណុំ​​បែបបទ"
 
 #. jePf2
 #: extensions/uiconfig/sabpilot/ui/groupradioselectionpage.ui:214
-#, fuzzy
 msgctxt "groupradioselectionpage|label3"
 msgid "_Option fields"
-msgstr "វាល​​​​ជម្រើស "
+msgstr "វាល​​​​ ជម្រើស"
 
 #. CYqUP
 #: extensions/uiconfig/sabpilot/ui/groupradioselectionpage.ui:234
 msgctxt "groupradioselectionpage|toright"
 msgid "_>>"
-msgstr ""
+msgstr ">>"
 
 #. HZc38
 #: extensions/uiconfig/sabpilot/ui/groupradioselectionpage.ui:248
 msgctxt "groupradioselectionpage|toleft"
 msgid "_<<"
-msgstr ""
+msgstr "<<"
 
 #. HYXrA
 #: extensions/uiconfig/sabpilot/ui/groupradioselectionpage.ui:282
-#, fuzzy
 msgctxt "groupradioselectionpage|label1"
 msgid "Which _names do you want to give the option fields?"
-msgstr "តើ​​​ឈ្មោះ​​​​ណា​មួ​យ​​​​ដែល​​​​អ្នក​​​​ចង់​​​ផ្តល់​ទៅ​​​​ឲ្យ​​​​វាល​ជម្រើស ? "
+msgstr "តើ​​​ឈ្មោះ​​​​ណា​មួ​យ​​​​ដែល​​​​អ្នក​​​​ចង់​​​ផ្តល់​ទៅ​​​​ឲ្យ​​​​វាល​ជម្រើស ?"
 
 #. 4skyv
 #: extensions/uiconfig/sabpilot/ui/groupradioselectionpage.ui:307
-#, fuzzy
 msgctxt "groupradioselectionpage|label2"
 msgid "Table element"
 msgstr "ធាតុ​​​​​​​​របស់​តារាង​"
@@ -3455,14 +3304,8 @@ msgctxt "invokeadminpage|settings"
 msgid "Settings"
 msgstr "ការ​កំណត់"
 
-#. GNt8z
-#: extensions/uiconfig/sabpilot/ui/invokeadminpage.ui:42
-msgctxt "invokeadminpage|extended_tip|settings"
-msgid "Calls a dialog in which you can enter additional settings."
-msgstr "ហៅ​ប្រអប់​មួយ​ ដែល​​អ្នក​អាច​បញ្ចូល​ការ​កំណត់​បន្ថែម​ ។"
-
 #. CAjBt
-#: extensions/uiconfig/sabpilot/ui/invokeadminpage.ui:55
+#: extensions/uiconfig/sabpilot/ui/invokeadminpage.ui:50
 msgctxt "invokeadminpage|warning"
 msgid ""
 "The connection to the data source could not be established.\n"
@@ -3471,67 +3314,53 @@ msgstr ""
 "មិន​អាច​បង្កើត​ការ​តភ្ជាប់​ទៅ​ប្រភព​ទិន្នន័យ​បាន ។\n"
 "មុន​ពេល​អ្នក​ដំណើរការ សូម​ពិនិត្យ​មើល​ការ​កំណត់​ដែល​បាន​ធ្វើ​ឡើង ឬ​(នៅ​ទំព័រ​មុន) ជ្រើស​ប្រភេទ​ប្រភព​ទិន្នន័យ​អាសយដ្ឋាន​ផ្សេង​ទៀត។"
 
-#. BgCsQ
-#: extensions/uiconfig/sabpilot/ui/invokeadminpage.ui:75
-msgctxt "invokeadminpage|extended_tip|InvokeAdminPage"
-msgid "Allows you to enter additional settings for LDAP address data and other external data sources."
-msgstr "អនុញ្ញាត​ឲ្យអ្នក​បញ្ចូល​ការកំណត់​បន្ថែម​សម្រាប់ទិន្នន័យអាសយដ្ឋាន LDAP និង ប្រភពទិន្នន័យ​ខាងក្រៅ ។"
-
 #. MdQKb
 #: extensions/uiconfig/sabpilot/ui/optiondbfieldpage.ui:41
-#, fuzzy
 msgctxt "optiondbfieldpage|label1"
 msgid "Do you want to save the value in a database field?"
 msgstr "តើ​​អ្នក​​ចង់​​រ​ក្សា​ទុក​​តម្លៃ​ ​ក្នុង​​វាល​​​មូលដ្ឋាន​​​ទិន្នន័យ​​ឬទេ ?"
 
 #. wh2jE
 #: extensions/uiconfig/sabpilot/ui/optiondbfieldpage.ui:64
-#, fuzzy
 msgctxt "optiondbfieldpage|yesRadiobutton"
 msgid "_Yes, I want to save it in the following database field:"
-msgstr "​បាទ! ខ្ញុំ​ចង់​រក្សាទុក​វា​ ក្នុង​វាល​​មូលដ្ឋាន​ទិន្នន័យ​ដូច​ខាង​ក្រោម​ ៖ "
+msgstr "​បាទ! ខ្ញុំ​ចង់​រក្សាទុក​វា​ ក្នុង​វាល​​មូលដ្ឋាន​ទិន្នន័យ​ដូច​ខាង​ក្រោម​ ៖"
 
 #. Kw48Z
 #: extensions/uiconfig/sabpilot/ui/optiondbfieldpage.ui:80
-#, fuzzy
 msgctxt "optiondbfieldpage|noRadiobutton"
 msgid "_No, I only want to save the value in the form."
-msgstr "ទេ !​​ ខ្ញុំ​​ចង់​រក្សាទុក​តម្លៃ តែ​​ក្នុង​សំណុំ​បែបបទ​ប៉ុណ្ណោះ ។"
+msgstr "ទេ !​​ ខ្ញុំ​​ចង់​រក្សាទុក​តម្លៃ តែ​​ក្នុង​សំណុំ​បែបបទ​ប៉ុណ្ណោះ។"
 
 #. 7BkQQ
 #: extensions/uiconfig/sabpilot/ui/optionsfinalpage.ui:18
-#, fuzzy
 msgctxt "optionsfinalpage|label1"
 msgid "Which _caption is to be given to your option group?"
 msgstr "តើ​​​ចំណង​​​​ជើង​​​ណា​​មួយ​​ ដែល​​​​ត្រូវ​​ផ្តល់ទៅ​​ឲ្យ​​ក្រុម​​ជម្រើស​​​របស់​​​អ្នក ? ​"
 
 #. aDe59
 #: extensions/uiconfig/sabpilot/ui/optionsfinalpage.ui:48
-#, fuzzy
 msgctxt "optionsfinalpage|label2"
 msgid "These were all details needed to create the option group."
-msgstr "ទាំង​នេះ​​​គឺ​​​ជា​​​សេចក្តី​​​​លម្អិត​ទាំងអស់​​​ដែល​​​ចាំបាច់​​ ​ដើម្បី​បង្កើត​​ក្រុម​​ជម្រើស​ ។​"
+msgstr "ទាំង​នេះ​​​គឺ​​​ជា​​​សេចក្តី​​​​លម្អិត​ទាំងអស់​​​ដែល​​​ចាំបាច់​​ ​ដើម្បី​បង្កើត​​ក្រុម​​ជម្រើស​។​"
 
 #. Wcsuy
 #: extensions/uiconfig/sabpilot/ui/optionvaluespage.ui:35
-#, fuzzy
 msgctxt "optionvaluespage|label1"
 msgid "When you select an option, the option group is given a specific value."
-msgstr "ពេល​​អ្នក​​​ជ្រើស​​ជម្រើស​​មួយ  ក្រុម​​ជម្រើស​​ត្រូវ​​បាន​​ផ្តល់​​តម្លៃ​​ជាក់​លាក់​​មួយ​ ​​។"
+msgstr "ពេល​​អ្នក​​​ជ្រើស​​ជម្រើស​​មួយ  ក្រុម​​ជម្រើស​​ត្រូវ​​បាន​​ផ្តល់​​តម្លៃ​​ជាក់​លាក់​​មួយ​។"
 
 #. XA4df
 #: extensions/uiconfig/sabpilot/ui/optionvaluespage.ui:58
-#, fuzzy
 msgctxt "optionvaluespage|label2"
 msgid "Which _value do you want to assign to each option?"
-msgstr "តើ​​តម្លៃ​​ណា​មួយ​​ដែល​​អ្នក​​ចង់​​ផ្តល់​​ទៅ​​ជម្រើស​​នីមួយៗ ​?​ "
+msgstr "តើ​​តម្លៃ​​ណា​មួយ​​ដែល​​អ្នក​​ចង់​​ផ្តល់​​ទៅ​​ជម្រើស​​នីមួយៗ ​?​"
 
 #. qGELF
 #: extensions/uiconfig/sabpilot/ui/optionvaluespage.ui:106
-#, fuzzy
 msgctxt "optionvaluespage|label3"
 msgid "_Option fields"
-msgstr "វាល​​​​ជម្រើស "
+msgstr "វាល​​​​ជម្រើស"
 
 #. AneBw
 #: extensions/uiconfig/sabpilot/ui/selecttablepage.ui:22
@@ -3542,18 +3371,6 @@ msgid ""
 msgstr ""
 "ប្រ​ភព​​​​ទិន្នន័យ​​​​​ខាង​​ក្រៅ​​​​ដែល​​​​អ្នក​​​​បាន​​​​ជ្រើស ​​​​​មាន​​​​សៀវភៅ​អាសយដ្ឋាន​លើស​ពី​មួយ។\n"
 "សូម​ជ្រើស​​ប្រភព​ទិន្នន័យ​មួយ​ដែល​អ្នក​ចង់​ធ្វើ​ដំណើរការ៖"
-
-#. YkkV4
-#: extensions/uiconfig/sabpilot/ui/selecttablepage.ui:76
-msgctxt "selecttablepage|extended_tip|table"
-msgid "Specifies the table that is to serve as the address book for the %PRODUCTNAME templates."
-msgstr "បញ្ជាក់​​តារាង​ ដែល​ត្រូវ​​​ប្រើ​ជា​សៀវ​ភៅ​អាស័យ​ដ្ឋាន​សម្រាប់​ពុម្ព​  %PRODUCTNAME ។​"
-
-#. F6ySC
-#: extensions/uiconfig/sabpilot/ui/selecttablepage.ui:89
-msgctxt "selecttablepage|extended_tip|SelectTablePage"
-msgid "Specifies a table from the Seamonkey / Netscape address book source that is used as the address book in %PRODUCTNAME."
-msgstr "បញ្ជាក់​តារាង​ពី​ប្រភព​សៀវភៅ​អាសយដ្ឋាន Seamonkey / Netscape ដែល​ត្រូវ​បាន​ប្រើ​ជា​សៀវភៅ​អាសយដ្ឋាន​នៅ​ក្នុង %PRODUCTNAME ។"
 
 #. bCndk
 #: extensions/uiconfig/sabpilot/ui/selecttypepage.ui:14
@@ -3573,111 +3390,56 @@ msgctxt "selecttypepage|evolution"
 msgid "Evolution"
 msgstr "ការ​វិវត្ត"
 
-#. Xsfrc
-#: extensions/uiconfig/sabpilot/ui/selecttypepage.ui:50
-msgctxt "selecttypepage|extended_tip|evolution"
-msgid "Select this option if you already use an address book in Evolution."
-msgstr "ជ្រើស​ជម្រើស​នេះ បើ​អ្នក​ប្រើ​សៀវភៅ​អាសយដ្ឋាន​ក្នុង Evolution រួច​ហើយ ។"
-
 #. F6JYD
-#: extensions/uiconfig/sabpilot/ui/selecttypepage.ui:61
+#: extensions/uiconfig/sabpilot/ui/selecttypepage.ui:56
 msgctxt "selecttypepage|groupwise"
 msgid "Groupwise"
-msgstr "Groupwise"
-
-#. eB6AA
-#: extensions/uiconfig/sabpilot/ui/selecttypepage.ui:71
-msgctxt "selecttypepage|extended_tip|groupwise"
-msgid "Select this option if you already use an address book in Groupwise."
-msgstr "ជ្រើស​ជម្រើស​នេះ បើ​អ្នក​ចង់​ប្រើ​សៀវភៅ​បញ្ជី​ក្នុង Groupwise ។"
+msgstr "ដាក់ជាក្រុម"
 
 #. cuXRp
-#: extensions/uiconfig/sabpilot/ui/selecttypepage.ui:82
+#: extensions/uiconfig/sabpilot/ui/selecttypepage.ui:72
 msgctxt "selecttypepage|evoldap"
 msgid "Evolution LDAP"
-msgstr "Evolution LDAP"
-
-#. 7ZtGX
-#: extensions/uiconfig/sabpilot/ui/selecttypepage.ui:92
-msgctxt "selecttypepage|extended_tip|evoldap"
-msgid "Select this option if you already use an address book in Evolution LDAP."
-msgstr "ជម្រើស​ជម្រើស​នេះ បើ​អ្នក​ប្រើ​សៀវភៅ​អាសយដ្ឋាន​ក្នុង Evolution LDAP រួច​ហើយ ។"
+msgstr "ការវិវត្តន៍ LDAP"
 
 #. hMBCk
-#: extensions/uiconfig/sabpilot/ui/selecttypepage.ui:103
+#: extensions/uiconfig/sabpilot/ui/selecttypepage.ui:88
 msgctxt "selecttypepage|firefox"
 msgid "Firefox"
-msgstr ""
-
-#. xHVgK
-#: extensions/uiconfig/sabpilot/ui/selecttypepage.ui:113
-msgctxt "selecttypepage|extended_tip|firefox"
-msgid "Select this option if you already use an address book in Firefox or Iceweasel."
-msgstr "ជ្រើស​ជម្រើស​នេះ ប្រសិនបើ​អ្នក​ប្រើ​សៀវភៅ​អាសយដ្ឋាន​ក្នុង Firefox ឬ Iceweasel។"
+msgstr "Firefox"
 
 #. C4oTw
-#: extensions/uiconfig/sabpilot/ui/selecttypepage.ui:124
+#: extensions/uiconfig/sabpilot/ui/selecttypepage.ui:104
 msgctxt "selecttypepage|thunderbird"
 msgid "Thunderbird"
-msgstr ""
-
-#. Aq64F
-#: extensions/uiconfig/sabpilot/ui/selecttypepage.ui:134
-msgctxt "selecttypepage|extended_tip|thunderbird"
-msgid "Select this option if you already use an address book in Thunderbird or Icedove."
-msgstr "ជ្រើស​ជម្រើស​នេះ ប្រសិនបើ​អ្នក​ប្រើ​សៀវភៅ​អាសយដ្ឋាន​នេះ​រួចហើយ​ក្នុង Thunderbird ឬ Icedove ។"
+msgstr "មយូរា"
 
 #. su4jz
-#: extensions/uiconfig/sabpilot/ui/selecttypepage.ui:145
+#: extensions/uiconfig/sabpilot/ui/selecttypepage.ui:120
 msgctxt "selecttypepage|kde"
 msgid "KDE address book"
 msgstr "សៀវភៅ​អាសយដ្ឋាន KDE"
 
-#. X5F45
-#: extensions/uiconfig/sabpilot/ui/selecttypepage.ui:155
-msgctxt "selecttypepage|extended_tip|kde"
-msgid "Select this option if you already use an address book in KDE Address book."
-msgstr "ជ្រើស​ជម្រើស​នេះ បើ​អ្នក​ប្រើ​សៀវភៅ​អាសយដ្ឋាន​រួច​ហើយ​ក្នុង​សៀវភៅ​អាសយដ្ឋាន KDE ។"
-
 #. 2Psrm
-#: extensions/uiconfig/sabpilot/ui/selecttypepage.ui:166
+#: extensions/uiconfig/sabpilot/ui/selecttypepage.ui:136
 msgctxt "selecttypepage|macosx"
 msgid "Mac OS X address book"
-msgstr "សៀវភៅ​អាសយដ្ឋាន Mac OS X "
-
-#. DF5Kd
-#: extensions/uiconfig/sabpilot/ui/selecttypepage.ui:176
-msgctxt "selecttypepage|extended_tip|macosx"
-msgid "Select this option if you already use an address book in macOS Address book."
-msgstr ""
+msgstr "សៀវភៅ​អាសយដ្ឋាន Mac OS X"
 
 #. 3EnZE
-#: extensions/uiconfig/sabpilot/ui/selecttypepage.ui:187
+#: extensions/uiconfig/sabpilot/ui/selecttypepage.ui:152
 msgctxt "selecttypepage|other"
 msgid "Other external data source"
 msgstr "ប្រភព​ទិន្នន័យ​ខាងក្រៅ​ផ្សេង​ទៀត"
 
-#. xvf2d
-#: extensions/uiconfig/sabpilot/ui/selecttypepage.ui:197
-msgctxt "selecttypepage|extended_tip|other"
-msgid "Select this option if you want to register another data source as address book in %PRODUCTNAME."
-msgstr "ជ្រើស​ជម្រើស​នេះ​​ ប្រសិន​អ្នក​​ចង់​ចុះ​ឈ្មោះ​ប្រភព​ទិន្នន័យ​ផ្សេង​​ទៀត​ ជា​សៀវភៅ​អាស័យ​ដ្ឋាន​ក្នុង​ %PRODUCTNAME ។​"
-
 #. HyBth
-#: extensions/uiconfig/sabpilot/ui/selecttypepage.ui:210
+#: extensions/uiconfig/sabpilot/ui/selecttypepage.ui:170
 msgctxt "selecttypepage|label1"
 msgid "Select the type of your external address book:"
-msgstr ""
-
-#. xdzuR
-#: extensions/uiconfig/sabpilot/ui/selecttypepage.ui:230
-msgctxt "selecttypepage|extended_tip|SelectTypePage"
-msgid "This wizard registers an existing address book as a data source in %PRODUCTNAME."
-msgstr "កម្មវិធី​ជំនួយ​នេះ​ចុះឈ្មោះ​សៀវភៅ​អាស័យដ្ឋានដែលមាន​រួច​មួយ ជា​ប្រភព​ទិន្នន័យ​នៅក្នុង %PRODUCTNAME ។"
+msgstr "ជ្រើសរើសប្រភេទសៀវភៅអាសយដ្ឋានខាងក្រៅរបស់អ្នក៖"
 
 #. f33Eh
 #: extensions/uiconfig/sabpilot/ui/tableselectionpage.ui:60
-#, fuzzy
 msgctxt "tableselectionpage|label3"
 msgid ""
 "Currently, the form the control belongs to is not (or not completely) bound to a data source.\n"
@@ -3696,24 +3458,21 @@ msgstr ""
 
 #. PLVnx
 #: extensions/uiconfig/sabpilot/ui/tableselectionpage.ui:96
-#, fuzzy
 msgctxt "tableselectionpage|datasourcelabel"
 msgid "_Data source:"
-msgstr "ប្រភព​ទិន្នន័យ"
+msgstr "ប្រភព​ទិន្នន័យ ៖"
 
 #. DZ3pT
 #: extensions/uiconfig/sabpilot/ui/tableselectionpage.ui:149
-#, fuzzy
 msgctxt "tableselectionpage|search"
 msgid "_..."
-msgstr "_..."
+msgstr "..."
 
 #. 6jyEV
 #: extensions/uiconfig/sabpilot/ui/tableselectionpage.ui:181
-#, fuzzy
 msgctxt "tableselectionpage|tablelabel"
 msgid "_Table / Query:"
-msgstr "តារាង​ / សំណួរ​ ៖ "
+msgstr "តារាង​ / សំណួរ​ ៖"
 
 #. YvYuw
 #: extensions/uiconfig/sabpilot/ui/tableselectionpage.ui:253
@@ -3737,17 +3496,16 @@ msgstr "ធាតុ"
 #: extensions/uiconfig/sbibliography/ui/combobox.ui:16
 msgctxt "combobox|TBC_FT_SOURCE"
 msgid "Table"
-msgstr ""
+msgstr "តារាង"
 
 #. HWJFh
 #: extensions/uiconfig/sbibliography/ui/editbox.ui:14
 msgctxt "editbox|TBC_FT_QUERY"
 msgid "Search Key"
-msgstr ""
+msgstr "សោសំរាប់ស្វែងរក"
 
 #. CPjNs
 #: extensions/uiconfig/sbibliography/ui/generalpage.ui:34
-#, fuzzy
 msgctxt "generalpage|shortname"
 msgid "_Short name"
 msgstr "ឈ្មោះ​​ខ្លី"
@@ -3760,77 +3518,66 @@ msgstr "ប្រភេទ"
 
 #. G73uW
 #: extensions/uiconfig/sbibliography/ui/generalpage.ui:60
-#, fuzzy
 msgctxt "generalpage|authors"
 msgid "Author(s)"
 msgstr "អ្នក​​និពន្ធ"
 
 #. 8azaC
 #: extensions/uiconfig/sbibliography/ui/generalpage.ui:73
-#, fuzzy
 msgctxt "generalpage|publisher"
 msgid "_Publisher"
-msgstr "Publisher"
+msgstr "អ្នកបោះពុម្ពផ្សាយ"
 
 #. xQfCE
 #: extensions/uiconfig/sbibliography/ui/generalpage.ui:86
-#, fuzzy
 msgctxt "generalpage|chapter"
 msgid "_Chapter"
 msgstr "ជំពូក"
 
 #. TC6kG
 #: extensions/uiconfig/sbibliography/ui/generalpage.ui:99
-#, fuzzy
 msgctxt "generalpage|title"
 msgid "Tit_le"
 msgstr "ចំណង​ជើង"
 
 #. R9FbR
 #: extensions/uiconfig/sbibliography/ui/generalpage.ui:112
-#, fuzzy
 msgctxt "generalpage|address"
 msgid "A_ddress"
-msgstr "Address"
+msgstr "អាស័យដ្ឋាន"
 
 #. p4Qk5
 #: extensions/uiconfig/sbibliography/ui/generalpage.ui:125
-#, fuzzy
 msgctxt "generalpage|pages"
 msgid "Pa_ge(s)"
-msgstr "ទំព័រ "
+msgstr "ទំព័រ"
 
 #. yA7zD
 #: extensions/uiconfig/sbibliography/ui/generalpage.ui:138
-#, fuzzy
 msgctxt "generalpage|year"
 msgid "_Year"
 msgstr "ឆ្នាំ"
 
 #. FBFh5
 #: extensions/uiconfig/sbibliography/ui/generalpage.ui:151
-#, fuzzy
 msgctxt "generalpage|isbn"
 msgid "_ISBN"
-msgstr "ISBN "
+msgstr "ISBN"
 
 #. HBcbt
 #: extensions/uiconfig/sbibliography/ui/generalpage.ui:180
-#, fuzzy
 msgctxt "generalpage|editor"
 msgid "Editor"
 msgstr "អ្នក​​​កែ​​សម្រួល​​"
 
 #. c5WHH
 #: extensions/uiconfig/sbibliography/ui/generalpage.ui:193
-#, fuzzy
 msgctxt "generalpage|booktitle"
 msgid "_Book title"
-msgstr "ចំណង​​ជើង​របស់​សៀវភៅ "
+msgstr "ចំណង​​ជើង​របស់​សៀវភៅ"
 
 #. tfGGx
 #: extensions/uiconfig/sbibliography/ui/generalpage.ui:206
-#, fuzzy
 msgctxt "generalpage|edition"
 msgid "Ed_ition"
 msgstr "ស្នា​ដៃ ​"
@@ -3843,10 +3590,9 @@ msgstr "ភាគ​"
 
 #. Tpxov
 #: extensions/uiconfig/sbibliography/ui/generalpage.ui:232
-#, fuzzy
 msgctxt "generalpage|institution"
 msgid "Instit_ution"
-msgstr "ស្ថាប័ន ​"
+msgstr "ស្ថាប័ន"
 
 #. DY7iB
 #: extensions/uiconfig/sbibliography/ui/generalpage.ui:245
@@ -3856,66 +3602,57 @@ msgstr "ខែ"
 
 #. 6XJ26
 #: extensions/uiconfig/sbibliography/ui/generalpage.ui:258
-#, fuzzy
 msgctxt "generalpage|publicationtype"
 msgid "Publication t_ype"
-msgstr "ប្រ​ភេទ​​ការ​​បោះ​​ពុម្ព​​ផ្សាយ​​ "
+msgstr "ប្រ​ភេទ​​ការ​​បោះ​​ពុម្ព​​ផ្សាយ​​"
 
 #. Trxvk
 #: extensions/uiconfig/sbibliography/ui/generalpage.ui:271
-#, fuzzy
 msgctxt "generalpage|university"
 msgid "University"
 msgstr "សកល​វិទ្យា​ល័យ"
 
 #. r3F5p
 #: extensions/uiconfig/sbibliography/ui/generalpage.ui:284
-#, fuzzy
 msgctxt "generalpage|reporttype"
 msgid "Type of re_port"
-msgstr "ប្រភេទ​​​របាយ​​ការណ៍ "
+msgstr "ប្រភេទ​​​របាយ​​ការណ៍"
 
 #. vsfLN
 #: extensions/uiconfig/sbibliography/ui/generalpage.ui:297
-#, fuzzy
 msgctxt "generalpage|organization"
 msgid "Organi_zation"
-msgstr "អង្គការ "
+msgstr "អង្គការ"
 
 #. 2Fna4
 #: extensions/uiconfig/sbibliography/ui/generalpage.ui:326
-#, fuzzy
 msgctxt "generalpage|journal"
 msgid "_Journal"
 msgstr "ទិនា​នុ​ប្បវត្តិ"
 
 #. DA5HP
 #: extensions/uiconfig/sbibliography/ui/generalpage.ui:339
-#, fuzzy
 msgctxt "generalpage|annotation"
 msgid "Ann_otation"
-msgstr "ចំណារ​​​ពន្យល់​​ "
+msgstr "ចំណារ​​​ពន្យល់​​"
 
 #. DZxid
 #: extensions/uiconfig/sbibliography/ui/generalpage.ui:352
-#, fuzzy
 msgctxt "generalpage|number"
 msgid "Numb_er"
 msgstr "ចំនួន"
 
 #. Nspi2
 #: extensions/uiconfig/sbibliography/ui/generalpage.ui:365
-#, fuzzy
 msgctxt "generalpage|note"
 msgid "_Note"
 msgstr "ចំណាំ"
 
 #. DVS8w
 #: extensions/uiconfig/sbibliography/ui/generalpage.ui:378
-#, fuzzy
 msgctxt "generalpage|series"
 msgid "Se_ries"
-msgstr "ស៊េរី "
+msgstr "ស៊េរី"
 
 #. JfqNT
 #: extensions/uiconfig/sbibliography/ui/generalpage.ui:391
@@ -3925,283 +3662,237 @@ msgstr "URL"
 
 #. hjJFW
 #: extensions/uiconfig/sbibliography/ui/generalpage.ui:420
-#, fuzzy
 msgctxt "generalpage|custom1"
 msgid "User-defined field _1"
-msgstr "វាល​​​​ដែល​​កំណត់​​ដោយ​អ្នក​​ប្រើ ១ ​"
+msgstr "វាល​​​​ដែល​​កំណត់​​ដោយ​អ្នក​​ប្រើ ទី១ ​"
 
 #. ZgVyG
 #: extensions/uiconfig/sbibliography/ui/generalpage.ui:433
-#, fuzzy
 msgctxt "generalpage|custom4"
 msgid "User-defined field _4"
-msgstr "វាល​​​ដែល​​កំណត់​​ដោយ​​អ្នក​​ប្រើ​ ៤ "
+msgstr "វាល​​​ដែល​​កំណត់​​ដោយ​​អ្នក​​ប្រើ​ ទី៤"
 
 #. aDQFC
 #: extensions/uiconfig/sbibliography/ui/generalpage.ui:446
-#, fuzzy
 msgctxt "generalpage|custom2"
 msgid "User-defined field _2"
-msgstr "វាល​​​ដែល​​កំណត់​​ដោយ​​អ្នក​​ប្រើ ២ "
+msgstr "វាល​​​ដែល​​កំណត់​​ដោយ​​អ្នក​​ប្រើ ទី២"
 
 #. X8g3V
 #: extensions/uiconfig/sbibliography/ui/generalpage.ui:459
-#, fuzzy
 msgctxt "generalpage|custom5"
 msgid "User-defined field _5"
-msgstr "វាល​​​ដែល​​កំណត់​​ដោយ​​អ្នក​​ប្រើ ​៥ "
+msgstr "វាល​​​ដែល​​កំណត់​​ដោយ​​អ្នក​​ប្រើ ទី៥"
 
 #. ctDaZ
 #: extensions/uiconfig/sbibliography/ui/generalpage.ui:472
-#, fuzzy
 msgctxt "generalpage|custom3"
 msgid "User-defined field _3"
-msgstr "វាល​​​ដែល​​កំណត់​​ដោយ​​អ្នក​ប្រើ​ ៣ "
-
-#. x9s9K
-#: extensions/uiconfig/sbibliography/ui/generalpage.ui:617
-msgctxt "generalpage|extended_tip|GeneralPage"
-msgid "Insert, delete, edit, and organize records in the bibliography database."
-msgstr ""
+msgstr "វាល​​​ដែល​​កំណត់​​ដោយ​​អ្នក​ប្រើ​ ទី៣"
 
 #. 7BG4W
 #: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:8
-#, fuzzy
 msgctxt "mappingdialog|MappingDialog"
 msgid "Column Layout for Table “%1”"
 msgstr "ប្លង់​​​ជួ​រ​​ឈរ ​​​សម្រាប់​​​តារាង​​ %1"
 
 #. ZttGm
-#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:106
-#, fuzzy
+#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:109
 msgctxt "mappingdialog|label2"
 msgid "_Short name"
 msgstr "ឈ្មោះ​​ខ្លី"
 
 #. PcPgF
-#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:120
-#, fuzzy
+#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:123
 msgctxt "mappingdialog|label3"
 msgid "_Author(s)"
 msgstr "អ្នក​​និពន្ធ"
 
 #. DBBiK
-#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:134
-#, fuzzy
+#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:137
 msgctxt "mappingdialog|label4"
 msgid "_Publisher"
-msgstr "Publisher"
+msgstr "អ្នកបោះពុម្ពផ្សាយ"
 
 #. 4TG3U
-#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:148
-#, fuzzy
+#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:151
 msgctxt "mappingdialog|label5"
 msgid "_Chapter"
 msgstr "ជំពូក"
 
 #. DZwft
-#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:162
-#, fuzzy
+#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:165
 msgctxt "mappingdialog|label6"
 msgid "Editor"
 msgstr "អ្នក​​​កែ​​សម្រួល​​"
 
 #. pEBaZ
-#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:222
+#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:225
 msgctxt "mappingdialog|label7"
 msgid "_Type"
 msgstr "ប្រភេទ"
 
 #. TxEfY
-#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:236
-#, fuzzy
+#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:239
 msgctxt "mappingdialog|label8"
 msgid "_Year"
 msgstr "ឆ្នាំ"
 
 #. qLU7E
-#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:250
-#, fuzzy
+#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:253
 msgctxt "mappingdialog|label9"
 msgid "Tit_le"
 msgstr "ចំណង​ជើង"
 
 #. F26mM
-#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:300
-#, fuzzy
+#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:303
 msgctxt "mappingdialog|label10"
 msgid "A_ddress"
-msgstr "Address"
+msgstr "អាស័យដ្ឋាន"
 
 #. kBvqk
-#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:314
-#, fuzzy
+#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:317
 msgctxt "mappingdialog|label11"
 msgid "_ISBN"
-msgstr "ISBN "
+msgstr "ISBN"
 
 #. aeCGS
-#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:328
-#, fuzzy
+#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:331
 msgctxt "mappingdialog|label12"
 msgid "Pa_ge(s)"
-msgstr "ទំព័រ "
+msgstr "ទំព័រ"
 
 #. N4Cx2
-#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:378
-#, fuzzy
+#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:381
 msgctxt "mappingdialog|label13"
 msgid "Ed_ition"
-msgstr "ស្នា​ដៃ ​"
+msgstr "ស្នា​ដៃ"
 
 #. CXnVD
-#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:404
-#, fuzzy
+#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:407
 msgctxt "mappingdialog|label14"
 msgid "_Book title"
-msgstr "ចំណង​​ជើង​របស់​សៀវភៅ "
+msgstr "ចំណង​​ជើង​របស់​សៀវភៅ"
 
 #. FEe9P
-#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:418
+#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:421
 msgctxt "mappingdialog|label15"
 msgid "Volume"
 msgstr "ភាគ​"
 
 #. T6Eu3
-#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:430
-#, fuzzy
+#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:433
 msgctxt "mappingdialog|label16"
 msgid "Publication t_ype"
-msgstr "ប្រ​ភេទ​​ការ​​បោះ​​ពុម្ព​​ផ្សាយ​​ "
+msgstr "ប្រ​ភេទ​​ការ​​បោះ​​ពុម្ព​​ផ្សាយ​​"
 
 #. KVHpY
-#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:480
-#, fuzzy
+#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:483
 msgctxt "mappingdialog|label17"
 msgid "Organi_zation"
-msgstr "អង្គការ "
+msgstr "អង្គការ"
 
 #. GNoEJ
-#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:494
-#, fuzzy
+#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:497
 msgctxt "mappingdialog|label18"
 msgid "Instit_ution"
-msgstr "ស្ថាប័ន ​"
+msgstr "ស្ថាប័ន"
 
 #. ZU7AT
-#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:508
-#, fuzzy
+#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:511
 msgctxt "mappingdialog|label19"
 msgid "Uni_versity"
 msgstr "សកល​វិទ្យា​ល័យ"
 
 #. AeYEo
-#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:558
-#, fuzzy
+#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:561
 msgctxt "mappingdialog|label20"
 msgid "Type of re_port"
-msgstr "ប្រភេទ​​​របាយ​​ការណ៍ "
+msgstr "ប្រភេទ​​​របាយ​​ការណ៍"
 
 #. NaFZM
-#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:572
+#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:575
 msgctxt "mappingdialog|label21"
 msgid "_Month"
 msgstr "ខែ"
 
 #. EacrE
-#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:610
-#, fuzzy
+#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:613
 msgctxt "mappingdialog|label22"
 msgid "_Journal"
 msgstr "ទិនា​នុ​ប្បវត្តិ"
 
 #. 98xrV
-#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:624
-#, fuzzy
+#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:627
 msgctxt "mappingdialog|label23"
 msgid "Numb_er"
 msgstr "ចំនួន"
 
 #. ssYBx
-#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:638
-#, fuzzy
+#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:641
 msgctxt "mappingdialog|label24"
 msgid "Se_ries"
-msgstr "ស៊េរី "
+msgstr "ស៊េរី"
 
 #. kGM4q
-#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:688
-#, fuzzy
+#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:691
 msgctxt "mappingdialog|label25"
 msgid "Ann_otation"
-msgstr "ចំណារ​​​ពន្យល់​​ "
+msgstr "ចំណារ​​​ពន្យល់​​"
 
 #. 8xMvD
-#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:702
-#, fuzzy
+#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:705
 msgctxt "mappingdialog|label26"
 msgid "_Note"
 msgstr "ចំណាំ"
 
 #. t7JGr
-#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:716
+#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:719
 msgctxt "mappingdialog|label27"
 msgid "URL"
 msgstr "URL"
 
 #. STBDL
-#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:764
-#, fuzzy
+#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:767
 msgctxt "mappingdialog|label28"
 msgid "User-defined field _1"
-msgstr "វាល​​​​ដែល​​កំណត់​​ដោយ​អ្នក​​ប្រើ ១ ​"
+msgstr "វាល​​​​ដែល​​កំណត់​​ដោយ​អ្នក​​ប្រើ ទី១"
 
 #. FDtfJ
-#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:778
-#, fuzzy
+#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:781
 msgctxt "mappingdialog|label29"
 msgid "User-defined field _2"
-msgstr "វាល​​​ដែល​​កំណត់​​ដោយ​​អ្នក​​ប្រើ ២ "
+msgstr "វាល​​​ដែល​​កំណត់​​ដោយ​​អ្នក​​ប្រើ ទី២"
 
 #. EPoqo
-#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:792
-#, fuzzy
+#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:795
 msgctxt "mappingdialog|label30"
 msgid "User-defined field _3"
-msgstr "វាល​​​ដែល​​កំណត់​​ដោយ​​អ្នក​ប្រើ​ ៣ "
+msgstr "វាល​​​ដែល​​កំណត់​​ដោយ​​អ្នក​ប្រើ​ ទី៣"
 
 #. LzUki
-#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:806
-#, fuzzy
+#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:809
 msgctxt "mappingdialog|label31"
 msgid "User-defined field _4"
-msgstr "វាល​​​ដែល​​កំណត់​​ដោយ​​អ្នក​​ប្រើ​ ៤ "
+msgstr "វាល​​​ដែល​​កំណត់​​ដោយ​​អ្នក​​ប្រើ​ ទី៤"
 
 #. jY3cj
-#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:820
-#, fuzzy
+#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:823
 msgctxt "mappingdialog|label32"
 msgid "User-defined field _5"
-msgstr "វាល​​​ដែល​​កំណត់​​ដោយ​​អ្នក​​ប្រើ ​៥ "
+msgstr "វាល​​​ដែល​​កំណត់​​ដោយ​​អ្នក​​ប្រើ ទី​៥"
 
 #. wkCw6
-#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:1032
-#, fuzzy
+#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:1035
 msgctxt "mappingdialog|label1"
 msgid "Column Names"
 msgstr "ឈ្មោះ​​​​របស់​ជួរ​ឈរ"
-
-#. B7h7G
-#: extensions/uiconfig/sbibliography/ui/mappingdialog.ui:1057
-msgctxt "mappingdialog|extended_tip|MappingDialog"
-msgid "Lets you map the column headings to data fields from a different data source. To define a different data source for your bibliography, click the Data Source button on the record's Object bar."
-msgstr ""
 
 #. k9B7a
 #: extensions/uiconfig/sbibliography/ui/querydialog.ui:30
 msgctxt "querydialog|ask"
 msgid "Do not show this question again."
-msgstr ""
+msgstr "កុំបង្ហាញសំណួរនេះម្តងទៀត។"
 
 #. YFwPR
 #: extensions/uiconfig/sbibliography/ui/toolbar.ui:26
@@ -4217,7 +3908,6 @@ msgstr "តម្រង​ស្វ័យ​ប្រវត្តិ"
 
 #. Xbpge
 #: extensions/uiconfig/sbibliography/ui/toolbar.ui:84
-#, fuzzy
 msgctxt "toolbar|TBC_BT_FILTERCRIT"
 msgid "Standard Filter"
 msgstr "តម្រង​ស្តង់ដារ"
@@ -4230,102 +3920,84 @@ msgstr "កំណត់​តម្រង​ឡើងវិញ"
 
 #. C3Tuk
 #: extensions/uiconfig/sbibliography/ui/toolbar.ui:110
-#, fuzzy
 msgctxt "toolbar|TBC_BT_COL_ASSIGN"
 msgid "Column Arrangement"
 msgstr "ការ​​​​រៀប​​​ចំ​​​​ជួរ​ឈរ​"
-
-#. DGQhT
-#: extensions/uiconfig/sbibliography/ui/toolbar.ui:114
-msgctxt "toolbar|extended_tip|TBC_BT_COL_ASSIGN"
-msgid "Lets you map the column headings to data fields from a different data source. To define a different data source for your bibliography, click the Data Source button on the record's Object bar."
-msgstr ""
-
-#. 8s8QS
-#: extensions/uiconfig/sbibliography/ui/toolbar.ui:125
-msgctxt "toolbar|extended_tip|toolbar"
-msgid "Insert, delete, edit, and organize records in the bibliography database."
-msgstr ""
 
 #. AFbU5
 #: extensions/uiconfig/scanner/ui/griddialog.ui:111
 msgctxt "griddialog|resetTypeCombobox"
 msgid "Linear ascending"
-msgstr ""
+msgstr "លីនេអ៊ែរឡើង"
 
 #. kLhvJ
 #: extensions/uiconfig/scanner/ui/griddialog.ui:112
 msgctxt "griddialog|resetTypeCombobox"
 msgid "Linear descending"
-msgstr ""
+msgstr "លីនេអ៊ែរចុះ"
 
 #. y8ByE
 #: extensions/uiconfig/scanner/ui/griddialog.ui:113
 msgctxt "griddialog|resetTypeCombobox"
 msgid "Original values"
-msgstr ""
+msgstr "តម្លៃដើម"
 
 #. izGbM
 #: extensions/uiconfig/scanner/ui/griddialog.ui:114
 msgctxt "griddialog|resetTypeCombobox"
 msgid "Exponential increasing"
-msgstr ""
+msgstr "ការកើនឡើងនិទស្សន្ត"
 
 #. is6k5
 #: extensions/uiconfig/scanner/ui/griddialog.ui:125
 msgctxt "griddialog|resetButton"
 msgid "_Set"
-msgstr ""
+msgstr "កំណត់"
 
 #. DEE74
 #: extensions/uiconfig/scanner/ui/sanedialog.ui:46
 msgctxt "sanedialog|SaneDialog"
 msgid "Scanner"
-msgstr ""
+msgstr "ម៉ាស៊ីនស្កេន"
 
 #. 8aFBr
 #: extensions/uiconfig/scanner/ui/sanedialog.ui:66
 msgctxt "sanedialog|deviceInfoButton"
 msgid "About Dev_ice"
-msgstr ""
+msgstr "អំពីឧបករណ៍"
 
 #. 3EeXn
 #: extensions/uiconfig/scanner/ui/sanedialog.ui:80
 msgctxt "sanedialog|previewButton"
 msgid "Create Previe_w"
-msgstr ""
+msgstr "បង្កើតការមើលជាមុន"
 
 #. ihLsf
 #: extensions/uiconfig/scanner/ui/sanedialog.ui:94
-#, fuzzy
 msgctxt "sanedialog|scanButton"
 msgid "_Scan"
 msgstr "ស្កេន"
 
 #. gFREe
 #: extensions/uiconfig/scanner/ui/sanedialog.ui:163
-#, fuzzy
 msgctxt "sanedialog|label3"
 msgid "_Left:"
-msgstr "ឆ្វេង"
+msgstr "ឆ្វេង ៖"
 
 #. ErDB4
 #: extensions/uiconfig/scanner/ui/sanedialog.ui:177
-#, fuzzy
 msgctxt "sanedialog|label4"
 msgid "To_p:"
 msgstr "កំពូល ៖"
 
 #. bSfBR
 #: extensions/uiconfig/scanner/ui/sanedialog.ui:191
-#, fuzzy
 msgctxt "sanedialog|label5"
 msgid "_Right:"
 msgstr "ស្ដាំ"
 
 #. NGDq3
 #: extensions/uiconfig/scanner/ui/sanedialog.ui:205
-#, fuzzy
 msgctxt "sanedialog|label6"
 msgid "_Bottom:"
 msgstr "ខាងក្រោម"
@@ -4334,11 +4006,10 @@ msgstr "ខាងក្រោម"
 #: extensions/uiconfig/scanner/ui/sanedialog.ui:275
 msgctxt "sanedialog|label1"
 msgid "Scan area"
-msgstr ""
+msgstr "ស្កេនតំបន់"
 
 #. FZ7Vw
 #: extensions/uiconfig/scanner/ui/sanedialog.ui:334
-#, fuzzy
 msgctxt "sanedialog|label2"
 msgid "Preview"
 msgstr "មើល​ជាមុន"
@@ -4347,23 +4018,22 @@ msgstr "មើល​ជាមុន"
 #: extensions/uiconfig/scanner/ui/sanedialog.ui:367
 msgctxt "sanedialog|label7"
 msgid "Device _used"
-msgstr ""
+msgstr "ឧបករណ៍បានប្រើ"
 
 #. W6hNP
 #: extensions/uiconfig/scanner/ui/sanedialog.ui:381
 msgctxt "sanedialog|label8"
 msgid "Resolution [_DPI]"
-msgstr ""
+msgstr "ដំណោះស្រាយ [DPI]"
 
 #. t3Tuq
 #: extensions/uiconfig/scanner/ui/sanedialog.ui:435
 msgctxt "sanedialog|advancedCheckbutton"
 msgid "Show advanced options"
-msgstr ""
+msgstr "បង្ហាញជម្រើសកម្រិតខ្ពស់"
 
 #. gneMZ
 #: extensions/uiconfig/scanner/ui/sanedialog.ui:466
-#, fuzzy
 msgctxt "sanedialog|label10"
 msgid "Options:"
 msgstr "ជម្រើស"
@@ -4372,19 +4042,19 @@ msgstr "ជម្រើស"
 #: extensions/uiconfig/scanner/ui/sanedialog.ui:541
 msgctxt "sanedialog|optionsButton"
 msgid "Se_t"
-msgstr ""
+msgstr "កំណត់"
 
 #. bNTfS
 #: extensions/uiconfig/scanner/ui/sanedialog.ui:613
 msgctxt "sanedialog|vectorLabel"
 msgid "Vector element"
-msgstr ""
+msgstr "ធាតុវ៉ិចទ័រ"
 
 #. rDXRD
 #: extensions/uiconfig/spropctrlr/ui/browserpage.ui:86
 msgctxt "browserpage|help"
 msgid "Help"
-msgstr ""
+msgstr "ជំនួយ"
 
 #. b84Zp
 #: extensions/uiconfig/spropctrlr/ui/controlfontdialog.ui:8
@@ -4418,35 +4088,30 @@ msgstr "បញ្ចូល​ឈ្មោះ​សម្រាប់​ប្រ
 
 #. emBq6
 #: extensions/uiconfig/spropctrlr/ui/formlinksdialog.ui:10
-#, fuzzy
 msgctxt "formlinksdialog|FormLinks"
 msgid "Link fields"
 msgstr "ភ្ជាប់​​​វាល​"
 
 #. jsbRq
 #: extensions/uiconfig/spropctrlr/ui/formlinksdialog.ui:31
-#, fuzzy
 msgctxt "formlinksdialog|suggestButton"
 msgid "Suggest"
 msgstr "ផ្តល់​​យោ​បល់​"
 
 #. JkJ9F
 #: extensions/uiconfig/spropctrlr/ui/formlinksdialog.ui:107
-#, fuzzy
 msgctxt "formlinksdialog|explanationLabel"
 msgid "Sub forms can be used to display detailed data about the current record of the master form. To do this, you can specify which columns in the sub form match which columns in the master form."
-msgstr "សំណុំ​បែបបទ​រង​អាច​ត្រូវ​បាន​ប្រើ ​ដើម្បី​បង្ហាញ​ទិន្នន័យ​លម្អិត​ អំពី​កំណត់​ត្រា​បច្ចុប្បន្ន​របស់​សំណុំ​បែបបទ​មេ​ ។ ដើម្បី​ធ្វើ​ដូច​នេះ​ អ្នក​អាច​​បញ្ជាក់​ថា​ ជួរឈរ​​ណាមួយ​ ក្នុង​​សំណុំ​​​បែបបទ​​រង​​ ​ត្រូវ​គ្នា​នឹង​ជួរ​ឈរ​ណា​មួយ ក្នុង​សំណុំ​បែប​បទ​មេ ។"
+msgstr "សំណុំ​បែបបទ​រង​អាច​ត្រូវ​បាន​ប្រើ ​ដើម្បី​បង្ហាញ​ទិន្នន័យ​លម្អិត​ អំពី​កំណត់​ត្រា​បច្ចុប្បន្ន​របស់​សំណុំ​បែបបទ​មេ​ ។ ដើម្បី​ធ្វើ​ដូច​នេះ​ អ្នក​អាច​​បញ្ជាក់​ថា​ ជួរឈរ​​ណាមួយ​ ក្នុង​​សំណុំ​​​បែបបទ​​រង​​ ​ត្រូវ​គ្នា​នឹង​ជួរ​ឈរ​ណា​មួយ ក្នុង​សំណុំ​បែប​បទ​មេ។"
 
 #. XkJm4
 #: extensions/uiconfig/spropctrlr/ui/formlinksdialog.ui:129
-#, fuzzy
 msgctxt "formlinksdialog|detailLabel"
 msgid "label"
 msgstr "ស្លាក​"
 
 #. PuKkA
 #: extensions/uiconfig/spropctrlr/ui/formlinksdialog.ui:141
-#, fuzzy
 msgctxt "formlinksdialog|masterLabel"
 msgid "label"
 msgstr "ស្លាក​"
@@ -4455,25 +4120,22 @@ msgstr "ស្លាក​"
 #: extensions/uiconfig/spropctrlr/ui/hyperlinkfield.ui:28
 msgctxt "hyperlinkfield|tooltip"
 msgid "Activate link"
-msgstr ""
+msgstr "ធ្វើឱ្យសកម្មតំណ"
 
 #. JJkdg
 #: extensions/uiconfig/spropctrlr/ui/labelselectiondialog.ui:18
-#, fuzzy
 msgctxt "labelselectiondialog|LabelSelectionDialog"
 msgid "Label Field Selection"
 msgstr "ជម្រើស​​វាល​​​ស្លាក"
 
 #. aEYXg
 #: extensions/uiconfig/spropctrlr/ui/labelselectiondialog.ui:102
-#, fuzzy
 msgctxt "labelselectiondialog|label"
 msgid "These are control fields that can be used as label fields for the $controlclass$ $controlname$."
-msgstr "មាន​​វាល​​​វត្ថុ​បញ្ជា​​ដែល​អាច​​ត្រូវ​​បាន​​ប្រើ​​ ជា​​វាល​​​ស្លាក​​​សម្រាប់ ​$control_class$ $control_name$ ។"
+msgstr "មាន​​វាល​​​វត្ថុ​បញ្ជា​​ដែល​អាច​​ត្រូវ​​បាន​​ប្រើ​​ ជា​​វាល​​​ស្លាក​​​សម្រាប់  $controlclass$ $controlname$។"
 
 #. GLFYG
 #: extensions/uiconfig/spropctrlr/ui/labelselectiondialog.ui:166
-#, fuzzy
 msgctxt "labelselectiondialog|noassignment"
 msgid "_No assignment"
 msgstr "គ្មាន​​ការ​​ផ្តល់​តម្លៃ"
@@ -4482,7 +4144,7 @@ msgstr "គ្មាន​​ការ​​ផ្តល់​តម្លៃ"
 #: extensions/uiconfig/spropctrlr/ui/multiline.ui:72
 msgctxt "multiline|tooltip"
 msgid "Multiline Editing"
-msgstr ""
+msgstr "ការកែសម្រួលពហុលីន"
 
 #. urhSS
 #: extensions/uiconfig/spropctrlr/ui/taborder.ui:18
@@ -4490,32 +4152,26 @@ msgctxt "taborder|TabOrderDialog"
 msgid "Tab Order"
 msgstr "លំដាប់​ផ្ទាំង"
 
-#. bdEtz
-#: extensions/uiconfig/spropctrlr/ui/taborder.ui:150
-msgctxt "taborder|extended_tip|CTRLtree"
-msgid "Lists all controls in the form. These controls can be selected with the tab key in the given order from top to bottom."
-msgstr "រាយ​វត្ថុ​បញ្ជា​ទាំង​អស់​ក្នុង​សំណុំ​បែប​បទ​ ។ វត្ថុ​បញ្ជា​ទាំង​នេះ​​​អាចត្រូវ​បាន​ជ្រើស​​ដោយ​ប្រើ​គ្រាប់ចុច​ថេប(Tab) ​ក្នុង​លំដាប់​ដែល​បាន​ផ្តល់​ឲ្យ​ពី​កំពូល​ទៅ​បាត​ ។​"
-
 #. WGPX4
-#: extensions/uiconfig/spropctrlr/ui/taborder.ui:170
+#: extensions/uiconfig/spropctrlr/ui/taborder.ui:168
 msgctxt "taborder|upB"
 msgid "_Move Up"
 msgstr "ផ្លាស់ទី​ឡើងលើ"
 
 #. LNZFB
-#: extensions/uiconfig/spropctrlr/ui/taborder.ui:184
+#: extensions/uiconfig/spropctrlr/ui/taborder.ui:182
 msgctxt "taborder|downB"
 msgid "Move _Down"
 msgstr "ផ្លាស់ទី​ចុះក្រោម"
 
 #. zAGWY
-#: extensions/uiconfig/spropctrlr/ui/taborder.ui:198
+#: extensions/uiconfig/spropctrlr/ui/taborder.ui:196
 msgctxt "taborder|autoB"
 msgid "_Automatic Sort"
 msgstr "តម្រៀប​ស្វ័យប្រវត្តិ"
 
 #. nQDDz
-#: extensions/uiconfig/spropctrlr/ui/taborder.ui:224
+#: extensions/uiconfig/spropctrlr/ui/taborder.ui:222
 msgctxt "taborder|label2"
 msgid "Controls"
 msgstr "វត្ថុ​បញ្ជា"

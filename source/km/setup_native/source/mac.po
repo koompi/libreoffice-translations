@@ -1,20 +1,20 @@
-#. extracted from setup_native/source/mac
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
-"POT-Creation-Date: 2019-07-11 18:38+0200\n"
-"PO-Revision-Date: 2017-12-11 22:30+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?"
+"product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2020-03-10 13:36+0100\n"
+"PO-Revision-Date: 2020-09-12 09:52+0700\n"
+"Last-Translator: Koompi Apps Localization\n"
 "Language: km\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Accelerator-Marker: ~\n"
-"X-Generator: LibreOffice\n"
-"X-POOTLE-MTIME: 1513031447.000000\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-POOTLE-MTIME: 1535975854.000000\n"
+"Language-Team: KOOMPI Apps Localization\n"
 
 #. HQKCW
 #: macinstall.ulf
@@ -23,7 +23,7 @@ msgctxt ""
 "OKLabel\n"
 "LngText.text"
 msgid "OK"
-msgstr ""
+msgstr "យល់ព្រម"
 
 #. 4PBRu
 #: macinstall.ulf
@@ -153,7 +153,6 @@ msgstr "ការ​ដំឡើង​អាច​ចំណាយ​ពេល​
 
 #. jVkZ4
 #: macinstall.ulf
-#, fuzzy
 msgctxt ""
 "macinstall.ulf\n"
 "IdentifyQText\n"
@@ -213,7 +212,7 @@ msgctxt ""
 "InstallCompleteText2\n"
 "LngText.text"
 msgid "Call '[PRODUCTNAME] - Preferences - Language Settings - Languages' to change the user interface language."
-msgstr ""
+msgstr "ហៅ '[PRODUCTNAME]- ចំណូលចិត្ត - ការកំណត់ភាសា - ភាសា 'ដើម្បីផ្លាស់ប្តូរភាសាចំណុចប្រទាក់អ្នកប្រើ"
 
 #. kAZvs
 #: macinstall.ulf
@@ -223,4 +222,3 @@ msgctxt ""
 "LngText.text"
 msgid "Installation of [FULLPRODUCTNAME] completed"
 msgstr "ការ​ដំឡើង [FULLPRODUCTNAME] បាន​បញ្ចប់​ហើយ"
-

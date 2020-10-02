@@ -1,21 +1,19 @@
-#. extracted from helpcontent2/source/text/scalc/04
 msgid ""
 msgstr ""
-"Project-Id-Version: 04\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
-"POT-Creation-Date: 2020-02-17 12:22+0100\n"
-"PO-Revision-Date: 2017-10-04 11:22+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
-"Language-Team: Khmer <support@khmeros.info>\n"
+"POT-Creation-Date: 2020-03-10 13:36+0100\n"
+"PO-Revision-Date: 2020-09-03 09:52+0700\n"
+"Last-Translator: Koompi Apps Localization\n"
 "Language: km\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Accelerator-Marker: ~\n"
-"X-Generator: LibreOffice\n"
-"X-Language: km-KH\n"
-"X-POOTLE-MTIME: 1507116132.000000\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-POOTLE-MTIME: 1535975854.000000\n"
+"Language-Team: KOOMPI Apps Localization\n"
 
 #. NQkD7
 #: 01020000.xhp
@@ -276,7 +274,7 @@ msgctxt ""
 "hd_id451550311052582\n"
 "help.text"
 msgid "Shift+Space"
-msgstr ""
+msgstr "ប្តូរ + ចន្លោះ"
 
 #. RCDeC
 #: 01020000.xhp
@@ -285,7 +283,7 @@ msgctxt ""
 "par_id971550311052582\n"
 "help.text"
 msgid "Selects the current row or extends the existing selection to all respective rows."
-msgstr ""
+msgstr "ជ្រើសជួរដេកបច្ចុប្បន្នឬពង្រីកជម្រើសដែលមានស្រាប់ទៅជួរដេកនីមួយៗ។"
 
 #. FRMgL
 #: 01020000.xhp
@@ -294,7 +292,7 @@ msgctxt ""
 "hd_id281550311052582\n"
 "help.text"
 msgid "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+Space"
-msgstr ""
+msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\"> ពាក្យបញ្ជា </caseinline><defaultinline> បញ្ជា (Ctrl) </defaultinline></switchinline> + ចន្លោះ"
 
 #. zSmcn
 #: 01020000.xhp
@@ -303,7 +301,7 @@ msgctxt ""
 "par_id261550311052582\n"
 "help.text"
 msgid "Selects the current column or extends the existing selection to all respective columns."
-msgstr ""
+msgstr "ជ្រើសជួរឈរបច្ចុប្បន្នឬពង្រីកជម្រើសដែលមានស្រាប់ទៅជួរឈរនីមួយៗ។"
 
 #. AErV8
 #: 01020000.xhp
@@ -312,7 +310,7 @@ msgctxt ""
 "hd_id311550311052582\n"
 "help.text"
 msgid "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+Shift+Space"
-msgstr ""
+msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\"> ពាក្យបញ្ជា </caseinline><defaultinline> បញ្ជា (Ctrl) </defaultinline></switchinline> + ប្តូរ + ចន្លោះ"
 
 #. BUNZP
 #: 01020000.xhp
@@ -321,7 +319,7 @@ msgctxt ""
 "par_id851550311052582\n"
 "help.text"
 msgid "Selects all cells in the sheet."
-msgstr ""
+msgstr "ជ្រើសក្រឡាទាំងអស់ក្នុងសន្លឹក។"
 
 #. dXFKv
 #: 01020000.xhp
@@ -339,7 +337,7 @@ msgctxt ""
 "par_id3154766\n"
 "help.text"
 msgid "Moves the cursor leftward to the start and end of cell blocks with data. If the cell to the left of the cursor is empty or the cell with cursor is empty, cursor moves leftward in row to the next cell with contents. If the row on the left of the cursor is empty, the cursor moves to then first cell in the row."
-msgstr ""
+msgstr "ផ្លាស់ទីទស្សន៍ទ្រនិចទៅឆ្វេងទៅដើមនិងបញ្ចប់នៃប្លុកក្រឡាជាមួយទិន្នន័យ។ ប្រសិនបើក្រឡានៅខាងឆ្វេងទស្សន៍ទ្រនិចទទេឬក្រឡាដែលមានទស្សន៍ទ្រនិចទទេទស្សន៍ទ្រនិចផ្លាស់ទីទៅជួរដេកទៅជួរបន្ទាប់ជាមួយមាតិកា។ ប្រសិនបើជួរដេកនៅខាងឆ្វេងនៃទស្សន៍ទ្រនិចទទេទស្សន៍ទ្រនិចផ្លាស់ទីទៅបន្ទាប់មកក្រឡាដំបូងនៅក្នុងជួរដេក។"
 
 #. PgM3v
 #: 01020000.xhp
@@ -357,7 +355,7 @@ msgctxt ""
 "par_id3155593\n"
 "help.text"
 msgid "Moves the cursor rightward to the start and end of cell blocks with contents. If the cell to the right of the cursor is empty or the cursor is in an empty cell, the cursor moves rightward to the next cell that contains data. If the row on the right of the cursor is empty, the cursor moves to the last cell in the row."
-msgstr ""
+msgstr "ផ្លាស់ទីទស្សន៍ទ្រនិចទៅស្តាំទៅខាងដើមនិងខាងចុងនៃក្រឡាដែលមានមាតិកា។ ប្រសិនបើក្រឡានៅខាងស្តាំនៃទស្សន៍ទ្រនិចទទេឬទស្សន៍ទ្រនិចស្ថិតនៅក្នុងក្រឡាទទេនោះទស្សន៍ទ្រនិចផ្លាស់ទីទៅស្តាំទៅក្រឡាបន្ទាប់ដែលមានទិន្នន័យ។ ប្រសិនបើជួរដេកនៅខាងស្តាំទស្សន៍ទ្រនិចទទេទស្សន៍ទ្រនិចផ្លាស់ទីទៅក្រឡាចុងក្រោយក្នុងជួរដេក។"
 
 #. R9tmv
 #: 01020000.xhp
@@ -366,7 +364,7 @@ msgctxt ""
 "hd_id3149317\n"
 "help.text"
 msgid "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+Up Arrow"
-msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>បញ្ជា(Ctrl)</defaultinline></switchinline>+ព្រួញ​ឡើងលើ"
+msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>បញ្ជា(Ctrl)</defaultinline></switchinline>+ព្រួញ​ឡើងល"
 
 #. FhV8W
 #: 01020000.xhp
@@ -375,7 +373,7 @@ msgctxt ""
 "par_id3153076\n"
 "help.text"
 msgid "Moves the cursor upward to the start and end of cell blocks with data. If the cell above the cursor is empty or the cursor is in an empty cell, the cursor moves up to the end of next cell block with data. If the column above the cursor is empty, the cursor moves up to first cell in the column."
-msgstr ""
+msgstr "ផ្លាស់ទីទស្សន៍ទ្រនិចឡើងលើទៅខាងដើមនិងខាងចុងនៃប្លុកទិន្នន័យជាមួយទិន្នន័យ។ ប្រសិនបើក្រឡាខាងលើទស្សន៍ទ្រនិចទទេឬទស្សន៍ទ្រនិចស្ថិតនៅក្នុងក្រឡាទទេទស្សន៍ទ្រនិចផ្លាស់ទីឡើងដល់ចុងប្លុកកោសិកាបន្ទាប់ជាមួយទិន្នន័យ។ បើជួរឈរខាងលើទស្សន៍ទ្រនិចទទេទស្សន៍ទ្រនិចផ្លាស់ទីឡើងទៅក្រឡាដំបូងក្នុងជួរឈរ។"
 
 #. EamtM
 #: 01020000.xhp
@@ -393,7 +391,7 @@ msgctxt ""
 "par_id3149054\n"
 "help.text"
 msgid "Moves the cursor downward to the start and end of cell blocks with data. If the cell below the cursor is empty or the cursor is in an empty cell, the cursor moves down to the next cell that contains data. If the column below the cursor is empty, the cursor moves down to last cell in the column."
-msgstr ""
+msgstr "ផ្លាស់ទីទស្សន៍ទ្រនិចចុះក្រោមទៅការចាប់ផ្តើមនិងបញ្ចប់នៃប្លុកកោសិកាជាមួយទិន្នន័យ។ ប្រសិនបើក្រឡាខាងក្រោមទស្សន៍ទ្រនិចទទេឬទស្សន៍ទ្រនិចស្ថិតនៅក្នុងក្រឡាទទេទស្សន៍ទ្រនិចផ្លាស់ទីចុះក្រោមទៅក្រឡាបន្ទាប់ដែលមានទិន្នន័យ។ ប្រសិនបើជួរឈរខាងក្រោមទស្សន៍ទ្រនិចទទេទស្សន៍ទ្រនិចផ្លាស់ទីចុះក្រោមទៅក្រឡាចុងក្រោយក្នុងជួរឈរ។"
 
 #. UQi4B
 #: 01020000.xhp
@@ -411,7 +409,7 @@ msgctxt ""
 "par_id3159258\n"
 "help.text"
 msgid "Selects all cells of the range created by the cursor movements using the Ctrl+Arrows key combinations. If used to select rows and columns together, a rectangular cell range is selected."
-msgstr ""
+msgstr "ជ្រើសក្រឡាទាំងអស់នៃជួរដែលបង្កើតដោយចលនាទស្សន៍ទ្រនិចដោយប្រើបន្សំគ្រាប់ចុចបញ្ជា (Ctrl) + ព្រួញ។ ប្រសិនបើប្រើដើម្បីជ្រើសរើសជួរដេកនិងជួរឈរជាមួយគ្នាជួរក្រឡារាងចតុកោណត្រូវបានជ្រើសរើស។"
 
 #. F95ji
 #: 01020000.xhp
@@ -420,7 +418,7 @@ msgctxt ""
 "hd_id3156399\n"
 "help.text"
 msgid "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+Page Up"
-msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>បញ្ជា(Ctrl)</defaultinline></switchinline>+ទំព័រ​ឡើង​លើ"
+msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>បញ្ជា(Ctrl)</defaultinline></switchinline>+ទំព័រ​ឡើង​ល"
 
 #. S5nRM
 #: 01020000.xhp
@@ -438,7 +436,7 @@ msgctxt ""
 "par_id3149725\n"
 "help.text"
 msgid "In the print preview: Moves to the previous print page."
-msgstr ""
+msgstr "នៅក្នុងការមើលមុនបោះពុម្ព៖ ប្តូរទៅទំព័រព្រីនមុន។"
 
 #. gEiyB
 #: 01020000.xhp
@@ -465,7 +463,7 @@ msgctxt ""
 "par_id3159120\n"
 "help.text"
 msgid "In the print preview: Moves to the next print page."
-msgstr ""
+msgstr "នៅក្នុងការមើលមុនបោះពុម្ព៖ ប្តូរទៅទំព័របោះពុម្ពបន្ទាប់។"
 
 #. RBATr
 #: 01020000.xhp
@@ -510,7 +508,7 @@ msgctxt ""
 "par_idN10AFC\n"
 "help.text"
 msgid "Shift+<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+Page Up"
-msgstr "Shift+<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>បញ្ជា(Ctrl)</defaultinline></switchinline>+ទំព័រ​លើ"
+msgstr "Shift+<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>បញ្ជា(Ctrl)</defaultinline></switchinline>+ទំព័រ​ល"
 
 #. RBou4
 #: 01020000.xhp
@@ -645,7 +643,7 @@ msgctxt ""
 "par_id3153935\n"
 "help.text"
 msgid "Moves the cursor down one cell in a selected range. To specify the direction that the cursor moves, choose <switchinline select=\"sys\"><caseinline select=\"MAC\"><emph>%PRODUCTNAME - Preferences</emph></caseinline><defaultinline><emph>Tools - Options</emph></defaultinline></switchinline><emph> - %PRODUCTNAME Calc - General</emph>."
-msgstr ""
+msgstr "ផ្លាស់ទីទស្សន៍ទ្រនិចចុះក្រោមមួយក្រឡាក្នុងជួរដែលបានជ្រើស។ ដើម្បីបញ្ជាក់ទិសដៅដែលទស្សន៍ទ្រនិចផ្លាស់ទីសូមជ្រើសរើស <switchinline select=\"sys\"><caseinline select=\"MAC\"><emph> %PRODUCTNAME - ចំណូលចិត្ត </emph></caseinline><defaultinline><emph> ឧបករណ៍ - ជម្រើស </emph></defaultinline></switchinline><emph> -%PRODUCTNAME Calc - ទូទៅ </emph> ។"
 
 #. ESQwM
 #: 01020000.xhp
@@ -807,7 +805,7 @@ msgctxt ""
 "hd_id3148768\n"
 "help.text"
 msgid "Shift+<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+F4"
-msgstr ""
+msgstr "ប្តូរ + <switchinline select=\"sys\"><caseinline select=\"MAC\"> ពាក្យបញ្ជា </caseinline><defaultinline> បញ្ជា (Ctrl) </defaultinline></switchinline> + F4"
 
 #. AiMqF
 #: 01020000.xhp
@@ -825,7 +823,7 @@ msgctxt ""
 "hd_id3145353\n"
 "help.text"
 msgid "F4"
-msgstr ""
+msgstr "ច.៤"
 
 #. 7GNxN
 #: 01020000.xhp
@@ -843,7 +841,7 @@ msgctxt ""
 "hd_id3156063\n"
 "help.text"
 msgid "F5"
-msgstr "F5"
+msgstr "ច.៥"
 
 #. AB9fs
 #: 01020000.xhp
@@ -879,7 +877,7 @@ msgctxt ""
 "hd_id3148430\n"
 "help.text"
 msgid "Shift+F9"
-msgstr ""
+msgstr "ប្តូរ + F9"
 
 #. FWpeb
 #: 01020000.xhp
@@ -906,7 +904,7 @@ msgctxt ""
 "par_id3153551\n"
 "help.text"
 msgid "Moves the cursor from the <emph>Input line</emph> to the <emph>Sheet area</emph> box. You can also use Shift+<switchinline select=\"sys\"><caseinline select=\"MAC\">Command</caseinline><defaultinline>Ctrl</defaultinline></switchinline>+T."
-msgstr ""
+msgstr "ផ្លាស់ទីទស្សន៍ទ្រនិចចេញពីឯកសារ <emph> ខ្សែបញ្ចូល </emph> ទៅ​ដល់ <emph> ផ្ទៃសន្លឹក </emph> ប្រអប់។ អ្នកក៏អាចប្រើប្តូរ + <switchinline select=\"sys\"><caseinline select=\"MAC\"> ពាក្យបញ្ជា </caseinline><defaultinline> បញ្ជា (Ctrl) </defaultinline></switchinline> + T ។"
 
 #. 6NRwR
 #: 01020000.xhp
@@ -915,7 +913,7 @@ msgctxt ""
 "hd_id3155368\n"
 "help.text"
 msgid "F7"
-msgstr "F7"
+msgstr "ច.៧"
 
 #. wEzCo
 #: 01020000.xhp
@@ -951,7 +949,7 @@ msgctxt ""
 "hd_id3156257\n"
 "help.text"
 msgid "F8"
-msgstr "F8"
+msgstr "F8."
 
 #. 7TksC
 #: 01020000.xhp
@@ -987,7 +985,7 @@ msgctxt ""
 "hd_id3152479\n"
 "help.text"
 msgid "F9"
-msgstr "F9"
+msgstr "ច.៩"
 
 #. gHTre
 #: 01020000.xhp
@@ -1041,7 +1039,7 @@ msgctxt ""
 "hd_id3149279\n"
 "help.text"
 msgid "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command+T</caseinline><defaultinline>F11</defaultinline></switchinline>"
-msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\">Command+T</caseinline><defaultinline>F11</defaultinline></switchinline>"
+msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\"> ពាក្យបញ្ជា + T </caseinline><defaultinline> F11 </defaultinline></switchinline>"
 
 #. edNSJ
 #: 01020000.xhp
@@ -1050,7 +1048,7 @@ msgctxt ""
 "par_id3150967\n"
 "help.text"
 msgid "Opens the <emph>Styles</emph> window where you can apply a formatting style to the contents of the cell or to the current sheet."
-msgstr ""
+msgstr "បើកឯកសារ <emph> ស្ទីល </emph> បង្អួចដែលអ្នកអាចអនុវត្តរចនាប័ទ្មធ្វើទ្រង់ទ្រាយទៅមាតិកានៃក្រឡាឬទៅសន្លឹកបច្ចុប្បន្ន។"
 
 #. jr8HD
 #: 01020000.xhp
@@ -1095,7 +1093,7 @@ msgctxt ""
 "hd_id3150760\n"
 "help.text"
 msgid "F12"
-msgstr "F12"
+msgstr "ច.១២"
 
 #. 4e6VH
 #: 01020000.xhp
@@ -1266,7 +1264,7 @@ msgctxt ""
 "par_id3149197\n"
 "help.text"
 msgid "Open Format Cells dialog"
-msgstr "បើក​ប្រអប់​ធ្វើ​ទ្រង់ទ្រាយ​ក្រឡា"
+msgstr "បើក​ប្រអប់​ធ្វើ​ទ្រង់ទ្រាយ​ក្រឡ"
 
 #. XxnqH
 #: 01020000.xhp
@@ -1392,7 +1390,7 @@ msgctxt ""
 "par_id631581375238556\n"
 "help.text"
 msgid "The shortcut keys below are for the <emph>Pivot Table Layout</emph> dialog."
-msgstr ""
+msgstr "គ្រាប់ចុចផ្លូវកាត់ខាងក្រោមគឺសម្រាប់ឯកសារ <emph> ប្លង់តារាងអ្នកជំនួយការ </emph> ប្រអប់។"
 
 #. dRGGD
 #: 01020000.xhp
@@ -1419,7 +1417,7 @@ msgctxt ""
 "hd_id3153577\n"
 "help.text"
 msgid "<keycode>Tab</keycode>"
-msgstr ""
+msgstr "<keycode> ផ្ទាំង </keycode>"
 
 #. EyvCk
 #: 01020000.xhp
@@ -1437,7 +1435,7 @@ msgctxt ""
 "hd_id3154266\n"
 "help.text"
 msgid "<keycode>Shift+Tab</keycode>"
-msgstr ""
+msgstr "<keycode> ប្តូរ + ថេប </keycode>"
 
 #. ESR2E
 #: 01020000.xhp
@@ -1455,7 +1453,7 @@ msgctxt ""
 "hd_id3148484\n"
 "help.text"
 msgid "<keycode>Up Arrow</keycode>"
-msgstr ""
+msgstr "<keycode> ព្រួញ​ឡើង​លើ </keycode>"
 
 #. jWNGS
 #: 01020000.xhp
@@ -1473,7 +1471,7 @@ msgctxt ""
 "hd_id3154273\n"
 "help.text"
 msgid "<keycode>Down Arrow</keycode>"
-msgstr ""
+msgstr "<keycode> ព្រួញចុះក្រោម </keycode>"
 
 #. g3pGx
 #: 01020000.xhp
@@ -1491,7 +1489,7 @@ msgctxt ""
 "hd_id3148912\n"
 "help.text"
 msgid "<keycode>Left Arrow</keycode>"
-msgstr ""
+msgstr "<keycode> ព្រួញខាងឆ្វេង </keycode>"
 
 #. dEqdi
 #: 01020000.xhp
@@ -1509,7 +1507,7 @@ msgctxt ""
 "hd_id3150712\n"
 "help.text"
 msgid "<keycode>Right Arrow</keycode>"
-msgstr ""
+msgstr "<keycode> ព្រួញស្ដាំ </keycode>"
 
 #. DKiGb
 #: 01020000.xhp
@@ -1527,7 +1525,7 @@ msgctxt ""
 "hd_id3146947\n"
 "help.text"
 msgid "<keycode>Home</keycode>"
-msgstr ""
+msgstr "<keycode> ផ្ទះ </keycode>"
 
 #. 2myZF
 #: 01020000.xhp
@@ -1545,7 +1543,7 @@ msgctxt ""
 "hd_id3153387\n"
 "help.text"
 msgid "<keycode>End</keycode>"
-msgstr ""
+msgstr "<keycode> បញ្ចប់ </keycode>"
 
 #. RhFGF
 #: 01020000.xhp
@@ -1563,7 +1561,7 @@ msgctxt ""
 "hd_id3155584\n"
 "help.text"
 msgid "<switchinline select=\"sys\"><caseinline select=\"MAC\"><keycode>Option</keycode></caseinline><defaultinline><keycode>Alt</keycode></defaultinline></switchinline> and the underlined character in the label \"Row Fields\""
-msgstr ""
+msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\"><keycode> ជម្រើស </keycode></caseinline><defaultinline><keycode> ជំនួស </keycode></defaultinline></switchinline> និងតួអក្សរគូសបញ្ជាក់ក្នុងស្លាក \"វាលជួរដេក\";"
 
 #. cSthX
 #: 01020000.xhp
@@ -1572,7 +1570,7 @@ msgctxt ""
 "par_id3152949\n"
 "help.text"
 msgid "Copies or moves the current field into the \"Row Fields\" area."
-msgstr ""
+msgstr "ចម្លងឬផ្លាស់ទីវាលបច្ចុប្បន្នទៅតំបន់ \"វាលជួរដេក\"។"
 
 #. qFSYZ
 #: 01020000.xhp
@@ -1581,7 +1579,7 @@ msgctxt ""
 "hd_id3159269\n"
 "help.text"
 msgid "<switchinline select=\"sys\"><caseinline select=\"MAC\">Option</caseinline><defaultinline><keycode>Alt</keycode></defaultinline></switchinline> and the underlined character in the label \"Column Fields\""
-msgstr ""
+msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\"> ជម្រើស </caseinline><defaultinline><keycode> ជំនួស </keycode></defaultinline></switchinline> និងតួអក្សរគូសបញ្ជាក់ក្នុងស្លាក \"វាលជួរឈរ\";"
 
 #. 5PHQg
 #: 01020000.xhp
@@ -1590,7 +1588,7 @@ msgctxt ""
 "par_id3149968\n"
 "help.text"
 msgid "Copies or moves the current field into the \"Column Fields\" area."
-msgstr ""
+msgstr "ចម្លងឬផ្លាស់ទីវាលបច្ចុប្បន្នទៅក្នុងតំបន់ \"វាលជួរឈរ\" ។"
 
 #. wGVoz
 #: 01020000.xhp
@@ -1599,7 +1597,7 @@ msgctxt ""
 "hd_id3149923\n"
 "help.text"
 msgid "<switchinline select=\"sys\"><caseinline select=\"MAC\"><keycode>Option</keycode></caseinline><defaultinline><keycode>Alt</keycode></defaultinline></switchinline> and the underlined character in the label \"Data Fields\""
-msgstr ""
+msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\"><keycode> ជម្រើស </keycode></caseinline><defaultinline><keycode> ជំនួស </keycode></defaultinline></switchinline> និងតួអក្សរគូសបញ្ជាក់ក្នុងស្លាក \"វាលទិន្នន័យ\";"
 
 #. LpaiM
 #: 01020000.xhp
@@ -1608,7 +1606,7 @@ msgctxt ""
 "par_id3148649\n"
 "help.text"
 msgid "Copies or moves the current field into the \"Data Fields\" area."
-msgstr ""
+msgstr "ចម្លងឬផ្លាស់ទីវាលបច្ចុប្បន្នទៅតំបន់ \"វាលទិន្នន័យ\" ។"
 
 #. raCg3
 #: 01020000.xhp
@@ -1617,7 +1615,7 @@ msgctxt ""
 "hd_id3149423\n"
 "help.text"
 msgid "<switchinline select=\"sys\"><caseinline select=\"MAC\"><keycode>Option</keycode></caseinline><defaultinline><keycode>Alt</keycode></defaultinline></switchinline> and the underlined character in the label \"Filters\""
-msgstr ""
+msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\"><keycode> ជម្រើស </keycode></caseinline><defaultinline><keycode> ជំនួស </keycode></defaultinline></switchinline> និងតួអក្សរគូសបញ្ជាក់នៅក្នុងស្លាក \"តម្រង\";"
 
 #. Dnys7
 #: 01020000.xhp
@@ -1626,7 +1624,7 @@ msgctxt ""
 "par_id3144649\n"
 "help.text"
 msgid "Copies or moves the current field into the \"Filters\" area."
-msgstr ""
+msgstr "ចម្លងឬផ្លាស់ទីវាលបច្ចុប្បន្នទៅក្នុងតំបន់ \"តម្រង\"។"
 
 #. RBfHn
 #: 01020000.xhp
@@ -1635,7 +1633,7 @@ msgctxt ""
 "hd_id3149418\n"
 "help.text"
 msgid "<switchinline select=\"sys\"><caseinline select=\"MAC\"><keycode>Command</keycode></caseinline><defaultinline><keycode>Ctrl</keycode></defaultinline></switchinline><keycode>+Up Arrow</keycode>"
-msgstr ""
+msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\"><keycode> ពាក្យបញ្ជា </keycode></caseinline><defaultinline><keycode> បញ្ជា (Ctrl) </keycode></defaultinline></switchinline><keycode> + ព្រួញឡើងលើ </keycode>"
 
 #. 5sk3h
 #: 01020000.xhp
@@ -1653,7 +1651,7 @@ msgctxt ""
 "hd_id3148462\n"
 "help.text"
 msgid "<switchinline select=\"sys\"><caseinline select=\"MAC\"><keycode>Command</keycode></caseinline><defaultinline><keycode>Ctrl</keycode></defaultinline></switchinline><keycode>+Down Arrow</keycode>"
-msgstr ""
+msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\"><keycode> ពាក្យបញ្ជា </keycode></caseinline><defaultinline><keycode> បញ្ជា (Ctrl) </keycode></defaultinline></switchinline><keycode> + ព្រួញចុះក្រោម </keycode>"
 
 #. eMbdi
 #: 01020000.xhp
@@ -1671,7 +1669,7 @@ msgctxt ""
 "hd_id3145373\n"
 "help.text"
 msgid "<switchinline select=\"sys\"><caseinline select=\"MAC\"><keycode>Command</keycode></caseinline><defaultinline><keycode>Ctrl</keycode></defaultinline></switchinline><keycode>+Left Arrow</keycode>"
-msgstr ""
+msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\"><keycode> ពាក្យបញ្ជា </keycode></caseinline><defaultinline><keycode> បញ្ជា (Ctrl) </keycode></defaultinline></switchinline><keycode> + ព្រួញខាងឆ្វេង </keycode>"
 
 #. ZhhRj
 #: 01020000.xhp
@@ -1689,7 +1687,7 @@ msgctxt ""
 "hd_id3150423\n"
 "help.text"
 msgid "<switchinline select=\"sys\"><caseinline select=\"MAC\"><keycode>Command</keycode></caseinline><defaultinline><keycode>Ctrl</keycode></defaultinline></switchinline><keycode>+Right Arrow</keycode>"
-msgstr ""
+msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\"><keycode> ពាក្យបញ្ជា </keycode></caseinline><defaultinline><keycode> បញ្ជា (Ctrl) </keycode></defaultinline></switchinline><keycode> + ព្រួញស្ដាំ </keycode>"
 
 #. hDqUA
 #: 01020000.xhp
@@ -1707,7 +1705,7 @@ msgctxt ""
 "hd_id3149519\n"
 "help.text"
 msgid "<switchinline select=\"sys\"><caseinline select=\"MAC\"><keycode>Command</keycode></caseinline><defaultinline><keycode>Ctrl</keycode></defaultinline></switchinline><keycode>+Home</keycode>"
-msgstr ""
+msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\"><keycode> ពាក្យបញ្ជា </keycode></caseinline><defaultinline><keycode> បញ្ជា (Ctrl) </keycode></defaultinline></switchinline><keycode> + ផ្ទះ </keycode>"
 
 #. SFdar
 #: 01020000.xhp
@@ -1725,7 +1723,7 @@ msgctxt ""
 "hd_id3145310\n"
 "help.text"
 msgid "<switchinline select=\"sys\"><caseinline select=\"MAC\"><keycode>Command</keycode></caseinline><defaultinline><keycode>Ctrl</keycode></defaultinline></switchinline><keycode>+End</keycode>"
-msgstr ""
+msgstr "<switchinline select=\"sys\"><caseinline select=\"MAC\"><keycode> ពាក្យបញ្ជា </keycode></caseinline><defaultinline><keycode> បញ្ជា (Ctrl) </keycode></defaultinline></switchinline><keycode> + បញ្ចប់ </keycode>"
 
 #. ZeXEZ
 #: 01020000.xhp
@@ -1743,7 +1741,7 @@ msgctxt ""
 "hd_id3148418\n"
 "help.text"
 msgid "<keycode>Delete</keycode>"
-msgstr ""
+msgstr "<keycode> លុប </keycode>"
 
 #. sGFF8
 #: 01020000.xhp

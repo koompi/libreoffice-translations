@@ -1,20 +1,20 @@
-#. extracted from helpcontent2/source/auxiliary
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
-"POT-Creation-Date: 2020-05-19 12:41+0200\n"
-"PO-Revision-Date: 2018-07-19 12:53+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug."
+"cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2020-03-10 13:36+0100\n"
+"PO-Revision-Date: 2020-09-09 13:42+0700\n"
+"Last-Translator: Koompi Apps Localization\n"
 "Language: km\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Accelerator-Marker: ~\n"
-"X-Generator: LibreOffice\n"
-"X-POOTLE-MTIME: 1532004798.000000\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-POOTLE-MTIME: 1535975854.000000\n"
+"Language-Team: KOOMPI Apps Localization\n"
 
 #. fEEXD
 #: sbasic.tree
@@ -23,7 +23,7 @@ msgctxt ""
 "07\n"
 "help_section.text"
 msgid "Macros and Scripting"
-msgstr ""
+msgstr "ម៉ាក្រូនិងស្គ្រីប"
 
 #. pDA36
 #: sbasic.tree
@@ -32,7 +32,7 @@ msgctxt ""
 "0701\n"
 "node.text"
 msgid "%PRODUCTNAME BASIC"
-msgstr ""
+msgstr "%PRODUCTNAME BASIC"
 
 #. Ua99d
 #: sbasic.tree
@@ -41,7 +41,7 @@ msgctxt ""
 "070101\n"
 "node.text"
 msgid "General Information and User Interface Usage"
-msgstr ""
+msgstr "ព័ត៌មានទូទៅនិងការប្រើប្រាស់អន្តរមុខអ្នកប្រើប្រាស់"
 
 #. ooCCn
 #: sbasic.tree
@@ -50,7 +50,7 @@ msgctxt ""
 "070102\n"
 "node.text"
 msgid "Command Reference"
-msgstr ""
+msgstr "សេចក្តីយោងពាក្យបញ្ជា"
 
 #. MrEnT
 #: sbasic.tree
@@ -59,7 +59,7 @@ msgctxt ""
 "07010202\n"
 "node.text"
 msgid "Functions, Statements, and Operators"
-msgstr ""
+msgstr "មុខងាររបាយការណ៍និងប្រតិបត្តិករ"
 
 #. hAowB
 #: sbasic.tree
@@ -68,7 +68,7 @@ msgctxt ""
 "07010201\n"
 "node.text"
 msgid "Alphabetic List of Functions, Statements, and Operators"
-msgstr ""
+msgstr "បញ្ជីអក្ខរក្រមនៃមុខងាររបាយការណ៍និងប្រតិបត្តិករ"
 
 #. jhVCB
 #: sbasic.tree
@@ -77,7 +77,7 @@ msgctxt ""
 "07010205\n"
 "node.text"
 msgid "Advanced Basic Libraries"
-msgstr ""
+msgstr "បណ្ណាល័យមូលដ្ឋានកម្រិតខ្ពស់"
 
 #. Vkt9E
 #: sbasic.tree
@@ -86,7 +86,7 @@ msgctxt ""
 "070103\n"
 "node.text"
 msgid "Guides"
-msgstr ""
+msgstr "មគ្គុទេសក៍"
 
 #. f7k4A
 #: sbasic.tree
@@ -95,7 +95,7 @@ msgctxt ""
 "0702\n"
 "node.text"
 msgid "Python Scripts Help"
-msgstr ""
+msgstr "ជំនួយស្គ្រីប ផាយតុន"
 
 #. pVb5g
 #: sbasic.tree
@@ -104,7 +104,7 @@ msgctxt ""
 "070201\n"
 "node.text"
 msgid "General Information and User Interface Usage"
-msgstr ""
+msgstr "ព័ត៌មានទូទៅនិងការប្រើប្រាស់អន្តរមុខអ្នកប្រើប្រាស់"
 
 #. D6bPQ
 #: sbasic.tree
@@ -113,7 +113,7 @@ msgctxt ""
 "070202\n"
 "node.text"
 msgid "Programming with Python"
-msgstr ""
+msgstr "ការសរសេរកម្មវិធីជាមួយ ផាយតុន"
 
 #. KsAjT
 #: scalc.tree
@@ -122,7 +122,7 @@ msgctxt ""
 "08\n"
 "help_section.text"
 msgid "Spreadsheets (Calc)"
-msgstr ""
+msgstr "សៀវភៅបញ្ជី (Calc)"
 
 #. DnZNf
 #: scalc.tree
@@ -176,7 +176,7 @@ msgctxt ""
 "0804\n"
 "node.text"
 msgid "Loading, Saving, Importing, Exporting and Redacting"
-msgstr ""
+msgstr "ផ្ទុករក្សា,ទុករក្សា,ទុកនាំចេញ,នាំចេញ,  និងបិទដំណើរការ"
 
 #. yRwiN
 #: scalc.tree
@@ -230,7 +230,7 @@ msgctxt ""
 "08091\n"
 "node.text"
 msgid "Pivot Chart"
-msgstr ""
+msgstr "តារាងជំនួយការទិន្នន័យ"
 
 #. RowUw
 #: scalc.tree
@@ -248,7 +248,7 @@ msgctxt ""
 "08101\n"
 "node.text"
 msgid "Subtotals"
-msgstr ""
+msgstr "អនុភាគ"
 
 #. CzARM
 #: scalc.tree
@@ -320,7 +320,7 @@ msgctxt ""
 "09\n"
 "help_section.text"
 msgid "Database Functionality (Base)"
-msgstr ""
+msgstr "មុខងារមូលដ្ឋានទិន្នន័យ (មូលដ្ឋាន)"
 
 #. tLWiE
 #: sdatabase.tree
@@ -329,7 +329,7 @@ msgctxt ""
 "0901\n"
 "node.text"
 msgid "General Information"
-msgstr ""
+msgstr "ព័ត៌មាន​ទូទៅ"
 
 #. xU49Q
 #: sdraw.tree
@@ -338,7 +338,7 @@ msgctxt ""
 "11\n"
 "help_section.text"
 msgid "Drawings (Draw)"
-msgstr ""
+msgstr "គំនូរ (គូរ)"
 
 #. UcMAA
 #: sdraw.tree
@@ -347,7 +347,7 @@ msgctxt ""
 "1101\n"
 "node.text"
 msgid "General Information and User Interface Usage"
-msgstr ""
+msgstr "ព័ត៌មានទូទៅនិងការប្រើប្រាស់អន្តរមុខអ្នកប្រើប្រាស់"
 
 #. ZDeBD
 #: sdraw.tree
@@ -356,7 +356,7 @@ msgctxt ""
 "1102\n"
 "node.text"
 msgid "Command and Menu Reference"
-msgstr ""
+msgstr "សេចក្តីយោងពាក្យបញ្ជានិងម៉ឺនុយ"
 
 #. kq7Az
 #: sdraw.tree
@@ -365,7 +365,7 @@ msgctxt ""
 "11020201\n"
 "node.text"
 msgid "Menus"
-msgstr ""
+msgstr "ម៉ឺនុយ"
 
 #. SFgJ7
 #: sdraw.tree
@@ -374,7 +374,7 @@ msgctxt ""
 "11020202\n"
 "node.text"
 msgid "Toolbars"
-msgstr ""
+msgstr "របារឧបករណ៍"
 
 #. 9ojH7
 #: sdraw.tree
@@ -383,7 +383,7 @@ msgctxt ""
 "1103\n"
 "node.text"
 msgid "Loading, Saving, Importing, and Exporting"
-msgstr ""
+msgstr "ផ្ទុករក្សាទុករក្សាទុកនាំចូលនិងនាំចេញ"
 
 #. fJYHX
 #: sdraw.tree
@@ -392,7 +392,7 @@ msgctxt ""
 "1104\n"
 "node.text"
 msgid "Formatting"
-msgstr ""
+msgstr "ការធ្វើទ្រង់ទ្រាយ"
 
 #. HkVUY
 #: sdraw.tree
@@ -401,7 +401,7 @@ msgctxt ""
 "1105\n"
 "node.text"
 msgid "Printing"
-msgstr ""
+msgstr "ការបោះពុម្ព"
 
 #. G8GoF
 #: sdraw.tree
@@ -410,7 +410,7 @@ msgctxt ""
 "1106\n"
 "node.text"
 msgid "Effects"
-msgstr ""
+msgstr "ផលប៉ះពាល់"
 
 #. fd9tS
 #: sdraw.tree
@@ -419,7 +419,7 @@ msgctxt ""
 "1107\n"
 "node.text"
 msgid "Objects, Graphics, and Bitmaps"
-msgstr ""
+msgstr "វត្ថុ,ក្រាហ្វិក,និងរូបភាព"
 
 #. crdMY
 #: sdraw.tree
@@ -428,7 +428,7 @@ msgctxt ""
 "1108\n"
 "node.text"
 msgid "Groups and Layers"
-msgstr ""
+msgstr "ក្រុមនិងស្រទាប់"
 
 #. G3s8n
 #: sdraw.tree
@@ -437,7 +437,7 @@ msgctxt ""
 "1109\n"
 "node.text"
 msgid "Text in Drawings"
-msgstr ""
+msgstr "អត្ថបទនៅក្នុងគំនូរ"
 
 #. rxRmL
 #: sdraw.tree
@@ -446,7 +446,7 @@ msgctxt ""
 "1110\n"
 "node.text"
 msgid "Viewing"
-msgstr ""
+msgstr "មើល"
 
 #. 4zaCG
 #: shared.tree
@@ -455,7 +455,7 @@ msgctxt ""
 "01\n"
 "help_section.text"
 msgid "%PRODUCTNAME Installation"
-msgstr ""
+msgstr "ការតំឡើង %PRODUCTNAME"
 
 #. 3EUAC
 #: shared.tree
@@ -572,7 +572,7 @@ msgctxt ""
 "10071\n"
 "node.text"
 msgid "Digital Signatures"
-msgstr ""
+msgstr "ហត្ថលេខាឌីជីថល"
 
 #. drtXn
 #: shared.tree
@@ -617,7 +617,7 @@ msgctxt ""
 "1013\n"
 "node.text"
 msgid "Load, Save, Import, Export, PDF"
-msgstr ""
+msgstr "ផ្ទុករក្សាទុករក្សាទុកនាំចេញ PDF"
 
 #. Ty8Du
 #: shared.tree
@@ -689,7 +689,7 @@ msgctxt ""
 "04\n"
 "help_section.text"
 msgid "Presentations (Impress)"
-msgstr ""
+msgstr "បទបង្ហាញ (ចំណាប់អារម្មណ៍)"
 
 #. hBFX8
 #: simpress.tree
@@ -734,7 +734,7 @@ msgctxt ""
 "0403\n"
 "node.text"
 msgid "Loading, Saving, Importing, Exporting and Redacting"
-msgstr ""
+msgstr "ផ្ទុករក្សាទុករក្សាទុកនាំចេញនាំចេញនិងបិទដំណើរការ"
 
 #. jMBsp
 #: simpress.tree
@@ -779,7 +779,7 @@ msgctxt ""
 "0409\n"
 "node.text"
 msgid "Text in Presentations"
-msgstr ""
+msgstr "អត្ថបទក្នុងបទបង្ហាញ"
 
 #. s8GCo
 #: simpress.tree
@@ -797,7 +797,7 @@ msgctxt ""
 "0411\n"
 "node.text"
 msgid "Slide Shows"
-msgstr ""
+msgstr "បញ្ចាំងស្លាយ"
 
 #. m5CkC
 #: smath.tree
@@ -806,7 +806,7 @@ msgctxt ""
 "03\n"
 "help_section.text"
 msgid "Formulas (Math)"
-msgstr ""
+msgstr "រូបមន្ត (គណិតវិទ្យា)"
 
 #. kAkAL
 #: smath.tree
@@ -824,7 +824,7 @@ msgctxt ""
 "030101\n"
 "node.text"
 msgid "%PRODUCTNAME Formula Elements"
-msgstr ""
+msgstr "ធាតុរូបមន្ត %PRODUCTNAME"
 
 #. V99im
 #: smath.tree
@@ -851,7 +851,7 @@ msgctxt ""
 "02\n"
 "help_section.text"
 msgid "Text Documents (Writer)"
-msgstr ""
+msgstr "ឯកសារអត្ថបទ (អ្នកនិពន្ធ)"
 
 #. jWyEV
 #: swriter.tree
@@ -1040,7 +1040,7 @@ msgctxt ""
 "0219\n"
 "node.text"
 msgid "Loading, Saving, Importing, Exporting and Redacting"
-msgstr ""
+msgstr "ផ្ទុក, រក្សាទុក, នាំចូល, នាំចេញនិងបិទដំណើរការ"
 
 #. 8GC4J
 #: swriter.tree
@@ -1085,4 +1085,4 @@ msgctxt ""
 "06\n"
 "help_section.text"
 msgid "HTML Documents (Writer Web)"
-msgstr ""
+msgstr "ឯកសារ HTML (អ្នកសរសេរគេហទំព័រ)"

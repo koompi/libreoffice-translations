@@ -1,21 +1,19 @@
-#. extracted from helpcontent2/source/text/schart/01
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
-"POT-Creation-Date: 2020-07-21 11:19+0200\n"
-"PO-Revision-Date: 2018-02-27 18:11+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
-"Language-Team: Khmer <supprot@khmeros.info>\n"
+"POT-Creation-Date: 2020-03-10 13:36+0100\n"
+"PO-Revision-Date: 2020-09-03 09:44+0700\n"
+"Last-Translator: Koompi Apps Localization\n"
 "Language: km\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Accelerator-Marker: ~\n"
-"X-Generator: LibreOffice\n"
-"X-Language: km-KH\n"
-"X-POOTLE-MTIME: 1519755068.000000\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-POOTLE-MTIME: 1535975854.000000\n"
+"Language-Team: KOOMPI Apps Localization\n"
 
 #. DsZFP
 #: 03010000.xhp
@@ -42,7 +40,7 @@ msgctxt ""
 "par_id3151115\n"
 "help.text"
 msgid "<ahelp hid=\".\">Opens the<emph> Data Table </emph>dialog where you can edit the chart data.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".\"> បើកឯកសារ <emph> តារាងទិន្នន័យ </emph> ប្រអប់ដែលអ្នកអាចកែសម្រួលទិន្នន័យគំនូសតាង។ </ahelp>"
 
 #. RHGbZ
 #: 03010000.xhp
@@ -231,7 +229,7 @@ msgctxt ""
 "par_id4089176\n"
 "help.text"
 msgid "<ahelp hid=\".\" visibility=\"hidden\">Switches the current column with its neighbor at the left.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".\" visibility=\"hidden\"> ប្តូរជួរឈរបច្ចុប្បន្នជាមួយអ្នកជិតខាងនៅខាងឆ្វេង។ </ahelp>"
 
 #. DvGaq
 #: 03010000.xhp
@@ -249,7 +247,7 @@ msgctxt ""
 "par_id3949096\n"
 "help.text"
 msgid "<ahelp hid=\".\" visibility=\"hidden\">Switches the current row with its neighbor above.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".\" visibility=\"hidden\"> ប្តូរជួរដេកបច្ចុប្បន្នជាមួយអ្នកជិតខាងខាងលើ។ </ahelp>"
 
 #. gqb7C
 #: 03010000.xhp
@@ -285,7 +283,7 @@ msgctxt ""
 "par_id3150298\n"
 "help.text"
 msgid "<variable id=\"titel\"><ahelp hid=\".\">Opens a dialog to enter or modify the titles in a chart.</ahelp></variable> You can define the text for the main title, subtitle and the axis labels, and specify if they are displayed."
-msgstr ""
+msgstr "<variable id=\"titel\"><ahelp hid=\".\"> បើកប្រអប់ដើម្បីបញ្ចូលឬកែប្រែចំណងជើងនៅក្នុងគំនូសតាង។ </ahelp></variable> អ្នកអាចកំណត់អត្ថបទសម្រាប់ចំណងជើងមេចំណងជើងរងនិងស្លាកអ័ក្សហើយបញ្ជាក់ប្រសិនបើវាត្រូវបានបង្ហាញ។"
 
 #. nMBJm
 #: 04010000.xhp
@@ -294,7 +292,7 @@ msgctxt ""
 "hd_id3150207\n"
 "help.text"
 msgid "Title"
-msgstr ""
+msgstr "ចំណងជើង"
 
 #. aDGQ3
 #: 04010000.xhp
@@ -303,7 +301,7 @@ msgctxt ""
 "par_id3150371\n"
 "help.text"
 msgid "<ahelp hid=\"modules/schart/ui/inserttitledlg/maintitle\">Enter the desired title for the chart.</ahelp> This will be displayed at the top of the chart."
-msgstr ""
+msgstr "<ahelp hid=\"modules/schart/ui/inserttitledlg/maintitle\"> បញ្ចូលចំណងជើងដែលចង់បានសម្រាប់តារាង។ </ahelp> នេះនឹងត្រូវបានបង្ហាញនៅខាងលើតារាង។"
 
 #. PB2Ds
 #: 04010000.xhp
@@ -321,7 +319,7 @@ msgctxt ""
 "par_id3149404\n"
 "help.text"
 msgid "<ahelp hid=\"modules/schart/ui/inserttitledlg/subtitle\">Enter the desired subtitle for the chart.</ahelp> This will be displayed under the title set in the <emph>Title</emph> field."
-msgstr ""
+msgstr "<ahelp hid=\"modules/schart/ui/inserttitledlg/subtitle\"> បញ្ចូលចំណងជើងរងដែលចង់បានសម្រាប់តារាង។ </ahelp> នេះនឹងត្រូវបានបង្ហាញក្រោមចំណងជើងដែលបានកំណត់នៅក្នុងឯកសារ <emph> ចំណងជើង </emph> វាល។"
 
 #. XnAk5
 #: 04010000.xhp
@@ -330,7 +328,7 @@ msgctxt ""
 "hd_id3150208\n"
 "help.text"
 msgid "Axes"
-msgstr ""
+msgstr "អ័ក្ស"
 
 #. UZbPg
 #: 04010000.xhp
@@ -348,7 +346,7 @@ msgctxt ""
 "par_id3152869\n"
 "help.text"
 msgid "<ahelp hid=\"modules/schart/ui/inserttitledlg/primaryXaxis\">Enter the desired title for the X axis of the chart.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"modules/schart/ui/inserttitledlg/primaryXaxis\"> បញ្ចូលចំណងជើងដែលចង់បានសម្រាប់អ័ក្ស X នៃគំនូសតាង។ </ahelp>"
 
 #. D9dUG
 #: 04010000.xhp
@@ -366,7 +364,7 @@ msgctxt ""
 "par_id3154763\n"
 "help.text"
 msgid "<ahelp hid=\"modules/schart/ui/inserttitledlg/primaryYaxis\">Enter the desired title for the Y axis of the chart.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\"modules/schart/ui/inserttitledlg/primaryYaxis\"> បញ្ចូលចំណងជើងដែលចង់បានសម្រាប់អ័ក្ស Y នៃគំនូសតាង។ </ahelp>"
 
 #. dnefP
 #: 04010000.xhp
@@ -384,7 +382,7 @@ msgctxt ""
 "par_id3154710\n"
 "help.text"
 msgid "<ahelp hid=\"modules/schart/ui/inserttitledlg/primaryZaxis\">Enter the desired title for the Z axis of the chart.</ahelp> This option is only available for 3-D charts."
-msgstr ""
+msgstr "<ahelp hid=\"modules/schart/ui/inserttitledlg/primaryZaxis\"> បញ្ចូលចំណងជើងដែលចង់បានសម្រាប់អ័ក្ស Z នៃគំនូសតាង។ </ahelp> ជម្រើសនេះអាចប្រើបានសម្រាប់គំនូសតាង 3-D ប៉ុណ្ណោះ។"
 
 #. uq9uY
 #: 04010000.xhp
@@ -393,7 +391,7 @@ msgctxt ""
 "hd_id3150209\n"
 "help.text"
 msgid "Secondary Axes"
-msgstr ""
+msgstr "អ័ក្សរង"
 
 #. Ur5xh
 #: 04010000.xhp
@@ -402,7 +400,7 @@ msgctxt ""
 "hd_id3156019\n"
 "help.text"
 msgid "X axis"
-msgstr ""
+msgstr "អ័ក្ស X"
 
 #. QNMF9
 #: 04010000.xhp
@@ -411,7 +409,7 @@ msgctxt ""
 "par_id3152870\n"
 "help.text"
 msgid "<ahelp hid=\"modules/schart/ui/inserttitledlg/secondaryXaxis\">Enter the desired secondary title for the X axis of the chart.</ahelp> This will appear on the opposite side of the chart as the X axis title."
-msgstr ""
+msgstr "<ahelp hid=\"modules/schart/ui/inserttitledlg/secondaryXaxis\"> បញ្ចូលចំណងជើងរងដែលចង់បានសម្រាប់អ័ក្ស X នៃគំនូសតាង។ </ahelp> នេះនឹងបង្ហាញនៅជ្រុងម្ខាងនៃគំនូសតាងជាចំណងជើងអ័ក្ស X ។"
 
 #. CZHPa
 #: 04010000.xhp
@@ -420,7 +418,7 @@ msgctxt ""
 "hd_id3156020\n"
 "help.text"
 msgid "Y axis"
-msgstr ""
+msgstr "អ័ក្ស Y"
 
 #. 7BuDS
 #: 04010000.xhp
@@ -429,7 +427,7 @@ msgctxt ""
 "par_id3152872\n"
 "help.text"
 msgid "<ahelp hid=\"modules/schart/ui/inserttitledlg/secondaryYaxis\">Enter the desired secondary title for the Y axis of the chart.</ahelp> This will appear on the opposite side of the chart as the Y axis title."
-msgstr ""
+msgstr "<ahelp hid=\"modules/schart/ui/inserttitledlg/secondaryYaxis\"> បញ្ចូលចំណងជើងរងដែលចង់បានសម្រាប់អ័ក្ស Y នៃគំនូសតាង។ </ahelp> នេះនឹងបង្ហាញនៅជ្រុងម្ខាងនៃគំនូសតាងជាចំណងជើងអ័ក្ស Y ។"
 
 #. EpNZy
 #: 04020000.xhp
@@ -618,7 +616,7 @@ msgctxt ""
 "par_id1106200812072653\n"
 "help.text"
 msgid "This feature is only available if complex text layout support is enabled in <switchinline select=\"sys\"><caseinline select=\"MAC\"><item type=\"menuitem\">%PRODUCTNAME - Preferences</item></caseinline><defaultinline><item type=\"menuitem\">Tools - Options</item></defaultinline></switchinline><item type=\"menuitem\"> - Language settings - Languages</item>."
-msgstr ""
+msgstr "លក្ខណៈពិសេសនេះអាចប្រើបានប្រសិនបើមានការគាំទ្រប្លង់អត្ថបទស្មុគស្មាញ <switchinline select=\"sys\"><caseinline select=\"MAC\"><item type=\"menuitem\"> %PRODUCTNAME - ចំណូលចិត្ត </item></caseinline><defaultinline><item type=\"menuitem\"> ឧបករណ៍ - ជម្រើស </item></defaultinline></switchinline><item type=\"menuitem\"> - ការកំណត់ភាសា - ភាសា </item> ។"
 
 #. P8c8j
 #: 04020000.xhp
@@ -645,7 +643,7 @@ msgctxt ""
 "hd_id1106200812112445\n"
 "help.text"
 msgid "Overlay"
-msgstr ""
+msgstr "លាប​បិទ​ពី​លើ"
 
 #. C27pQ
 #: 04020000.xhp
@@ -654,7 +652,7 @@ msgctxt ""
 "par_id1106200812112531\n"
 "help.text"
 msgid "<ahelp hid=\".\">Specifies whether the legend should overlap the chart.</ahelp> Turning off this option is useful if you want to display the legend above an empty part of the chart area instead of beside it. This way the drawing area can fill the whole chart area, increasing its readability."
-msgstr ""
+msgstr "<ahelp hid=\".\"> បញ្ជាក់ថាតើរឿងព្រេងគួរត្រួតលើគំនូសតាង។ </ahelp> បិទជម្រើសនេះមានប្រយោជន៍ប្រសិនបើអ្នកចង់បង្ហាញរឿងព្រេងខាងលើផ្នែកទទេនៃផ្ទៃគំនូសតាងជំនួសឱ្យនៅក្បែរវា។ វិធីនេះផ្ទៃគំនូរអាចបំពេញតំបន់គំនូសតាងទាំងមូលបង្កើនការអាន។"
 
 #. WXyyt
 #: 04030000.xhp
@@ -933,7 +931,7 @@ msgctxt ""
 "hd_id3156385\n"
 "help.text"
 msgid "Major axis"
-msgstr "អ័ក្ស​មេ"
+msgstr "អ័ក្ស​ម"
 
 #. qKnCE
 #: 04040000.xhp
@@ -1131,7 +1129,7 @@ msgctxt ""
 "par_id3149409\n"
 "help.text"
 msgid "<ahelp hid=\".\">Does not show any error bars.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".\"> មិនបង្ហាញរបារកំហុសណាមួយឡើយ។ </ahelp>"
 
 #. G7ApU
 #: 04050000.xhp
@@ -1149,7 +1147,7 @@ msgctxt ""
 "par_id3151390\n"
 "help.text"
 msgid "<ahelp hid=\".\">Displays constant values that you specify in the Parameters area.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".\"> បង្ហាញតម្លៃថេរដែលអ្នកបញ្ជាក់ក្នុងតំបន់ប៉ារ៉ាម៉ែត្រ។ </ahelp>"
 
 #. uPkhT
 #: 04050000.xhp
@@ -1167,7 +1165,7 @@ msgctxt ""
 "par_id3150048\n"
 "help.text"
 msgid "<ahelp hid=\".\">Displays a percentage. The display refers to the corresponding data point. Set the percentage in the Parameters area.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".\"> បង្ហាញភាគរយ។ ការបង្ហាញសំដៅទៅលើចំណុចទិន្នន័យដែលត្រូវគ្នា។ កំណត់ភាគរយនៅក្នុងតំបន់ប៉ារ៉ាម៉ែត្រ។ </ahelp>"
 
 #. tsxNy
 #: 04050000.xhp
@@ -1203,7 +1201,7 @@ msgctxt ""
 "par_id3157979\n"
 "help.text"
 msgid "Variance: Displays the variance calculated from the number of data points and respective values."
-msgstr ""
+msgstr "វ៉ារនីសៈបង្ហាញវ៉ារ្យង់ដែលបានគណនាពីចំនួនចំណុចទិន្នន័យនិងតម្លៃរៀងៗខ្លួន។"
 
 #. DkMFd
 #: 04050000.xhp
@@ -1212,7 +1210,7 @@ msgctxt ""
 "par_id3153249\n"
 "help.text"
 msgid "Standard Deviation: Displays the standard deviation (square root of the variance). Unlike other functions, error bars are centered on the mean."
-msgstr ""
+msgstr "គម្លាតគំរូ៖ បង្ហាញគម្លាតគំរូ (ឫសការ៉េនៃបំរែបំរួល) ។ មិនដូចមុខងារផ្សេងទៀតទេរបារកំហុសផ្តោតលើមធ្យម។"
 
 #. GdCG9
 #: 04050000.xhp
@@ -1221,7 +1219,7 @@ msgctxt ""
 "par_id3149870\n"
 "help.text"
 msgid "Error Margin: Displays the highest error margin in percent according to the highest value of the data group. Set the percentage in the Parameters area."
-msgstr ""
+msgstr "រឹមកំហុស៖ បង្ហាញរឹមកំហុសខ្ពស់បំផុតគិតជាភាគរយយោងទៅតាមតម្លៃខ្ពស់បំផុតនៃក្រុមទិន្នន័យ។ កំណត់ភាគរយនៅក្នុងតំបន់ប៉ារ៉ាម៉ែត្រ។"
 
 #. ffQE4
 #: 04050000.xhp
@@ -1230,7 +1228,7 @@ msgctxt ""
 "hd_id350962\n"
 "help.text"
 msgid "Cell Range"
-msgstr "ជួរ​ក្រឡា"
+msgstr "ជួរ​ក្រឡ"
 
 #. BzcrF
 #: 04050000.xhp
@@ -1320,7 +1318,7 @@ msgctxt ""
 "par_id0428200810573991\n"
 "help.text"
 msgid "<ahelp hid=\".\">Enable to use the positive error values also as negative error values. You can only change the value of the \"Positive (+)\" box. That value gets copied to the \"Negative (-)\" box automatically.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=“.”> អនុញ្ញាតឱ្យប្រើតម្លៃកំហុសវិជ្ជមានក៏ដូចជាតម្លៃកំហុសអវិជ្ជមាន។ អ្នកអាចប្តូរតែតម្លៃប្រអប់ \"វិជ្ជមាន (+) \" ប៉ុណ្ណោះ។ តម្លៃនោះត្រូវបានចម្លងទៅប្រអប់ \"អវិជ្ជមាន (-) \" ដោយស្វ័យប្រវត្តិ។ </ahelp>"
 
 #. QZNgb
 #: 04050000.xhp
@@ -1329,7 +1327,7 @@ msgctxt ""
 "hd_id3156396\n"
 "help.text"
 msgid "Error Indicator"
-msgstr ""
+msgstr "សូចនាករកំហុស"
 
 #. YmcEX
 #: 04050000.xhp
@@ -1338,7 +1336,7 @@ msgctxt ""
 "par_id3150539\n"
 "help.text"
 msgid "Specifies the error indicator."
-msgstr ""
+msgstr "បញ្ជាក់សូចនាករកំហុស។"
 
 #. E4UCQ
 #: 04050000.xhp
@@ -1410,7 +1408,7 @@ msgctxt ""
 "bm_id1744743\n"
 "help.text"
 msgid "<bookmark_value>calculating;regression curves</bookmark_value>  <bookmark_value>regression curves in charts</bookmark_value>  <bookmark_value>trend lines in charts</bookmark_value>  <bookmark_value>mean value lines in charts</bookmark_value>"
-msgstr ""
+msgstr "<bookmark_value> ការគណនា; ខ្សែកោងតំរែតំរង់ </bookmark_value><bookmark_value> ខ្សែកោងតំរែតំរង់ក្នុងគំនូសតាង </bookmark_value><bookmark_value> បន្ទាត់និន្នាការនៅក្នុងគំនូសតាង </bookmark_value><bookmark_value> មានន័យថាខ្សែតម្លៃនៅក្នុងគំនូសតាង </bookmark_value>"
 
 #. UDTw3
 #: 04050100.xhp
@@ -1428,7 +1426,7 @@ msgctxt ""
 "par_id7272255\n"
 "help.text"
 msgid "<variable id=\"trendlinestext\"> <ahelp hid=\".\">Trend lines can be added to all 2D chart types except for Pie and Stock charts.</ahelp> </variable>"
-msgstr ""
+msgstr "<variable id=\"trendlinestext\"><ahelp hid=\".\"> បន្ទាត់និន្នាការអាចត្រូវបានបន្ថែមទៅប្រភេទគំនូសតាង 2D ទាំងអស់លើកលែងតែគំនូសតាង Pie និងស្តុក។ </ahelp></variable>"
 
 #. NF2z3
 #: 04050100.xhp
@@ -1473,7 +1471,7 @@ msgctxt ""
 "par_id180820161052123210\n"
 "help.text"
 msgid "<ahelp hid=\".\" visibility=\"hidden\">A polynomial trend line is shown with a given degree.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".\" visibility=\"hidden\"> បន្ទាត់និន្នាការពហុធាត្រូវបានបង្ហាញជាមួយនឹងកំរិតដែលបានផ្តល់។ </ahelp>"
 
 #. 69csw
 #: 04050100.xhp
@@ -1482,7 +1480,7 @@ msgctxt ""
 "par_id180820161102568315\n"
 "help.text"
 msgid "<ahelp hid=\".\" visibility=\"hidden\">Degree of polynomial trend line.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".\" visibility=\"hidden\"> កំរិតនៃបន្ទាត់និន្នាការពហុធា។ </ahelp>"
 
 #. pBcbu
 #: 04050100.xhp
@@ -1491,7 +1489,7 @@ msgctxt ""
 "par_id180820161105546053\n"
 "help.text"
 msgid "<ahelp hid=\".\" visibility=\"hidden\">A moving average trend line is shown with a given period.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".\" visibility=\"hidden\"> ខ្សែបន្ទាត់និន្នាការជាមធ្យមដែលមានការផ្លាស់ប្តូរត្រូវបានបង្ហាញជាមួយនឹងរយៈពេលដែលបានផ្តល់ឱ្យ។ </ahelp>"
 
 #. 9QFZj
 #: 04050100.xhp
@@ -1500,7 +1498,7 @@ msgctxt ""
 "par_id180820161107537745\n"
 "help.text"
 msgid "<ahelp hid=\".\" visibility=\"hidden\">Number of points to calculate average of moving average trend line.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".\" visibility=\"hidden\"> ចំនួនពិន្ទុដើម្បីគណនាមធ្យមភាគនៃការផ្លាស់ប្តូរបន្ទាត់និន្នាការមធ្យម។ </ahelp>"
 
 #. 8racG
 #: 04050100.xhp
@@ -1509,7 +1507,7 @@ msgctxt ""
 "par_id180820161112599880\n"
 "help.text"
 msgid "<ahelp hid=\".\" visibility=\"hidden\">Name of trend line in legend.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".\" visibility=\"hidden\"> ឈ្មោះនៃបន្ទាត់និន្នាការនៅក្នុងរឿងព្រេងនិទាន។ </ahelp>"
 
 #. YXXHr
 #: 04050100.xhp
@@ -1518,7 +1516,7 @@ msgctxt ""
 "par_id180820161117252261\n"
 "help.text"
 msgid "<ahelp hid=\".\" visibility=\"hidden\">Trend line is extrapolated for higher x-values.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".\" visibility=\"hidden\"> បន្ទាត់និន្នាការត្រូវបានគេពិចារណាសម្រាប់តម្លៃ x ខ្ពស់។ </ahelp>"
 
 #. LsExB
 #: 04050100.xhp
@@ -1527,7 +1525,7 @@ msgctxt ""
 "par_id18082016111837138\n"
 "help.text"
 msgid "<ahelp hid=\".\" visibility=\"hidden\">Trend line is extrapolated for lower x-values.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".\" visibility=\"hidden\"> បន្ទាត់និន្នាការត្រូវបានគេពិចារណាសម្រាប់តម្លៃ X ទាប។ </ahelp>"
 
 #. qsEYS
 #: 04050100.xhp
@@ -1536,7 +1534,7 @@ msgctxt ""
 "par_id180820161124272765\n"
 "help.text"
 msgid "<ahelp hid=\".\" visibility=\"hidden\">For linear, polynomial and exponential trend lines, intercept value is forced to a given value.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".\" visibility=\"hidden\"> សម្រាប់បន្ទាត់លីនេអ៊ែរពហុធានិងអិចស្ប៉ូណង់ស្យែលតម្លៃនៃការស្ទាក់ចាប់ត្រូវបានបង្ខំឱ្យតម្លៃដែលបានផ្តល់។ </ahelp>"
 
 #. Fug2F
 #: 04050100.xhp
@@ -1545,7 +1543,7 @@ msgctxt ""
 "par_id180820161126064822\n"
 "help.text"
 msgid "<ahelp hid=\".\" visibility=\"hidden\">Value of intercept if it is forced.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".\" visibility=\"hidden\"> តម្លៃនៃការស្ទាក់ចាប់ប្រសិនបើវាត្រូវបានបង្ខំ។ </ahelp>"
 
 #. EsUHA
 #: 04050100.xhp
@@ -1572,7 +1570,7 @@ msgctxt ""
 "par_id180820161133305870\n"
 "help.text"
 msgid "<ahelp hid=\".\" visibility=\"hidden\">Name of X variable in trend line equation.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".\" visibility=\"hidden\"> ឈ្មោះអថេរ X ក្នុងសមីការបន្ទាត់និន្នាការ។ </ahelp>"
 
 #. eD68W
 #: 04050100.xhp
@@ -1581,7 +1579,7 @@ msgctxt ""
 "par_id180820161134155865\n"
 "help.text"
 msgid "<ahelp hid=\".\" visibility=\"hidden\">Name of Y variable in trend line equation.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".\" visibility=\"hidden\"> ឈ្មោះអថេរ Y នៅក្នុងសមីការបន្ទាត់និន្នាការ។ </ahelp>"
 
 #. tpWGs
 #: 04050100.xhp
@@ -1590,7 +1588,7 @@ msgctxt ""
 "par_id8398998\n"
 "help.text"
 msgid "If you insert a trend line to a chart type that uses categories, like <emph>Line</emph> or <emph>Column</emph>, then the numbers 1, 2, 3, <emph>…</emph> are used as x-values to calculate the trend line. For such charts the XY chart type might be more suitable."
-msgstr ""
+msgstr "ប្រសិនបើអ្នកបញ្ចូលបន្ទាត់និន្នាការទៅប្រភេទគំនូសតាងដែលប្រើប្រភេទដូចជា <emph> បន្ទាត់ </emph> ឬ <emph> ជួរឈរ </emph> បន្ទាប់មកលេខ ១, ២, ៣, <emph> … </emph> ត្រូវបានប្រើជាតម្លៃ x ដើម្បីគណនាបន្ទាត់និន្នាការ។ ចំពោះគំនូសតាងបែបនេះប្រភេទគំនូសតាង XY ប្រហែលជាសមស្របជាង។"
 
 #. hatV8
 #: 04050100.xhp
@@ -1599,7 +1597,7 @@ msgctxt ""
 "par_id4349192\n"
 "help.text"
 msgid "To insert a trend line for a data series, select the data series in the chart. Choose <item type=\"menuitem\">Insert - Trend Line</item>, or right-click to open the context menu, and choose <item type=\"menuitem\">Insert Trend Line</item>."
-msgstr ""
+msgstr "ដើម្បីបញ្ចូលបន្ទាត់និន្នាការសម្រាប់ស៊េរីទិន្នន័យសូមជ្រើសរើសស៊េរីទិន្នន័យនៅក្នុងតារាង។ ជ្រើសរើស <item type=\"menuitem\"> បញ្ចូល - បន្ទាត់និន្នាការ </item> ឬចុចខាងស្តាំដើម្បីបើកម៉ឺនុយបរិបទហើយជ្រើសរើស <item type=\"menuitem\"> បញ្ចូលបន្ទាត់និន្នាការ </item> ។"
 
 #. osECL
 #: 04050100.xhp
@@ -1608,7 +1606,7 @@ msgctxt ""
 "par_id180820161539033867\n"
 "help.text"
 msgid "Mean Value Lines are special trend lines that show the mean value. Use <item type=\"menuitem\">Insert - Mean Value Lines</item> to insert mean value lines for data series."
-msgstr ""
+msgstr "បន្ទាត់តម្លៃមធ្យមគឺជាបន្ទាត់និន្នាការពិសេសដែលបង្ហាញពីតម្លៃមធ្យម។ ប្រើ <item type=\"menuitem\"> បញ្ចូល - បន្ទាត់តម្លៃមធ្យម </item> ដើម្បីបញ្ចូលបន្ទាត់តម្លៃមធ្យមសម្រាប់ស៊េរីទិន្នន័យ។"
 
 #. B2FBY
 #: 04050100.xhp
@@ -1617,7 +1615,7 @@ msgctxt ""
 "par_id9337443\n"
 "help.text"
 msgid "To delete a trend line or mean value line, click the line, then press the Del key."
-msgstr ""
+msgstr "ដើម្បីលុបបន្ទាត់និន្នាការឬខ្សែបន្ទាត់តម្លៃមធ្យមចុចលើបន្ទាត់បន្ទាប់មកចុចគ្រាប់ចុច Del ។"
 
 #. JVZCk
 #: 04050100.xhp
@@ -1626,7 +1624,7 @@ msgctxt ""
 "par_id296334\n"
 "help.text"
 msgid "A trend line is shown in the legend automatically. Its name can be defined in options of the trend line."
-msgstr ""
+msgstr "បន្ទាត់និន្នាការត្រូវបានបង្ហាញនៅក្នុងរឿងព្រេងដោយស្វ័យប្រវត្តិ។ ឈ្មោះរបស់វាអាចត្រូវបានកំណត់នៅក្នុងជម្រើសនៃបន្ទាត់និន្នាការ។"
 
 #. EFBBV
 #: 04050100.xhp
@@ -1644,7 +1642,7 @@ msgctxt ""
 "hd_id180820161534333508\n"
 "help.text"
 msgid "Trend Line Equation and Coefficient of Determination"
-msgstr ""
+msgstr "សមីការបន្ទាត់និន្នាការនិងមេគុណនៃការកំណត់"
 
 #. ArYKX
 #: 04050100.xhp
@@ -1653,7 +1651,7 @@ msgctxt ""
 "par_id8962065\n"
 "help.text"
 msgid "When the chart is in edit mode, %PRODUCTNAME gives you the equation of the trend line and the coefficient of determination R<sup>2</sup>, even if they are not shown: click on the trend line to see the information in the status bar."
-msgstr ""
+msgstr "នៅពេលគំនូសតាងស្ថិតនៅក្នុងរបៀបកែប្រែ%PRODUCTNAME ផ្តល់ឱ្យអ្នកនូវសមីការនៃបន្ទាត់និន្នាការនិងមេគុណនៃការប្តេជ្ញាចិត្ត R <sup> ២ </sup> ទោះបីជាពួកវាមិនត្រូវបានបង្ហាញ៖ ចុចលើបន្ទាត់និន្នាការដើម្បីមើលព័ត៌មានក្នុងរបារស្ថានភាព។"
 
 #. xHGhE
 #: 04050100.xhp
@@ -1662,7 +1660,7 @@ msgctxt ""
 "par_id846888\n"
 "help.text"
 msgid "<ahelp hid=\".\">To show the trend line equation, select the trend line in the chart, right-click to open the context menu, and choose <item type=\"menuitem\">Insert Trend Line Equation</item>.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".\"> ដើម្បីបង្ហាញសមីការបន្ទាត់និន្នាការជ្រើសបន្ទាត់និន្នាការនៅក្នុងគំនូសតាងចុចកណ្តុរស្តាំដើម្បីបើកម៉ឺនុយបរិបទហើយជ្រើសរើស <item type=\"menuitem\"> បញ្ចូលសមីការបន្ទាត់និន្នាការ </item> ។ </ahelp>"
 
 #. ohXGJ
 #: 04050100.xhp
@@ -1671,7 +1669,7 @@ msgctxt ""
 "par_id8962066\n"
 "help.text"
 msgid "To change format of values (use less significant digits or scientific notation), select the equation in the chart, right-click to open the context menu, and choose <item type=\"menuitem\">Format Trend Line Equation - Numbers</item>."
-msgstr ""
+msgstr "ដើម្បីផ្លាស់ប្តូរទ្រង់ទ្រាយតម្លៃ (ប្រើខ្ទង់ចំណាយតិចឬវិទ្យាសាស្ត្រ) ជ្រើសសមីការក្នុងតារាងចុចកណ្តុរស្តាំដើម្បីបើកម៉ឺនុយបរិបទហើយជ្រើសរើស <item type=\"menuitem\"> ធ្វើទ្រង់ទ្រាយសមីការបន្ទាត់និន្នាការ - លេខ </item> ។"
 
 #. e957n
 #: 04050100.xhp
@@ -1680,7 +1678,7 @@ msgctxt ""
 "par_id180820161627109994\n"
 "help.text"
 msgid "Default equation uses <item type=\"literal\">x</item> for abscissa variable, and <item type=\"literal\">f(x)</item> for ordinate variable. To change these names, select the trend line, choose <item type=\"menuitem\">Format - Format Selection – Type</item> and enter names in <item type=\"literal\">X Variable Name</item> and <item type=\"literal\">Y Variable Name</item> edit boxes."
-msgstr ""
+msgstr "ការប្រើប្រាស់សមីការលំនាំដើម <item type=\"literal\"> x </item> សម្រាប់អថេរ abscissa និង <item type=\"literal\"> f (x) </item> សម្រាប់ការតែងតាំងអថេរ។ ដើម្បីផ្លាស់ប្តូរឈ្មោះទាំងនេះសូមជ្រើសរើសបន្ទាត់និន្នាការជ្រើសរើស <item type=\"menuitem\"> ទ្រង់ទ្រាយ - ការជ្រើសរើសទ្រង់ទ្រាយ - ប្រភេទ </item> ហើយបញ្ចូលឈ្មោះចូល <item type=\"literal\"> ឈ្មោះអថេរ X </item> និង <item type=\"literal\"> ឈ្មោះអថេរអ៊ី </item> ប្រអប់កែសម្រួល។"
 
 #. jAs3d
 #: 04050100.xhp
@@ -1689,7 +1687,7 @@ msgctxt ""
 "par_id18082016163702791\n"
 "help.text"
 msgid "To show the coefficient of determination R<sup>2</sup>, select the equation in the chart, right-click to open the context menu, and choose <item type=\"menuitem\">Insert R</item><sup><item type=\"menuitem\">2</item></sup>."
-msgstr ""
+msgstr "ដើម្បីបង្ហាញមេគុណនៃការប្តេជ្ញាចិត្ត R <sup> ២ </sup> ជ្រើសរើសសមីការក្នុងតារាងចុចខាងស្តាំដើម្បីបើកបរិបទនិងជ្រើសរើស <item type=\"menuitem\"> បញ្ចូលអក្សរ R </item><sup><item type=\"menuitem\"> ២ </item></sup> ។"
 
 #. yfQY2
 #: 04050100.xhp
@@ -1698,7 +1696,7 @@ msgctxt ""
 "par_id180820161637028632\n"
 "help.text"
 msgid "If intercept is forced, coefficient of determination R<sup>2</sup> is not calculated in the same way as with free intercept. R<sup>2</sup> values can not be compared with forced or free intercept."
-msgstr ""
+msgstr "ប្រសិនបើការស្ទាក់ចាប់ត្រូវបានបង្ខំមេគុណនៃការប្តេជ្ញាចិត្ត R <sup> ២ </sup> មិនត្រូវបានគណនាតាមរបៀបដូចគ្នានឹងការស្កេនដោយឥតគិតថ្លៃឡើយ។ R <sup> ២ </sup> តម្លៃមិនអាចត្រូវបានប្រៀបធៀបជាមួយនឹងការស្ទាក់ចាប់ដោយបង្ខំឬឥតគិតថ្លៃ។"
 
 #. 47ME7
 #: 04050100.xhp
@@ -1707,7 +1705,7 @@ msgctxt ""
 "hd_id180820161534333509\n"
 "help.text"
 msgid "Trend Lines Curve Types"
-msgstr ""
+msgstr "ប្រភេទខ្សែខ្សែកោងនិន្នាការ"
 
 #. AB9tE
 #: 04050100.xhp
@@ -1716,7 +1714,7 @@ msgctxt ""
 "par_id18082016153820777\n"
 "help.text"
 msgid "The following regression types are available:"
-msgstr ""
+msgstr "ប្រភេទតំរែតំរង់ដូចខាងក្រោមៈ"
 
 #. FBpPx
 #: 04050100.xhp
@@ -1725,7 +1723,7 @@ msgctxt ""
 "par_id180820161604098009\n"
 "help.text"
 msgid "<emph>Linear</emph> trend line: regression through equation <item type=\"literal\">y=a∙x+b</item>. Intercept <item type=\"literal\">b</item> can be forced."
-msgstr ""
+msgstr "<emph> លីនេអ៊ែរ </emph> បន្ទាត់និន្នាការ៖ តំរែតំរង់តាមរយៈសមីការ <item type=\"literal\"> y = a ∙ x + ខ </item> ។ ស្ទាក់ចាប់ <item type=\"literal\"> ខ </item> អាចត្រូវបានបង្ខំ។"
 
 #. 2cKaa
 #: 04050100.xhp
@@ -1734,7 +1732,7 @@ msgctxt ""
 "par_id180820161612524298\n"
 "help.text"
 msgid "<emph>Polynomial</emph> trend line: regression through equation <item type=\"literal\">y=Σ</item><sub><item type=\"literal\">i</item></sub><item type=\"literal\">(a</item><sub><item type=\"literal\">i</item></sub><item type=\"literal\">∙x</item><sup><item type=\"literal\">i</item></sup><item type=\"literal\">)</item>. Intercept <item type=\"literal\">a</item><sub><item type=\"literal\">0</item></sub> can be forced. Degree of polynomial must be given (at least 2)."
-msgstr ""
+msgstr "<emph> ពហុធា </emph> បន្ទាត់និន្នាការ៖ តំរែតំរង់តាមរយៈសមីការ <item type=\"literal\"> y = Σ </item><sub><item type=\"literal\"> ខ្ញុំ </item></sub><item type=\"literal\"> (ក </item><sub><item type=\"literal\"> ខ្ញុំ </item></sub><item type=\"literal\"> ∙ x </item><sup><item type=\"literal\"> ខ្ញុំ </item></sup><item type=\"literal\"> ) </item> ។ ស្ទាក់ចាប់ <item type=\"literal\"> ក </item><sub><item type=\"literal\"> ០ </item></sub> អាចត្រូវបានបង្ខំ។ សញ្ញាប័ត្រពហុធាត្រូវតែផ្តល់ឱ្យ (យ៉ាងហោចណាស់ ២) ។"
 
 #. srJXi
 #: 04050100.xhp
@@ -1743,7 +1741,7 @@ msgctxt ""
 "par_id180820161612525364\n"
 "help.text"
 msgid "<emph>Logarithmic</emph> trend line: regression through equation <item type=\"literal\">y=a∙ln(x)+b</item>."
-msgstr ""
+msgstr "<emph> Logarithmic </emph> បន្ទាត់និន្នាការ៖ តំរែតំរង់តាមរយៈសមីការ <item type=\"literal\"> y = a ∙ ln (x) + ខ </item> ។"
 
 #. MLE4x
 #: 04050100.xhp
@@ -1752,7 +1750,7 @@ msgctxt ""
 "par_id180820161612526680\n"
 "help.text"
 msgid "<emph>Exponential</emph> trend line: regression through equation <item type=\"literal\">y=b∙exp(a∙x)</item>.This equation is equivalent to <item type=\"literal\">y=b∙m</item><sup><item type=\"literal\">x</item></sup> with <item type=\"literal\">m=exp(a)</item>. Intercept <item type=\"literal\">b</item> can be forced."
-msgstr ""
+msgstr "<emph> និទស្សន្ត </emph> បន្ទាត់និន្នាការ៖ តំរែតំរង់តាមរយៈសមីការ <item type=\"literal\"> y = b ∙ exp (a ∙ x) </item> សមីការនេះស្មើនឹង <item type=\"literal\"> y = ខ∙ម </item><sup><item type=\"literal\"> x </item></sup> ជាមួយ <item type=\"literal\"> m = exp (ក) </item> ។ ស្ទាក់ចាប់ <item type=\"literal\"> ខ </item> អាចត្រូវបានបង្ខំ។"
 
 #. KoRSa
 #: 04050100.xhp
@@ -1761,7 +1759,7 @@ msgctxt ""
 "par_id180820161612527230\n"
 "help.text"
 msgid "<emph>Power</emph> trend line: regression through equation <item type=\"literal\">y=b∙x</item><sup><item type=\"literal\">a</item></sup>."
-msgstr ""
+msgstr "<emph> ថាមពល </emph> បន្ទាត់និន្នាការ៖ តំរែតំរង់តាមរយៈសមីការ <item type=\"literal\"> y = ខ∙ x </item><sup><item type=\"literal\"> ក </item></sup> ។"
 
 #. fnwKu
 #: 04050100.xhp
@@ -1770,7 +1768,7 @@ msgctxt ""
 "par_id180820161617342768\n"
 "help.text"
 msgid "<emph>Moving average</emph> trend line: simple moving average is calculated with the <emph>n</emph> previous y-values, <emph>n</emph> being the period. No equation is available for this trend line."
-msgstr ""
+msgstr "<emph> ការផ្លាស់ប្តូរមធ្យម </emph> បន្ទាត់និន្នាការ៖ មធ្យមភាគផ្លាស់ទីសាមញ្ញត្រូវបានគណនាជាមួយ <emph> n </emph> តម្លៃ Y មុន, <emph> n </emph> ជារយៈពេល។ មិនមានសមីការសម្រាប់ខ្សែនិន្នាការនេះទេ។"
 
 #. kq2KM
 #: 04050100.xhp
@@ -1797,7 +1795,7 @@ msgctxt ""
 "par_id7212744\n"
 "help.text"
 msgid "Logarithmic trend line: only positive x-values are considered."
-msgstr ""
+msgstr "បន្ទាត់និន្នាការលោការីតៈមានតែតម្លៃ x វិជ្ជមានប៉ុណ្ណោះដែលត្រូវបានពិចារណា។"
 
 #. GDEmX
 #: 04050100.xhp
@@ -1806,7 +1804,7 @@ msgctxt ""
 "par_id1664479\n"
 "help.text"
 msgid "Exponential trend line: only positive y-values are considered, except if all y-values are negative: regression will then follow equation <item type=\"literal\">y=-b∙exp(a∙x)</item>."
-msgstr ""
+msgstr "បន្ទាត់និន្នាការនិទស្សន្ត៖ មានតែគុណតម្លៃ y វិជ្ជមានប៉ុណ្ណោះដែលត្រូវបានពិចារណាលើកលែងតែតម្លៃ y ទាំងអស់អវិជ្ជមាន៖ តំរែតំរង់នឹងធ្វើតាមសមីការ <item type=\"literal\"> y = -b ∙ exp (a ∙ x) </item> ។"
 
 #. 58RRD
 #: 04050100.xhp
@@ -1815,7 +1813,7 @@ msgctxt ""
 "par_id8734702\n"
 "help.text"
 msgid "Power trend line: only positive x-values are considered; only positive y-values are considered, except if all y-values are negative: regression will then follow equation<item type=\"literal\"> y=-b∙x</item><sup><item type=\"literal\">a</item></sup>."
-msgstr ""
+msgstr "ខ្សែបន្ទាត់និន្នាការថាមពល: មានតែតម្លៃ x វិជ្ជមានប៉ុណ្ណោះដែលត្រូវបានពិចារណា។ មានតែគុណតម្លៃ y វិជ្ជមានប៉ុណ្ណោះដែលត្រូវបានពិចារណាលើកលែងតែតម្លៃ y ទាំងអស់អវិជ្ជមាន៖ តំរែតំរង់នឹងធ្វើតាមសមីការ <item type=\"literal\"> y = -b ∙ x </item><sup><item type=\"literal\"> ក </item></sup> ។"
 
 #. XWrNF
 #: 04050100.xhp
@@ -1833,7 +1831,7 @@ msgctxt ""
 "hd_id180820161528021520\n"
 "help.text"
 msgid "Calculate Parameters in Calc"
-msgstr ""
+msgstr "គណនាប៉ារ៉ាម៉ែត្រនៅក្នុង Calc"
 
 #. XS5FX
 #: 04050100.xhp
@@ -1869,7 +1867,7 @@ msgctxt ""
 "par_id7951902\n"
 "help.text"
 msgid "m = SLOPE(Data_Y;Data_X)"
-msgstr "m = SLOPE(Data_Y;Data_X)"
+msgstr "m = SLOPE (ទិន្នន័យ _ Y; ទិន្នន័យ _X)"
 
 #. ufTSt
 #: 04050100.xhp
@@ -1878,7 +1876,7 @@ msgctxt ""
 "par_id6637165\n"
 "help.text"
 msgid "b = INTERCEPT(Data_Y ;Data_X)"
-msgstr "b = INTERCEPT(Data_Y ;Data_X)"
+msgstr "b = INTERCEPT (ទិន្នន័យ _ Y; ទិន្នន័យ _X)"
 
 #. MJUyE
 #: 04050100.xhp
@@ -1896,7 +1894,7 @@ msgctxt ""
 "par_id9244361\n"
 "help.text"
 msgid "r<sup>2</sup> = RSQ(Data_Y;Data_X)"
-msgstr ""
+msgstr "r <sup> ២ </sup> = RSQ (ទិន្នន័យ _ យ៉; ទិន្នន័យ_X)"
 
 #. 3RFqQ
 #: 04050100.xhp
@@ -1905,7 +1903,7 @@ msgctxt ""
 "par_id2083498\n"
 "help.text"
 msgid "Besides m, b and r<sup>2</sup> the array function <emph>LINEST</emph> provides additional statistics for a regression analysis."
-msgstr ""
+msgstr "ក្រៅពី m, b និង r <sup> ២ </sup> មុខងារអារេ <emph> LINEST </emph> ផ្តល់ស្ថិតិបន្ថែមសម្រាប់ការវិភាគតំរែតំរង់។"
 
 #. FQkBD
 #: 04050100.xhp
@@ -1914,7 +1912,7 @@ msgctxt ""
 "hd_id2538834\n"
 "help.text"
 msgid "The logarithmic regression equation"
-msgstr ""
+msgstr "សមីការតំរែតំរង់លោការីត"
 
 #. 4oEke
 #: 04050100.xhp
@@ -1923,7 +1921,7 @@ msgctxt ""
 "par_id394299\n"
 "help.text"
 msgid "The <emph>logarithmic regression</emph> follows the equation <item type=\"literal\">y=a*ln(x)+b</item>."
-msgstr ""
+msgstr "នេះ <emph> តំរែតំរង់លោការីត </emph> ធ្វើតាមសមីការ <item type=\"literal\"> y = a * ln (x) + ខ </item> ។"
 
 #. Zundq
 #: 04050100.xhp
@@ -1932,7 +1930,7 @@ msgctxt ""
 "par_id2134159\n"
 "help.text"
 msgid "a = SLOPE(Data_Y;LN(Data_X))"
-msgstr "a = SLOPE(Data_Y;LN(Data_X))"
+msgstr "a = SLOPE (Data_Y; LN (ទិន្នន័យ_X))"
 
 #. vqAFr
 #: 04050100.xhp
@@ -1941,7 +1939,7 @@ msgctxt ""
 "par_id5946531\n"
 "help.text"
 msgid "b = INTERCEPT(Data_Y ;LN(Data_X))"
-msgstr "b = INTERCEPT(Data_Y ;LN(Data_X))"
+msgstr "b = INTERCEPT (ទិន្នន័យ_Y; LN (ទិន្នន័យ_X))"
 
 #. CfpeX
 #: 04050100.xhp
@@ -1950,7 +1948,7 @@ msgctxt ""
 "par_id5649281\n"
 "help.text"
 msgid "r<sup>2</sup> = RSQ(Data_Y;LN(Data_X))"
-msgstr ""
+msgstr "r <sup> ២ </sup> = RSQ (ទិន្នន័យ_Y; LN (ទិន្នន័យ_X))"
 
 #. d372B
 #: 04050100.xhp
@@ -1977,7 +1975,7 @@ msgctxt ""
 "par_id9112216\n"
 "help.text"
 msgid "The exponential regression follows the equation <item type=\"literal\">y=b*exp(a*x)</item> or <item type=\"literal\">y=b*m</item><sup><item type=\"literal\">x</item></sup>, which is transformed to <item type=\"literal\">ln(y)=ln(b)+a*x</item> or <item type=\"literal\">ln(y)=ln(b)+ln(m)*x</item> respectively."
-msgstr ""
+msgstr "តំរែតំរង់ស្វ័យគុណធ្វើតាមសមីការ <item type=\"literal\"> y = b * exp (a * x) </item> ឬ <item type=\"literal\"> y = b * ម </item><sup><item type=\"literal\"> x </item></sup> ដែលត្រូវបានផ្លាស់ប្តូរទៅ <item type=\"literal\"> ln (y) = ln (b) + a * x </item> ឬ <item type=\"literal\"> ln (y) = ln (b) + ln (m) * x </item> រៀងៗខ្លួន។"
 
 #. NaM55
 #: 04050100.xhp
@@ -1986,7 +1984,7 @@ msgctxt ""
 "par_id4416638\n"
 "help.text"
 msgid "a = SLOPE(LN(Data_Y);Data_X)"
-msgstr "a = SLOPE(LN(Data_Y);Data_X)"
+msgstr "a = SLOPE (LN (Data_Y); ទិន្នន័យ _X)"
 
 #. DNTZj
 #: 04050100.xhp
@@ -2004,7 +2002,7 @@ msgctxt ""
 "par_id7184057\n"
 "help.text"
 msgid "m = EXP(SLOPE(LN(Data_Y);Data_X))"
-msgstr "m = EXP(SLOPE(LN(Data_Y);Data_X))"
+msgstr "m = EXP (SLOPE (LN (Data_Y); ទិន្នន័យ _X))"
 
 #. SPjRP
 #: 04050100.xhp
@@ -2013,7 +2011,7 @@ msgctxt ""
 "par_id786767\n"
 "help.text"
 msgid "b = EXP(INTERCEPT(LN(Data_Y);Data_X))"
-msgstr "b = EXP(INTERCEPT(LN(Data_Y);Data_X))"
+msgstr "b = EXP (INTERCEPT (LN (Data_Y); ទិន្នន័យ _X))"
 
 #. 4YKvd
 #: 04050100.xhp
@@ -2031,7 +2029,7 @@ msgctxt ""
 "par_id5437177\n"
 "help.text"
 msgid "r<sup>2</sup> = RSQ(LN(Data_Y);Data_X)"
-msgstr ""
+msgstr "r <sup> ២ </sup> = RSQ (LN (Data_Y); ទិន្នន័យ_X)"
 
 #. 5xosY
 #: 04050100.xhp
@@ -2040,7 +2038,7 @@ msgctxt ""
 "par_id6946317\n"
 "help.text"
 msgid "Besides m, b and r<sup>2</sup> the array function <emph>LOGEST</emph> provides additional statistics for a regression analysis."
-msgstr ""
+msgstr "ក្រៅពី m, b និង r <sup> ២ </sup> មុខងារអារេ <emph> LOGEST </emph> ផ្តល់ស្ថិតិបន្ថែមសម្រាប់ការវិភាគតំរែតំរង់។"
 
 #. GKeKk
 #: 04050100.xhp
@@ -2058,7 +2056,7 @@ msgctxt ""
 "par_id1857661\n"
 "help.text"
 msgid "For <emph>power regression</emph> curves a transformation to a linear model takes place. The power regression follows the equation <item type=\"literal\">y=b*x</item><sup><item type=\"literal\">a</item></sup>, which is transformed to <item type=\"literal\">ln(y)=ln(b)+a*ln(x)</item>."
-msgstr ""
+msgstr "សម្រាប់ <emph> តំរែតំរង់ថាមពល </emph> ខ្សែកោងការផ្លាស់ប្តូរទៅជាគំរូលីនេអ៊ែរកើតឡើង។ តំរែតំរង់ថាមពលធ្វើតាមសមីការ <item type=\"literal\"> y = b * x </item><sup><item type=\"literal\"> ក </item></sup> ដែលត្រូវបានផ្លាស់ប្តូរទៅ <item type=\"literal\"> ln (y) = ln (b) + a * ln (x) </item> ។"
 
 #. ETDqd
 #: 04050100.xhp
@@ -2067,7 +2065,7 @@ msgctxt ""
 "par_id8517105\n"
 "help.text"
 msgid "a = SLOPE(LN(Data_Y);LN(Data_X))"
-msgstr "a = SLOPE(LN(Data_Y);LN(Data_X))"
+msgstr "a = SLOPE (LN (Data_Y); LN (Data_X))"
 
 #. CYELA
 #: 04050100.xhp
@@ -2076,7 +2074,7 @@ msgctxt ""
 "par_id9827265\n"
 "help.text"
 msgid "b = EXP(INTERCEPT(LN(Data_Y);LN(Data_X))"
-msgstr "b = EXP(INTERCEPT(LN(Data_Y);LN(Data_X))"
+msgstr "b = EXP (INTERCEPT (LN (Data_Y); LN (Data_X))"
 
 #. NFVfw
 #: 04050100.xhp
@@ -2085,7 +2083,7 @@ msgctxt ""
 "par_id2357249\n"
 "help.text"
 msgid "r<sup>2</sup> = RSQ(LN(Data_Y);LN(Data_X))"
-msgstr ""
+msgstr "r <sup> ២ </sup> = RSQ (LN (ទិន្នន័យ_Y); LN (ទិន្នន័យ_X))"
 
 #. CGBsE
 #: 04050100.xhp
@@ -2094,7 +2092,7 @@ msgctxt ""
 "hd_id7907040\n"
 "help.text"
 msgid "The polynomial regression equation"
-msgstr "សមីការ​តំរែតំរង់​ពហុធា"
+msgstr "សមីការ​តំរែតំរង់​ពហុធ"
 
 #. qAyRm
 #: 04050100.xhp
@@ -2103,7 +2101,7 @@ msgctxt ""
 "par_id8918729\n"
 "help.text"
 msgid "For <emph>polynomial regression</emph> curves a transformation to a linear model takes place."
-msgstr ""
+msgstr "សម្រាប់ <emph> តំរែតំរង់ពហុធា </emph> ខ្សែកោងការផ្លាស់ប្តូរទៅជាគំរូលីនេអ៊ែរកើតឡើង។"
 
 #. DatEp
 #: 04050100.xhp
@@ -2112,7 +2110,7 @@ msgctxt ""
 "par_id33875\n"
 "help.text"
 msgid "Create a table with the columns x, x<sup>2</sup>, x<sup>3</sup>, … , x<sup>n</sup>, y up to the desired degree n."
-msgstr ""
+msgstr "បង្កើតតារាងដែលមានជួរឈរ x, x <sup> ២ </sup> , x <sup> ៣ </sup> , …, x <sup> n </sup> , y រហូតដល់សញ្ញាប័ត្រដែលចង់បាន n ។"
 
 #. wJrKC
 #: 04050100.xhp
@@ -2121,7 +2119,7 @@ msgctxt ""
 "par_id8720053\n"
 "help.text"
 msgid "Use the formula <item type=\"literal\">=LINEST(Data_Y,Data_X)</item> with the complete range x to x<sup>n</sup> (without headings) as Data_X."
-msgstr ""
+msgstr "ប្រើរូបមន្ត <item type=\"literal\"> = LINEST (ទិន្នន័យ _ យ៉, ទិន្នន័យ _X) </item> ជាមួយជួរពេញលេញ x ដល់ x <sup> n </sup> (ដោយគ្មានក្បាល) ជាទិន្នន័យ_X។"
 
 #. 3zm3C
 #: 04050100.xhp
@@ -2130,7 +2128,7 @@ msgctxt ""
 "par_id5068514\n"
 "help.text"
 msgid "The first row of the <emph>LINEST</emph> output contains the coefficients of the regression polynomial, with the coefficient of x<sup>n</sup> at the leftmost position."
-msgstr ""
+msgstr "ជួរទីមួយនៃព្រះគម្ពីរមរមន <emph> LINEST </emph> ទិន្នផលមានមេគុណនៃពហុធាតំរែតំរង់ដោយមេគុណ x <sup> n </sup> នៅទីតាំងខាងឆ្វេងបំផុត។"
 
 #. pGA6a
 #: 04050100.xhp
@@ -2139,7 +2137,7 @@ msgctxt ""
 "par_id8202154\n"
 "help.text"
 msgid "The first element of the third row of the <emph>LINEST</emph> output is the value of r<sup>2</sup>. See the <link href=\"text/scalc/01/04060107.xhp#Section8\"><emph>LINEST</emph></link> function for details on proper use and an explanation of the other output parameters."
-msgstr ""
+msgstr "ធាតុទីមួយនៃជួរទីបីនៃព្រះគម្ពីរមរមន <emph> LINEST </emph> លទ្ធផលគឺជាតម្លៃនៃការ r <sup> ២ </sup> ។ សូមមើលឯកសារ <link href=\"text/scalc/01/04060107.xhp#Section8\"><emph> LINEST </emph></link> មុខងារសម្រាប់ព័ត៌មានលម្អិតស្តីពីការប្រើប្រាស់ត្រឹមត្រូវនិងការពន្យល់អំពីប៉ារ៉ាម៉ែត្រលទ្ធផលផ្សេងទៀត។"
 
 #. RU3Fv
 #: 04050100.xhp
@@ -2148,7 +2146,7 @@ msgctxt ""
 "par_id4562211\n"
 "help.text"
 msgid "<link href=\"text/schart/01/04050000.xhp\">X/Y Error Bars</link>"
-msgstr ""
+msgstr "<link href=\"text/schart/01/04050000.xhp\"> របារកំហុស X / Y </link>"
 
 #. KL73b
 #: 04050100.xhp
@@ -2157,7 +2155,7 @@ msgctxt ""
 "par_id4562212\n"
 "help.text"
 msgid "<link href=\"text/scalc/01/04060107.xhp#Section8\">LINEST</link> function"
-msgstr ""
+msgstr "<link href=\"text/scalc/01/04060107.xhp#Section8\"> LINEST </link> មុខងារ"
 
 #. hxCkj
 #: 04050100.xhp
@@ -2166,7 +2164,7 @@ msgctxt ""
 "par_id4562216\n"
 "help.text"
 msgid "<link href=\"text/scalc/01/04060107.xhp#Section7\">LOGEST</link> function"
-msgstr ""
+msgstr "<link href=\"text/scalc/01/04060107.xhp#Section7\"> LOGEST </link> មុខងារ"
 
 #. 9otAR
 #: 04050100.xhp
@@ -2175,7 +2173,7 @@ msgctxt ""
 "par_id4562213\n"
 "help.text"
 msgid "<link href=\"text/scalc/01/04060185.xhp#slope\">SLOPE</link> function"
-msgstr ""
+msgstr "<link href=\"text/scalc/01/04060185.xhp#slope\"> ឈប់ </link> មុខងារ"
 
 #. CGFab
 #: 04050100.xhp
@@ -2184,7 +2182,7 @@ msgctxt ""
 "par_id4562214\n"
 "help.text"
 msgid "<link href=\"text/scalc/01/04060181.xhp#intercept\">INTERCEPT</link> function"
-msgstr ""
+msgstr "<link href=\"text/scalc/01/04060181.xhp#intercept\"> អ៊ិនធឺណិត </link> មុខងារ"
 
 #. PEhEy
 #: 04050100.xhp
@@ -2193,7 +2191,7 @@ msgctxt ""
 "par_id4562215\n"
 "help.text"
 msgid "<link href=\"text/scalc/01/04060181.xhp#rsq\">RSQ</link> function"
-msgstr ""
+msgstr "<link href=\"text/scalc/01/04060181.xhp#rsq\"> RSQ </link> មុខងារ"
 
 #. CUcsc
 #: 04060000.xhp
@@ -2391,7 +2389,7 @@ msgctxt ""
 "hd_id24414\n"
 "help.text"
 msgid "Clockwise direction"
-msgstr "ទិស​ទ្រនិច​នាឡិកា"
+msgstr "ទិស​ទ្រនិច​នាឡិក"
 
 #. Mnouh
 #: 04060000.xhp
@@ -2445,7 +2443,7 @@ msgctxt ""
 "hd_id3179723\n"
 "help.text"
 msgid "Degrees"
-msgstr "ដឺក្រេ"
+msgstr "ដឺក្រ"
 
 #. asdVC
 #: 04060000.xhp
@@ -2463,7 +2461,7 @@ msgctxt ""
 "hd_id0305200910524613\n"
 "help.text"
 msgid "Plot missing values"
-msgstr "គ្រោង​បាត់​តម្លៃ"
+msgstr "គ្រោង​បាត់​តម្ល"
 
 #. RfNzm
 #: 04060000.xhp
@@ -2481,7 +2479,7 @@ msgctxt ""
 "hd_id0305200910524823\n"
 "help.text"
 msgid "Leave gap"
-msgstr "ទុក​ចន្លោះ"
+msgstr "ទុក​ចន្ល"
 
 #. A6KyD
 #: 04060000.xhp
@@ -2553,7 +2551,7 @@ msgctxt ""
 "hd_id0305200910524938\n"
 "help.text"
 msgid "Hide legend entry"
-msgstr ""
+msgstr "លាក់ការចូលរឿងព្រេង"
 
 #. roeRi
 #: 04060000.xhp
@@ -2562,7 +2560,7 @@ msgctxt ""
 "par_id030520091052495\n"
 "help.text"
 msgid "<ahelp hid=\".\">Do not show legend entry for the selected data series or data point.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".\"> កុំបង្ហាញធាតុបញ្ចូលរឿងព្រេងសម្រាប់ស៊េរីទិន្នន័យដែលបានជ្រើសរើសឬចំណុចទិន្នន័យ។ </ahelp>"
 
 #. WWrcn
 #: 04070000.xhp
@@ -2643,7 +2641,7 @@ msgctxt ""
 "par_id3154754\n"
 "help.text"
 msgid "<variable id=\"sytextxgitter\"><ahelp hid=\".uno:ToggleGridVertical\">The <emph>Vertical Grids</emph> icon on the <emph>Formatting</emph> bar toggles the visibility of the grid display for the X axis.</ahelp></variable> It switches between the three states: no grid, major grid and both major and minor grids displayed. The change will affect check boxes in <emph>Insert - Grids</emph>."
-msgstr ""
+msgstr "<variable id=\"sytextxgitter\"><ahelp hid=\".uno:ToggleGridVertical\"> នេះ <emph> ក្រឡាចត្រង្គបញ្ឈរ </emph> រូបតំណាងនៅលើ <emph> ការធ្វើទ្រង់ទ្រាយ </emph> របារបិទបើកភាពមើលឃើញនៃការបង្ហាញក្រឡាចត្រង្គសម្រាប់អ័ក្ស X ។ </ahelp></variable> វាប្តូររវាងរដ្ឋទាំងបី៖ គ្មានក្រឡាចត្រង្គក្រឡាចត្រង្គធំនិងទាំងក្រឡាចត្រង្គធំនិងតូចត្រូវបានបង្ហាញ។ ការផ្លាស់ប្តូរនឹងប៉ះពាល់ដល់ប្រអប់ធីកនៅក្នុង <emph> បញ្ចូល - ក្រឡាចត្រង្គ </emph> ។"
 
 #. b5caj
 #: 04070000.xhp
@@ -2670,7 +2668,7 @@ msgctxt ""
 "par_id3150344\n"
 "help.text"
 msgid "<variable id=\"sytextygitter\"><ahelp hid=\".uno:ToggleGridHorizontal\">The <emph>Horizontal Grids</emph> icon on the <emph>Formatting</emph> bar toggles the visibility of the grid display for the Y axis.</ahelp></variable> It switches between the three states: no grid, major grid and both major and minor grids displayed. The change will affect check boxes in <emph>Insert - Grids</emph>."
-msgstr ""
+msgstr "<variable id=\"sytextygitter\"><ahelp hid=\".uno:ToggleGridHorizontal\"> នេះ <emph> ក្រឡាចត្រង្គផ្ដេក </emph> រូបតំណាងនៅលើ <emph> ការធ្វើទ្រង់ទ្រាយ </emph> របារបិទបើកភាពមើលឃើញនៃការបង្ហាញក្រឡាចត្រង្គសម្រាប់អ័ក្ស Y ។ </ahelp></variable> វាប្តូររវាងរដ្ឋទាំងបី៖ គ្មានក្រឡាចត្រង្គក្រឡាចត្រង្គធំនិងទាំងក្រឡាចត្រង្គធំនិងតូចត្រូវបានបង្ហាញ។ ការផ្លាស់ប្តូរនឹងប៉ះពាល់ដល់ប្រអប់ធីកនៅក្នុង <emph> បញ្ចូល - ក្រឡាចត្រង្គ </emph> ។"
 
 #. LnVn3
 #: 04070000.xhp
@@ -3077,6 +3075,15 @@ msgctxt ""
 msgid "<variable id=\"titel\"><ahelp hid=\".uno:ZTitle\">Modifies the properties of the selected title.</ahelp></variable>"
 msgstr "<variable id=\"titel\"><ahelp hid=\".uno:ZTitle\">​​កែប្រែ​លក្ខណសម្បត្តិ​របស់​ចំណង​ជើង​ដែល​បាន​ជ្រើស​ ។​</ahelp></variable>"
 
+#. tyEBL
+#: 05020100.xhp
+msgctxt ""
+"05020100.xhp\n"
+"hd_id3149378\n"
+"help.text"
+msgid "<link href=\"text/shared/01/05020100.xhp\" name=\"Character\">Character</link>"
+msgstr "<link href=\"text/shared/01/05020100.xhp\" name=\"Character\">តួអក្សរ​​</link>"
+
 #. LUkDN
 #: 05020101.xhp
 msgctxt ""
@@ -3157,6 +3164,15 @@ msgctxt ""
 "help.text"
 msgid "<variable id=\"titel\"><ahelp hid=\".uno:YTitle\">Modifies the properties of the selected title or the properties of all titles together.</ahelp></variable>"
 msgstr "<variable id=\"titel\"><ahelp hid=\".uno:YTitle\">កែប្រែ​លក្ខណសម្បត្តិ​របស់​ចំណង​ជើង​ ឬ​លក្ខណសម្បត្តិ​របស់​ចំណង​ទាំងអស់​រួម​គ្នា​ដែល​បាន​ជ្រើស ។</ahelp></variable>"
+
+#. XkwBi
+#: 05020200.xhp
+msgctxt ""
+"05020200.xhp\n"
+"hd_id3152596\n"
+"help.text"
+msgid "<link href=\"text/shared/01/05020100.xhp\" name=\"Character\">Character</link>"
+msgstr "<link href=\"text/shared/01/05020100.xhp\" name=\"Character\">តួអក្សរ​​</link>"
 
 #. 872FB
 #: 05020201.xhp
@@ -3291,7 +3307,7 @@ msgctxt ""
 "hd_id3166432\n"
 "help.text"
 msgid "Degrees"
-msgstr "ដឺក្រេ"
+msgstr "ដឺក្រ"
 
 #. 4w3rD
 #: 05020201.xhp
@@ -3509,6 +3525,15 @@ msgctxt ""
 msgid "<variable id=\"legende\"><ahelp hid=\".uno:Legend\">Defines the border, area and character attributes for a legend.</ahelp></variable>"
 msgstr "<variable id=\"legende\"><ahelp hid=\".uno:Legend\">កំណត់​គុណ​លក្ខណៈ​ ​ស៊ុម​ ផ្ទៃ និង​តួអក្សរ​ សម្រាប់​តាង​មួយ​ ។​</ahelp></variable>"
 
+#. N9rEe
+#: 05030000.xhp
+msgctxt ""
+"05030000.xhp\n"
+"hd_id3145232\n"
+"help.text"
+msgid "<link href=\"text/shared/01/05020100.xhp\" name=\"Character\">Character</link>"
+msgstr "<link href=\"text/shared/01/05020100.xhp\" name=\"Character\">តួអក្សរ​​</link>"
+
 #. 73CU8
 #: 05030000.xhp
 msgctxt ""
@@ -3561,7 +3586,7 @@ msgctxt ""
 "hd_id3153729\n"
 "help.text"
 msgid "<link href=\"text/schart/01/05040100.xhp\" name=\"X axis\">X axis</link>"
-msgstr "<link href=\"text/schart/01/05040100.xhp\" name=\"X Axis\">​អ័ក្ស​ X </link>"
+msgstr "<link href=\"text/schart/01/05040100.xhp\" name=\"X axis\">X axis</link>"
 
 #. bAHPT
 #: 05040000.xhp
@@ -3570,7 +3595,7 @@ msgctxt ""
 "hd_id3147394\n"
 "help.text"
 msgid "<link href=\"text/schart/01/05040200.xhp\" name=\"Y axis\">Y axis</link>"
-msgstr "<link href=\"text/schart/01/05040200.xhp\" name=\"Y Axis\">​អ័ក្ស​ Y</link>"
+msgstr "<link href=\"text/schart/01/05040200.xhp\" name=\"Y axis\">Y axis</link>"
 
 #. 4To7Z
 #: 05040000.xhp
@@ -3615,7 +3640,7 @@ msgctxt ""
 "hd_id3145228\n"
 "help.text"
 msgid "<link href=\"text/schart/01/05040100.xhp\" name=\"Z axis\">Z axis</link>"
-msgstr "<link href=\"text/schart/01/05040100.xhp\" name=\"X Axis\">អ័ក្ស​ Z </link>"
+msgstr "<link href=\"text/schart/01/05040100.xhp\" name=\"Z axis\">Z axis</link>"
 
 #. 7WMzM
 #: 05040000.xhp
@@ -3660,7 +3685,7 @@ msgctxt ""
 "par_id3154319\n"
 "help.text"
 msgid "<variable id=\"achsen\"><ahelp hid=\".\">Opens a dialog, where you can edit the properties of the selected axis.</ahelp></variable> The name of the dialog depends on the selected axis."
-msgstr ""
+msgstr "<variable id=\"achsen\"><ahelp hid=\".\"> បើកប្រអប់មួយដែលអ្នកអាចកែសម្រួលលក្ខណសម្បត្តិរបស់អ័ក្សដែលបានជ្រើសរើស។ </ahelp></variable> ឈ្មោះរបស់ប្រអប់អាស្រ័យលើអ័ក្សដែលបានជ្រើសរើស។"
 
 #. k52jm
 #: 05040100.xhp
@@ -3679,6 +3704,15 @@ msgctxt ""
 "help.text"
 msgid "Scaling the X axis is only possible in the X-Y chart type."
 msgstr "ការ​កំណត់​មាត្រ​ដ្ឋាន​​អ័ក្ស​ X គឺ​អាច​កំណត់​បាន​តែ​ក្នុង​ប្រភេទ​គំនូស​តាង​ X-Y ប៉ុណ្ណោះ ។"
+
+#. 3reGb
+#: 05040100.xhp
+msgctxt ""
+"05040100.xhp\n"
+"hd_id3145230\n"
+"help.text"
+msgid "<link href=\"text/shared/01/05020100.xhp\" name=\"Character\">Character</link>"
+msgstr "<link href=\"text/shared/01/05020100.xhp\" name=\"Character\">តួអក្សរ​​</link>"
 
 #. Gf2gJ
 #: 05040200.xhp
@@ -3715,6 +3749,24 @@ msgctxt ""
 "help.text"
 msgid "<variable id=\"yachse\"><ahelp hid=\".uno:DiagramAxisY\">Opens the<emph> Y Axis </emph>dialog, to change properties of the Y axis.</ahelp></variable>"
 msgstr "<variable id=\"yachse\"><ahelp hid=\".uno:DiagramAxisY\">បើក​ប្រអប់ <emph>អ័ក្ស Y </emph> ដើម្បី​ផ្លាស់ប្ដូរ​លក្ខណសម្បត្តិ​របស់​អ័ក្ស Y ។</ahelp></variable>"
+
+#. TgqBL
+#: 05040200.xhp
+msgctxt ""
+"05040200.xhp\n"
+"hd_id3145171\n"
+"help.text"
+msgid "<link href=\"text/shared/01/05020100.xhp\" name=\"Character\">Character</link>"
+msgstr "<link href=\"text/shared/01/05020100.xhp\" name=\"Character\">តួអក្សរ​​</link>"
+
+#. DZeAQ
+#: 05040200.xhp
+msgctxt ""
+"05040200.xhp\n"
+"hd_id3146119\n"
+"help.text"
+msgid "<link href=\"text/shared/01/05020300.xhp\" name=\"Numbers\">Numbers</link>"
+msgstr "<link href=\"text/shared/01/05020300.xhp\" name=\"Numbers\">លេខ</link>"
 
 #. JGn49
 #: 05040201.xhp
@@ -3795,7 +3847,7 @@ msgctxt ""
 "hd_id3150751\n"
 "help.text"
 msgid "Minimum"
-msgstr "អប្បបរមា"
+msgstr "អប្បបរម"
 
 #. FCMzw
 #: 05040201.xhp
@@ -3813,7 +3865,7 @@ msgctxt ""
 "hd_id3156385\n"
 "help.text"
 msgid "Maximum"
-msgstr "អតិបរមា"
+msgstr "អតិបរម"
 
 #. fnonv
 #: 05040201.xhp
@@ -4083,7 +4135,7 @@ msgctxt ""
 "hd_id1006200801024784\n"
 "help.text"
 msgid "Position Axis"
-msgstr ""
+msgstr "ទីតាំងអ័ក្ស"
 
 #. bpuBR
 #: 05040202.xhp
@@ -4092,7 +4144,7 @@ msgctxt ""
 "hd_id3151388\n"
 "help.text"
 msgid "On tick marks"
-msgstr ""
+msgstr "នៅលើសញ្ញាធីក"
 
 #. qj7Dj
 #: 05040202.xhp
@@ -4101,7 +4153,7 @@ msgctxt ""
 "par_id3146881\n"
 "help.text"
 msgid "<ahelp hid=\".\">Specifies that the axis is positioned on the first/last tickmarks. This makes the data points visual representation begin/end at the value axis.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".\"> បញ្ជាក់ថាអ័ក្សត្រូវបានដាក់នៅលើសញ្ញាធីកដំបូង / ចុងក្រោយ។ នេះធ្វើឱ្យការបង្ហាញចំណុចទិន្នន័យចាប់ផ្តើមមើលឃើញ / បញ្ចប់នៅអ័ក្សតម្លៃ។ </ahelp>"
 
 #. Dig6M
 #: 05040202.xhp
@@ -4110,7 +4162,7 @@ msgctxt ""
 "hd_id3154678\n"
 "help.text"
 msgid "Between tick marks"
-msgstr ""
+msgstr "រវាងសញ្ញាធីក"
 
 #. E8YsS
 #: 05040202.xhp
@@ -4119,7 +4171,7 @@ msgctxt ""
 "par_id3146882\n"
 "help.text"
 msgid "<ahelp hid=\".\">Specifies that the axis is positioned between the tickmarks. This makes the data points visual representation begin/end at a distance from the value axis.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".\"> បញ្ជាក់ថាអ័ក្សស្ថិតនៅចន្លោះសញ្ញាធីក។ នេះធ្វើឱ្យការបង្ហាញចំណុចទិន្នន័យចាប់ផ្តើមមើលឃើញ / បញ្ចប់នៅចម្ងាយពីអ័ក្សតម្លៃ។ </ahelp>"
 
 #. jRG4d
 #: 05040202.xhp
@@ -4155,7 +4207,7 @@ msgctxt ""
 "hd_id1006200801025030\n"
 "help.text"
 msgid "Interval marks"
-msgstr "ដាក់​ចន្លោះ​សញ្ញា"
+msgstr "ដាក់​ចន្លោះ​សញ្ញ"
 
 #. CDmvy
 #: 05040202.xhp
@@ -4200,7 +4252,7 @@ msgctxt ""
 "hd_id3166469\n"
 "help.text"
 msgid "Outer"
-msgstr "ខាង​ក្រៅ"
+msgstr "ខាង​ក្រ"
 
 #. zxaAN
 #: 05040202.xhp
@@ -4254,7 +4306,7 @@ msgctxt ""
 "hd_id3154677\n"
 "help.text"
 msgid "Outer"
-msgstr "ខាង​ក្រៅ"
+msgstr "ខាង​ក្រ"
 
 #. aqCBW
 #: 05040202.xhp
@@ -4272,7 +4324,7 @@ msgctxt ""
 "hd_id1006200801025271\n"
 "help.text"
 msgid "Place marks"
-msgstr "ដាក់​សញ្ញា"
+msgstr "ដាក់​សញ្ញ"
 
 #. hPqYX
 #: 05040202.xhp
@@ -4578,7 +4630,7 @@ msgctxt ""
 "hd_id3147339\n"
 "help.text"
 msgid "Bring Forward"
-msgstr "នាំ​មក​មុខគេ"
+msgstr "នាំ​មក​មុខគ"
 
 #. xGsA3
 #: 05120000.xhp
@@ -4821,7 +4873,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Smooth Line Properties"
-msgstr "លក្ខណសម្បត្តិ​បន្ទាត់​រាបស្មើ"
+msgstr "លក្ខណសម្បត្តិ​បន្ទាត់​រាបស្ម"
 
 #. Zx2FE
 #: smooth_line_properties.xhp
@@ -4839,7 +4891,7 @@ msgctxt ""
 "hd_id3050325\n"
 "help.text"
 msgid "Smooth Line Properties"
-msgstr "លក្ខណសម្បត្តិ​បន្ទាត់​រាបស្មើ"
+msgstr "លក្ខណសម្បត្តិ​បន្ទាត់​រាបស្ម"
 
 #. a82gk
 #: smooth_line_properties.xhp
@@ -4929,7 +4981,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Smooth Line Properties"
-msgstr "លក្ខណសម្បត្តិ​បន្ទាត់​រាបស្មើ"
+msgstr "លក្ខណសម្បត្តិ​បន្ទាត់​រាបស្ម"
 
 #. xddCx
 #: stepped_line_properties.xhp
@@ -4965,7 +5017,7 @@ msgctxt ""
 "hd_id9438276\n"
 "help.text"
 msgid "Different step types"
-msgstr "ប្រភេទ​ជំហាន​ខុសគ្នា"
+msgstr "ប្រភេទ​ជំហាន​ខុសគ្ន"
 
 #. af8Pg
 #: stepped_line_properties.xhp
@@ -5388,7 +5440,7 @@ msgctxt ""
 "par_id9038972\n"
 "help.text"
 msgid "<ahelp hid=\".\">Set the light sources for the 3D view.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".\"> កំណត់ប្រភពពន្លឺសម្រាប់ទិដ្ឋភាពត្រីមាត្រ។ </ahelp>"
 
 #. Bs7GH
 #: three_d_view.xhp
@@ -5568,7 +5620,7 @@ msgctxt ""
 "hd_id961943\n"
 "help.text"
 msgid "Area"
-msgstr "ផ្ទៃ"
+msgstr "ផ្ទ"
 
 #. FKucv
 #: type_area.xhp
@@ -5613,7 +5665,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Chart Type Bubble"
-msgstr "ប្រភេទ​គំនូស​តាង​ពពុះ"
+msgstr "ប្រភេទ​គំនូស​តាង​ពពុ"
 
 #. Ri9ao
 #: type_bubble.xhp
@@ -5649,7 +5701,7 @@ msgctxt ""
 "hd_id0526200904491284\n"
 "help.text"
 msgid "Bubble"
-msgstr "ពពុះ"
+msgstr "ពពុ"
 
 #. weCDk
 #: type_bubble.xhp
@@ -5856,7 +5908,7 @@ msgctxt ""
 "par_id7910397\n"
 "help.text"
 msgid "Select one of the variants"
-msgstr "ជ្រើស​វ៉ារ្យង់​មួយ​ក្នុង​ចំណោម​វ៉ារ្យង់​ទាំង​នេះ"
+msgstr "ជ្រើស​វ៉ារ្យង់​មួយ​ក្នុង​ចំណោម​វ៉ារ្យង់​ទាំង​ន"
 
 #. qKv5L
 #: type_column_line.xhp
@@ -6477,7 +6529,7 @@ msgctxt ""
 "par_id3516953\n"
 "help.text"
 msgid "On the first page of the <link href=\"text/schart/01/wiz_chart_type.xhp\"><emph>Chart Wizard</emph></link> you can choose a chart type."
-msgstr ""
+msgstr "នៅលើទំព័រដំបូងនៃព្រះគម្ពីរមរមន <link href=\"text/schart/01/wiz_chart_type.xhp\"><emph> អ្នកជំនួយការគំនូសតាង </emph></link> អ្នកអាចជ្រើសរើសប្រភេទគំនូសតាង។"
 
 #. CZZei
 #: type_stock.xhp
@@ -6549,7 +6601,7 @@ msgctxt ""
 "par_id5619373\n"
 "help.text"
 msgid "E"
-msgstr "E"
+msgstr "ជ."
 
 #. ag98W
 #: type_stock.xhp
@@ -6639,7 +6691,7 @@ msgctxt ""
 "par_id7675099\n"
 "help.text"
 msgid "2500"
-msgstr "2500"
+msgstr "២៥០០"
 
 #. Javk7
 #: type_stock.xhp
@@ -6666,7 +6718,7 @@ msgctxt ""
 "par_id9936216\n"
 "help.text"
 msgid "25"
-msgstr "25"
+msgstr "២៥"
 
 #. K4oqF
 #: type_stock.xhp
@@ -6720,7 +6772,7 @@ msgctxt ""
 "par_id4186223\n"
 "help.text"
 msgid "22"
-msgstr "22"
+msgstr "២២"
 
 #. U3KAQ
 #: type_stock.xhp
@@ -6738,7 +6790,7 @@ msgctxt ""
 "par_id2873622\n"
 "help.text"
 msgid "30"
-msgstr "30"
+msgstr "៣០"
 
 #. FzDMs
 #: type_stock.xhp
@@ -6765,7 +6817,7 @@ msgctxt ""
 "par_id8982207\n"
 "help.text"
 msgid "1000"
-msgstr "1000"
+msgstr "១០ៈ០០"
 
 #. HNBCi
 #: type_stock.xhp
@@ -6846,7 +6898,7 @@ msgctxt ""
 "par_id4897915\n"
 "help.text"
 msgid "30"
-msgstr "30"
+msgstr "៣០"
 
 #. BU9Fr
 #: type_stock.xhp
@@ -6963,7 +7015,7 @@ msgctxt ""
 "par_id6138492\n"
 "help.text"
 msgid "Choose the <emph>Stock</emph> chart type on the first page of the <link href=\"text/schart/01/wiz_chart_type.xhp\"><emph>Chart Wizard</emph></link>. Then select one of the four variants."
-msgstr ""
+msgstr "ជ្រើសយក <emph> ស្តុក </emph> ប្រភេទគំនូសតាងនៅលើទំព័រដំបូងនៃឯកសារ <link href=\"text/schart/01/wiz_chart_type.xhp\"><emph> អ្នកជំនួយការគំនូសតាង </emph></link> ។ បន្ទាប់មកជ្រើសរើសវ៉ារ្យ៉ង់មួយក្នុងចំណោមវ៉ារ្យ៉ង់បួន។"
 
 #. iiUQp
 #: type_stock.xhp
@@ -6981,7 +7033,7 @@ msgctxt ""
 "par_id291451\n"
 "help.text"
 msgid "Based on <emph>low</emph> and <emph>high</emph> column the Type 1 shows the distance between bottom price (low) and top price (high) by a vertical line."
-msgstr ""
+msgstr "អាស្រ័យ​លើ <emph> ទាប </emph> និង <emph> ខ្ពស់ </emph> ជួរឈរប្រភេទទី ១ បង្ហាញចម្ងាយរវាងតម្លៃបាត (ទាប) និងតម្លៃខ្ពស់ (ខ្ពស់) ដោយបន្ទាត់បញ្ឈរ។"
 
 #. AYFGU
 #: type_stock.xhp
@@ -6990,7 +7042,7 @@ msgctxt ""
 "par_id3341776\n"
 "help.text"
 msgid "Based on <emph>low, high,</emph> and <emph>close</emph> column Type 1 shows an additional horizontal mark <emph>for</emph> the closing price."
-msgstr ""
+msgstr "អាស្រ័យ​លើ <emph> ទាប, ខ្ពស់, </emph> និង <emph> បិទ </emph> ជួរឈរប្រភេទទី ១ បង្ហាញសញ្ញាសម្គាល់ផ្តេកបន្ថែម <emph> សម្រាប់ </emph> តម្លៃបិទ។"
 
 #. BBzF6
 #: type_stock.xhp
@@ -7071,7 +7123,7 @@ msgctxt ""
 "hd_id399182\n"
 "help.text"
 msgid "Charts based on its own data"
-msgstr "គំនូស​តាង​មាន​មូលដ្ឋាន​លើ​ទិន្នន័យ​ផ្ទាល់​របស់​វា"
+msgstr "គំនូស​តាង​មាន​មូលដ្ឋាន​លើ​ទិន្នន័យ​ផ្ទាល់​របស់​វ"
 
 #. g5esU
 #: type_stock.xhp
@@ -7080,7 +7132,7 @@ msgctxt ""
 "par_id5298318\n"
 "help.text"
 msgid "To change the data series of a chart having its own data, choose <link href=\"text/schart/01/03010000.xhp\"><emph>Chart Data Table</emph></link> from the <emph>View</emph> menu or from the context menu of the chart in edit mode."
-msgstr ""
+msgstr "ដើម្បីផ្លាស់ប្តូរស៊េរីទិន្នន័យនៃតារាងដែលមានទិន្នន័យផ្ទាល់ខ្លួនសូមជ្រើសរើស <link href=\"text/schart/01/03010000.xhp\"><emph> តារាងទិន្នន័យគំនូសតាង </emph></link> ចាប់ពី <emph> មើល </emph> menu ឬពី menu បរិបទនៃតារាងនៅក្នុងរបៀបកែប្រែ។"
 
 #. cHkur
 #: type_stock.xhp
@@ -7098,7 +7150,7 @@ msgctxt ""
 "par_id95828\n"
 "help.text"
 msgid "For a new stock chart first use a column chart. Add the columns you need and enter your data in the order which is shown in the example, omitting any columns not required for the desired variant. Use <emph>Move Series Right</emph> to change the column order. Close the chart data table. Now use the <emph>Chart Type</emph> dialog to change to the stock chart variant."
-msgstr ""
+msgstr "សម្រាប់តារាងភាគហ៊ុនថ្មីដំបូងប្រើតារាងជួរឈរ។ បន្ថែមជួរឈរដែលអ្នកត្រូវការហើយបញ្ចូលទិន្នន័យរបស់អ្នកតាមលំដាប់លំដោយដែលបង្ហាញក្នុងឧទាហរណ៍ដោយលុបជួរឈរណាមួយដែលមិនត្រូវការសម្រាប់បំរែបំរួលដែលចង់បាន។ ប្រើ <emph> ផ្លាស់ទីស៊េរីទៅស្តាំ </emph> ដើម្បីផ្លាស់ប្តូរលំដាប់ជួរឈរ។ បិទតារាងទិន្នន័យតារាង។ ឥឡូវប្រើឯកសារ <emph> ប្រភេទគំនូសតាង </emph> ប្រអប់ដើម្បីផ្លាស់ប្តូរទៅវ៉ារ្យ៉ង់តារាងស្តុក។"
 
 #. Brram
 #: type_stock.xhp
@@ -7143,7 +7195,7 @@ msgctxt ""
 "par_id3394573\n"
 "help.text"
 msgid "You can choose or alter a data range on the second page of the <emph>Chart Wizard</emph> or in the <link href=\"text/schart/01/wiz_data_range.xhp\"><emph>Data Range</emph></link> dialog. For fine tuning use the <link href=\"text/schart/01/wiz_data_series.xhp\"><emph>Data Series</emph></link> dialog."
-msgstr ""
+msgstr "អ្នកអាចជ្រើសរើសឬប្តូរជួរទិន្នន័យនៅលើទំព័រទី ២ នៃព្រះគម្ពីរមរមន <emph> អ្នកជំនួយការគំនូសតាង </emph> ឬនៅក្នុង <link href=\"text/schart/01/wiz_data_range.xhp\"><emph> ជួរទិន្នន័យ </emph></link> ប្រអប់។ សម្រាប់ការលៃតម្រូវល្អប្រើ <link href=\"text/schart/01/wiz_data_series.xhp\"><emph> ស៊េរីទិន្នន័យ </emph></link> ប្រអប់។"
 
 #. 8EpDr
 #: type_stock.xhp
@@ -7188,7 +7240,7 @@ msgctxt ""
 "par_id1589098\n"
 "help.text"
 msgid "In Calc, click <emph>Select data range</emph> to minimize the dialog, then drag to select the data range. When you release the mouse, the data are entered. Click <emph>Select data range</emph> again to add a data range. In the input field of the minimized dialog, click after the entry and type a semicolon. Then drag to select the next range."
-msgstr ""
+msgstr "នៅក្នុង Calc ចុច <emph> ជ្រើសរើសជួរទិន្នន័យ </emph> ដើម្បីបង្រួមប្រអប់អប្បបរមាបន្ទាប់មកអូសដើម្បីជ្រើសរើសជួរទិន្នន័យ។ នៅពេលអ្នកបញ្ចេញកណ្តុរទិន្នន័យត្រូវបានបញ្ចូល។ ចុច <emph> ជ្រើសរើសជួរទិន្នន័យ </emph> ជាថ្មីម្តងទៀតដើម្បីបន្ថែមជួរទិន្នន័យ។ នៅក្នុងវាលបញ្ចូលនៃប្រអប់ដែលបានបង្រួមអប្បបរមាចុចបន្ទាប់ពីចូលហើយវាយសញ្ញា (;) ។ បន្ទាប់មកអូសដើម្បីជ្រើសរើសជួរបន្ទាប់។"
 
 #. b6qus
 #: type_stock.xhp
@@ -7224,7 +7276,7 @@ msgctxt ""
 "par_id3486434\n"
 "help.text"
 msgid "You can organize data series and edit the source for parts of single data series on the third page of the <emph>Chart Wizard</emph> or on the page <emph>Data Series</emph> in the <emph>Data Range</emph> dialog."
-msgstr ""
+msgstr "អ្នកអាចរៀបចំស៊េរីទិន្នន័យនិងកែសម្រួលប្រភពសម្រាប់ផ្នែកនៃស៊េរីទិន្នន័យតែមួយនៅលើទំព័រទី ៣ នៃព្រះគម្ពីរ <emph> អ្នកជំនួយការគំនូសតាង </emph> ឬនៅលើទំព័រ <emph> ស៊េរីទិន្នន័យ </emph> ក្នុង <emph> ជួរទិន្នន័យ </emph> ប្រអប់។"
 
 #. zSfXf
 #: type_stock.xhp
@@ -7485,7 +7537,7 @@ msgctxt ""
 "par_id4634235\n"
 "help.text"
 msgid "The chart is created with default settings. After the chart is finished, you can edit its properties to change the appearance. Line styles and icons can be changed on the <emph>Line</emph> tab page of the data series properties dialog."
-msgstr ""
+msgstr "គំនូសតាងត្រូវបានបង្កើតជាមួយការកំណត់លំនាំដើម។ បន្ទាប់ពីគំនូសតាងត្រូវបានបញ្ចប់អ្នកអាចកែសម្រួលលក្ខណៈសម្បត្តិរបស់វាដើម្បីផ្លាស់ប្តូររូបរាង។ រចនាប័ទ្មបន្ទាត់និងរូបតំណាងអាចត្រូវបានផ្លាស់ប្តូរនៅលើឯកសារ <emph> បន្ទាត់ </emph> ទំព័រផ្ទាំងនៃប្រអប់លក្ខណៈសម្បត្តិស៊េរីទិន្នន័យ។"
 
 #. 6AcaE
 #: type_xy.xhp
@@ -7530,7 +7582,7 @@ msgctxt ""
 "par_id6571550\n"
 "help.text"
 msgid "Each data point is shown by an icon. %PRODUCTNAME uses default icons with different forms and colors for each data series. The default colors are set in <switchinline select=\"sys\"><caseinline select=\"MAC\"><item type=\"menuitem\">%PRODUCTNAME - Preferences</item></caseinline><defaultinline><item type=\"menuitem\">Tools - Options</item></defaultinline></switchinline><item type=\"menuitem\"> - Charts - Default Colors</item>."
-msgstr "ចំណុច​ទិន្នន័យ​នីមួយៗ​ត្រូវបានបង្ហាញ​ដោយ​រូបតំណាង ។ %PRODUCTNAME ប្រើ​រូបតំណាង​លំនាំដើម​ដែលមាន​ទម្រង់ និងពណ៌​ផ្សេងៗ​គ្នា​សម្រាប់​ស៊េរី​ទិន្នន័យ​នីមួយៗ ។ ពណ៌​លំនាំដើម​ត្រូវបានកំណត់​ក្នុង <item type=\"menuitem\"><switchinline select=\"sys\"><caseinline select=\"MAC\">%PRODUCTNAME - ចំណូល​ចិត្ត</caseinline><defaultinline>ឧបករណ៍ - ជម្រើស</defaultinline></switchinline> - គំនូសតាង - ពណ៌​លំនាំដើម</item> ។"
+msgstr "Each data point is shown by an icon. %PRODUCTNAME uses default icons with different forms and colors for each data series. The default colors are set in <switchinline select=\"sys\"><caseinline select=\"MAC\"><item type=\"menuitem\">%PRODUCTNAME - Preferences</item></caseinline><defaultinline><item type=\"menuitem\">Tools - Options</item></defaultinline></switchinline><item type=\"menuitem\"> - Charts - Default Colors</item>."
 
 #. esJ88
 #: type_xy.xhp
@@ -7602,7 +7654,7 @@ msgctxt ""
 "hd_id239265\n"
 "help.text"
 msgid "Smooth Lines"
-msgstr "បន្ទាត់​រាបស្មើ"
+msgstr "បន្ទាត់​រាបស្ម"
 
 #. F8F9B
 #: type_xy.xhp

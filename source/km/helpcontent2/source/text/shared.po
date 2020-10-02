@@ -1,21 +1,19 @@
-#. extracted from helpcontent2/source/text/shared
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
-"POT-Creation-Date: 2020-07-27 13:24+0200\n"
-"PO-Revision-Date: 2018-11-14 12:03+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
-"Language-Team: Khmer <support@khmeros.info>\n"
+"POT-Creation-Date: 2020-03-10 13:36+0100\n"
+"PO-Revision-Date: 2020-09-12 23:37+0700\n"
+"Last-Translator: Koompi Apps Localization\n"
 "Language: km\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Accelerator-Marker: ~\n"
-"X-Generator: LibreOffice\n"
-"X-Language: km-KH\n"
-"X-POOTLE-MTIME: 1542197009.000000\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-POOTLE-MTIME: 1535975854.000000\n"
+"Language-Team: KOOMPI Apps Localization\n"
 
 #. DBz3U
 #: fontwork_toolbar.xhp
@@ -33,7 +31,7 @@ msgctxt ""
 "par_idN1055A\n"
 "help.text"
 msgid "<link href=\"text/shared/fontwork_toolbar.xhp\">Fontwork</link>"
-msgstr "<link href=\"text/shared/fontwork_toolbar.xhp\">សិល្បៈ​អក្សរ</link>"
+msgstr "<link href=\"text/shared/fontwork_toolbar.xhp\">​ការងារពុម្ពអក្សរ</link>"
 
 #. GNY76
 #: fontwork_toolbar.xhp
@@ -60,7 +58,7 @@ msgctxt ""
 "par_idN10571\n"
 "help.text"
 msgid "Opens the Fontwork Gallery where you can select another preview. Click OK to apply the new set of properties to your Fontwork object."
-msgstr ""
+msgstr "បើកវិចិត្រសាលសិល្បៈអក្សរដែលអ្នកអាចជ្រើសរើសការមើលផ្សេងទៀត។ ចុចយល់ព្រមដើម្បីអនុវត្តសំណុំលក្ខណៈសម្បត្តិថ្មីទៅវត្ថុសិល្បៈអក្សររបស់អ្នក។"
 
 #. nG6ME
 #: fontwork_toolbar.xhp
@@ -123,7 +121,7 @@ msgctxt ""
 "par_idN105DC\n"
 "help.text"
 msgid "Click to apply the alignment to the selected Fontwork objects."
-msgstr ""
+msgstr "ចុចដើម្បីអនុវត្តការតម្រឹមទៅវត្ថុសិល្បៈអក្សរដែលបានជ្រើស។"
 
 #. NSmjx
 #: fontwork_toolbar.xhp
@@ -150,7 +148,7 @@ msgctxt ""
 "par_idN1060E\n"
 "help.text"
 msgid "Click to apply the character spacing to the selected Fontwork objects."
-msgstr ""
+msgstr "ចុចដើម្បីអនុវត្តគម្លាតតួអក្សរទៅវត្ថុសិល្បៈអក្សរដែលបានជ្រើស។"
 
 #. sNDsK
 #: fontwork_toolbar.xhp
@@ -168,7 +166,7 @@ msgctxt ""
 "par_idN10621\n"
 "help.text"
 msgid "Opens the Fontwork Character Spacing dialog where you can enter a new character spacing value."
-msgstr ""
+msgstr "បើកប្រអប់គម្លាតតួអក្សរអក្សរដែលអ្នកអាចបញ្ចូលតម្លៃគម្លាតតួអក្សរថ្មី។"
 
 #. HhFZK
 #: fontwork_toolbar.xhp
@@ -204,7 +202,7 @@ msgctxt ""
 "par_idN1064F\n"
 "help.text"
 msgid "Switches the <link href=\"text/shared/00/00000005.xhp#kerning\"> kerning</link> of character pairs on and off."
-msgstr ""
+msgstr "ប្តូរ <link href=\"text/shared/00/00000005.xhp#kerning\"> kerning </link> បើកនិងបិទគូតួអក្សរ។"
 
 #. yEKhT
 #: main0108.xhp
@@ -258,7 +256,7 @@ msgctxt ""
 "par_idN1064A\n"
 "help.text"
 msgid "<image id=\"img_id1619006\" src=\"cmd/sc_helpindex.png\" width=\"0.566cm\" height=\"0.566cm\"><alt id=\"alt_id1619006\">icon</alt></image>"
-msgstr ""
+msgstr "<image id=\"img_id1619006\" src=\"cmd/sc_helpindex.png\" width=\"0.566cm\" height=\"0.566cm\"><alt id=\"alt_id1619006\"> រូបតំណាង </alt></image>"
 
 #. iPjUH
 #: main0108.xhp
@@ -276,7 +274,7 @@ msgctxt ""
 "hd_id230120170827187813\n"
 "help.text"
 msgid "User Guides"
-msgstr ""
+msgstr "សៀវភៅណែនាំអ្នកប្រើ"
 
 #. iGDAE
 #: main0108.xhp
@@ -285,7 +283,7 @@ msgctxt ""
 "hd_id230120170827189453\n"
 "help.text"
 msgid "<ahelp hid=\".uno:Documentation\">Opens the documentation page in the web browser, where users can download, read or purchase %PRODUCTNAME user guides, written by the community.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".uno:Documentation\"> បើកទំព័រឯកសារនៅក្នុងគេហទំព័រដែលអ្នកប្រើប្រាស់អាចទាញយកអានឬទិញមគ្គុទេសក៍អ្នកប្រើប្រាស់ %PRODUCTNAME ដែលសរសេរដោយសហគមន៍។ </ahelp>"
 
 #. APWDa
 #: main0108.xhp
@@ -294,7 +292,7 @@ msgctxt ""
 "hd_id230120170827196253\n"
 "help.text"
 msgid "Get Help Online"
-msgstr ""
+msgstr "ទទួលជំនួយតាមអ៊ីនធឺណិត"
 
 #. bRvuD
 #: main0108.xhp
@@ -303,7 +301,7 @@ msgctxt ""
 "par_id230120170827196850\n"
 "help.text"
 msgid "<ahelp hid=\".uno:QuestionAnswers\">Opens the community support page in the web browser.</ahelp> Use this page to ask questions on using %PRODUCTNAME. For professional support with service level agreement, refer to the <link href=\"https://www.documentfoundation.org/gethelp/support/\"><emph>page of professional %PRODUCTNAME support</emph></link>."
-msgstr ""
+msgstr "<ahelp hid=\".uno:QuestionAnswers\"> បើកទំព័រគាំទ្រសហគមន៍នៅក្នុងកម្មវិធីអ៊ីនធឺណិត។ </ahelp> ប្រើទំព័រនេះដើម្បីសួរសំណួរអំពីការប្រើប្រាស់ %PRODUCTNAME ។ សម្រាប់ការគាំទ្រវិជ្ជាជីវៈជាមួយនឹងកិច្ចព្រមព្រៀងកម្រិតសេវាកម្មសូមយោងតាមឯកសារ <link href=\"https://www.documentfoundation.org/gethelp/support/\"><emph> ទំព័រអាជីព %PRODUCTNAME គាំទ្រ </emph></link> ។"
 
 #. mTBuv
 #: main0108.xhp
@@ -330,7 +328,7 @@ msgctxt ""
 "par_id230120170903409011\n"
 "help.text"
 msgid "<link href=\"text/shared/01/profile_safe_mode.xhp\">Restart in Safe Mode</link>"
-msgstr ""
+msgstr "<link href=\"text/shared/01/profile_safe_mode.xhp\"> ចាប់ផ្តើមឡើងវិញនៅក្នុងរបៀបសុវត្ថិភាព </link>"
 
 #. JEuaK
 #: main0108.xhp
@@ -339,7 +337,7 @@ msgctxt ""
 "par_id281120160939285779\n"
 "help.text"
 msgid "<ahelp hid=\".uno:SafeMode\">Safe mode is a mode where %PRODUCTNAME temporarily starts with a fresh user profile and disables hardware acceleration. It helps to restore a non-working %PRODUCTNAME instance.  </ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".uno:SafeMode\"> របៀបសុវត្ថិភាពគឺជារបៀបមួយដែល %PRODUCTNAME ចាប់ផ្តើមជាបណ្ដោះអាសន្នជាមួយទម្រង់អ្នកប្រើប្រាស់ថ្មីនិងបិទការបង្កើនល្បឿនផ្នែករឹង។ វាជួយស្ដារឧទាហរណ៍ %PRODUCTNAME ដែលមិនដំណើរការ។ </ahelp>"
 
 #. sWFkG
 #: main0108.xhp
@@ -357,7 +355,7 @@ msgctxt ""
 "par_id4144510\n"
 "help.text"
 msgid "<ahelp hid=\".uno:ShowLicense\">Displays the <emph>Licensing and Legal information</emph> dialog.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".uno:ShowLicense\"> បង្ហាញប្រអប់ឯកសារ <emph> អាជ្ញាប័ណ្ណនិងព័ត៌មានច្បាប់ </emph> ។ </ahelp>"
 
 #. hzz6B
 #: main0108.xhp
@@ -375,7 +373,7 @@ msgctxt ""
 "par_id5144510\n"
 "help.text"
 msgid "<ahelp hid=\".uno:ShowLicense\">Displays the <emph>CREDITS.odt</emph> document which lists the names of individuals who have contributed to OpenOffice.org source code (and whose contributions were imported into LibreOffice) or LibreOffice since 2010-09-28.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".uno:ShowLicense\"> បង្ហាញឯកសារ <emph> CREDITS.odt </emph> ឯកសារដែលរាយឈ្មោះបុគ្គលដែលបានចូលរួមវិភាគទានកូដប្រភពកូដ OpenOffice.org (និងការចូលរួមរបស់ពួកគេត្រូវបាននាំចូលទៅក្នុង LibreOffice) ឬ LibreOffice តាំងពីឆ្នាំ ២០១០-០៩-២៨ ។ </ahelp>"
 
 #. F8BFu
 #: main0108.xhp
@@ -393,7 +391,7 @@ msgctxt ""
 "par_id2783898\n"
 "help.text"
 msgid "<ahelp hid=\".\">Enable an Internet connection for %PRODUCTNAME. If you need a Proxy, check the %PRODUCTNAME Proxy settings in <switchinline select=\"sys\"><caseinline select=\"MAC\"><emph>%PRODUCTNAME - Preferences</emph></caseinline><defaultinline><emph>Tools - Options</emph></defaultinline></switchinline><emph> - Internet</emph>. Then choose <emph>Check for Updates</emph> to check for the availability of a newer version of your office suite.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".\"> បើកដំណើរការភ្ជាប់អ៊ីនធឺណិតសម្រាប់ %PRODUCTNAME ។ ប្រសិនបើអ្នកត្រូវការប្រូកស៊ីសូមពិនិត្យមើលការកំណត់ %PRODUCTNAME ប្រូកស៊ីនៅក្នុង <switchinline select=\"sys\"><caseinline select=\"MAC\"><emph>  %PRODUCTNAME - ចំណូលចិត្ត </emph></caseinline><defaultinline><emph> ឧបករណ៍ - ជម្រើស </emph></defaultinline></switchinline><emph> - អ៊ីនធឺណិត </emph> ។ បន្ទាប់មកជ្រើសរើស <emph> ពិនិត្យមើលបច្ចុប្បន្នភាព </emph> ដើម្បីពិនិត្យរកមើលឈុតការិយាល័យថ្មីរបស់អ្នក។ </ahelp>"
 
 #. JCKb7
 #: main0108.xhp
@@ -465,7 +463,7 @@ msgctxt ""
 "par_idN106A5\n"
 "help.text"
 msgid "<link href=\"text/shared/01/06010000.xhp\">Spelling</link>"
-msgstr ""
+msgstr "<link href=\"text/shared/01/06010000.xhp\"> អក្ខរាវិរុទ្ធ </link>"
 
 #. ZVSLP
 #: main0201.xhp
@@ -672,7 +670,7 @@ msgctxt ""
 "hd_id3134447820\n"
 "help.text"
 msgid "Table Design"
-msgstr ""
+msgstr "ការរចនាតារាង"
 
 #. BufED
 #: main0204.xhp
@@ -681,7 +679,7 @@ msgctxt ""
 "par_id16200812240344\n"
 "help.text"
 msgid "<ahelp hid=\".uno:TableDesign\">Opens the Table Design. Double-click a preview to format the table.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".uno:TableDesign\"> បើកការរចនាតារាង។ ចុចទ្វេដងលើការមើលជាមុនដើម្បីធ្វើទ្រង់ទ្រាយតារាង។ </ahelp>"
 
 #. 9v87y
 #: main0204.xhp
@@ -690,7 +688,7 @@ msgctxt ""
 "par_id3153752\n"
 "help.text"
 msgid "<image id=\"img_id3147292\" src=\"cmd/sc_tabledesign.png\" width=\"0.222inch\" height=\"0.222inch\"><alt id=\"alt_id3147292\">Icon</alt></image>"
-msgstr ""
+msgstr "<image id=\"img_id3147292\" src=\"cmd/sc_tabledesign.png\" width=\"0.222inch\" height=\"0.222inch\"><alt id=\"alt_id3147292\"> រូបតំណាង </alt></image>"
 
 #. hVE8L
 #: main0204.xhp
@@ -699,7 +697,7 @@ msgctxt ""
 "par_id3156429\n"
 "help.text"
 msgid "Table Design"
-msgstr ""
+msgstr "ការរចនាតារាង"
 
 #. BieMU
 #: main0204.xhp
@@ -717,7 +715,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Status Bar in $[officename] Basic Documents"
-msgstr "របារ​ស្ថាន​ភាព​ក្នុង​ឯកសារ $[officename] Basic"
+msgstr "របារ​ស្ថាន​ភាព​ក្នុង​ឯកសារ $[officename] មូលដ្ឋាន"
 
 #. GaCPr
 #: main0208.xhp
@@ -726,7 +724,7 @@ msgctxt ""
 "hd_id3148520\n"
 "help.text"
 msgid "<link href=\"text/shared/main0208.xhp\" name=\"Status Bar in $[officename] Basic Documents\">Status Bar in $[officename] Basic Documents</link>"
-msgstr "<link href=\"text/shared/main0208.xhp\" name=\"Status Bar in $[officename] Basic Documents\">របារ​ស្ថាន​ភាព​ក្នុង​ឯកសារ​ $[officename] Basic ។</link>"
+msgstr "<link href=\"text/shared/main0208.xhp\" name=\"Status Bar in $[officename] Basic Documents\">របារ​ស្ថាន​ភាព​ក្នុង​ឯកសារ​ $[officename] មូលដ្ឋាន ។</link>"
 
 #. TMY8Z
 #: main0208.xhp
@@ -735,7 +733,7 @@ msgctxt ""
 "par_id3154136\n"
 "help.text"
 msgid "The <emph>Status</emph> Bar displays information about the current $[officename] Basic document."
-msgstr "របារ​ <emph>ស្ថាន​ភាព</emph>បង្ហាញ​ព័ត៌​មាន​អំពី​ឯកសារ​$[officename] Basic បច្ចុប្បន្ន ។"
+msgstr "របារ​ <emph>ស្ថាន​ភាព</emph>បង្ហាញ​ព័ត៌​មាន​អំពី​ឯកសារ​$[officename]មូលដ្ឋានបច្ចុប្បន្ន ។"
 
 #. gDTEb
 #: main0212.xhp
@@ -1383,7 +1381,7 @@ msgctxt ""
 "par_id3150402\n"
 "help.text"
 msgid "The <emph>Edit Points </emph>Bar appears when you select a polygon object and click <emph>Edit Points</emph>."
-msgstr ""
+msgstr "របារ<emph> កែសម្រួលចំណុច </emph> លេចឡើងនៅពេលអ្នកជ្រើសរើសវត្ថុពហុកោណហើយចុច <emph> កែសម្រួលចំណុច </emph> ។"
 
 #. SCdbw
 #: main0227.xhp
@@ -1419,7 +1417,7 @@ msgctxt ""
 "par_id3145366\n"
 "help.text"
 msgid "<image id=\"img_id3153951\" src=\"cmd/sc_toggleobjectbeziermode.png\" width=\"0.222inch\" height=\"0.222inch\"><alt id=\"alt_id3153951\">Icon</alt></image>"
-msgstr "<image id=\"img_id3153951\" src=\"cmd/sc_toggleobjectbeziermode.png\" width=\"5.64mm\" height=\"5.64mm\"><alt id=\"alt_id3153951\">រូបតំណាង</alt></image>"
+msgstr "<image id=\"img_id3153951\" src=\"cmd/sc_toggleobjectbeziermode.png\" width=\"0.222inch\" height=\"0.222inch\"><alt id=\"alt_id3153951\">រូបតំណាង</alt></image>"
 
 #. wNGCc
 #: main0227.xhp
@@ -1509,7 +1507,7 @@ msgctxt ""
 "par_id3153838\n"
 "help.text"
 msgid "<image id=\"img_id3146969\" src=\"cmd/sc_bezierinsert.png\" width=\"0.222inch\" height=\"0.222inch\"><alt id=\"alt_id3146969\">Icon</alt></image>"
-msgstr "<image id=\"img_id3146969\" src=\"cmd/sc_bezierinsert.png\" width=\"5.64mm\" height=\"5.64mm\"><alt id=\"alt_id3146969\">រូបតំណាង</alt></image>"
+msgstr "<image id=\"img_id3146969\" src=\"cmd/sc_bezierinsert.png\" width=\"0.222inch\" height=\"0.222inch\"><alt id=\"alt_id3146969\"> រូបតំណាង</alt></image>"
 
 #. Dfg35
 #: main0227.xhp
@@ -1554,7 +1552,7 @@ msgctxt ""
 "par_id3147321\n"
 "help.text"
 msgid "<image id=\"img_id3146920\" src=\"cmd/sc_bezierdelete.png\" width=\"0.222inch\" height=\"0.222inch\"><alt id=\"alt_id3146920\">Icon</alt></image>"
-msgstr "<image id=\"img_id3146920\" src=\"cmd/sc_bezierdelete.png\" width=\"5.64mm\" height=\"5.64mm\"><alt id=\"alt_id3146920\">រូបតំណាង</alt></image>"
+msgstr "<image id=\"img_id3146920\" src=\"cmd/sc_bezierdelete.png\" width=\"0.222inch\" height=\"0.222inch\"><alt id=\"alt_id3146920\"> រូបតំណាង</alt></image>"
 
 #. 6i377
 #: main0227.xhp
@@ -1590,7 +1588,7 @@ msgctxt ""
 "par_id3153788\n"
 "help.text"
 msgid "<image id=\"img_id3148489\" src=\"cmd/sc_beziercutline.png\" width=\"0.222inch\" height=\"0.222inch\"><alt id=\"alt_id3148489\">Icon</alt></image>"
-msgstr "<image id=\"img_id3148489\" src=\"cmd/sc_beziercutline.png\" width=\"5.64mm\" height=\"5.64mm\"><alt id=\"alt_id3148489\">រូបតំណាង</alt></image>"
+msgstr "<image id=\"img_id3148489\" src=\"cmd/sc_beziercutline.png\" width=\"0.222inch\" height=\"0.222inch\"><alt id=\"alt_id3148489\">រូបតំណាង</alt></image>"
 
 #. vmsiD
 #: main0227.xhp
@@ -1635,7 +1633,7 @@ msgctxt ""
 "par_id3158212\n"
 "help.text"
 msgid "<image id=\"img_id3149036\" src=\"cmd/sc_bezierconvert.png\" width=\"0.222inch\" height=\"0.222inch\"><alt id=\"alt_id3149036\">Icon</alt></image>"
-msgstr "<image id=\"img_id3149036\" src=\"cmd/sc_bezierconvert.png\" width=\"5.64mm\" height=\"5.64mm\"><alt id=\"alt_id3149036\">រូបតំណាង</alt></image>"
+msgstr "<image id=\"img_id3149036\" src=\"cmd/sc_bezierconvert.png\" width=\"0.222inch\" height=\"0.222inch\"><alt id=\"alt_id3149036\"> រូបតំណាង</alt></image>"
 
 #. PtsWF
 #: main0227.xhp
@@ -1743,7 +1741,7 @@ msgctxt ""
 "par_id3153818\n"
 "help.text"
 msgid "<image id=\"img_id3159218\" src=\"cmd/sc_beziersymmetric.png\" width=\"0.222inch\" height=\"0.222inch\"><alt id=\"alt_id3159218\">Icon</alt></image>"
-msgstr "<image id=\"img_id3159218\" src=\"cmd/sc_beziersymmetric.png\" width=\"5.64mm\" height=\"5.64mm\"><alt id=\"alt_id3159218\">រូបតំណាង</alt></image>"
+msgstr "<image id=\"img_id3159218\" src=\"cmd/sc_beziersymmetric.png\" width=\"0.222inch\" height=\"0.222inch\"><alt id=\"alt_id3159218\"> រូបតំណាង</alt></image>"
 
 #. 2Byoz
 #: main0227.xhp
@@ -1779,7 +1777,7 @@ msgctxt ""
 "par_id3154344\n"
 "help.text"
 msgid "<image id=\"img_id3148607\" src=\"cmd/sc_bezierclose.png\" width=\"0.222inch\" height=\"0.222inch\"><alt id=\"alt_id3148607\">Icon</alt></image>"
-msgstr "<image id=\"img_id3148607\" src=\"cmd/sc_bezierclose.png\" width=\"5.64mm\" height=\"5.64mm\"><alt id=\"alt_id3148607\">រូបតំណាង</alt></image>"
+msgstr "<image id=\"img_id3148607\" src=\"cmd/sc_bezierclose.png\" width=\"0.222inch\" height=\"0.222inch\"><alt id=\"alt_id3148607\">រូបតំណាង</alt></image>"
 
 #. 29q2Q
 #: main0227.xhp
@@ -1815,7 +1813,7 @@ msgctxt ""
 "par_id3148970\n"
 "help.text"
 msgid "<image id=\"img_id3155385\" src=\"cmd/sc_beziereliminatepoints.png\" width=\"0.222inch\" height=\"0.222inch\"><alt id=\"alt_id3155385\">Icon</alt></image>"
-msgstr "<image id=\"img_id3155385\" src=\"cmd/sc_beziereliminatepoints.png\" width=\"5.64mm\" height=\"5.64mm\"><alt id=\"alt_id3155385\">រូបតំណាង</alt></image>"
+msgstr "<image id=\"img_id3155385\" src=\"cmd/sc_beziereliminatepoints.png\" width=\"0.222inch\" height=\"0.222inch\"><alt id=\"alt_id3155385\">រូបតំណាង</alt></image>"
 
 #. vHE4T
 #: main0227.xhp
@@ -1887,7 +1885,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Java Platform Support"
-msgstr "គាំ​ទ្រ​​វេទិកា​ Java"
+msgstr "ការ​គាំ​ទ្រ​វេទិកា​ ​Java"
 
 #. sAfDU
 #: main0650.xhp
@@ -1932,7 +1930,7 @@ msgctxt ""
 "par_id3155892\n"
 "help.text"
 msgid "Enable Java platform support by choosing <switchinline select=\"sys\"><caseinline select=\"MAC\"><emph>%PRODUCTNAME - Preferences</emph></caseinline><defaultinline><emph>Tools - Options</emph></defaultinline></switchinline><emph> - </emph><link href=\"text/shared/optionen/java.xhp\" name=\"$[officename] - Advanced\"><emph>$[officename] - Advanced</emph></link>."
-msgstr "ធ្វើឲ្យ​ការ​គាំទ្រ​កម្មវិធី Java សកម្ម​ដោយ​ជ្រើស <emph><switchinline select=\"sys\"><caseinline select=\"MAC\">%PRODUCTNAME - ចំណូលចិត្ត</caseinline><defaultinline>ឧបករណ៍ - ជម្រើស</defaultinline></switchinline> - <link href=\"text/shared/optionen/java.xhp\" name=\"$[officename] - កម្រិត​ខ្ពស់\">$[officename] - Advanced</link></emph>."
+msgstr "បើកដំណើរការគាំទ្រវេទិកាចាវ៉ាដោយជ្រើស<switchinline select=\"sys\"><caseinline select=\"MAC\"><emph>%PRODUCTNAME - ចំណូលចិត្ត</emph></caseinline><defaultinline><emph>ឧបករណ៍ - ជម្រើស</emph></defaultinline></switchinline><emph> - </emph><link href=\"text/shared/optionen/java.xhp\" name=\"$[officename] - Advanced\"><emph>$[officename] - កម្រិតខ្ពស់</emph></link>."
 
 #. NcDL4
 #: main0650.xhp
@@ -1950,7 +1948,7 @@ msgctxt ""
 "par_id3153822\n"
 "help.text"
 msgid "Your modifications at the <switchinline select=\"sys\"><caseinline select=\"MAC\"><emph>%PRODUCTNAME - Preferences</emph></caseinline><defaultinline><emph>Tools - Options</emph></defaultinline></switchinline><emph> - $[officename] - Advanced</emph> tab page will be used even if the Java Virtual Machine (JVM) has been started already. After any modifications to the ClassPath you must restart $[officename]. The same is true for modifications under <switchinline select=\"sys\"><caseinline select=\"MAC\"><emph>%PRODUCTNAME - Preferences</emph></caseinline><defaultinline><emph>Tools - Options</emph></defaultinline></switchinline><emph> - Internet - Proxy</emph>. Only the boxes \"HTTP Proxy\" and \"FTP Proxy\" and their ports do not require a restart—they will be evaluated when you click <emph>OK</emph>."
-msgstr "ការ​កែប្រែ​របស់​អ្នក​នៅ <emph><switchinline select=\"sys\"><caseinline select=\"MAC\">%PRODUCTNAME - ចំណូលចិត្ត</caseinline><defaultinline>ឧបករណ៍ - ជម្រើស</defaultinline></switchinline> - $[officename] - កម្រិត​ខ្ពស់</emph> ទំព័រ​ផ្ទាំង​នឹង​ត្រូវ​បាន​ប្រើ ទោះបីជា Java Virtual Machine (JVM, ជា​ម៉ាស៊ីន​និម្មិត​សម្រាប់​កម្មវិធី Java ) បាន​ចាប់ផ្ដើម​រួចហើយ​ក៏ដោយ។ បន្ទាប់ពី​កែ​ទៅកាន់ ClassPath អ្នក​ត្រូវតែ​ចាប់ផ្ដើម $[officename] ឡើងវិញ។ ដូចគ្នា​ដែរ​សម្រាប់​ការ​កែប្រែ​នៅ​ក្រោម <emph><switchinline select=\"sys\"><caseinline select=\"MAC\">%PRODUCTNAME - ចំណូលចិត្ត</caseinline><defaultinline>ឧបករណ៍ - ជម្រើស</defaultinline></switchinline> - អ៊ីនធឺណិត - ប្រូកស៊ី</emph> ។ មានតែ​ប្រអប់​ពីរ​ប៉ុណ្ណោះ​គឺ \"Http Proxy\" និង \"Ftp Proxy\" ដែល​ច្រក​របស់​វា​មិន​ទាមទារ​ឲ្យ​ចាប់ផ្ដើម​ឡើងវិញ ពួកគេ​នឹង​ត្រូវ​បាន​វាយតម្លៃ​នៅ​ពេល​អ្នក​ចុច <emph>យល់ព្រម</emph> ។"
+msgstr "ការកែប្រែរបស់អ្នកនៅ <switchinline select=\"sys\"><caseinline select=\"MAC\"><emph> %PRODUCTNAME - ចំណូលចិត្ត </emph> </caseinline> <defaultinline> <emph> ឧបករណ៍ - ជម្រើស</emph></defaultinline></switchinline><emph> - $[officename] - ទំព័រផ្ទាំងកម្រិតខ្ពស់</emph> នឹងត្រូវបានប្រើទោះបីជា Java Virtual Machine (JVM) បានចាប់ផ្តើមរួចហើយក៏ដោយ។ បន្ទាប់ពីការកែប្រែណាមួយទៅ ថ្នាក់ផ្លូវអ្នកត្រូវចាប់ផ្តើម $[officename] ឡើងវិញ។ ដូចគ្នានេះដែរសម្រាប់ការកែប្រែនៅក្រោម <switchinline select=\"sys\"><caseinline select=\"MAC\"><emph> %PRODUCTNAME - ចំណូលចិត្ត </emph> </caseinline> <defaultinline> <emph> ឧបករណ៍ - ជម្រើស </emph></defaultinline> </switchinline> <emph> - អ៊ីនធឺណិត - ប្រូកស៊ី </emph> ។ មានតែប្រអប់“ ប្រូកស៊ី HTTP” និង“ FTP ប្រូកស៊ី” និងកំពង់ផែរបស់ពួកគេមិនត្រូវការការចាប់ផ្តើមឡើងវិញទេ - វានឹងត្រូវបានវាយតម្លៃនៅពេលអ្នកចុច <emph> យល់ព្រម </emph> ។"
 
 #. rFknA
 #: main0800.xhp
@@ -1986,7 +1984,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "We Need Your Help"
-msgstr ""
+msgstr "យើង​ត្រូវ​ការ​ជំនួយ​ពី​អ្នក"
 
 #. Pw8Hr
 #: need_help.xhp
@@ -1995,133 +1993,7 @@ msgctxt ""
 "hd_id1000010\n"
 "help.text"
 msgid "This help page needs further work for correctness and completion. Please join the LibreOffice project and help us out to write the missing information. Visit our <link href=\"https://documentation.libreoffice.org/en/join-community/update-help-contents\"><emph>web page on writing Help contents</emph></link>."
-msgstr ""
-
-#. fGrZx
-#: submenu_spacing.xhp
-msgctxt ""
-"submenu_spacing.xhp\n"
-"tit\n"
-"help.text"
-msgid "Spacing"
-msgstr ""
-
-#. yQezt
-#: submenu_spacing.xhp
-msgctxt ""
-"submenu_spacing.xhp\n"
-"hd_id411816022675979\n"
-"help.text"
-msgid "<link href=\"text/shared/submenu_spacing.xhp\">Spacing</link>"
-msgstr ""
-
-#. 22dPh
-#: submenu_spacing.xhp
-msgctxt ""
-"submenu_spacing.xhp\n"
-"par_id398855439580084\n"
-"help.text"
-msgid "<ahelp hid=\".\">Opens a submenu where you can choose text spacing commands.</ahelp>"
-msgstr ""
-
-#. 7Sh42
-#: submenu_spacing.xhp
-msgctxt ""
-"submenu_spacing.xhp\n"
-"hd_id3154944\n"
-"help.text"
-msgid "Line Spacing: 1"
-msgstr ""
-
-#. xxnjH
-#: submenu_spacing.xhp
-msgctxt ""
-"submenu_spacing.xhp\n"
-"hd_id3146969\n"
-"help.text"
-msgid "Line Spacing: 1.5"
-msgstr ""
-
-#. acjb4
-#: submenu_spacing.xhp
-msgctxt ""
-"submenu_spacing.xhp\n"
-"hd_id3153711\n"
-"help.text"
-msgid "Line Spacing: 2"
-msgstr ""
-
-#. 44Px9
-#: submenu_spacing.xhp
-msgctxt ""
-"submenu_spacing.xhp\n"
-"hd_id3147573\n"
-"help.text"
-msgid "Increase Paragraph Spacing"
-msgstr ""
-
-#. zhqwZ
-#: submenu_spacing.xhp
-msgctxt ""
-"submenu_spacing.xhp\n"
-"par_id3150695\n"
-"help.text"
-msgid "Increases the paragraph spacing above the selected paragraph."
-msgstr ""
-
-#. XCZUT
-#: submenu_spacing.xhp
-msgctxt ""
-"submenu_spacing.xhp\n"
-"hd_id3147574\n"
-"help.text"
-msgid "Decrease Paragraph Spacing"
-msgstr ""
-
-#. EVYri
-#: submenu_spacing.xhp
-msgctxt ""
-"submenu_spacing.xhp\n"
-"par_id3150696\n"
-"help.text"
-msgid "Decreases the paragraph spacing above the selected paragraph."
-msgstr ""
-
-#. EsHFP
-#: submenu_spacing.xhp
-msgctxt ""
-"submenu_spacing.xhp\n"
-"hd_id3147575\n"
-"help.text"
-msgid "Increase Indent"
-msgstr ""
-
-#. BU6i9
-#: submenu_spacing.xhp
-msgctxt ""
-"submenu_spacing.xhp\n"
-"par_id3150697\n"
-"help.text"
-msgid "Increases the left indent of the current paragraph or cell content and sets it to the next default tab position. If several paragraphs are selected, the indentation of all selected paragraphs is increased."
-msgstr ""
-
-#. YA8bT
-#: submenu_spacing.xhp
-msgctxt ""
-"submenu_spacing.xhp\n"
-"hd_id3147576\n"
-"help.text"
-msgid "Decrease Indent"
-msgstr ""
-
-#. zVFFG
-#: submenu_spacing.xhp
-msgctxt ""
-"submenu_spacing.xhp\n"
-"par_id3150698\n"
-"help.text"
-msgid "Decreases the left indent of the current paragraph or cell content and sets it to the previous default tab position. If you previously increased the indentation for several collectively selected paragraphs, this command can decrease the indentation for all of the selected paragraphs."
-msgstr ""
+msgstr "ទំព័រជំនួយនេះត្រូវការការងារបន្ថែមទៀតសម្រាប់ភាពត្រឹមត្រូវនិងការបញ្ចប់។ សូមចូលរួមគំរោង LibreOffice និងជួយយើងក្នុងការសរសេរព័ត៌មានដែលបាត់។ ទស្សនារបស់យើង <link href=\"https://documentation.libreoffice.org/en/join-community/update-help-contents\"><emph> គេហទំព័រលើការសរសេរមាតិកាជំនួយ </emph></link> ។"
 
 #. MVHBc
 #: submenu_text.xhp
@@ -2130,7 +2002,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Text"
-msgstr ""
+msgstr "អត្ថបទ"
 
 #. pVEBz
 #: submenu_text.xhp
@@ -2139,7 +2011,7 @@ msgctxt ""
 "hd_id411816022675978\n"
 "help.text"
 msgid "<link href=\"text/shared/submenu_text.xhp\">Text</link>"
-msgstr ""
+msgstr "<link href=\"text/shared/submenu_text.xhp\"> អត្ថបទ </link>"
 
 #. UdmfU
 #: submenu_text.xhp
@@ -2148,7 +2020,7 @@ msgctxt ""
 "par_id398855439580083\n"
 "help.text"
 msgid "<ahelp hid=\".\">Opens a submenu where you can choose text formatting commands.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".\"> បើកម៉ឺនុយរងមួយដែលអ្នកអាចជ្រើសពាក្យបញ្ជាទ្រង់ទ្រាយអត្ថបទ។ </ahelp>"
 
 #. JCTNH
 #: submenu_text.xhp
@@ -2157,7 +2029,7 @@ msgctxt ""
 "hd_id893328657433073\n"
 "help.text"
 msgid "<link href=\"text/shared/01/05020200.xhp#hd_id0123200902243376\">Overline</link>"
-msgstr ""
+msgstr "<link href=\"text/shared/01/05020200.xhp#hd_id0123200902243376\"> ខ្សែលើស </link>"
 
 #. U9h8v
 #: submenu_text.xhp
@@ -2166,7 +2038,7 @@ msgctxt ""
 "par_id281953548674188\n"
 "help.text"
 msgid "<embedvar href=\"text/shared/01/05020200.xhp#overline\" markup=\"ignore\"/>"
-msgstr ""
+msgstr "<embedvar href=\"text/shared/01/05020200.xhp#overline\" markup=\"ignore\"/>"
 
 #. NLNGF
 #: submenu_text.xhp
@@ -2175,7 +2047,7 @@ msgctxt ""
 "hd_id773632078996899\n"
 "help.text"
 msgid "<link href=\"text/shared/01/05020200.xhp#hd_id3163714\">Shadow</link>"
-msgstr ""
+msgstr "<link href=\"text/shared/01/05020200.xhp#hd_id3163714\"> ស្រមោល </link>"
 
 #. hMRVP
 #: submenu_text.xhp
@@ -2184,7 +2056,7 @@ msgctxt ""
 "hd_id873632078996899\n"
 "help.text"
 msgid "<link href=\"text/shared/01/05020200.xhp#hd_id3147287\">Outline</link>"
-msgstr ""
+msgstr "<link href=\"text/shared/01/05020200.xhp#hd_id3147287\"> គ្រោង </link>"
 
 #. br5DC
 #: submenu_text.xhp
@@ -2193,7 +2065,7 @@ msgctxt ""
 "hd_id207025326941609\n"
 "help.text"
 msgid "Wrap Text"
-msgstr ""
+msgstr "រុំអត្ថបទ"
 
 #. jBc2E
 #: submenu_text.xhp
@@ -2202,7 +2074,7 @@ msgctxt ""
 "par_id302484503842787\n"
 "help.text"
 msgid "<ahelp hid=\".\">Break text automatically at the right edges of the selected cells.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".\"> បំបែកអត្ថបទដោយស្វ័យប្រវត្តិនៅគែមខាងស្តាំនៃកោសិកាដែលបានជ្រើសរើស។ </ahelp>"
 
 #. BqgSi
 #: submenu_text.xhp
@@ -2211,7 +2083,7 @@ msgctxt ""
 "hd_id273587522269593\n"
 "help.text"
 msgid "<link href=\"text/swriter/main0202.xhp#hd_id0122200903085320\">Increase Size</link>"
-msgstr ""
+msgstr "<link href=\"text/swriter/main0202.xhp#hd_id0122200903085320\"> បង្កើនទំហំ </link>"
 
 #. GTjCT
 #: submenu_text.xhp
@@ -2220,7 +2092,7 @@ msgctxt ""
 "hd_id511910578827551\n"
 "help.text"
 msgid "<link href=\"text/swriter/main0202.xhp#hd_id012220090308532\">Decrease Size</link>"
-msgstr ""
+msgstr "<link href=\"text/swriter/main0202.xhp#hd_id012220090308532\"> បន្ថយទំហំ </link>"
 
 #. WApc3
 #: submenu_text.xhp
@@ -2229,7 +2101,7 @@ msgctxt ""
 "hd_id373587522269593\n"
 "help.text"
 msgid "<link href=\"text/simpress/main0203.xhp#hd_id0122200903104143\">Increase Size</link>"
-msgstr ""
+msgstr "<link href=\"text/simpress/main0203.xhp#hd_id0122200903104143\"> បង្កើនទំហំ </link>"
 
 #. AQANy
 #: submenu_text.xhp
@@ -2238,7 +2110,7 @@ msgctxt ""
 "hd_id711910578827551\n"
 "help.text"
 msgid "<link href=\"text/simpress/main0203.xhp#hd_id0122200903104228\">Decrease Size</link>"
-msgstr ""
+msgstr "<link href=\"text/simpress/main0203.xhp#hd_id0122200903104228\"> បន្ថយទំហំ </link>"
 
 #. uzDFv
 #: submenu_text.xhp
@@ -2247,7 +2119,7 @@ msgctxt ""
 "hd_id473587522269593\n"
 "help.text"
 msgid "<link href=\"text/simpress/main0203.xhp#hd_id0122200903104143\">Increase Size</link>"
-msgstr ""
+msgstr "<link href=\"text/simpress/main0203.xhp#hd_id0122200903104143\"> បង្កើនទំហំ </link>"
 
 #. GQ8Fj
 #: submenu_text.xhp
@@ -2256,7 +2128,7 @@ msgctxt ""
 "hd_id611910578827551\n"
 "help.text"
 msgid "<link href=\"text/simpress/main0203.xhp#hd_id0122200903104228\">Decrease Size</link>"
-msgstr ""
+msgstr "<link href=\"text/simpress/main0203.xhp#hd_id0122200903104228\"> បន្ថយទំហំ </link>"
 
 #. wSRdX
 #: submenu_text.xhp
@@ -2265,7 +2137,7 @@ msgctxt ""
 "hd_id172462591626807\n"
 "help.text"
 msgid "<link href=\"text/shared/01/05020200.xhp#hd_id3149575\">UPPERCASE</link>"
-msgstr ""
+msgstr "<link href=\"text/shared/01/05020200.xhp#hd_id3149575\"> អក្សរ​ធំ </link>"
 
 #. sjNg6
 #: submenu_text.xhp
@@ -2274,7 +2146,7 @@ msgctxt ""
 "par_id381953548674188\n"
 "help.text"
 msgid "<embedvar href=\"text/shared/01/05020200.xhp#uppercase\"/>"
-msgstr ""
+msgstr "<embedvar href=\"text/shared/01/05020200.xhp#uppercase\"/>"
 
 #. FFVUb
 #: submenu_text.xhp
@@ -2283,7 +2155,7 @@ msgctxt ""
 "hd_id935919548287354\n"
 "help.text"
 msgid "<link href=\"text/shared/01/05020200.xhp#hd_id3149575\">lowercase</link>"
-msgstr ""
+msgstr "<link href=\"text/shared/01/05020200.xhp#hd_id3149575\"> អក្សរ​តូច </link>"
 
 #. ijGEm
 #: submenu_text.xhp
@@ -2292,7 +2164,7 @@ msgctxt ""
 "par_id481953548674188\n"
 "help.text"
 msgid "<embedvar href=\"text/shared/01/05020200.xhp#lowercase\"/>"
-msgstr ""
+msgstr "<embedvar href=\"text/shared/01/05020200.xhp#lowercase\"/>"
 
 #. zGBE2
 #: submenu_text.xhp
@@ -2301,7 +2173,7 @@ msgctxt ""
 "hd_id3147143\n"
 "help.text"
 msgid "Cycle Case"
-msgstr ""
+msgstr "ករណីវដ្ត"
 
 #. TSJfn
 #: submenu_text.xhp
@@ -2310,7 +2182,7 @@ msgctxt ""
 "par_id3152372\n"
 "help.text"
 msgid "<ahelp hid=\".uno:ChangeCaseRotateCase\">Cycles the case of the selected characters between Title Case, Sentence case, UPPERCASE and lowercase.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".uno:ChangeCaseRotateCase\"> ធ្វើកូដកម្មករណីតួអក្សរដែលបានជ្រើសរើសរវាងចំណងជើងករណីករណីប្រយោគអក្សរយូភីធីនិងអក្សរតូច។ </ahelp>"
 
 #. v24QT
 #: submenu_text.xhp
@@ -2319,7 +2191,7 @@ msgctxt ""
 "hd_id3147572\n"
 "help.text"
 msgid "Sentence case"
-msgstr ""
+msgstr "ករណីប្រយោគ"
 
 #. v3Cr9
 #: submenu_text.xhp
@@ -2328,7 +2200,7 @@ msgctxt ""
 "par_id3150694\n"
 "help.text"
 msgid "<ahelp hid=\".\">Changes the first letter of the selected characters to an uppercase character.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".\"> ផ្លាស់ប្តូរអក្សរទីមួយនៃតួអក្សរដែលបានជ្រើសរើសទៅជាតួអក្សរធំ។ </ahelp>"
 
 #. JtsaD
 #: submenu_text.xhp
@@ -2337,7 +2209,7 @@ msgctxt ""
 "hd_id640520497868661\n"
 "help.text"
 msgid "<link href=\"text/shared/01/05020200.xhp#hd_id3149575\">Capitalize Every Word</link>"
-msgstr ""
+msgstr "<link href=\"text/shared/01/05020200.xhp#hd_id3149575\"> សរសេរពាក្យទាំងអស់ជាអក្សរធំ </link>"
 
 #. 3UGHA
 #: submenu_text.xhp
@@ -2346,7 +2218,7 @@ msgctxt ""
 "par_id581953548674188\n"
 "help.text"
 msgid "<embedvar href=\"text/shared/01/05020200.xhp#capitalizeeveryword\"/>"
-msgstr ""
+msgstr "<embedvar href=\"text/shared/01/05020200.xhp#capitalizeeveryword\"/>"
 
 #. Y9fn4
 #: submenu_text.xhp
@@ -2355,7 +2227,7 @@ msgctxt ""
 "hd_id3147521\n"
 "help.text"
 msgid "tOGGLE cASE"
-msgstr ""
+msgstr "តុក្កតាមាស"
 
 #. eb5K9
 #: submenu_text.xhp
@@ -2364,7 +2236,7 @@ msgctxt ""
 "par_id3150623\n"
 "help.text"
 msgid "<ahelp hid=\".\">Toggles case of all selected characters.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".\"> បិទ / បើកតួអក្សរនៃតួអក្សរដែលបានជ្រើសទាំងអស់។ </ahelp>"
 
 #. WNuFq
 #: submenu_text.xhp
@@ -2373,7 +2245,7 @@ msgctxt ""
 "hd_id342778277179117\n"
 "help.text"
 msgid "<link href=\"text/shared/01/05020200.xhp#hd_id3149575\">Small capitals</link>"
-msgstr ""
+msgstr "<link href=\"text/shared/01/05020200.xhp#hd_id3149575\"> អក្សរតូច </link>"
 
 #. K6tXB
 #: submenu_text.xhp
@@ -2382,7 +2254,7 @@ msgctxt ""
 "par_id681953548674188\n"
 "help.text"
 msgid "<embedvar href=\"text/shared/01/05020200.xhp#smallcapitals\"/>"
-msgstr ""
+msgstr "<embedvar href=\"text/shared/01/05020200.xhp#smallcapitals\"/>"
 
 #. VXJzA
 #: submenu_text.xhp
@@ -2391,7 +2263,7 @@ msgctxt ""
 "hd_id442778277179117\n"
 "help.text"
 msgid "<link href=\"text/shared/01/05020200.xhp#hd_id3149575\">Small capitals</link>"
-msgstr ""
+msgstr "<link href=\"text/shared/01/05020200.xhp#hd_id3149575\"> អក្សរតូច </link>"
 
 #. arEu2
 #: submenu_text.xhp
@@ -2400,7 +2272,7 @@ msgctxt ""
 "par_id781953548674188\n"
 "help.text"
 msgid "<embedvar href=\"text/shared/01/05020200.xhp#smallcapitals\"/>"
-msgstr ""
+msgstr "<embedvar href=\"text/shared/01/05020200.xhp#smallcapitals\"/>"
 
 #. KQxFn
 #: submenu_text.xhp
@@ -2409,7 +2281,7 @@ msgctxt ""
 "hd_id542778277179117\n"
 "help.text"
 msgid "<link href=\"text/shared/01/05020200.xhp#hd_id3149575\">Small capitals</link>"
-msgstr ""
+msgstr "<link href=\"text/shared/01/05020200.xhp#hd_id3149575\"> អក្សរតូច </link>"
 
 #. okCcu
 #: submenu_text.xhp
@@ -2418,7 +2290,7 @@ msgctxt ""
 "par_id881953548674188\n"
 "help.text"
 msgid "<embedvar href=\"text/shared/01/05020200.xhp#smallcapitals\"/>"
-msgstr ""
+msgstr "<embedvar href=\"text/shared/01/05020200.xhp#smallcapitals\"/>"
 
 #. zo6cE
 #: submenu_text.xhp
@@ -2427,7 +2299,7 @@ msgctxt ""
 "hd_id3155392\n"
 "help.text"
 msgid "Half-width"
-msgstr ""
+msgstr "ទទឹងពាក់កណ្តាល"
 
 #. SEpmw
 #: submenu_text.xhp
@@ -2436,7 +2308,7 @@ msgctxt ""
 "par_id3147088\n"
 "help.text"
 msgid "<ahelp hid=\".uno:ChangeCaseToHalfWidth\">Changes the selected Asian characters to half-width characters.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".uno:ChangeCaseToHalfWidth\"> ផ្លាស់ប្តូរតួអក្សរអាស៊ីដែលបានជ្រើសរើសទៅជាតួអក្សរពាក់កណ្តាលទទឹង។ </ahelp>"
 
 #. rA2DG
 #: submenu_text.xhp
@@ -2445,7 +2317,7 @@ msgctxt ""
 "hd_id3156113\n"
 "help.text"
 msgid "Full Width"
-msgstr ""
+msgstr "ទទឹង"
 
 #. Ep24G
 #: submenu_text.xhp
@@ -2454,7 +2326,7 @@ msgctxt ""
 "par_id3154749\n"
 "help.text"
 msgid "<ahelp hid=\".uno:ChangeCaseToFullWidth\">Changes the selected Asian characters to full-width characters.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".uno:ChangeCaseToFullWidth\"> ផ្លាស់ប្តូរតួអក្សរអាស៊ីដែលបានជ្រើសរើសទៅជាតួអក្សរពេញ។ </ahelp>"
 
 #. dZCcC
 #: submenu_text.xhp
@@ -2463,7 +2335,7 @@ msgctxt ""
 "hd_id3152996\n"
 "help.text"
 msgid "Hiragana"
-msgstr ""
+msgstr "Hiragana"
 
 #. AB6ta
 #: submenu_text.xhp
@@ -2472,7 +2344,7 @@ msgctxt ""
 "par_id3156156\n"
 "help.text"
 msgid "<ahelp hid=\".uno:ChangeCaseToHiragana\">Changes the selected Asian characters to Hiragana characters.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".uno:ChangeCaseToHiragana\"> ផ្លាស់ប្តូរតួអក្សរអាស៊ីដែលបានជ្រើសរើសទៅជាតួអក្សរហ៊ីរ៉ាហ្កាណា។ </ahelp>"
 
 #. LNQLS
 #: submenu_text.xhp
@@ -2481,7 +2353,7 @@ msgctxt ""
 "hd_id3154173\n"
 "help.text"
 msgid "Katakana"
-msgstr ""
+msgstr "Katakana"
 
 #. QSxUp
 #: submenu_text.xhp
@@ -2490,4 +2362,4 @@ msgctxt ""
 "par_id3146137\n"
 "help.text"
 msgid "<ahelp hid=\".uno:ChangeCaseToKatakana\">Changes the selected Asian characters to Katakana characters.</ahelp>"
-msgstr ""
+msgstr "<ahelp hid=\".uno:ChangeCaseToKatakana\"> ផ្លាស់ប្តូរតួអក្សរអាស៊ីដែលបានជ្រើសរើសទៅជាតួអក្សរ កាតាកាណា។ </ahelp>"
